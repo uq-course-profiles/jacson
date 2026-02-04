@@ -1,0 +1,294 @@
+{
+    "course_title": "Information Retrieval and Web Search",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/INFS7410-61804-7460",
+    "full_course_code": "INFS7410-61804-7460",
+    "course_code": "INFS7410",
+    "class_code": "61804",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Gain in-depth knowledge of the core principles in the information retrieval field such as  text representation and similarity computation, indexing textual documents, query correction and expansion, retrieval models, performance evaluation and metrics"
+        },
+        {
+            "number": "LO2.",
+            "description": "Acquire hands-on practical experience with the development of components of Web search engines and experimentation of end-to-end systems using relevant open-source libraries."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand advanced topics in information retrieval research such as learning to rank, neural retrieval and ranking."
+        },
+        {
+            "number": "LO4.",
+            "description": "Create, analyse and evaluate novel information retrieval solutions to search related problems"
+        },
+        {
+            "number": "LO5.",
+            "description": "Compare and contrast information retrieval methods and communicate their differences, advantages and disadvantages, based on quantitative evaluation."
+        },
+        {
+            "number": "LO6.",
+            "description": "Analyse search tasks and problems, and identify and communicate relevant information retrieval solutions."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 26/07/2024 3:00 pm</p>\n<p> 2/08/2024 3:00 pm</p>\n<p> 9/08/2024 3:00 pm</p>\n<p> 16/08/2024 3:00 pm</p>\n<p> 23/08/2024 3:00 pm</p>\n<p> 30/08/2024 3:00 pm</p>\n<p> 6/09/2024 3:00 pm</p>\n<p> 13/09/2024 3:00 pm</p>\n<p> 20/09/2024 3:00 pm</p>\n<p> 4/10/2024 3:00 pm</p>\n<p> 11/10/2024 3:00 pm</p>\n<p> 18/10/2024 3:00 pm</p>\n<p> 25/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L03",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Online Quizzes on Blackboard. To be completed individually.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Part 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 30/08/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L02, L04, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project requires students to implement a set of identified indexing and retrieval methods. The students also need to evaluate and analyse the results of the techniques.</p>\n<p>This is an individually assessed project.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>UQ Blackboard Online Submission</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Part 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 18/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L02, L04, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project requires students to implement a set of identified indexing and retrieval methods. The students also need to evaluate and analyse the results of the techniques.</p>\n<p>This is an individually assessed project.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>UQ Blackboard Online Submission</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Oral Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 4/11/2024 - 15/11/2024</p></dd>",
+            "learning_objectives": "L01, L03, L05, L06",
+            "mode": "Oral",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>All topics covered. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>Practicals will provide an opportunity to further understand the concepts and techniques introduced in the lectures via examples, exercises, projects and problem-solving. Further concepts will be developed during these activities. There will be a mix of theory and hands-on activities. NOTE: these sessions start from week 1 and run until week 13 included.</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals Practicals will provide an opportunity to further understand the concepts and techniques introduced in the lectures via examples, exercises, projects and problem-solving. Further concepts will be developed during these activities. There will be a mix of theory and hands-on activities. NOTE: these sessions start from week 1 and run until week 13 included.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intro, Search Engine Architecture, Text Analysis</strong><br/><p>Introduction, Motivation and Logistic. Architecture of a Search Engine, key components of study across this course. Zipf's Law, Stemming, Stopwording. Indexing techniques and processing, including data structures.</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Intro, Search Engine Architecture, Text Analysis</strong>",
+            "topic_description": "Intro, Search Engine Architecture, Text Analysis Introduction, Motivation and Logistic. Architecture of a Search Engine, key components of study across this course. Zipf's Law, Stemming, Stopwording. Indexing techniques and processing, including data structures.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Offline Evaluation</strong><br/><p>Offline evaluation methodology and evaluation frameworks, set-based and rank-based evaluation measures, statistical significance testing, parameter tuning.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Offline Evaluation</strong>",
+            "topic_description": "Offline Evaluation Offline evaluation methodology and evaluation frameworks, set-based and rank-based evaluation measures, statistical significance testing, parameter tuning.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Retrieval Models 1</strong><br/><p>Retrieval Models: term-based and term dependency methods for matching and ranking documents.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Retrieval Models 1</strong>",
+            "topic_description": "Retrieval Models 1 Retrieval Models: term-based and term dependency methods for matching and ranking documents.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Retrieval Models 2</strong><br/><p>Fusion methods and semantic matching methods</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Retrieval Models 2</strong>",
+            "topic_description": "Retrieval Models 2 Fusion methods and semantic matching methods",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Retrieval Models 3</strong><br/><p>Methods based on query analysis, query expansion, word embeddings, relevance feedback</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Retrieval Models 3</strong>",
+            "topic_description": "Retrieval Models 3 Methods based on query analysis, query expansion, word embeddings, relevance feedback",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Retrieval Models 4</strong><br/><p>Learning to rank</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Retrieval Models 4</strong>",
+            "topic_description": "Retrieval Models 4 Learning to rank",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Retrieval Models 5</strong><br/><p>Exploit Implicit Signals: Online Learning to rank, federated online learning to rank, counterfactual learning, online evaluation, click models</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Retrieval Models 5</strong>",
+            "topic_description": "Retrieval Models 5 Exploit Implicit Signals: Online Learning to rank, federated online learning to rank, counterfactual learning, online evaluation, click models",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Retrieval Models 6</strong><br/><p>Pre-trained language models, Transformers and the BERT rankers</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Retrieval Models 6</strong>",
+            "topic_description": "Retrieval Models 6 Pre-trained language models, Transformers and the BERT rankers",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Retrieval Models 7</strong><br/><p>Dense Retrievers</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Retrieval Models 7</strong>",
+            "topic_description": "Retrieval Models 7 Dense Retrievers",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Index Compression</strong><br/><p>Entropy and ambiguity, methods for compression: delta encoding, bit aligned codes, byte aligned codes; looking ahead and skipping</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Index Compression</strong>",
+            "topic_description": "Index Compression Entropy and ambiguity, methods for compression: delta encoding, bit aligned codes, byte aligned codes; looking ahead and skipping",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crawling and Link Analysis</strong><br/><p>Methods for crawling Web pages; making use of link information for retrieval: PageRank and HITS.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Crawling and Link Analysis</strong>",
+            "topic_description": "Crawling and Link Analysis Methods for crawling Web pages; making use of link information for retrieval: PageRank and HITS.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interactive IR, Diversity</strong><br/><p>Evaluation practices based on experiments with users. Ranking methods for diversity, ambiguity and redundancy</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Interactive IR, Diversity</strong>",
+            "topic_description": "Interactive IR, Diversity Evaluation practices based on experiments with users. Ranking methods for diversity, ambiguity and redundancy",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
