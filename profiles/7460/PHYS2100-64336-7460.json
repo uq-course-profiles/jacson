@@ -1,0 +1,130 @@
+{
+    "course_title": "Dynamics & Relativity",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS2100-64336-7460",
+    "full_course_code": "PHYS2100-64336-7460",
+    "course_code": "PHYS2100",
+    "class_code": "64336",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Solve elementary mechanical problems using the Lagrangian and Hamiltonian formalisms."
+        },
+        {
+            "number": "LO2.",
+            "description": "Solve basic problems in the calculus of variations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Draw phase-space portraits of elementary dynamical systems and identify the various features."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand what is meant by \"chaotic dynamics\" in terms of sensitive dependence on initial conditions."
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand how chaos arises in non-linear Hamiltonian systems, and be able to determine which initial conditions lead to chaos for driven systems with one degree of freedom."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand the principles of special relativity."
+        },
+        {
+            "number": "LO7.",
+            "description": "Understand 4-vectors and use them to solve simple relativistic mechanical problems."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Special Relativity problem sheets",
+            "special_indicators": [],
+            "weighting": "<dd>14% 2 x 7% each </dd>",
+            "due_date": "<dd><p>Problem Sheet 1: 9/08/2024 4:00 pm</p>\n<p>Problem Sheet 2: 23/08/2024 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Work on and solve problems in special relativity. Problems will be made available at least a week before they are due, and can be worked on in the tutorial time slot. Each problem sheet will be worth 7% of the final course mark.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>They must be submitted (electronically) via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Lagrangian and Hamiltonian dynamics problem sheets",
+            "special_indicators": [],
+            "weighting": "<dd>20% 2 x 10% each </dd>",
+            "due_date": "<dd><p>Problem Sheet 1: 6/09/2024 4:00 pm</p>\n<p>Problem Sheet 2: 20/09/2024 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Solve problems in calculus of variations and Lagrangian dynamics. Problems will be made available at least a week before they are due. Each problem sheet will be worth 10% of the final course mark.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>They must be submitted (electronically) via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Dynamical systems and chaos problem sheets",
+            "special_indicators": [],
+            "weighting": "<dd>16% 2 x 8% each </dd>",
+            "due_date": "<dd><p>Problem Sheet 1: 11/10/2024 4:00 pm</p>\n<p>Problem Sheet 2: 25/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Solve problems in Hamiltonian dynamics and chaos. Problems will be made available at least a week before they are due. Each problem sheet will be worth 8% of the final course mark.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>They must be submitted (electronically) via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final exam",
+            "special_indicators": [],
+            "weighting": "<dd>50% ,20% dynamics, 15% chaos, 15% special relativity </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Answer conceptual and quantitative questions relating to the course material on Lagrangian mechanics, calculus of variations, Hamiltonian dynamics, dynamical systems, chaos and special relativity. </p>\n<p>The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures for the course</strong><br><p>Core course material and examples will be presented</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures for the course</strong>",
+            "topic_description": "Lectures for the course Core course material and examples will be presented",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials for the course</strong><br/><p>Example problems discussed</p></p></div></td>",
+            "topic_title": "<strong>Tutorials for the course</strong>",
+            "topic_description": "Tutorials for the course Example problems discussed",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Problem sheets</strong><br/><p>Problems aimed at providing understanding of the various concepts in the course</p></p></div></td>",
+            "topic_title": "<strong>Problem sheets</strong>",
+            "topic_description": "Problem sheets Problems aimed at providing understanding of the various concepts in the course",
+            "learning_outcomes": []
+        }
+    ]
+}
