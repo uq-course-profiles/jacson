@@ -1,0 +1,222 @@
+{
+    "course_title": "Spatial Analysis & Modelling",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/GEOM3002-64640-7460",
+    "full_course_code": "GEOM3002-64640-7460",
+    "course_code": "GEOM3002",
+    "class_code": "64640",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand conceptual models involving spatial data analysis"
+        },
+        {
+            "number": "LO2.",
+            "description": "Design geoprocessing models to solve application problems"
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply statistical techniques to explore spatial data patterns and relationships"
+        },
+        {
+            "number": "LO4.",
+            "description": "Perform spatial analysis and modelling to data along networks"
+        },
+        {
+            "number": "LO5.",
+            "description": "Choose and apply appropriate spatial analysis methods to solve geographical problems"
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand and appreciate the emerging sources of big data and geocomputation techniques"
+        },
+        {
+            "number": "LO7.",
+            "description": "Interpret and effectively communicate spatial data and analytical output to non-expert audiences"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1: Accessibility modelling",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 26/08/2024 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>**** All assessments in this course are individual work. This includes all data collection, analysis, mapping and writing must be your own original work ****</strong></p>\n<p>This assignment 1 is based on lectures and practicals you learnt in the first FOUR weeks. The questions will be provided at the end of Practicals 1-3. You need to submit this assignment through Turnitin by the due date. </p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>ALL written assessment MUST be submitted electronically through Turnitin on the course<br/>\nBlackboard page by the due date/time. You should also retain an identical electronic copy of the work submitted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2: Spatial statistical analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 30/09/2024 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>**** </strong><strong>All assessments in this course are individual work. This includes all data collection, analysis, mapping and writing must be your own original work</strong><strong> ****</strong></p>\n<p>This assignment 2 is based mainly on the lectures and practicals you learnt in Weeks 5-8. The questions will be provided at the end of Practicals 4-6. You need to submit this assignment through Turnitin by the due date. </p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>ALL written assessment MUST be submitted electronically through Turnitin on the course<br/>\nBlackboard page by the due date/time. You should also retain an identical electronic copy of the work submitted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3: StoryMap presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 21/10/2024 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>****</strong><strong> All assessments in this course are individual work. This includes all data collection, analysis, mapping and writing must be your own original work</strong><strong> ****</strong></p>\n<p>For this assignment you will develop an online StoryMap following best practice for GIS communication. Details on this assignment requirement will be provided via BB during the course. </p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>ALL written assessment MUST be submitted electronically through Turnitin on the course<br/>\nBlackboard page by the due date/time. You should also retain an identical electronic copy of the work submitted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This End of Semester exam consists of multiple choice questions, as well as short answer and problem-solving questions related to spatial data models and analysis. The questions are based on lecture and reading contents and its applications throughout the semester. This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). </p>\n<p><em>Assessment Hurdle - To receive a passing grade student will need to obtain a minimum of 50% in the final exam.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to spatial analysis and modelling</strong><br><p>Course overview; spatial analysis as a process; modelbuilder</p>\n<p>No practical this week</p></br></p></div></td>",
+            "topic_title": "<strong>Introduction to spatial analysis and modelling</strong>",
+            "topic_description": "Introduction to spatial analysis and modelling Course overview; spatial analysis as a process; modelbuilder No practical this week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Measuring spatial connectivity I</strong><br><p>Network Analysis;</p>\n<p>Prac 1 Land suitability modelling using ModelBuilder in ArcGIS Pro</p></br></p></div></td>",
+            "topic_title": "<strong>Measuring spatial connectivity I</strong>",
+            "topic_description": "Measuring spatial connectivity I Network Analysis; Prac 1 Land suitability modelling using ModelBuilder in ArcGIS Pro",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Measuring spatial connectivity II</strong><br><p>Accessibility modelling;</p>\n<p>Prac 2 Spatial Network Analysis using ArcGIS Pro</p></br></p></div></td>",
+            "topic_title": "<strong>Measuring spatial connectivity II</strong>",
+            "topic_description": "Measuring spatial connectivity II Accessibility modelling; Prac 2 Spatial Network Analysis using ArcGIS Pro",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Spatial Analysis of Point Data I</strong><br><p>Describing spatial distributions </p>\n<p>Prac 3 Spatial accessibility modelling</p></br></p></div></td>",
+            "topic_title": "<strong>Spatial Analysis of Point Data I</strong>",
+            "topic_description": "Spatial Analysis of Point Data I Describing spatial distributions Prac 3 Spatial accessibility modelling",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Spatial Analysis of Point Data II</strong><br/><p>Analysing spatial patterns </p>\n<p>No prac this week; work on your Assignment 1</p></p></div></td>",
+            "topic_title": "<strong>Spatial Analysis of Point Data II</strong>",
+            "topic_description": "Spatial Analysis of Point Data II Analysing spatial patterns No prac this week; work on your Assignment 1",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Spatial Autocorrelation</strong><br/><p>Global and local spatial autocorrelation techniques; hot spot analysis </p>\n<p>Prac 4 Measuring spatial distributions and patterns</p></p></div></td>",
+            "topic_title": "<strong>Spatial Autocorrelation</strong>",
+            "topic_description": "Spatial Autocorrelation Global and local spatial autocorrelation techniques; hot spot analysis Prac 4 Measuring spatial distributions and patterns",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Modelling Geographical Relationships</strong><br/><p>Regression analysis; indicator mapping; Geographically Weighted Regression </p>\n<p>Prac 5 Modelling geographical relationships</p></p></div></td>",
+            "topic_title": "<strong>Modelling Geographical Relationships</strong>",
+            "topic_description": "Modelling Geographical Relationships Regression analysis; indicator mapping; Geographically Weighted Regression Prac 5 Modelling geographical relationships",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Spatio-Temporal Analysis</strong><br/><p>Measuring change over time </p>\n<p>Prac 6 Spatial change analysis</p></p></div></td>",
+            "topic_title": "<strong>Spatio-Temporal Analysis</strong>",
+            "topic_description": "Spatio-Temporal Analysis Measuring change over time Prac 6 Spatial change analysis",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>GIS communication</strong><br/><p>Prac 7 Using StoryMaps for effective GIS communication</p></p></div></td>",
+            "topic_title": "<strong>GIS communication</strong>",
+            "topic_description": "GIS communication Prac 7 Using StoryMaps for effective GIS communication",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Big data analytics</strong><br/><p>Selected methods and applications </p>\n<p>Work on your StoryMap Project during practical time</p></p></div></td>",
+            "topic_title": "<strong>Big data analytics</strong>",
+            "topic_description": "Big data analytics Selected methods and applications Work on your StoryMap Project during practical time",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Current trends and the (near) future of GIS</strong><br/><p>Guest Lecturer from an ESRI expert</p>\n<p> Work on your StoryMap Project during practical time.</p></p></div></td>",
+            "topic_title": "<strong>Current trends and the (near) future of GIS</strong>",
+            "topic_description": "Current trends and the (near) future of GIS Guest Lecturer from an ESRI expert Work on your StoryMap Project during practical time.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Summary of course and preparation for exam</strong><br/><p>Course revision</p>\n<p>Preparation for final exam</p></p></div></td>",
+            "topic_title": "<strong>Summary of course and preparation for exam</strong>",
+            "topic_description": "Summary of course and preparation for exam Course revision Preparation for final exam",
+            "learning_outcomes": []
+        }
+    ]
+}
