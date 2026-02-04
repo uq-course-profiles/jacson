@@ -1,0 +1,142 @@
+{
+    "course_title": "Fundamentals of Electromagnetic Fields & Waves",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC3100-61146-7460",
+    "full_course_code": "ELEC3100-61146-7460",
+    "course_code": "ELEC3100",
+    "class_code": "61146",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse wave propagation on low-loss transmission lines by using analytical methods."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate reflection coefficient for the line, power flow in the structure, transmission line impedance and characteristics of the load terminations of transmission lines."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design simple transmission structures."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse electromagnetic wave propagation in free space and guiding structures and analyse the interaction of electromagnetic waves with various media."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design simple electromagnetic guiding structures, and antennas."
+        },
+        {
+            "number": "LO6.",
+            "description": "Explain how other disciplines relate to the study of electromagnetics and describe practical applications of electromagnetics."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assessed Tutorials",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 29/07/2024 - 21/10/2024</p>\n<p>\n</p><p>During tutorial sessions</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>These tutorial sessions are designed to provide a way for you to fill in any knowledge gaps you have from lectures and to adequately prepare you for the exam.</p>\n<p>There will be 12 tutorials across the semester. Each tutorial will consist of several problems provided prior to the tutorial sessions. During the tutorial session, students will demonstrate a solution to one of the problems from the assessed tutorial problem set (excluding the Matlab problem), as selected by their demonstrator, as well as discuss the results of their Matlab simulation. A brief one-on-one discussion with the tutoring staff on the selected problem will occur, with the student being awarded between 0 and full marks. Each tutorial has a weighting of 4.0%. Students can accumulate a maximum of 40% from the problem demonstration. We will use your top 10 tutorials. </p>\n<p>One problem will be a simple MATLAB task. Either demonstrate this code running on your personal laptop (preferred) or print the output/results.</p>\n<p>It is not expected that all students will have complete and correct solutions prior to attending a tutorial session. The expectation of students is that you will have made an attempt to answer all questions prior to your tutorial session and that you will work to correct any errors or misunderstandings of the course content during your session.</p>\n<p>If you have fully completed the assigned problems and wish to get marked off at the start of the session, the onus is on you to demonstrate your understanding of the content to the demonstrator.</p>\n<p>If you are having trouble with the concepts or any of the tutorial problems, feel free to remain for the full duration of the session. As the tutorial progresses and more people are marked off and leave, you will likely be able to receive direct attention from any of the demonstrators.</p>\n<p>The assessed problem set will be provided weekly after the lectures, in the week prior to tutorial sessions. </p>\n<p>This activity will only occur during the tutorial sessions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>During the tutorial session, students will demonstrate a solution to one of the problems from the assessed tutorial problem set (excluding the Matlab problem), as selected by their demonstrator, as well as discuss the results of their Matlab simulation. A brief one-on-one discussion with the demonstrator on the selected problem will occur.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The 3 hour final exam will contain a mixture of short answer questions (question 1 - ten parts), and analytical questions (questions 2-5). 10 mins will be allocated for perusal. The final exam will assess material over the whole course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 3(22 Jul - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transmission Lines</strong><br><p>Lectures (L)</p></br></p></div></td>",
+            "topic_title": "<strong>Transmission Lines</strong>",
+            "topic_description": "Transmission Lines Lectures (L)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 3(22 Jul - 11 Aug)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transmission Lines</strong><br/><p>Demonstrations (C)</p></p></div></td>",
+            "topic_title": "<strong>Transmission Lines</strong>",
+            "topic_description": "Transmission Lines Demonstrations (C)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 4(29 Jul - 18 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transmission Lines</strong><br><p>Assessed tutorials (T)</p></br></p></div></td>",
+            "topic_title": "<strong>Transmission Lines</strong>",
+            "topic_description": "Transmission Lines Assessed tutorials (T)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 13(12 Aug - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electromagnetic Waves</strong><br><p>Lectures (L)</p></br></p></div></td>",
+            "topic_title": "<strong>Electromagnetic Waves</strong>",
+            "topic_description": "Electromagnetic Waves Lectures (L)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 13(12 Aug - 27 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electromagnetic Waves</strong><br/><p>Demonstrations (C)</p></p></div></td>",
+            "topic_title": "<strong>Electromagnetic Waves</strong>",
+            "topic_description": "Electromagnetic Waves Demonstrations (C)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 13(19 Aug - 27 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electromagnetic Waves</strong><br><p>Assessed Tutorials (T)</p></br></p></div></td>",
+            "topic_title": "<strong>Electromagnetic Waves</strong>",
+            "topic_description": "Electromagnetic Waves Assessed Tutorials (T)",
+            "learning_outcomes": []
+        }
+    ]
+}
