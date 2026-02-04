@@ -1,0 +1,112 @@
+{
+    "course_title": "Quantum Technologies",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS4045-64344-7460",
+    "full_course_code": "PHYS4045-64344-7460",
+    "course_code": "PHYS4045",
+    "class_code": "64344",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use the formalism of quantum information to describe quantum circuits and algorithms"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply methods from quantum noise to describe simple noise processes."
+        },
+        {
+            "number": "LO3.",
+            "description": "Describe the methods of quantum error correction theory and apply them to correct quantum errors."
+        },
+        {
+            "number": "LO4.",
+            "description": "Determine the requirements of physical systems to be good for implementations of quantum information and give quantitative calculations analysing various physical platforms."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe and understand the quantum information \"stack\" from physical hardware to algorithms."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Viva style assessment",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> Week 3 Mon - Week 13 Fri</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For a subset of the tutorial sections throughout the semester a subset of students will be selected to complete a “viva” style question, to be worked through and presented as a group (no external resources allowed beyond the course notes and textbook).The class will be divided into groups of 3 or 4 depending on numbers. Each group will present once during the semester during the tutorial time.</p>\n<p> The assessment will proceed as follows:</p>\n<p> - The selected group of students will attend the tutorial and be presented the question, and will be given 20 min. to prepare notes on the response.</p>\n<p>- The students will then present their solution over the next 20 minutes with interactive questions from the lecturer.</p>\n<p>- The students should ensure that all members of the group participate in the presentation and all the students in the group are expected to respond to questions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignments",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>See schedule of dates posted on Blackboard for deadlines for each assignment.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Five assignments will be given out during the semester. Students will have 2 weeks or longer to submit assignment solutions. </p>\n<p>One question on each assignment will be worked through as part of the tutorial sections.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Exam - during Exam Period (Central)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The written examination will be invigilated on-campus.</p>\n<p>During the written exam: answer all questions. Keep in mind that the marks associated with each part of a question are not necessarily an indication of how much time they will take to answer. Try to attempt all parts of each question in order to maximise your marks. If you find yourself spending too long on one particular question, explain how you think your answer should proceed, and move on.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Five assignments</strong><br/><p>Set assignments will be available on Blackboard.</p></p></div></td>",
+            "topic_title": "<strong>Five assignments</strong>",
+            "topic_description": "Five assignments Set assignments will be available on Blackboard.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Group problem solving activity / viva presentation</strong><br/><p>For a subset of the tutorial sections throughout the semester a subset of students will be selected to complete a  viva  style question, to be worked through and presented as a group (no external resources allowed beyond the course notes and textbook).</p>\n<p>The assessment will proceed as follows:</p>\n<p>- The selected group of students will attend the tutorial and be presented the question, and will be given 20 min. to prepare notes on the response.</p>\n<p>- The students will then present their solution over the next 20 minutes with interactive questions from the lecturer. </p>\n<p>- The students should ensure that all members of the group participate in the presentation and all the students in the group are expected to respond to questions.</p></p></div></td>",
+            "topic_title": "<strong>Group problem solving activity / viva presentation</strong>",
+            "topic_description": "Group problem solving activity / viva presentation For a subset of the tutorial sections throughout the semester a subset of students will be selected to complete a  viva  style question, to be worked through and presented as a group (no external resources allowed beyond the course notes and textbook). The assessment will proceed as follows: - The selected group of students will attend the tutorial and be presented the question, and will be given 20 min. to prepare notes on the response. - The students will then present their solution over the next 20 minutes with interactive questions from the lecturer. - The students should ensure that all members of the group participate in the presentation and all the students in the group are expected to respond to questions.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures, tutorials, and problem solving</strong><br/><p>2 lectures per week, 1 tutorial: [LEC1 (2 hrs), LEC3 (1 hr), TUT (1hr)]. Note: Lectures will be presented live and available for delayed viewing via Blackboard. Tutorials will be presented live and not recorded.</p></p></div></td>",
+            "topic_title": "<strong>Lectures, tutorials, and problem solving</strong>",
+            "topic_description": "Lectures, tutorials, and problem solving 2 lectures per week, 1 tutorial: [LEC1 (2 hrs), LEC3 (1 hr), TUT (1hr)]. Note: Lectures will be presented live and available for delayed viewing via Blackboard. Tutorials will be presented live and not recorded.",
+            "learning_outcomes": []
+        }
+    ]
+}
