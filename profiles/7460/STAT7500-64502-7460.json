@@ -1,0 +1,98 @@
+{
+    "course_title": "Problems & Applications in Modern Statistics",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7500-64502-7460",
+    "full_course_code": "STAT7500-64502-7460",
+    "course_code": "STAT7500",
+    "class_code": "64502",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "build an appropriate statistical model to represent the process generating the data."
+        },
+        {
+            "number": "LO2.",
+            "description": "apply likelihood based methods to problems of estimation and hypothesis testing."
+        },
+        {
+            "number": "LO3.",
+            "description": "apply regression diagnostics in order to verify model assumptions."
+        },
+        {
+            "number": "LO4.",
+            "description": "recognise the limitations of linear models and generalized linear models."
+        },
+        {
+            "number": "LO5.",
+            "description": "use the statistical package R appropriately for the analysis and graphical representation of data."
+        },
+        {
+            "number": "LO6.",
+            "description": "communicate the results of statistical analysis clearly and accurately."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>60% ,15% each </dd>",
+            "due_date": "<dd><p>Assignment 1: 16/08/2024 2:00 pm</p>\n<p>Assignment 2: 30/08/2024 2:00 pm</p>\n<p>Assignment 3: 4/10/2024 2:00 pm</p>\n<p>Assignment 4: 25/10/2024 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will be on work covered in the lectures up to the setting of the assignment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination, Participation/ Student contribution",
+            "task_description": null,
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied statistics with R</strong><br><p>These tutorial sessions will cover lecture materials and demonstrate how to use the statistical package R in the analysis and graphical representation of data.</p></br></p></div></td>",
+            "topic_title": "<strong>Applied statistics with R</strong>",
+            "topic_description": "Applied statistics with R These tutorial sessions will cover lecture materials and demonstrate how to use the statistical package R in the analysis and graphical representation of data.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied statistics</strong><br/><p>Series of lectures on the analysis of data with the focus on modelling and point estimation via likelihood-based methods.</p></p></div></td>",
+            "topic_title": "<strong>Applied statistics</strong>",
+            "topic_description": "Applied statistics Series of lectures on the analysis of data with the focus on modelling and point estimation via likelihood-based methods.",
+            "learning_outcomes": []
+        }
+    ]
+}
