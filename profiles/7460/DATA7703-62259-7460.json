@@ -1,0 +1,173 @@
+{
+    "course_title": "Machine Learning for Data Scientists",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/DATA7703-62259-7460",
+    "full_course_code": "DATA7703-62259-7460",
+    "course_code": "DATA7703",
+    "class_code": "62259",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe the core theoretical and conceptual frameworks that are used in Machine Learning."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the properties and functions of a range of different Machine Learning models and to be able to connect a model to appropriate theoretical foundations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Formulate an algorithm that instantiates a given Machine Learning model using appropriate data."
+        },
+        {
+            "number": "LO4.",
+            "description": "Implement Machine Learning algorithms in a high-level programming language."
+        },
+        {
+            "number": "LO5.",
+            "description": "Formulate and execute experiments with implemented Machine Learning techniques on data sets, and to evaluate and reflect on the results."
+        },
+        {
+            "number": "LO6.",
+            "description": "Explain the relationships between the different types of techniques used in Machine Learning and the relationships between Machine Learning and other disciplines."
+        },
+        {
+            "number": "LO7.",
+            "description": "Recognize potential real-world applications of Machine Learning and evaluate the suitability of different Machine Learning technique implementations, algorithms, models and theory for a given application."
+        },
+        {
+            "number": "LO8.",
+            "description": "Carry out complex, collaborative machine learning projects as part of a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 16/08/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each assignment will consist of a number of hand written tasks as well as implementation exercises based on topics covered in preceding lectures, tutorials and pracs. </p>\n<p>Assignments to be completed individually.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online Submission</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 4/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each assignment will consist of a number of hand written tasks as well as implementation exercises based on topics covered in preceding lectures, tutorials and pracs. </p>\n<p>Assignments to be completed individually.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online Submission</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Group Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Proposal Deadline 13/09/2024 3:00 pm</p>\n<p>Presentation Seminar  25/10/2024 3:00 pm</p>\n<p>Final Report Deadline 15/11/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Oral, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Course group project. To be done in groups of 4-5 students. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will be a closed-book invigilated final exam covering all material from the course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>1. Introduction; 2. Linear Regression; 3. PCA &amp; LDA; 4. Classification; 5. Clustering and Similarity; 6. Support Vector Machines &amp; Kernel Methods. 7. Ensemble Methods: Random Forest and Boosting; 8. The Perceptron; 9. Convolutional Neural Networks; 10. Adversarial Examples; 11. Interpreting Machine Learning Algorithms; 12. Bayesian; 13. Course Summary/Overview</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures 1. Introduction; 2. Linear Regression; 3. PCA & LDA; 4. Classification; 5. Clustering and Similarity; 6. Support Vector Machines & Kernel Methods. 7. Ensemble Methods: Random Forest and Boosting; 8. The Perceptron; 9. Convolutional Neural Networks; 10. Adversarial Examples; 11. Interpreting Machine Learning Algorithms; 12. Bayesian; 13. Course Summary/Overview",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12(29 Jul - 20 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials</strong><br><p>2. Linear Regression; 3. PCA &amp; LDA; 4. Classification; 5. Clustering and Similarity; 6. Support Vector Machines &amp; Kernel Methods. 7. Ensemble Methods: Random Forest and Boosting; 8. The Perceptron; 9. Convolutional Neural Networks; 10. Adversarial Examples; 11. Interpreting Machine Learning Algorithms; 12. Bayesian; </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorials</strong>",
+            "topic_description": "Tutorials 2. Linear Regression; 3. PCA & LDA; 4. Classification; 5. Clustering and Similarity; 6. Support Vector Machines & Kernel Methods. 7. Ensemble Methods: Random Forest and Boosting; 8. The Perceptron; 9. Convolutional Neural Networks; 10. Adversarial Examples; 11. Interpreting Machine Learning Algorithms; 12. Bayesian;",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12(29 Jul - 20 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>2. Linear Regression; 3. PCA &amp; LDA; 4. Classification; 5. Clustering and Similarity; 6. Support Vector Machines &amp; Kernel Methods. 7. Ensemble Methods: Random Forest and Boosting; 8. The Perceptron; 9. Convolutional Neural Networks; 10. Adversarial Examples; 11. Interpreting Machine Learning Algorithms; 12. Bayesian</p></br></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L08</p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals 2. Linear Regression; 3. PCA & LDA; 4. Classification; 5. Clustering and Similarity; 6. Support Vector Machines & Kernel Methods. 7. Ensemble Methods: Random Forest and Boosting; 8. The Perceptron; 9. Convolutional Neural Networks; 10. Adversarial Examples; 11. Interpreting Machine Learning Algorithms; 12. Bayesian",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L08"
+            ]
+        }
+    ]
+}
