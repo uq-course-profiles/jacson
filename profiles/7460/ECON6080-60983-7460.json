@@ -1,0 +1,250 @@
+{
+    "course_title": "Computational Methods in Economics",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON6080-60983-7460",
+    "full_course_code": "ECON6080-60983-7460",
+    "course_code": "ECON6080",
+    "class_code": "60983",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply computational tools and models to economic models."
+        },
+        {
+            "number": "LO2.",
+            "description": "Solve economic models to compute equilibria in static and dynamic economic models."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate proficiency in the use of programming software such as Matlab and Python."
+        },
+        {
+            "number": "LO4.",
+            "description": "Illustrate the link between theory and computation."
+        },
+        {
+            "number": "LO5.",
+            "description": "Critically select and apply computational algorithms for economic models."
+        },
+        {
+            "number": "LO6.",
+            "description": "Construct a plan of analysis to communicate research questions."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Class Presentation",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 22/07/2024 - 21/10/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Activity/ Performance",
+            "category": "Computer Code, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Student will be asked to present the codes and algorithms of their answers in the regular assignments.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Six Problem Sets (Fortnightly, Programming Intensive)",
+            "special_indicators": [],
+            "weighting": "<dd>60% (Each assignment is worth 10%) </dd>",
+            "due_date": "<dd><p> 22/07/2024 - 21/10/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There are 6 fortnightly assignments (problem sets), one for every 2 weeks, from Week 2 to Week 13. The due date for each assignment is Monday in the following week. Assignments must be submitted individually and electronically.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit answers and computer codes to the Course Coordinator by email.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Take Home Assignment (Programming Intensive)",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 22/10/2024 - 25/10/2024</p>\n<p>\n</p><p>Due at 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Due to the hands-on nature of the course, the final assessment takes the form of a take-home assignment.</li>\n<li>The scope of the assignment. includes all the topics that are covered throughout the course. </li>\n<li>Group work is strictly prohibited. Your work must be submitted individually and electronically</li>\n<li>Further details about the take home assignment. will be posted to our course BB site. </li>\n</ul>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit answers and computer codes to the Course Coordinator by email.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1: Intro and Python Basics</strong><br/><p>Python programming basics; Basics of computing and numerical methods</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Lecture 1: Intro and Python Basics</strong>",
+            "topic_description": "Lecture 1: Intro and Python Basics Python programming basics; Basics of computing and numerical methods",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2:  Root Finding</strong><br/><p>Python programming basics; Basics of computing and numerical methods</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 2:  Root Finding</strong>",
+            "topic_description": "Lecture 2:  Root Finding Python programming basics; Basics of computing and numerical methods",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3: Optimization</strong><br/><p>Nonlinear Equations, Optimization, Computing fixed points</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 3: Optimization</strong>",
+            "topic_description": "Lecture 3: Optimization Nonlinear Equations, Optimization, Computing fixed points",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Royal Queensland Show holiday</strong><br/><p>No lecture held on this day due to public holiday.</p></p></div></td>",
+            "topic_title": "<strong>Royal Queensland Show holiday</strong>",
+            "topic_description": "Royal Queensland Show holiday No lecture held on this day due to public holiday.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4: Interpolation</strong><br/><p>Function Approximation, Local approximation methods, Global approximation methods, Multidimensional methods.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 4: Interpolation</strong>",
+            "topic_description": "Lecture 4: Interpolation Function Approximation, Local approximation methods, Global approximation methods, Multidimensional methods.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5: Integration and Simulation</strong><br/><p>Function Approximation, Local approximation methods, Global approximation methods, Multidimensional methods.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 5: Integration and Simulation</strong>",
+            "topic_description": "Lecture 5: Integration and Simulation Function Approximation, Local approximation methods, Global approximation methods, Multidimensional methods.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6: Dynamic Programming I</strong><br/><p>Numerical Integration and Differentiation, Monte Carlo and Quasi-Monte Carlo Methods.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 6: Dynamic Programming I</strong>",
+            "topic_description": "Lecture 6: Dynamic Programming I Numerical Integration and Differentiation, Monte Carlo and Quasi-Monte Carlo Methods.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7: Dynamic Programming II</strong><br/><p>Numerical Integration and Differentiation, Monte Carlo and Quasi-Monte Carlo Methods.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 7: Dynamic Programming II</strong>",
+            "topic_description": "Lecture 7: Dynamic Programming II Numerical Integration and Differentiation, Monte Carlo and Quasi-Monte Carlo Methods.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8: Projection Methods</strong><br/><p>Methods for Functional Equations, Finite-Difference Methods, Projection Methods, Applications.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 8: Projection Methods</strong>",
+            "topic_description": "Lecture 8: Projection Methods Methods for Functional Equations, Finite-Difference Methods, Projection Methods, Applications.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9: Perturbation Methods</strong><br/><p>Methods for Functional Equations, Finite-Difference Methods, Projection Methods, Applications.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 9: Perturbation Methods</strong>",
+            "topic_description": "Lecture 9: Perturbation Methods Methods for Functional Equations, Finite-Difference Methods, Projection Methods, Applications.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10: Heterogenous Agent Model (Aiyagari)</strong><br/><p>Numerical Dynamic Programming, Perfect Foresight Models, Rational Expectations Models. (**This lecture will be on Wednesday, not on Thursday)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Lecture 10: Heterogenous Agent Model (Aiyagari)</strong>",
+            "topic_description": "Lecture 10: Heterogenous Agent Model (Aiyagari) Numerical Dynamic Programming, Perfect Foresight Models, Rational Expectations Models. (**This lecture will be on Wednesday, not on Thursday)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11: Heterogenous Agent Model (Krusell-Smith)</strong><br/><p>Numerical Dynamic Programming, Perfect Foresight Models, Rational Expectations Models.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Lecture 11: Heterogenous Agent Model (Krusell-Smith)</strong>",
+            "topic_description": "Lecture 11: Heterogenous Agent Model (Krusell-Smith) Numerical Dynamic Programming, Perfect Foresight Models, Rational Expectations Models.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 12: Heterogenous Agent New Keynsian Model (HANK)</strong><br/><p>Heterogeneous Agent New Keynesian (HANK) models</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Lecture 12: Heterogenous Agent New Keynsian Model (HANK)</strong>",
+            "topic_description": "Lecture 12: Heterogenous Agent New Keynsian Model (HANK) Heterogeneous Agent New Keynesian (HANK) models",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
