@@ -1,0 +1,144 @@
+{
+    "course_title": "Computational Physics I",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS3071-64339-7460",
+    "full_course_code": "PHYS3071-64339-7460",
+    "course_code": "PHYS3071",
+    "class_code": "64339",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use computer-based techniques to solve a variety of project-based problems in physics."
+        },
+        {
+            "number": "LO2.",
+            "description": "Define a range of physical problems in terms of equations and mathematical models."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply basic methods in numerical analysis: integration and differentiation schemes, linear algebra, interpolation, root finding and the solution of differential equations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse and identify numerical stability issues and rounding errors."
+        },
+        {
+            "number": "LO5.",
+            "description": "Visualise computer program output and data and present them in a variety of computer media formats."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 30/08/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Python programming, indefinite integration to solve initial value problems of particle dynamics, generate report of process and conclusion.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronically and/or hard copy as specified by the assignment</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 4/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Python programming, solve 2d or 3d wavefield boundary value problems, generate report of process and conclusion.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronically and/or hard copy as specified by the assignment</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Python programming, investigate machine learning applied to active matter, classify and analyse generated data, generate report of process and conclusion.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronically and/or hard copy as specified by the assignment</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 4/11/2024 - 15/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Oral",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will examine material from the whole course. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Student exam attendance availability needs to be sent to Course Coordinator after scheduled central exam timetable has been received. A reminder will be given at the end of semester. Exam times will be assigned randomly (within ordinary business hours) on the days and times with student and examiner availability.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Methods Workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Methods Workshop</strong>",
+            "topic_description": "Methods Workshop",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Automated Interactive Tutorials</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Automated Interactive Tutorials</strong>",
+            "topic_description": "Automated Interactive Tutorials",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        }
+    ]
+}
