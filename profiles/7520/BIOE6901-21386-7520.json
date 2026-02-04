@@ -1,0 +1,194 @@
+{
+    "course_title": "Medical Device Engineering",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE6901-21386-7520",
+    "full_course_code": "BIOE6901-21386-7520",
+    "course_code": "BIOE6901",
+    "class_code": "21386",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse and evaluate medical devices by identifying their medical need, value proposition, underlying medical condition, existing and emerging solutions, and operating principles, while assessing the technical basis of their functionality and subsystem integration."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically investigate and evaluate medical devices by appraising their intended purpose, efficacy & efficiency in treating or diagnosing medical conditions, technical sub-components, safety risks and limitations, ethical considerations, and research directions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply specialized engineering knowledge and practices to ideate, design, prototype, and develop a medical device, including the identification of user needs, translation into technical requirements, validation and verification, application of relevant standards, and effective documentation practices to ensure compliance with Quality Management Systems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain in detail, the innovation and product development cycle of medical devices, including considerations for compliance with regulatory agencies and international standards across different classifications."
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate effectively, both orally and in writing, the purpose, operation, technical functionality, regulatory considerations, and research directions of selected medical devices to technical, clinical, and lay audiences."
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate the ability to implement professional engineering principles while effectively collaborating in a multi-disciplinary team, showing respect for diverse ideas, work styles, and backgrounds."
+        },
+        {
+            "number": "LO7.",
+            "description": "Appraise and provide constructive feedback to peers’ work by employing a SPARK (Specific, Prescriptive, Actionable, Referenced and Kind) approach."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "1. Individual engagement and participation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> Week 1 Wed - Week 13 Fri</p>\n<p>\n</p><p>Assessed throughout semester (see Task description)</p></dd>",
+            "learning_objectives": "L01, L04, L05, L06, L07",
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This course is intended to be dynamic and full of workshop-style activities. 10% of your final grade is based on engagement &amp; participation. </p>\n<p>All students are expected to attend and participate on the following scheduled sessions:</p>\n<ul>\n<li>Week 4 (Wednesday and Friday sessions) - Individual short presentations -&gt; 20/100 marks</li>\n<li>Week 8 (Wednesday session) - Peer-review / feedback session on Individual Investigation -&gt; 30/100 marks</li>\n</ul>\n<p>If for extraordinary reasons you are unable to attend these specific sessions, you must seek alternative arrangements via approaching the course coordinator, to make sure your <em>Individual engagement and participation</em> does not get affected.</p>\n<p>Participation in debates, presentations and activities organized during scheduled class, offline forum discussions in MS teams, project feedback sessions, etc. Teaching staff actively monitor individual participation throughout the semester and are aware of the degree to which students are contributing to the activities and team projects. --&gt; 50/100 marks.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "2. Investigation on a medical condition & device",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Presentations W4: 19/03 &amp; 21/03 </p>\n<p>Final submission  7/04/2025 4:00 pm</p>\n<p>Peer-review session 16/04/2025</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05, L07",
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The main learning objective of this activity is for you to gain an in-depth knowledge of a medical device of your choice, and its associated value to the underlying medical condition and healthcare system. Besides the knowledge you will gain from your own investigation, you will learn from investigations of your peers, and they will learn from yours.</p>\n<p>In consultation with the course coordinator, students will choose a diagnostic or therapeutic, commercially-available medical device that is currently used in clinical practice.</p>\n<p>For assessment, students will deliver two components:</p>\n<p>1) A 5-minute video submission reporting their learning outcomes, such as:</p>\n<ul>\n<li>Intended purpose and justification of the classification of the selected device according to TGA.</li>\n<li>The clinical need of the device and its value proposition.</li>\n<li>Underlying epidemiology of the medical condition being targeted, anatomy &amp; physiology, pathophysiology, clinical presentation, clinical outcomes and economic impact.</li>\n<li>Operating principles (how this device works, including the \"breaking the device down\" into its engineering subsystems).</li>\n<li>Risks and limitations of the commercially-available device, and comparison with devices with similar intended use (existing and emerging solutions).</li>\n</ul>\n<p>2) A 1-page report describing their research methodology, and extra pages for references.</p>\n<p>In addition to the assessed task:</p>\n<ul>\n<li>To prepare for the week 7 assessed submission, students will deliver a short 2-3 min. presentation in Week 4 during scheduled classes (Wed &amp; Fri). The presentation in Week 4 does not count towards this assessment component; it is intended to provide early feedback about the chosen device and approach, and to exchange knowledge among peers. Participation in this activity will count towards <em>1. Individual Engagement and Participation</em> <em>(20/100 marks)</em>.</li>\n<li>As a complementary learning activity, students will be asked to peer-review and provide critical feedback to a number of videos submitted by peers, and answer to questions from peers (Peer-review session). This activity will be done in Week 8 (Wednesday session). The objective of this activity is to learn about medical devices, not covered by the student's own investigation. <strong>Feedback from peers will be considered in the grade for this individual assessment component. </strong>The participation in the peer-review session and quality of the provided feedback, will count towards <em>1. Individual Engagement and Participation (30/100 marks).</em></li>\n</ul>\n<p><strong>Use of AI or MT</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Assessment items received after the deadline will be subject to a late penalty of 100% after a grace period of 1-hour.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "3. Team Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>Milestone 1 (formative) 2/04/2025 - 4/04/2025</p>\n<p>Milestone 2 (formative) 2/05/2025</p>\n<p>Milestone 3 (final deliverables, summative) 30/05/2025</p>\n<p>Milestone 3 (exhibition/examination, summative) 14/06/2025 - 21/06/2025</p>\n<p>\n</p><p>M1 and M2 deliverables are due by the start of the corresponding session of the respective Milestone week. M3 deliverables are due by the start of the Friday session.</p>\n<p>All milestones require a peer-assessment factor, which is meant to be submitted by the end of the Friday session, of the respective Milestone week.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The team project evaluates your ability to work in teams and apply your biomedical engineering skills to design and develop a simple medical device without neglecting commonly overlooked, yet extremely important aspects in <em>Medical Device Engineering </em>in relation to capture the user needs and translate those to technical specifications, adherence to standards and regulatory frameworks, safety and ethical considerations.</p>\n<p>Your project will start with a predefined clinical need provided by a stakeholder (e.g. a clinician, a patient, etc.). Your task will be to dig into the stakeholder needs, and design and develop a functional prototype that addresses that need, within given constraints, while maintaining proper documentation according to standards. Within this project, you are required to implement (to the best of your ability) the frameworks covered in class, Design Control (ISO 13485) and Risk Management (ISO 14971) principles. </p>\n<p>Assessment for the project is a sequence of milestones that run throughout the semester. The main mode of assessment will be different on each milestone:</p>\n<p><strong>3.1 Milestone 1 - Identify Needs (formative)</strong></p>\n<p><em>When:</em> Week 6 (Wednesday session, 12pm-2pm &amp; Friday session, 2pm-4pm)</p>\n<p><em>What: </em>Teams will deliver a 10-minute long presentation, where they describe the identified clinical need, value proposition, assumptions and project plan. Presentations will be followed by approximately 5 minutes of questions from the class and the teaching team. Scheduling of presentations will be done after team project formation in Week 3/4. Teams will also be assessed on their documentation progress related to the IDENTIFY phase. All team members will be required to submit a Peer-assessment.</p>\n<p><strong>3.2 Milestone 2 - Progress on Design Control and Risk Management documentation (formative)</strong></p>\n<p><em>When:</em> Week 9 (Friday session, 2pm-4pm)</p>\n<p><em>What:</em> Teams will present their project progress to the teaching staff during the Friday-scheduled class of Week 9. Teams will be assessed on the status of their documentation concerning requirements, verification/validation, risk management, and OH&amp;S and ethical considerations in relation to prototyping/testing. All team members will be required to submit a Peer-assessment.</p>\n<p><strong>3.3 Milestone 3 - Final deliverables, team project exhibition &amp; oral examination (summative)</strong></p>\n<p><em>When:</em> Deliverables are due by Week 13 (Friday session, 2pm) | Exhibition &amp; Oral examination: will be scheduled during Exam period</p>\n<p><em>What:</em> Team project deliverables include:</p>\n<ol>\n<li>A 6-page (max.) report summarizing the clinical need for the medical device, and the design and development process;</li>\n<li>all supporting documentation (e.g. design considerations, requirements and technical specifications, adherence to standards and regulatory framework, safety and ethical considerations, testing, etc.);</li>\n<li>a power-point slide deck, where they describe their project, methodology and results for a wide-audience. The slide deck will be presented during the team project exhibition (5-minute presentation);</li>\n<li>a functional medical device prototype; and</li>\n<li>peer assessment factors and feedback to colleagues.</li>\n</ol>\n<p><strong>Use of AI or MT</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission instructions will be announced on the course Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p><strong>Milestone 1 &amp; 2 (formative)</strong></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Invited talks</strong><br/><p>Medical devices engineering is a very comprehensive and trans-disciplinary field. To give students the opportunity to learn from different stakeholders (e.g. clinicians, patients, industry representatives), invited talks / seminars will be organized throughout the semester. These will happen during scheduled hours. A detailed scheduled of activities will be available in Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Invited talks</strong>",
+            "topic_description": "Invited talks Medical devices engineering is a very comprehensive and trans-disciplinary field. To give students the opportunity to learn from different stakeholders (e.g. clinicians, patients, industry representatives), invited talks / seminars will be organized throughout the semester. These will happen during scheduled hours. A detailed scheduled of activities will be available in Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field excursions</strong><br/><p>One or two field excursions, within short reach of UQ (e.g. Metro North Health facilities), are planned within scheduled hours. Once confirmed, detailed scheduled of activities will be available in Blackboard. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Field excursions</strong>",
+            "topic_description": "Field excursions One or two field excursions, within short reach of UQ (e.g. Metro North Health facilities), are planned within scheduled hours. Once confirmed, detailed scheduled of activities will be available in Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Workshops</strong><br/><p>There are 4 hours of scheduled activities in this course. Irrespective of how they are labelled in the timetable, these sessions will include a mix of lecture, workshop and discussion style activities. These sessions will include presentation of the course material, and discussions where active student participation is encouraged. Background material will be provided by the lecturer. Invited lecturers/seminars and field excursion are also planned within workshop scheduled time. A detailed scheduled of activities will be available in Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Live Workshops</strong>",
+            "topic_description": "Live Workshops There are 4 hours of scheduled activities in this course. Irrespective of how they are labelled in the timetable, these sessions will include a mix of lecture, workshop and discussion style activities. These sessions will include presentation of the course material, and discussions where active student participation is encouraged. Background material will be provided by the lecturer. Invited lecturers/seminars and field excursion are also planned within workshop scheduled time. A detailed scheduled of activities will be available in Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Revision week",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active learning</strong><br/><p>Students will be pointed to recommended articles, book chapters, and material that are relevant to the course's learning objectives. It is expected that students spend a good amount of time studying the recommended material. Students will be expected to do short presentations during scheduled class, and participate in discussion forums based on the recommended material.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Active learning</strong>",
+            "topic_description": "Active learning Students will be pointed to recommended articles, book chapters, and material that are relevant to the course's learning objectives. It is expected that students spend a good amount of time studying the recommended material. Students will be expected to do short presentations during scheduled class, and participate in discussion forums based on the recommended material.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team project</strong><br/><p>Students will work on the conceptual design of a medical device based on a real clinical need. Students will apply medical device engineering practices learned throughout the course. Students will work in teams of 3-5 members. A major assessment component of this course is related to this activity.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Team project</strong>",
+            "topic_description": "Team project Students will work on the conceptual design of a medical device based on a real clinical need. Students will apply medical device engineering practices learned throughout the course. Students will work in teams of 3-5 members. A major assessment component of this course is related to this activity.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
