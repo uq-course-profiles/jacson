@@ -1,0 +1,158 @@
+{
+    "course_title": "Software Engineering Studio: Design, Implement & Test",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE3200-60369-7460",
+    "full_course_code": "CSSE3200-60369-7460",
+    "course_code": "CSSE3200",
+    "class_code": "60369",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply collaboration skills to work effectively as a part of small and large teams on large software projects, including management of versions and merging with the work done by others."
+        },
+        {
+            "number": "LO2.",
+            "description": "Employ inspection techniques to explore, understand and then contribute to complex software systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify the roles of different tools and techniques in large systems, and use them to improve project outcomes."
+        },
+        {
+            "number": "LO4.",
+            "description": "Conduct design in the context of a large project, taking into account other, potentially conflicting, features."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply refactoring techniques where appropriate, e.g. to reconcile decisions with other developers working on the same software."
+        },
+        {
+            "number": "LO6.",
+            "description": "Analyse complex problems and apply design patterns to design contextually appropriate solutions."
+        },
+        {
+            "number": "LO7.",
+            "description": "Apply techniques for validating and ensuring the quality of the software, both during development and in the prevention of regression."
+        },
+        {
+            "number": "LO8.",
+            "description": "Select and employ appropriate software tools for managing the development and maintenance of complex software."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "GIT Exercise",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 2/08/2024 3:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Complete the three git modules on edX, and push a non-breaking commit to the HelloSE project on GitHub during your tutorial session in week 2.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission is in your tutorial session, by showing a demonstrator your contribution to the HelloSE project on GitHub.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Sprint Submissions",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>Week 6</p>\n<p>Week 8</p>\n<p>Week 10</p>\n<p>Week 12</p>\n<p>Submission is due at 3:00 pm the day before your studio session in the indicated weeks.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Feature teams must deliver one or more improvements to the software in each development sprint.</p>\n<p> The project will be submitted via four sprints over the course of the semester. These sprint submissions are:</p>\n<ul>\n<li>Week 6: Minimum Viable Product (MVP) — The studio must deliver a game that demonstrates the feasibility of your overall design and core game play mechanics.</li>\n<li>Week 8: Core Game Features — The studio must deliver a playable game with an end condition that demonstrates the core features of your game design.</li>\n<li>Week 10: Full Game Delivery — The studio must deliver a complete game that includes all aspects of game play.</li>\n<li>Week 12: Polished Game — The studio must deliver a refined game that delivers the entire game play experience from your design.</li>\n</ul>\n<p>Your feature team must have contributed an important component of the game in each sprint. Your submission is due at 15:00 the day <strong>before</strong> your studio session in <strong>each</strong> of the weeks indicated above. All project artefacts (code, tests, documentation, audio and image resources) are to be pushed to the source code repository. Project documentation must be in the ticket management system or project wiki. You will also submit a summary of your team's achievements for each sprint via a link that will available on BlackBoard.</p>\n<p> Your work will be assessed for its</p>\n<ul>\n<li>quantity (in terms of how much it contributes to the system as a whole),</li>\n<li>quality (including data and functional design, code style, etc),</li>\n<li>how well the work is integrated into the system,</li>\n<li>appropriate use of software design, implementation and validation techniques and tools (based on evidence of design activities, use of patterns, etc),</li>\n<li>testing,</li>\n<li>documentation, and</li>\n<li>whether your work, and manner of working, facilitated the progress of the overall project.</li>\n</ul>\n<p>You will also be assessed based on how effectively you have contributed as a member of your feature team, and the studio as a whole. Your contribution to your feature team's submission will also be evaluated by a peer assessment. Details about marking criteria for each sprint will be made available on Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Code, artefacts and other materials, such as evidence of design activities are to be submitted via the course source code repository and associated facilities (wiki, issue tracker) on GitHub. A summary of your team's achievements for each sprint will be submitted via a link that will available on BlackBoard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>All team submissions received after the one-hour grace period will either; (1) receive a zero mark (or failing grade), or (2) if an earlier snapshot of the team’s work was submitted then this will instead be graded.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Course Content Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 8/10/2024 2:00 pm</p>\n<p>\n</p><p>During the week 11 Lecture</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During the week 11 lecture you will be given a quiz to assess your understanding of the content delivered over the semester.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Quiz will be completed online in the lecture time slot. The quiz will be submitted by submission through a link on BlackBoard at the end of the allocated time for the quiz.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Individual Portfolio",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 25/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will prepare an individual portfolio describing the contributions you have made to the project over the <strong>entire</strong> semester. You should <strong>not</strong> list everything you have done, you need to select work items that demonstrate your contributions over the entire semester. Your portfolio should highlight the quality of your work and the consistency of your contributions to the project. The portfolio can include sketches, notes and other materials used during design or implementation.</p>\n<p>Your portfolio should reflect on the work you have done, including challenges faced, solutions considered and employed, and on what has or has not worked, both from the perspective of addressing technical requirements, and from the point of view of working within your team.</p>\n<p>You will submit the portfolio via a link on Blackboard. More details will be provided during semester.</p>\n<p>You should be developing and documenting this portfolio throughout the semester. Do not wait until the last week of semester to try and create your entire portfolio.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 10(22 Jul - 06 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Sessions</strong><br><p>These are opportunities to explore how the lecture content can be applied in practice so that you can use the material effectively in your project work.</p></br></p></div></td>",
+            "topic_title": "<strong>Tutorial Sessions</strong>",
+            "topic_description": "Tutorial Sessions These are opportunities to explore how the lecture content can be applied in practice so that you can use the material effectively in your project work.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(22 Jul - 20 Oct)",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Studio Sessions</strong><br><p>These are an active learning environment requiring your participation throughout the semester.</p></br></p></div></td>",
+            "topic_title": "<strong>Studio Sessions</strong>",
+            "topic_description": "Studio Sessions These are an active learning environment requiring your participation throughout the semester.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(22 Jul - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures",
+            "learning_outcomes": []
+        }
+    ]
+}
