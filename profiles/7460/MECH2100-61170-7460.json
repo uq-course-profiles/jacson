@@ -1,0 +1,234 @@
+{
+    "course_title": "Machine Element Design",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2100-61170-7460",
+    "full_course_code": "MECH2100-61170-7460",
+    "course_code": "MECH2100",
+    "class_code": "61170",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Design and analyse mechanical systems - Select the most appropriate engineering materials for mechanical parts."
+        },
+        {
+            "number": "LO2.",
+            "description": "Design and analyse mechanical systems - Calculate the operating stresses for common machine elements using mechanical engineering science."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design and analyse mechanical systems - Understand the main modes of failure for mechanical parts and design components against these modes of failure."
+        },
+        {
+            "number": "LO4.",
+            "description": "Design and analyse mechanical systems - Demonstrate the ability to comprehend detailed engineering drawings of mechanical components."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design and analyse mechanical systems - Separate a complex machine into elements that can be analysed and designed by using mechanical engineering science."
+        },
+        {
+            "number": "LO6.",
+            "description": "Design a power transmission system - Design spur, helical, bevel and worm gears."
+        },
+        {
+            "number": "LO7.",
+            "description": "Design a power transmission system - Design rotating shafts for power transmission."
+        },
+        {
+            "number": "LO8.",
+            "description": "Design a power transmission system - Select V-belts and chains."
+        },
+        {
+            "number": "LO9.",
+            "description": "Design a power transmission system - Design/select elements such as keys, seals, couplings and bearings."
+        },
+        {
+            "number": "LO10.",
+            "description": "Design machine frames and mechanical structures - Size and select fasteners appropriate for a given application."
+        },
+        {
+            "number": "LO11.",
+            "description": "Design machine frames and mechanical structures - Design bolted connections."
+        },
+        {
+            "number": "LO12.",
+            "description": "Design machine frames and mechanical structures - Design welded joints loaded in different ways."
+        },
+        {
+            "number": "LO13.",
+            "description": "Design machine frames and mechanical structures - Calculate the operating stresses for welded steel structures and produce fatigue life estimations."
+        },
+        {
+            "number": "LO14.",
+            "description": "Demonstrate attributes of a professional engineer - Use systems engineering principles to design mechanical systems."
+        },
+        {
+            "number": "LO15.",
+            "description": "Demonstrate attributes of a professional engineer - Understand the social and environmental responsibilities of a mechanical  designer."
+        },
+        {
+            "number": "LO16.",
+            "description": "Demonstrate attributes of a professional engineer - Apply principles of sustainable design."
+        },
+        {
+            "number": "LO17.",
+            "description": "Demonstrate attributes of a professional engineer - Articulate and explain the processes that produce a successful design."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Blackboard tests",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 29/07/2024 - 25/10/2024</p>\n<p>\n</p><p>The due time is 4:00pm.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The test questions will be released in advanced of the tutorial. Blackboard tests are due by 4:00pm on the Friday two weeks followng the tutorial.</p>\n<p>For example, the test realeased in Week 2, is due on the Friday of Week 4 at 4:00pm.</p>\n<p>More details will be published on Blackboard. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>On-line assessment through Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Gearbox Design",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 20/09/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L09, L14, L15, L16, L17",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Product/ Design, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, you will design a gearbox, including gears, shafts, bearings, keys, and keyseats. Each student will have the same project assignment; however, the data will be customised so that no two projects will be the same. You will enter the results of your computations into the Assignment #1 template worksheet and submit your completed sheet through Blackboard. After your first submission is marked, the feedback and a different data set will be emailed to you. You may try again with a different data set; however, you must submit your second attempt within 4 calendar days after receiving your score and feedback. Your mark for this assessment will be the best of the two submissions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit electronically.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Welded Structure Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 18/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L10, L11, L12, L13, L17",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Product/ Design, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, you will compute forces and the joint stresses in a simple welded structure. The structure is subject to cyclical loads and you will be asked to assess the fatigue strength of the structure. Each student will have the same project assignment; however, the data will be customised so that no two projects will be the same. You will enter the results of your computations into the Assignment #2 template worksheet and submit it electronically. After your first submission marked, the feedback and a different data set will be emailed to you. You may try again with a different data set; however, you must submit your second attempt within 4 calendar days after receving your score and feedback. Your mark for this assessment will be the best of the two submissions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit electronically.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam will have multi-choice questions similar to the Blackboard tutorial questions. This will be a closed-book exam. The exam script will include formula pages. </p>\n<p><strong>IMPORTANT </strong>- You must get 40% or higher in the final examination to pass this course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>The lectures (L) will mainly review failure modes of materials, and then apply this knowledge to design of bolts, welds, gears, shafts etc. The professional responsibilities of the designer will be emphasized. The lecture schedule and notes will be posted on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures The lectures (L) will mainly review failure modes of materials, and then apply this knowledge to design of bolts, welds, gears, shafts etc. The professional responsibilities of the designer will be emphasized. The lecture schedule and notes will be posted on Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(29 Jul - 27 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial classes</strong><br><p>Design tutorials will provide assistance with the Assignments and the Blackboard quizzes. Be sure you attend them, especially if you have questions.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17</p></div></td>",
+            "topic_title": "<strong>Tutorial classes</strong>",
+            "topic_description": "Tutorial classes Design tutorials will provide assistance with the Assignments and the Blackboard quizzes. Be sure you attend them, especially if you have questions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17"
+            ]
+        }
+    ]
+}
