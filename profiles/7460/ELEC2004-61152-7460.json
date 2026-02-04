@@ -1,0 +1,318 @@
+{
+    "course_title": "Circuits, Signals & Systems",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC2004-61152-7460",
+    "full_course_code": "ELEC2004-61152-7460",
+    "course_code": "ELEC2004",
+    "class_code": "61152",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain and be able to apply linear circuit theorems and circuit analysis methods such as mesh current and node voltage"
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain operating principle of operational amplifiers and be able to build and analyse the circuits containing operational amplifiers"
+        },
+        {
+            "number": "LO3.",
+            "description": "To be able to evaluate and analyse the time responses of switching circuits containing a resistor, a single capacitor and/or an inductor"
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse the response of a resistor / inductor /capacitor circuits to an AC excitation of a single frequency"
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse the power in resistor / inductor /capacitor circuits excited by a single frequency of AC"
+        },
+        {
+            "number": "LO6.",
+            "description": "Intuitively generate the frequency response (Bode plot) of a known circuit and be able to interpret the frequency response (Bode plot) of an unknown circuit"
+        },
+        {
+            "number": "LO7.",
+            "description": "Build and analyse electronic circuits with resistors, capacitors and inductors"
+        },
+        {
+            "number": "LO8.",
+            "description": "Be able to effectively use Laplace and Fourier transforms in circuit analysis"
+        },
+        {
+            "number": "LO9.",
+            "description": "Explain the concept of transfer functions and be able to use them in circuit analysis"
+        },
+        {
+            "number": "LO10.",
+            "description": "Design circuits to generate transfer functions"
+        },
+        {
+            "number": "LO11.",
+            "description": "Build and verify electronic circuits to implement transfer functions"
+        },
+        {
+            "number": "LO12.",
+            "description": "Be able to collaboratively work for design and implement filters"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Practical lab work",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Prac Worksheet 1 -  Week 2 Wed - Week 3 Fri</p>\n<p>Prac Worksheet 2 -  Week 4 Thu - Week 5 Fri</p>\n<p>Design project -  Week 6 Wed - Week 11 Fri</p>\n<p>\n</p><p>Prac worksheets due during the lab sessions 1 and 2; Design report due on Oct 24, 4pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment item comprises of 2 main components: (i) Prac worksheets for Labs 1 and 2 that are to be completed and marked during the prac sessions; (ii) design challenge will run over 3 prac sessions and will involve preparation and submission of a design challenge report. Details are as follows:</p>\n<p>1. Prac worksheets (10%): </p>\n<p>Each student will attend 2 prac sessions during weeks 2 to 5. The prac worksheets for pracs 1 and 2 will be available on Blackboard in week 1. Students will be required to follow the prac worksheets to complete all the specified tasks and answer all the questions given in prac worksheets. The completed worksheets will need to be submitted at the end of prac sessions for marking or will be marked during the prac session. The 2 prac worksheets will be on the following topics:</p>\n<p>Prac worksheet 1 (weeks 2 and 3): Operational Amplifiers- Compare the real world characteristics of a widely used op-amp to its specification. Measure and compare bias currents, offset voltage, input impedance, output impedance, saturation, gain bandwidth, CMRR. Weight: 5%</p>\n<p>Prac worksheet 2 (weeks 4 and 5): RLC Circuits- Compare the real world responses of series and parallel RLC circuits with the calculated responses. Measure and compare for step, ramp and sinusoidal inputs. Weight: 5%</p>\n<p>2. Design challenge report (20%):</p>\n<p>A 15 page report jointly written with a lab partner on the solution to the Design Challenge, including theoretical grounding, design basis, experimental results and discussion. Details of the report format are available for download from the course web page. To be submitted on Thursday of week 13, by 4 pm. <strong>Due date: October 24, 4pm via Blackboard</strong></p>\n<p>Only electronic submission is required. Electronic submission is to be made through Blackboard Turnitin. Hardcopy submission is not required. Only one submission per group is required.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission of Design Challenge report will be through Blackboard. Prac 1 and 2 worksheets will be completed and marked during the prac sessions that will run during weeks 2 to 5.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Homework Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Homework 1 16/08/2024 4:00 pm</p>\n<p>Homework 2 30/08/2024 4:00 pm</p>\n<p>Homework 3 4/10/2024 4:00 pm</p>\n<p>Homework 4 18/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be 4 Homework Assignments to be completed individually by each student. The Homework <em>problem sheets</em> will be available on Blackboard as per the following schedule. The due dates are also listed. The completed handwritten solutions to the Homework Assignments are to be scanned and uploaded through Bb:</p>\n<p><em>Homework 1:</em> available on Blackboard on Friday, August 9; Submission due date: August 16, 4 pm.</p>\n<p><em>Homework 2:</em> available on Blackboard on Friday, August 23; Submission due date: August 30, 4pm.</p>\n<p><em>Homework 3:</em> available on Blackboard on Friday, September 20; Submission due date: October 4, 4pm.</p>\n<p><em>Homework 4:</em> available on Blackboard on Friday, October 11; Submission due date: October 18, 4pm.</p>\n<p>Each Homework Assignment will contain 2-3 problems. Problems will be based on the lectures, class/workshop exercises and tutorials.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Homework submission through Blackboard assignment links. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In-Semester Theory Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 3/09/2024 8:00 am</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam will comprise of 3-4 problems based on the circuits part of the course. This exam will be timed, on-campus, invigilated and closed-book. All students will attempt the exam at the same time. The exam venue will be advised closer to the exam date.  </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam will comprise of multi-part system design problems covering material from throughout sections I and II.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction, Network Analysis, dependent sources</strong><br/></p></div></td>",
+            "topic_title": "<strong>Introduction, Network Analysis, dependent sources</strong>",
+            "topic_description": "Introduction, Network Analysis, dependent sources",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 3",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Operational Amplifiers</strong><br/></p></div></td>",
+            "topic_title": "<strong>Operational Amplifiers</strong>",
+            "topic_description": "Operational Amplifiers",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Operational Amplifiers</strong><br/></p></div></td>",
+            "topic_title": "<strong>Operational Amplifiers</strong>",
+            "topic_description": "Operational Amplifiers",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Circuit Theorems</strong><br/></p></div></td>",
+            "topic_title": "<strong>Linear Circuit Theorems</strong>",
+            "topic_description": "Linear Circuit Theorems",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capacitors and Inductors, RL and RC Circuits</strong><br/><p>Lecture will discuss Capacitors, Inductors, RL and RC Circuits.</p></p></div></td>",
+            "topic_title": "<strong>Capacitors and Inductors, RL and RC Circuits</strong>",
+            "topic_description": "Capacitors and Inductors, RL and RC Circuits Lecture will discuss Capacitors, Inductors, RL and RC Circuits.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capacitors and Inductors, RL and RC Circuits</strong><br/></p></div></td>",
+            "topic_title": "<strong>Capacitors and Inductors, RL and RC Circuits</strong>",
+            "topic_description": "Capacitors and Inductors, RL and RC Circuits",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 5",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>RLC Circuits Lab</strong><br/></p></div></td>",
+            "topic_title": "<strong>RLC Circuits Lab</strong>",
+            "topic_description": "RLC Circuits Lab",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>RLC Circuits</strong><br/></p></div></td>",
+            "topic_title": "<strong>RLC Circuits</strong>",
+            "topic_description": "RLC Circuits",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>RLC Circuits Tutorial</strong><br/></p></div></td>",
+            "topic_title": "<strong>RLC Circuits Tutorial</strong>",
+            "topic_description": "RLC Circuits Tutorial",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>AC Steady State Analysis</strong><br/></p></div></td>",
+            "topic_title": "<strong>AC Steady State Analysis</strong>",
+            "topic_description": "AC Steady State Analysis",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 11",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Design Challenge (weeks 1 and 2)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Design Challenge (weeks 1 and 2)</strong>",
+            "topic_description": "Design Challenge (weeks 1 and 2)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>AC Power, Frequency Response</strong><br/></p></div></td>",
+            "topic_title": "<strong>AC Power, Frequency Response</strong>",
+            "topic_description": "AC Power, Frequency Response",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to signals and systems</strong><br/></p></div></td>",
+            "topic_title": "<strong>Introduction to signals and systems</strong>",
+            "topic_description": "Introduction to signals and systems",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laplace Transform</strong><br/></p></div></td>",
+            "topic_title": "<strong>Laplace Transform</strong>",
+            "topic_description": "Laplace Transform",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laplace Transform</strong><br/></p></div></td>",
+            "topic_title": "<strong>Laplace Transform</strong>",
+            "topic_description": "Laplace Transform",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fourier Series and Transform</strong><br/></p></div></td>",
+            "topic_title": "<strong>Fourier Series and Transform</strong>",
+            "topic_description": "Fourier Series and Transform",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fourier Transform Design Question</strong><br/></p></div></td>",
+            "topic_title": "<strong>Fourier Transform Design Question</strong>",
+            "topic_description": "Fourier Transform Design Question",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 12 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Filter Circuits</strong><br/></p></div></td>",
+            "topic_title": "<strong>Filter Circuits</strong>",
+            "topic_description": "Filter Circuits",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 12 To Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Filter Circuits tutorial</strong><br/></p></div></td>",
+            "topic_title": "<strong>Filter Circuits tutorial</strong>",
+            "topic_description": "Filter Circuits tutorial",
+            "learning_outcomes": []
+        }
+    ]
+}
