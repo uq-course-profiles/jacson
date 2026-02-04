@@ -1,0 +1,164 @@
+{
+    "course_title": "Digital System Design",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE4010-60977-7560",
+    "full_course_code": "CSSE4010-60977-7560",
+    "course_code": "CSSE4010",
+    "class_code": "60977",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify basic combinational and sequential circuit blocks used in digital system design along with their VHDL descriptions"
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse a problem description to be solved with digital hardware and breakdown the problem into sub-systems with well-defined functionality"
+        },
+        {
+            "number": "LO3.",
+            "description": "Formulate an end-to-end digital hardware design in VHDL with individual sub-systems defined at suitable abstraction, and integrating the sub-systems to meet the required specifications"
+        },
+        {
+            "number": "LO4.",
+            "description": "Design digital systems via synthesizable VHDL descriptions, Datapath and Controller approach, and model-based design approaches and verify the functionality through simulation, synthesis, and implementation steps on FPGA hardware"
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop testbenches in VHDL to test digital systems for required functionality"
+        },
+        {
+            "number": "LO6.",
+            "description": "Design digital systems optimised for speed/area/power in field programmable gate array (FPGA) based platforms"
+        },
+        {
+            "number": "LO7.",
+            "description": "Design and develop speed/area optimised digital hardware architectures for real-time implementation of digital signal processing algorithms"
+        },
+        {
+            "number": "LO8.",
+            "description": "Present technical details of a design via technical reports and oral presentations"
+        },
+        {
+            "number": "LO9.",
+            "description": "Relate the technology and methods used in your designs to recent findings in literature and suggest improvements"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Laboratory design tasks",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>Familiarisation task 11/08/2025 4:00 pm</p>\n<p>Design task 1 25/08/2025 4:00 pm</p>\n<p>Design task 2 8/09/2025 4:00 pm</p>\n<p>Design task 3 22/09/2025 4:00 pm</p>\n<p>Design task 4 13/10/2025 4:00 pm</p>\n<p>Design task 5 31/10/2025 4:00 pm</p>\n<p>\n</p><p>For design tasks 1-4, there will be practical demonstrations during the scheduled lab sessions in weeks 5,7,9 and 11, respectively. For Design Task 5 there will be no demonstration. Instead, students will be required to submit their source design files.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09",
+            "mode": "Oral, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Laboratory work consists of weekly practicals leading to a sequence of 6 assessment tasks with their contribution towards final course mark as indicated below:</p>\n<p>Familiarisation task: 6% (report)</p>\n<p>Design task 1: 8% (report+demonstration)</p>\n<p>Design task 2: 8% (report+demonstration)</p>\n<p>Design task 3: 8% (report+demonstration)</p>\n<p>Design task 4: 8% (report+demonstration)</p>\n<p>Design task 5: 12% (report)</p>\n<p>For each task, students are required to submit a report in PDF format via Blackboard. For design tasks 1-4, there will be an identity verified oral assessment as well, where you will need to demonstrate your designs to the teaching staff and answer questions. For design tasks 1-4 students will be assessed both on the report and demonstration of work. For Design Task 5 there will be no demonstration. Instead, students will be required to submit their source design files which will be considered/checked during marking. Refer to the detailed outline of teaching activities on the course Blackboard site for more details. </p>\n<p><strong>The Use of AI tools</strong></p>\n<p>These lab-based assessment items haveﾠbeen designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.ﾠ</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Report submission via Blackboard. There will also be practical demonstrations during the scheduled lab sessions in weeks 5,7,9, and 11 respectively. For Design Task 5 there will be no demonstration. Instead, students will be required to submit their source design files which will be considered/checked during marking.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06, L07, L09",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This final examination tests all the material covered in this course during the whole semester. The emphasis is on testing your design problem solving skills.</p>\n<p><strong>The Use of AI tools</strong></p>\n<p>The final exam is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.</p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br><p>One 2-hour lecture per week. Refer to the detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on lecture location. Lectures will be recorded and made available on Blackboard, however there is no guarantee that the recordings will always work. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Lecture</strong>",
+            "topic_description": "Lecture One 2-hour lecture per week. Refer to the detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on lecture location. Lectures will be recorded and made available on Blackboard, however there is no guarantee that the recordings will always work.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/><p>One 1-hour applied class per week, problem solving and applied examples are discussed.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class One 1-hour applied class per week, problem solving and applied examples are discussed.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br/><p>One 2-hour lab session per week. Practicals sessions will be conducted in-person at 47-401. You must sign up for one prac session out of the sessions available. It is highly recommended that you do the required background work and complete the tasks as much as you can before attending the practical classes. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals One 2-hour lab session per week. Practicals sessions will be conducted in-person at 47-401. You must sign up for one prac session out of the sessions available. It is highly recommended that you do the required background work and complete the tasks as much as you can before attending the practical classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        }
+    ]
+}
