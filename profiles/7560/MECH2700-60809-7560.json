@@ -1,0 +1,174 @@
+{
+    "course_title": "Computational Engineering & Data Analysis",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2700-60809-7560",
+    "full_course_code": "MECH2700-60809-7560",
+    "course_code": "MECH2700",
+    "class_code": "60809",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Formulate mathematical models of systems and problems encountered in engineering practice and theory."
+        },
+        {
+            "number": "LO2.",
+            "description": "Construct mathematical models from approximate descriptions of systems and problems encountered in engineering practice and theory."
+        },
+        {
+            "number": "LO3.",
+            "description": "Select or develop numerical methods to analyse the behaviour of mathematical models for engineering systems and problems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Select or develop numerical methods to effectively analyse engineering data."
+        },
+        {
+            "number": "LO5.",
+            "description": "Compose computer programs to implement numerical methods and understand basic software development, testing and maintenance practices in a Python environment."
+        },
+        {
+            "number": "LO6.",
+            "description": "Interpret the results of a numerical analysis in terms of the behaviour of the physical system or problem that is being studied."
+        },
+        {
+            "number": "LO7.",
+            "description": "Evaluate the performance of a numerical analysis in terms of the theoretical accuracy, convergence, sensitivity to inputs and computational efficiency."
+        },
+        {
+            "number": "LO8.",
+            "description": "Formally and succinctly report on the results of a numerical analysis in written and graphical format."
+        },
+        {
+            "number": "LO9.",
+            "description": "Understand the language and notation used in the numerical analysis literature and be able to apply new approaches to study mathematical models."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly Applied Classes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Due weekly at 4 pm Friday from Week 2</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Short weekly theoretical and/or coding tasks to apply the analysis techniques discussed in lectures to engineering problems. Each weekly task is due at 4pm Friday of the given week.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission for the programming task will be through Gradescope, where an autograder will be applied. As such, strict naming conventions for files and functions are specified in each Exercise sheet. The theoretical task will be submitted through a multi-choice/short-form quiz on Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 12/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An exercise in modelling and programming that will require submission to be described on Blackboard. You are to do this exercise individually and you are welcome to ask questions in the computer lab (ICT) sessions.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your assignment should be submitted as a single PDF document plus a set of Python source code files that can be run for verification. The source code should include a README file that describes how your code can be executed to produce your submitted results. A link for submission will be provided on BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 31/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A larger exercise in modelling and programming that will require submission as to be detailed on Blackboard. You are to do this exercise in pairs (or individually) and you are welcome to ask questions in the computer lab (ICT) sessions.</p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your assignment should be submitted as a single PDF document plus a set of Python source code files that can be run for verification. The source code should include a README file that describes how your code can be executed to produce your submitted results. A link for submission will be provided on BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures - Modelling and Numerical Methods</strong><br><p>This Learning Activity will cover the following topics:</p>\n<p>Week 1 - Course introduction. Problem solving; A numerical approach. Floating-point numbers and error. </p>\n<p>Week 2 - Interpolation (High-order polynomials, Lagrange basis functions, Chebyshev points). Good programming practices.</p>\n<p>Week 3 - Numerical differentiation (Finite difference formulas and associated errors).</p>\n<p>Week 4 - Numerical integration (Newton-Cotes formulas-Trapezoidal rule, Simpson's 1/3 rule, etc., Composite quadrature).</p>\n<p>Week 5 - Direct solutions to linear systems (Gauss-Jordan elimination, LU decomposition).</p>\n<p>Week 6 - Iterative solutions to linear systems (Jacobi, Gauss-Seidel, Relaxation methods, Least-Squares approach for over-constrained systems).</p>\n<p>Week 7 - Numerical solutions to ODEs (Euler's, Modified Euler's, Runge-Kutta, Runge-Kutta-Fehlberg, Systems of Equations).</p>\n<p>Week 8 - Solving non-linear equations (Bisection, Fixed-Point Iteration, Gradient-based methods).</p>\n<p>Week 9 - Data fitting and optimisation (Least-squares, Chebyshev polynomials, Golden search, Bracketing).</p>\n<p>Week 10 - Intro to numerical solutions of PDEs and Parabolic PDEs (Classifications, finite difference schemes, diffusion problems).</p>\n<p>Week 11 - Parabolic PDEs conti. and Hyperbolic PDEs (Boundary conditions, stability of parabolic PDE solutions, Wave equation). </p>\n<p>Week 12 - Nonlinear Hyperbolic PDEs and Elliptic PDEs (Euler equations, inviscid Burgers equation, shocks, boundary value problems, solution approaches).</p>\n<p>Week 13 - Semester review and feedback.</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures - Modelling and Numerical Methods</strong>",
+            "topic_description": "Lectures - Modelling and Numerical Methods This Learning Activity will cover the following topics: Week 1 - Course introduction. Problem solving; A numerical approach. Floating-point numbers and error. Week 2 - Interpolation (High-order polynomials, Lagrange basis functions, Chebyshev points). Good programming practices. Week 3 - Numerical differentiation (Finite difference formulas and associated errors). Week 4 - Numerical integration (Newton-Cotes formulas-Trapezoidal rule, Simpson's 1/3 rule, etc., Composite quadrature). Week 5 - Direct solutions to linear systems (Gauss-Jordan elimination, LU decomposition). Week 6 - Iterative solutions to linear systems (Jacobi, Gauss-Seidel, Relaxation methods, Least-Squares approach for over-constrained systems). Week 7 - Numerical solutions to ODEs (Euler's, Modified Euler's, Runge-Kutta, Runge-Kutta-Fehlberg, Systems of Equations). Week 8 - Solving non-linear equations (Bisection, Fixed-Point Iteration, Gradient-based methods). Week 9 - Data fitting and optimisation (Least-squares, Chebyshev polynomials, Golden search, Bracketing). Week 10 - Intro to numerical solutions of PDEs and Parabolic PDEs (Classifications, finite difference schemes, diffusion problems). Week 11 - Parabolic PDEs conti. and Hyperbolic PDEs (Boundary conditions, stability of parabolic PDE solutions, Wave equation). Week 12 - Nonlinear Hyperbolic PDEs and Elliptic PDEs (Euler equations, inviscid Burgers equation, shocks, boundary value problems, solution approaches). Week 13 - Semester review and feedback.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(28 Jul - 26 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact - Weekly interactive problem-solving</strong><br><p>Weekly workshops that begin with a physical engineering problem and work through the entire problem-solving process from defining the problem, to coding up the solution and interpreting the results, getting input from the class at every stage.</p></br></p></div></td>",
+            "topic_title": "<strong>Contact - Weekly interactive problem-solving</strong>",
+            "topic_description": "Contact - Weekly interactive problem-solving Weekly workshops that begin with a physical engineering problem and work through the entire problem-solving process from defining the problem, to coding up the solution and interpreting the results, getting input from the class at every stage.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(04 Aug - 02 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Computer Lab Sessions</strong><br><p>To achieve the learning objectives of the course, you will need to work through weekly problem sets on solving engineering problems using numerical methods. This involves writing and executing code and interpreting the results. In order to do this at a time when applied class assistance is available, you will need to attend one of the lab sessions that will be held each week. Sessions ICT01-07 will be held in computer labs with the relevant course software. Please note ICT08-09 are designed in Bring Your Own Device rooms so students will need a device able to run Python code to make the most of these sessions.</p></br></p></div></td>",
+            "topic_title": "<strong>Computer Lab Sessions</strong>",
+            "topic_description": "Computer Lab Sessions To achieve the learning objectives of the course, you will need to work through weekly problem sets on solving engineering problems using numerical methods. This involves writing and executing code and interpreting the results. In order to do this at a time when applied class assistance is available, you will need to attend one of the lab sessions that will be held each week. Sessions ICT01-07 will be held in computer labs with the relevant course software. Please note ICT08-09 are designed in Bring Your Own Device rooms so students will need a device able to run Python code to make the most of these sessions.",
+            "learning_outcomes": []
+        }
+    ]
+}
