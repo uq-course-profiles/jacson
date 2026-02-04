@@ -1,0 +1,175 @@
+{
+    "course_title": "Analytical Methods for the Design of Construction Operations",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL4522-61029-7560",
+    "full_course_code": "CIVL4522-61029-7560",
+    "course_code": "CIVL4522",
+    "class_code": "61029",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the fundamental theoretical and practical aspects of computer modelling and simulation of construction operations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify the primary factors to be considered in formulating the problems and plan of an analytical and simulation-based study."
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify the performance measures to be used to evaluate the efficacy of different construction system configurations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Design suitable data collection methods on construction operating procedures."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use effective verbal, non-verbal, written, and computer skills to provide the subject-matter expert and public with meaningful technical analysis of the construction operations."
+        },
+        {
+            "number": "LO6.",
+            "description": "Successfully work within a team to prepare a case study and report that information in a clear, concise, timely and professional manner"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1: Design and Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 25/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Design and Analysis Assignment is an individual assignment that allows students to practice applying the concepts and knowledge covered in the lecture and computer lab sessions to develop further and explore these ideas/methods. Students are tasked to design and build a discrete-event or agent simulation model of given operations while conducting analysis with presenting results.</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.<strong> Students must clearly reference any use of AI or MT in each instance.</strong></p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment must be submitted through the course BlackBoard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2a: Presentation (Team)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 27/10/2025 12:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The presentation aims to demonstrate how your team could improve chosen operations using analytical methods and simulation techniques in the provided construction project. The presentation should include your verification and validation methods used in the analysis.</p>\n<p>Each team must give a 15-minute-long presentation. Every member of the team must participate in the presentation. 15% (out of 25%) of the mark is based on the overall team performance, and 10% (out of 25%) is for each individual.</p>\n<ul>\n<li>The presentation will be recorded for re-mark purposes if required.</li>\n<li>The recording will be stored and treated in confidence.</li>\n<li>The recording will be retained for at least 1 year after the release of course grades.</li>\n<li>The recording will only be accessed for the purposes of moderation of marking; provision of feedback; or re-marking following a successful re-mark application.</li>\n</ul>\n<p>The presentations will be made during the LEC/ICT class in Week 13.</p>\n<p>This assessment task is to be completed in-person.</p>\n<p><br/></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Not a submissible item.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 2b: Operations Analysis Report (Team)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 31/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project report task is to demonstrate the design and analysis of the chosen operations presented in Assignment 2a. This Assignment aims to show detailed analyses conducted with results. Simulation models used in the analysis are also required to submit.</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.<strong> Students must clearly reference any use of AI or MT in each instance.</strong></p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment must be submitted through the course BlackBoard site</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will be a computer exam. You will be provided with the description of operations and be required to build a discrete-event or agent-based simulation using AnyLogic software. You will then need to find an optimal solution for the given operations. The accuracy and completion of the model, as well as the optimal operational setting, will be assessed.</p>\n<p>The following will be assessed:</p>\n<ul>\n<li>Accuracy and completion of task</li>\n<li>Model complexity and readability</li>\n<li>Experiment design + results and data generation</li>\n</ul>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>AnyLogic simulation model is submitted to Learn.UQ.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Analytical Methods for the Desg of Const Ops</strong><br><p>The lectures will introduce the theory and the practice of analytical and computer simulation techniques.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Analytical Methods for the Desg of Const Ops</strong>",
+            "topic_description": "Analytical Methods for the Desg of Const Ops The lectures will introduce the theory and the practice of analytical and computer simulation techniques.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 13(18 Aug - 02 Nov)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop / Computer Lab</strong><br><p>The computer lab sessions will provide students with the opportunity to practice statistical analysis and simulation modelling by applying the fundamentals and methods presented in the lectures. Students will work in teams for the project assessment tasks.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Workshop / Computer Lab</strong>",
+            "topic_description": "Workshop / Computer Lab The computer lab sessions will provide students with the opportunity to practice statistical analysis and simulation modelling by applying the fundamentals and methods presented in the lectures. Students will work in teams for the project assessment tasks.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
