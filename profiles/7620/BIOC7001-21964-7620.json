@@ -1,0 +1,169 @@
+{
+    "course_title": "Advanced Molecular Biology Laboratory",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOC7001-21964-7620",
+    "full_course_code": "BIOC7001-21964-7620",
+    "course_code": "BIOC7001",
+    "class_code": "21964",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Competently carry out laboratory protocols."
+        },
+        {
+            "number": "LO2.",
+            "description": "Maintain accurate and legible records of experimental procedures."
+        },
+        {
+            "number": "LO3.",
+            "description": "Interpret and critically appraise experimental results."
+        },
+        {
+            "number": "LO4.",
+            "description": "Successfully communicate the experimental findings."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop workable plans to achieve experimental goals utilising molecular biology."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Laboratory Participation and Experimental Plans",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20% for experimental plans (5% per plan); pass/fail for participation </dd>",
+            "due_date": "<dd><p>Experimental Plan 1 12/03/2026 2:00 pm</p>\n<p>Experimental Plan 2 26/03/2026 2:00 pm</p>\n<p>Experimental Plan 3 16/04/2026 2:00 pm</p>\n<p>Experimental Plan 4 7/05/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Activity/ Performance, Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment item has two components:</p>\n<ol>\n<li>An assessment of <strong>participation and good lab citizenship</strong> in each lab session <strong>(Pass/Fail)</strong>.</li>\n<li>Written <strong>Experimental Plans 1-4</strong> <strong>(20%; 5% per plan)</strong></li>\n</ol>\n<p><strong>Participation and good lab citizenship</strong></p>\n<p>In each laboratory session your participation and behaviour will be assessed by your tutor against written criteria. A passing grade for the session will be granted if your average competency is rated at \"Competent with supervision\" or better. A passing grade for the course will be awarded if you achieve a pass in ≥75% of the lab sessions. For details on the criteria and the marking see the BIOC7001 Protocol Booklet.</p>\n<p><strong>Experimental Plans</strong></p>\n<p>You will be expected to draft a short (1 A4 page) Experimental Plan that outlines how you intend to complete a specific experimental task. Each plan will be submitted approximately 1 week before the activities it describes will be attempted in the lab.</p>\n<ul>\n<li>Experimental Plan 1: Colony PCR</li>\n<li>Experimental Plan 2: DNA sequencing</li>\n<li>Experimental Plan 3: Protein expression</li>\n<li>Experimental Plan 4: Enzyme assays</li>\n</ul>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><strong>Practical absences (complete details in Blackboard)</strong></p>\n<p>You must complete 100% of the laboratory component of this course (Assessment Hurdles - under Additional Course Grading Information).</p>\n<p>If you cannot complete your timetabled practical session because of circumstances beyond your control (e.g., illness), you must submit an online practical absence request through the Practical Absences link in Blackboard and attach supporting documentation that covers the date of the missed practical. There are limits to the number of applications you may submit (please see Blackboard for details).</p>\n<p>Applications must be received within 24 hours of your practical session.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Each Experimental Plan must be submitted via the appropriate Turnitin submission point found on the course Blackboard site. Late penalties will apply if your submission is late. It is your responsibility to check that each document is correctly submitted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In Silico Cloning & Cloning Strategy",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 30/04/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this assessment you will:</p>\n<ul>\n<li>Design appropriate PCR primers to enable amplification and cloning of the target coding region.</li>\n<li>Create a plasmid map of the construct that you will make.</li>\n<li>Create an annotated flow chart of protocols that will successfully achieve the amplification and cloning of your target protein coding region, plus validate the resultant plasmids.</li>\n</ul>\n<p>You will be assigned a target coding sequence to work with and have a limited range of plasmid vectors to choose from. You will be able to use the SnapGene software to design PCR primers and create a plasmid map. You will be provided with a template for the flow chart, with guiding questions added.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The annotated flow chart must be submitted via the appropriate Turnitin submission point found on the course Blackboard site. It is your responsibility to check that your submitted document is correct. The plasmid construct data file you create must also be submitted by the due date as a SnapGene file (.dna) file to the appropriate Blackboard assessment portal. Late penalties may apply if your submission is late. For the determination of on-time submission, the written submission and the plasmid data file will be treated as a single item (i.e., if one item is late and penalties are applied, they will be applied to both items).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Feasibility Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 28/05/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The enzyme isoforms the class will express and characterise in the lab all have the potential to be used in the production of biofuels. However, differences in enzymatic properties and tolerance of high temperatures may make one variant a better choice.</p>\n<p>You will write a <strong>Feasibility Report</strong> describing how each of the isoforms may (or may not) be suitable for use in an industrial setting. A detailed description of what should be included in the report will be available on the course Blackboard site.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assignment must be submitted via the appropriate Turnitin submission point found on the course Blackboard site. Late penalties will apply if your submission is late. It is your responsibility to check that your submitted document is correct.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End-of-semester written exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L03, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will be an <strong>on-campus, in-person</strong> exam.</p>\n<p>This exam will test your ability to apply the knowledge you have gained throughout the semester.</p>\n<p>N.B. Calculators or a similar device will be required for this exam. These should be of the approved type see: <a href=\"https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculators\">https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculators</a> </p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Lectures</strong><br><p>These lectures will introduce advanced concepts in molecular biology. You will learn how to specifically apply key molecular biological protocols. A more detailed timetable will be posted to Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Weekly Lectures</strong>",
+            "topic_description": "Weekly Lectures These lectures will introduce advanced concepts in molecular biology. You will learn how to specifically apply key molecular biological protocols. A more detailed timetable will be posted to Blackboard.",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(02 Mar - 31 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorials</strong><br><p>These tutorials will be used as a forum to apply knowledge gained in the lectures, provide guidance in using software tools, and review assessment items. When appropriate we will use these session to review and analyse outcomes from the laboratory sessions.</p></br></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Weekly Tutorials</strong>",
+            "topic_description": "Weekly Tutorials These tutorials will be used as a forum to apply knowledge gained in the lectures, provide guidance in using software tools, and review assessment items. When appropriate we will use these session to review and analyse outcomes from the laboratory sessions.",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12(02 Mar - 24 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Heterologous Expression Lab Project</strong><br><p>Weekly laboratory practical sessions in which students will clone a target gene and validate the resultant plasmid constructs and then use these to express a heterologous protein. The expressed protein will then be purified and characterised.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Heterologous Expression Lab Project</strong>",
+            "topic_description": "Heterologous Expression Lab Project Weekly laboratory practical sessions in which students will clone a target gene and validate the resultant plasmid constructs and then use these to express a heterologous protein. The expressed protein will then be purified and characterised.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
