@@ -1,0 +1,572 @@
+{
+    "course_title": "Agronomy",
+    "study_period": "Sem 1 2025",
+    "location": "Gatton",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/AGRC2040-21496-7520",
+    "full_course_code": "AGRC2040-21496-7520",
+    "course_code": "AGRC2040",
+    "class_code": "21496",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Distinguish Australia's agroecological cropping zones and determine appropriate agronomic practices to promote soil health and sustainable crop production."
+        },
+        {
+            "number": "LO2.",
+            "description": "Outline fundamental nutrient and water principles underpinning crop production and assess management practices to improve efficient use of these resources."
+        },
+        {
+            "number": "LO3.",
+            "description": "Integrate agronomic principles with understanding of genotype x environment interactions to improve decision-making in sustainable crop production."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate ability to rapidly synthesise knowledge to develop plausible diagnoses and coherent potential solutions to agronomic problems."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "APSIM assessments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Quiz 1:  25/02/2025 - 4/03/2025</p>\n<p>Quiz 2: 18/03/2025 - 25/03/2025</p>\n<p>Quiz 3: 29/04/2025 - 6/05/2025</p>\n<p>\n</p><p> by 2pm on the last listed due date for each Quiz</p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will complete three computer-based practicals using the APSIM software platform for modelling and simulation of agricultural systems. Each of the practicals has a quiz assessment associated with it. Each quiz is worth 10%, thus accounting for 30% of the course grade when combined. Each quiz must be completed on Blackboard, i.e., students will complete each training exercise within APSIM then complete each quiz on Blackboard.</p>\n<p><strong>Quiz 1:</strong> Based on Exercise 1 (<a href=\"https://www.apsim.info/support/apsim-training-manuals/introduction-to-apsim-ui/\">Introduction to APSIM UI</a>) and Exercise 2 (<a href=\"https://www.apsim.info/support/apsim-training-manuals/surface-organic-matter-the-effect-of-residue-cover-on-soil-water-storage-during-fallow/\">Surface Organic Matter</a>) of the APSIM training manual. Quiz 1 will become available at 2 pm on 25/02/2025 and must be submitted by 2 pm on 04/03/2025.</p>\n<p><strong>Quiz 2:</strong> Based on Exercise 3 (<a href=\"https://www.apsim.info/support/apsim-training-manuals/the-nitrogen-cycle/\">The Nitrogen Cycle</a>) of the APSIM training manual. Quiz 2 will become available at 2 pm on 18/03/2025 and must be submitted by 2 pm on 25/03/2025.</p>\n<p><strong>Quiz 3:</strong> Based on an exercise that explores crop G x E x M interactions. Quiz 3 will become available at 2 pm on 29/04/2025 and must be submitted by 2 pm on 06/05/2025.</p>\n<p>Please note that Quizzes 1 and 2 map to course Learning Objective 2; quiz 3 maps to course Learning Objective 3.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment must be completed within Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Tutorial assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 8/04/2025 - 17/04/2025</p>\n<p>\n</p><p>Scenarios, instructions and data will become available at 10 am on 08/04/2025. The test must be submitted by 4 pm on 17/04/2025.</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be provided with a set of real-life agronomic scenarios, instructions and data that examine topics covered throughout semester in the Tutorials. Students must carefully read each of the scenarios and complete the instructions using the data provided. Once completed, students will complete a computer-based assessment (an online test). The assessment must be completed on Blackboard, i.e., students will do their calculations using Excel then complete the test on Blackboard. </p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment must be completed within Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will complete a final exam covering all topics explored during the course. All questions will require a short essay type response integrating content and knowledge. </p>\n<p>Students must attend the exam in person. The exam will be an on-campus exam, closed book - no written materials permitted but a calculator is permitted. Have your UQ student ID card available for all your exams. </p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course introduction and Characterisation of Australia's agroecological zones</strong><br><p>General course introduction and information session.</p>\n<p>Characterization of Australia's agroecological zones.</p>\n<p>Lecturer: Dr Alwyn Williams</p></br></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Course introduction and Characterisation of Australia's agroecological zones</strong>",
+            "topic_description": "Course introduction and Characterisation of Australia's agroecological zones General course introduction and information session. Characterization of Australia's agroecological zones. Lecturer: Dr Alwyn Williams",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding soil water</strong><br><p>Introduction to APSoil and quantifying plant-available water.</p></br></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Understanding soil water</strong>",
+            "topic_description": "Understanding soil water Introduction to APSoil and quantifying plant-available water.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Residue cover and fallow efficiency</strong><br/><p>Modelling the effects of surface organic matter on fallow efficiency (APSIM).</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Residue cover and fallow efficiency</strong>",
+            "topic_description": "Residue cover and fallow efficiency Modelling the effects of surface organic matter on fallow efficiency (APSIM).",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Healthy soils and the role of organic matter</strong><br/><p>Healthy soils and the role of organic matter.<br/>Lecturer: Dr Alwyn Williams</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Healthy soils and the role of organic matter</strong>",
+            "topic_description": "Healthy soils and the role of organic matter Healthy soils and the role of organic matter. Lecturer: Dr Alwyn Williams",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field-based practical</strong><br><p>Visit field trial on campus.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Field-based practical</strong>",
+            "topic_description": "Field-based practical Visit field trial on campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Soil biology</strong><br/><p>Critical soil organisms, their functions, and the impacts of management.</p>\n<p>Lecturer: Prof Graham Stirling</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Soil biology</strong>",
+            "topic_description": "Soil biology Critical soil organisms, their functions, and the impacts of management. Lecturer: Prof Graham Stirling",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Soil health and nematodes</strong><br/><p>Group activity with data analysis and class discussions.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Soil health and nematodes</strong>",
+            "topic_description": "Soil health and nematodes Group activity with data analysis and class discussions.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Zoom drop-in session</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Zoom drop-in session</strong>",
+            "topic_description": "Zoom drop-in session",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Conservation agriculture, strategic tillage and soil constraints</strong><br/><p>Conservation agriculture and strategic tillage.</p>\n<p>Soil constraints.</p>\n<p>Lecturer: Dr Alwyn Williams</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Conservation agriculture, strategic tillage and soil constraints</strong>",
+            "topic_description": "Conservation agriculture, strategic tillage and soil constraints Conservation agriculture and strategic tillage. Soil constraints. Lecturer: Dr Alwyn Williams",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Soil nitrogen</strong><br/><p>Soil fertility and quantifying soil nitrogen</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Soil nitrogen</strong>",
+            "topic_description": "Soil nitrogen Soil fertility and quantifying soil nitrogen",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The soil nitrogen cycle</strong><br/><p>Modelling the soil nitrogen cycle and estimating NUE and WUE (APSIM).</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>The soil nitrogen cycle</strong>",
+            "topic_description": "The soil nitrogen cycle Modelling the soil nitrogen cycle and estimating NUE and WUE (APSIM).",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crop rotations and legumes</strong><br/><p>Crop rotations.</p>\n<p>Lecturer: Dr Alwyn Williams</p>\n<p>Introduction to legumes.</p>\n<p>Lecturer: Dr Frederik van der Bom</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Crop rotations and legumes</strong>",
+            "topic_description": "Crop rotations and legumes Crop rotations. Lecturer: Dr Alwyn Williams Introduction to legumes. Lecturer: Dr Frederik van der Bom",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Legume nitrogen</strong><br/><p>Quantifying legume nitrogen fixation.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Legume nitrogen</strong>",
+            "topic_description": "Legume nitrogen Quantifying legume nitrogen fixation.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field-based practical</strong><br/><p>Visit field trial on campus.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Field-based practical</strong>",
+            "topic_description": "Field-based practical Visit field trial on campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Zoom drop-in session</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Zoom drop-in session</strong>",
+            "topic_description": "Zoom drop-in session",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Soil organic amendments</strong><br/><p>Soil organic amendments and their application in cropping systems.<br/>Lecturer: Mr Johannes Biala</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Soil organic amendments</strong>",
+            "topic_description": "Soil organic amendments Soil organic amendments and their application in cropping systems. Lecturer: Mr Johannes Biala",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Visit to composting facility</strong><br><p>Excursion to composting facility.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Visit to composting facility</strong>",
+            "topic_description": "Visit to composting facility Excursion to composting facility.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crop nutrition</strong><br/><p>Principles guiding crop nutrition.<br/>Lecturer: Dr Frederik van der Bom</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Crop nutrition</strong>",
+            "topic_description": "Crop nutrition Principles guiding crop nutrition. Lecturer: Dr Frederik van der Bom",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Nitrogen balance</strong><br><p>Balancing nitrogen inputs against nitrogen exports.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Nitrogen balance</strong>",
+            "topic_description": "Nitrogen balance Balancing nitrogen inputs against nitrogen exports.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field-based practical</strong><br/><p>Visit field trial on campus.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Field-based practical</strong>",
+            "topic_description": "Field-based practical Visit field trial on campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Zoom drop-in session</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Zoom drop-in session</strong>",
+            "topic_description": "Zoom drop-in session",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Water-use efficiency</strong><br/><p>Water-use efficiency and crop management.<br/>Lecturer: Dr Alwyn Williams</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Water-use efficiency</strong>",
+            "topic_description": "Water-use efficiency Water-use efficiency and crop management. Lecturer: Dr Alwyn Williams",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Crop water-use efficiency</strong><br><p>Quantifying crop water-use and water-use efficiency.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Crop water-use efficiency</strong>",
+            "topic_description": "Crop water-use efficiency Quantifying crop water-use and water-use efficiency.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field-based practical</strong><br/><p>Visit field trial on campus.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Field-based practical</strong>",
+            "topic_description": "Field-based practical Visit field trial on campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>G x E x M</strong><br/><p>Genotype x Environment (G x E).</p>\n<p>Lecturer: Dr Alwyn Williams</p>\n<p>Genotype x Environment x Management (G x E x M).</p>\n<p>Lecturer: Dr Ismail Garba</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>G x E x M</strong>",
+            "topic_description": "G x E x M Genotype x Environment (G x E). Lecturer: Dr Alwyn Williams Genotype x Environment x Management (G x E x M). Lecturer: Dr Ismail Garba",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Soil carbon and soil health</strong><br/><p>Exploration of the role of soil carbon in soil health.</p>\n<p>Guest lecturer: Dr Yui Osanai</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Soil carbon and soil health</strong>",
+            "topic_description": "Soil carbon and soil health Exploration of the role of soil carbon in soil health. Guest lecturer: Dr Yui Osanai",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Modelling G x E x M</strong><br/><p>Modelling the impacts of G x E x M interactions (APSIM).</p>\n<p>Guest lecturer: Dr Ismail Garba</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Modelling G x E x M</strong>",
+            "topic_description": "Modelling G x E x M Modelling the impacts of G x E x M interactions (APSIM). Guest lecturer: Dr Ismail Garba",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Zoom drop-in session</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Zoom drop-in session</strong>",
+            "topic_description": "Zoom drop-in session",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Precision agriculture</strong><br/><p>Utilising precision agriculture technologies to improve management across the crop cycle.</p>\n<p>Lecturer: Mr Tim Neale (DataFarming)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Precision agriculture</strong>",
+            "topic_description": "Precision agriculture Utilising precision agriculture technologies to improve management across the crop cycle. Lecturer: Mr Tim Neale (DataFarming)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Precision agriculture</strong><br/><p>Utilising precision agriculture technologies to improve management across the crop cycle.</p>\n<p>Lecturer: Mr Tim Neale (DataFarming)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Precision agriculture</strong>",
+            "topic_description": "Precision agriculture Utilising precision agriculture technologies to improve management across the crop cycle. Lecturer: Mr Tim Neale (DataFarming)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Precision agriculture</strong><br/><p>Utilising precision agriculture technologies to improve management across the crop cycle.</p>\n<p>Lecturer: Mr Tim Neale (DataFarming)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Precision agriculture</strong>",
+            "topic_description": "Precision agriculture Utilising precision agriculture technologies to improve management across the crop cycle. Lecturer: Mr Tim Neale (DataFarming)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied crop physiology</strong><br/><p>Using crop physiology to address agronomic problems and establish economic control thresholds.<br/>Lecturer: Dr Joe Eyre</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Applied crop physiology</strong>",
+            "topic_description": "Applied crop physiology Using crop physiology to address agronomic problems and establish economic control thresholds. Lecturer: Dr Joe Eyre",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Proximal sensing tools &amp; digital mapping</strong><br><p>Group activity with data analysis and class discussions.</p>\n<p>Guest lecturer: Dr Dongxue Zhao</p></br></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Proximal sensing tools &amp; digital mapping</strong>",
+            "topic_description": "Proximal sensing tools & digital mapping Group activity with data analysis and class discussions. Guest lecturer: Dr Dongxue Zhao",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field-based practical</strong><br/><p>Visit field trial on campus.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Field-based practical</strong>",
+            "topic_description": "Field-based practical Visit field trial on campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Zoom drop-in session</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Zoom drop-in session</strong>",
+            "topic_description": "Zoom drop-in session",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cotton</strong><br/><p>Cotton physiology and agronomy.<br/>Lecturer: Dr Michael Bange</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Cotton</strong>",
+            "topic_description": "Cotton Cotton physiology and agronomy. Lecturer: Dr Michael Bange",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Designing a cropping sequence</strong><br><p>Group activity with class discussions.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Designing a cropping sequence</strong>",
+            "topic_description": "Designing a cropping sequence Group activity with class discussions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field-based practical</strong><br/><p>Visit field trial on campus.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Field-based practical</strong>",
+            "topic_description": "Field-based practical Visit field trial on campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mixed farming systems and Harvest weed seed management</strong><br/><p>Crop-livestock integration in Australia's mixed farming zone.</p>\n<p>Harvest weed seed management.</p>\n<p>Lecturer: Dr Alwyn Williams</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Mixed farming systems and Harvest weed seed management</strong>",
+            "topic_description": "Mixed farming systems and Harvest weed seed management Crop-livestock integration in Australia's mixed farming zone. Harvest weed seed management. Lecturer: Dr Alwyn Williams",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Zoom drop-in session</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Zoom drop-in session</strong>",
+            "topic_description": "Zoom drop-in session",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
