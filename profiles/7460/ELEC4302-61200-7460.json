@@ -1,0 +1,192 @@
+{
+    "course_title": "Power System Protection",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC4302-61200-7460",
+    "full_course_code": "ELEC4302-61200-7460",
+    "course_code": "ELEC4302",
+    "class_code": "61200",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the requirement of different protection schemes for the proper operation of power system."
+        },
+        {
+            "number": "LO2.",
+            "description": "Recognise factors to be considered when designing a power system protection scheme."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate the operation of various components used in power system protection."
+        },
+        {
+            "number": "LO4.",
+            "description": "Calculate protection settings when designing a protection scheme for a simple power system network and components."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify challenges and current developments in power system protection."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Tutorial submission",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Tutorial submission 1 16/08/2024 3:00 pm</p>\n<p>Tutorial submission 2 4/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Two tutorial assignments need to be completed through Blackboard on Week 4 and Week 10. More information on Tutorial assignment will be available in Blackboard. All submissions are collected through blackboard. Overall worth of these submissions will be 20 marks. The assignments are equally weighted. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Through Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In Semester Exam  - In class invigilated",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 11/09/2024 1:45 pm</p>\n<p>\n</p><p>This is an invigilated exam conducted during the tutorial time. More information will be provided through Blackboard. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In semester exam is based on the contents covered up to week 8. The exam will be scheduled during the tutorial time of week 8. This is a 90 minutes invigilated in class exam. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>In class submission at the end of exam time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A report on software and hardware Laboratory exercise",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 18/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is mainly based on PSCAD simulation exercise. PSCAD training will be provided for 5 weeks starting week 3. More information about the simulation exercise will be available through Blackboard. Student will also engage in two laboratory exercises between weeks 8 -11 where they will be able to test a numerical relay with a relay tester. A completed report based on the simulation exercise and laboratory experience has to be submitted. More information related to structure of the report will be provided through Blackboard. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission through Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will assess all materials presented during the course. This is an invigilated on campus exam. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field visit</strong><br/><p>In this course it is planned that an excursion to a relevant factory or substation will be organised. More information is available through Blackboard. Exact dates will be informed to the students well in advance once the industry confirms the dates. This may be scheduled outside of class hours.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Field visit</strong>",
+            "topic_description": "Field visit In this course it is planned that an excursion to a relevant factory or substation will be organised. More information is available through Blackboard. Exact dates will be informed to the students well in advance once the industry confirms the dates. This may be scheduled outside of class hours.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures on various topics</strong><br/><p>Series of lectures covering fault analysis and various protection schemes used in the power systems. Some of the lectures will be covered by the industry experts. Following topics will be covered in this course : Fault analysis, symmetrical components, Relay operation, Different types of relays, Relay coordination, Unit protection, Instrument Transformers, IEC 61850 requirements, effect of renewables</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lectures on various topics</strong>",
+            "topic_description": "Lectures on various topics Series of lectures covering fault analysis and various protection schemes used in the power systems. Some of the lectures will be covered by the industry experts. Following topics will be covered in this course : Fault analysis, symmetrical components, Relay operation, Different types of relays, Relay coordination, Unit protection, Instrument Transformers, IEC 61850 requirements, effect of renewables",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact sessions</strong><br/><p>Questions on fault calculations and various protection setting calculations will be discussed during these general contact hours.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Contact sessions</strong>",
+            "topic_description": "Contact sessions Questions on fault calculations and various protection setting calculations will be discussed during these general contact hours.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 7",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>PSCAD Simulation</strong><br/><p>Students will learn to use PSCAD software based simulations for checking relay settings for distance and over current protection schemes. More information will be available through Blackboard.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>PSCAD Simulation</strong>",
+            "topic_description": "PSCAD Simulation Students will learn to use PSCAD software based simulations for checking relay settings for distance and over current protection schemes. More information will be available through Blackboard.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hands on experience on relay characteristic</strong><br/><p>Students will test relay characteristics on a Siemens distance protection relay Siprotec 7SA87. More information will be available through Blackboard.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Hands on experience on relay characteristic</strong>",
+            "topic_description": "Hands on experience on relay characteristic Students will test relay characteristics on a Siemens distance protection relay Siprotec 7SA87. More information will be available through Blackboard.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
