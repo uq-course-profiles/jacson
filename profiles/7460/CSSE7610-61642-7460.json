@@ -1,0 +1,144 @@
+{
+    "course_title": "Concurrency: Theory and Practice",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE7610-61642-7460",
+    "full_course_code": "CSSE7610-61642-7460",
+    "course_code": "CSSE7610",
+    "class_code": "61642",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the issues that are specific to concurrent programming, and solve issues in practice."
+        },
+        {
+            "number": "LO2.",
+            "description": "Specify concurrent algorithms independent of programming language."
+        },
+        {
+            "number": "LO3.",
+            "description": "Verify the correctness of concurrent algorithms using both deductive techniques and software-based tools."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop concurrent algorithms in a modern programming language."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design concurrent algorithms using both traditional and modern approaches to synchronisation."
+        },
+        {
+            "number": "LO6.",
+            "description": "Explain how distributed programs are special types of concurrent programs, and identify the important issues for these types of programs."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 5/09/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Application of the principles of mutual exclusion to the development and verification of concurrent algorithms. </p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments are to be submitted via the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 17/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Application of the principles of synchronisation to the development and verification of concurrent algorithms.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments are to be submitted via the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Timing</strong>: The final exam will be scheduled at a fixed time for all students – i.e. students will complete the exam simultaneously. </p>\n<p><strong>Permitted materials</strong>: The exam is open book and students may bring any written or printed material into the examination room. Calculators and other computing or communication devices are NOT permitted.</p>\n<p><strong>Other Information</strong>: The final exam will be a summative assessment which covers all topics in this course. The examination is used to assess both the practical ability of the students on small problems and their understanding of the course material.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>Lectures will be mainly used to introduce new material. There will also be time during lectures specifically for getting help with assignments.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Lectures will be mainly used to introduce new material. There will also be time during lectures specifically for getting help with assignments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(29 Jul - 27 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exercise Sessions</strong><br><p>Exercise sessions will be mainly used to work on exercises related to the lecture material. This will be a more interactive process than lecture presentations. The intent is to provide a learning environment that provides better support for the content covered in this course. There will also be time during exercise sessions specifically for getting help with assignments.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Exercise Sessions</strong>",
+            "topic_description": "Exercise Sessions Exercise sessions will be mainly used to work on exercises related to the lecture material. This will be a more interactive process than lecture presentations. The intent is to provide a learning environment that provides better support for the content covered in this course. There will also be time during exercise sessions specifically for getting help with assignments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
