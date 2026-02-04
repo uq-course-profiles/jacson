@@ -1,0 +1,565 @@
+{
+    "course_title": "Net Shape Manufacturing",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH4304-21295-7520",
+    "full_course_code": "MECH4304-21295-7520",
+    "course_code": "MECH4304",
+    "class_code": "21295",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the principles of NSM processes - Understand the relationship between alloy composition, cast microstructures and mechanical properties."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand the principles of NSM processes - Appraise the use of forging as a major conventional manufacturing process and understand how the mechanical properties change during this process."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand the principles of NSM processes - Appraise the use of additive manufacturing as a major direction for future manufacturing and the advantages and limitations of additive manufacturing."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the principles of NSM processes - Understand the scientific principles behind powder processing of materials, including ceramics and metals, and the advantages and limitations of powder processing."
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand the principles of NSM processes - Understand how the properties of powder processed components can be controlled."
+        },
+        {
+            "number": "LO6.",
+            "description": "Appraise and select NSM processes - Apply knowledge to compare and contrast the relative strengths and weaknesses of net-shape manufacturing processes"
+        },
+        {
+            "number": "LO7.",
+            "description": "Appraise and select NSM processes - Evaluate and select appropriate processes for component production based on economic and technical considerations."
+        },
+        {
+            "number": "LO8.",
+            "description": "Design components for manuf. with net-shape proc. - Demonstrate skills in practical design of sand castings and develop an appreciation of the main casting processes."
+        },
+        {
+            "number": "LO9.",
+            "description": "Design components for manuf. with net-shape proc. - Analyze and  report on the relationship between casting design,  microstructural development and the final quality of castings."
+        },
+        {
+            "number": "LO10.",
+            "description": "Design components for manuf. with net-shape proc. - Develop skills in design for additive manufacturing."
+        },
+        {
+            "number": "LO11.",
+            "description": "Evaluate the outcomes of  NSM  processes - Evaluate net-shape manufacturing techniques with respect to their ability to produce high quality components and appreciate the nature and type of potential defects that can be associated with these processes."
+        },
+        {
+            "number": "LO12.",
+            "description": "Evaluate the outcomes of  NSM  processes - Evaluate appropriate net-shape manufacturing techniques and the impact of these techniques with respect to economy and environment."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Laboratory Report Practical #1: Solidification Microstructures",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 26/03/2025 - 9/04/2025</p>\n<p>\n</p><p>Group 1: Week 5 - Wednesday 16:00.</p>\n<p>Group 2: Week 6 - Wednesday 16:00.</p>\n<p>Group 3: Week 7 - Wednesday 16:00.</p></dd>",
+            "learning_objectives": "L01, L06, L09, L11",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Practical #1, Solidification Microstructures, guidelines – Semester 1, 2025</strong></p>\n<p><strong>IMPORTANT</strong></p>\n<p><strong>You must bring safety glasses, long sleeved shirt or lab coat and enclosed shoes.</strong></p>\n<p><strong>All safety rules for each relevant laboratory apply to this practical.</strong></p>\n<p><strong>Timetable of the Practical Session 1 for MECH4304, Sem 1, 2025 </strong></p>\n<p>Group 1: Week 3 - Wednesday 14:00-17:50.</p>\n<p>Group 2: Week 4 - Wednesday 14:00-17:50.</p>\n<p>Group 3: Week 5 - Wednesday 14:00-17:50.</p>\n<p><br/></p>\n<p><strong>Module </strong></p>\n<p>UQ has published a module that applies to all laboratory practical classes at UQ. This module applies to all undergraduate students (the University considers students “in training” and accordingly, has several expectations for staff and students).The module and assessment for students to complete are:</p>\n<p>https://learn.uq.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_11416_1&amp;content_id=_1187521_1&amp;mode=reset (UG Lab Students)</p>\n<p>These should be read by students prior to participation in the practical laboratory sessions. Students need to complete and pass the assessment prior to attending their first laboratory session.</p>\n<p>Students only need to complete and pass the assessment once during their undergraduate courses.</p>\n<p><strong>Grouping</strong></p>\n<ul>\n<li>All students have been assigned to one of three practical groups which can be checked in mySI-net. The groups are G01, G02 and G03 (each “big” group is limited to 24 students). On the day of the first practical, each large group will be divided into two ‘sub-groups’ and this sub-grouping will be used for both Prac 1 and Prac 2 (eg. You may be assigned to G01-2). Please use this group number when submitting your assessments.</li>\n</ul>\n<p><strong>Practical #1, Solidification Microstructures</strong></p>\n<p><strong>Objectives</strong></p>\n<ol>\n<li>An introduction to the process of casting; including melting of metals and melt handling and aspects of safety and risk.</li>\n<li>To characterise the solidification behaviour of metallic alloys and gain experience in thermal analysis of the solidification process. This will include the relationship between the cooling curve and evolution of microstructure during solidification.</li>\n<li>To understand the role of changing composition on the microstructure of the cast metal and how the change in microstructure may influence mechanical properties.</li>\n</ol>\n<p><strong>Overview</strong></p>\n<p>Four different alloys will be analysed in this practical, all of which will come from the same binary alloy system (your casual demonstrator will inform you of which alloys are being used during your practical). Melting will be done in an electrical resistance furnace prior to sampling. This is done by placing alloy pieces into a boron nitride coated crucible, which is placed in the furnace. The furnace will be set to a temperature that provides sufficient superheat to ensure alloys are completely liquid prior to thermal analysis experiments.</p>\n<p>Each of the four alloys of will be sampled for thermal analysis of the solidification process. Samples will then be used for microstructural analysis and hardness measurements to explore the relationship between composition, microstructure and mechanical properties of cast alloys.</p>\n<p>It is the responsibility of each student to ensure that they have collected all data <em>during the practical itself</em>, including any digital files required. Please bring a USB stick for this purpose.</p>\n<p><strong>Permitted use of Generative AI and MT for this assessment</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><br/></p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Laboratory Report Practical #2: Sand Casting",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 30/04/2025 - 14/05/2025</p>\n<p>\n</p><p>Group 1: Week 9 - Wednesday 16:00.</p>\n<p>Group 2: Week 10 - Wednesday 16:00.</p>\n<p>Group 3: Week 11 - Wednesday 16:00.</p></dd>",
+            "learning_objectives": "L01, L03, L06, L08, L09, L10, L12",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Practical #2, Sand Casting, guidelines – Semester 1, 2025</strong></p>\n<p><strong>IMPORTANT</strong></p>\n<p><strong>You must bring safety glasses, long sleeved shirt or lab coat and enclosed shoes.</strong></p>\n<p><strong>All safety rules for each relevant laboratory apply to this practical.</strong></p>\n<p><strong>Timetable of the Practical Session 2 for MECH4304, Sem 1, 2025 </strong></p>\n<p>Group 1: Week 7 - Wednesday 14:00-17:50.</p>\n<p>Group 2: Week 8 - Wednesday 14:00-17:50.</p>\n<p>Group 3: Week 9 - Wednesday 14:00-17:50.</p>\n<p><br/></p>\n<p><strong>Module</strong></p>\n<p>UQ has published a module that applies to all laboratory practical classes at UQ. This module applies to all undergraduate students (the University considers students “in training” and accordingly, has several expectations for staff and students).</p>\n<p>The module and assessment for students to complete are found here:</p>\n<p>https://learn.uq.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_11416_1&amp;content_id=_1187521_1&amp;mode=reset </p>\n<p>These should be read by students prior to participation in the practical laboratory sessions. Students need to complete and pass the assessment prior to attending their first laboratory session.</p>\n<p>Students only need to complete and pass the assessment once during their undergraduate courses.</p>\n<p><strong>Grouping</strong></p>\n<ul>\n<li>All students have been assigned to one of three practical groups which can be checked in mySI-net. The groups are G01, G02 and G03 (each “big” group is limited to 24 students). The groups will be divided into sub-groups during Practical 1 and these sub-groups will apply for Practical 2 also. Please use this group number when submitting your assessments. </li>\n</ul>\n<p><strong>Practical #2: Sand Casting</strong></p>\n<p><strong>Objectives</strong></p>\n<p>The objectives of this practical are to become familiar with the issues surrounding design for sand casting and understand the opportunities and limitations of the sand casting process. This includes an appreciation of common defects that can be associated with sand-casting and how sand-casting compares to other casting processes. An additional objective is to develop an understanding of how additive manufacturing/3D printing can be used for the fabrication of patterns for sand-casting.</p>\n<p><strong>Overview</strong></p>\n<p>As discussed in the introductory lecture and tutorial (week 1), this practical experiment involves the design of a 3D printed pattern (using plastic material extrusion/FDM) for sand casting, followed by the analysis of the sand-casting made using this pattern.</p>\n<p>Assessment will be based on both the communication and intent of your design along with a consideration and discussion of how the casting geometry and process influences the design of both the part and the mould along with a discussion of a selected casting defect (this does not have to be a defect that was observed in your casting).</p>\n<p><strong>Permitted use of Generative AI and MT for this assessment</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><br/></p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L11, L12",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will cover all course content delivered throughout the semester.</p>\n<p><br/></p>\n<p><strong>Permitted use of Generative AI and MT for this assessment</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Introduction of net shape manufacturing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture - Introduction of net shape manufacturing</strong>",
+            "topic_description": "Lecture - Introduction of net shape manufacturing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introductory tutorial</strong><br><p>Overview of tutorial structures and introduction to sand casting and die casting</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Introductory tutorial</strong>",
+            "topic_description": "Introductory tutorial Overview of tutorial structures and introduction to sand casting and die casting",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Casting fundamentals - I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L08</p></div></td>",
+            "topic_title": "<strong>Lecture - Casting fundamentals - I</strong>",
+            "topic_description": "Lecture - Casting fundamentals - I",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Casting fundamentals - I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L08</p></div></td>",
+            "topic_title": "<strong>Tutorial for Casting fundamentals - I</strong>",
+            "topic_description": "Tutorial for Casting fundamentals - I",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Casting fundamentals - II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lecture - Casting fundamentals - II</strong>",
+            "topic_description": "Lecture - Casting fundamentals - II",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical#1 Casting - G01</strong><br/><p>Prac #1: Solidification Microstructures</p></p><p><strong>Learning outcomes:</strong> L01, L06, L09, L11</p></div></td>",
+            "topic_title": "<strong>Practical#1 Casting - G01</strong>",
+            "topic_description": "Practical#1 Casting - G01 Prac #1: Solidification Microstructures",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L09",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Casting fundamentals - II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Tutorial for Casting fundamentals - II</strong>",
+            "topic_description": "Tutorial for Casting fundamentals - II",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Sand casting</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L07, L12</p></div></td>",
+            "topic_title": "<strong>Lecture - Sand casting</strong>",
+            "topic_description": "Lecture - Sand casting",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L07",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical#1 Casting - G02</strong><br/><p>Prac #1: Solidification Microstructures</p></p><p><strong>Learning outcomes:</strong> L01, L06, L09, L11</p></div></td>",
+            "topic_title": "<strong>Practical#1 Casting - G02</strong>",
+            "topic_description": "Practical#1 Casting - G02 Prac #1: Solidification Microstructures",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L09",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Sand casting</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial for Sand casting</strong>",
+            "topic_description": "Tutorial for Sand casting",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Additive manufacturing - I</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L10, L11, L12</p></div></td>",
+            "topic_title": "<strong>Lecture - Additive manufacturing - I</strong>",
+            "topic_description": "Lecture - Additive manufacturing - I",
+            "learning_outcomes": [
+                "L03",
+                "L10",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical#1 Casting - G03</strong><br/><p>Prac #1: Solidification Microstructures</p></p><p><strong>Learning outcomes:</strong> L01, L06, L09, L11</p></div></td>",
+            "topic_title": "<strong>Practical#1 Casting - G03</strong>",
+            "topic_description": "Practical#1 Casting - G03 Prac #1: Solidification Microstructures",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L09",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Additive manufacturing - I</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L10, L11, L12</p></div></td>",
+            "topic_title": "<strong>Tutorial for Additive manufacturing - I</strong>",
+            "topic_description": "Tutorial for Additive manufacturing - I",
+            "learning_outcomes": [
+                "L03",
+                "L10",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - High pressure die casting and others</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Lecture - High pressure die casting and others</strong>",
+            "topic_description": "Lecture - High pressure die casting and others",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for High pressure die casting and others</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Tutorial for High pressure die casting and others</strong>",
+            "topic_description": "Tutorial for High pressure die casting and others",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Cast defects and Forging</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Lecture - Cast defects and Forging</strong>",
+            "topic_description": "Lecture - Cast defects and Forging",
+            "learning_outcomes": [
+                "L02",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical#2 Sand Casting - G01</strong><br/><p>Prac #2: Sand Casting</p></p><p><strong>Learning outcomes:</strong> L01, L03, L06, L08, L09, L10, L12</p></div></td>",
+            "topic_title": "<strong>Practical#2 Sand Casting - G01</strong>",
+            "topic_description": "Practical#2 Sand Casting - G01 Prac #2: Sand Casting",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06",
+                "L08",
+                "L09",
+                "L10",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Cast defects and Forging</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Tutorial for Cast defects and Forging</strong>",
+            "topic_description": "Tutorial for Cast defects and Forging",
+            "learning_outcomes": [
+                "L02",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Additive manufacturing - II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Lecture - Additive manufacturing - II</strong>",
+            "topic_description": "Lecture - Additive manufacturing - II",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical#2 Sand Casting - G02</strong><br/><p>Prac #2: Sand Casting</p></p><p><strong>Learning outcomes:</strong> L01, L03, L06, L08, L09, L10, L12</p></div></td>",
+            "topic_title": "<strong>Practical#2 Sand Casting - G02</strong>",
+            "topic_description": "Practical#2 Sand Casting - G02 Prac #2: Sand Casting",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06",
+                "L08",
+                "L09",
+                "L10",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Additive manufacturing - II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Tutorial for Additive manufacturing - II</strong>",
+            "topic_description": "Tutorial for Additive manufacturing - II",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Additive manufacturing - III</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Lecture - Additive manufacturing - III</strong>",
+            "topic_description": "Lecture - Additive manufacturing - III",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical#2 Sand Casting - G03</strong><br/><p>Prac #2: Sand Casting</p></p><p><strong>Learning outcomes:</strong> L01, L03, L06, L08, L09, L10, L12</p></div></td>",
+            "topic_title": "<strong>Practical#2 Sand Casting - G03</strong>",
+            "topic_description": "Practical#2 Sand Casting - G03 Prac #2: Sand Casting",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06",
+                "L08",
+                "L09",
+                "L10",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Additive manufacturing - III</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Tutorial for Additive manufacturing - III</strong>",
+            "topic_description": "Tutorial for Additive manufacturing - III",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Powder processing &amp; metallurgy - I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture - Powder processing &amp; metallurgy - I</strong>",
+            "topic_description": "Lecture - Powder processing & metallurgy - I",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Powder processing &amp; metallurgy I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial for Powder processing &amp; metallurgy I</strong>",
+            "topic_description": "Tutorial for Powder processing & metallurgy I",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Powder processing &amp; metallurgy - II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lecture - Powder processing &amp; metallurgy - II</strong>",
+            "topic_description": "Lecture - Powder processing & metallurgy - II",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Powder processing &amp; metallurgy II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial for Powder processing &amp; metallurgy II</strong>",
+            "topic_description": "Tutorial for Powder processing & metallurgy II",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture - Powder processing &amp; metallurgy - III</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Lecture - Powder processing &amp; metallurgy - III</strong>",
+            "topic_description": "Lecture - Powder processing & metallurgy - III",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial for Powder processing &amp; metallurgy III</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Tutorial for Powder processing &amp; metallurgy III</strong>",
+            "topic_description": "Tutorial for Powder processing & metallurgy III",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision and Guest lecture from industry</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Revision and Guest lecture from industry</strong>",
+            "topic_description": "Revision and Guest lecture from industry",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/><p>Revision Tutorial</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L11, L12</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision Revision Tutorial",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L11",
+                "L12"
+            ]
+        }
+    ]
+}
