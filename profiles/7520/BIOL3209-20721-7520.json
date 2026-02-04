@@ -1,0 +1,321 @@
+{
+    "course_title": "Biodiversity & Systematics",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOL3209-20721-7520",
+    "full_course_code": "BIOL3209-20721-7520",
+    "course_code": "BIOL3209",
+    "class_code": "20721",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use tools in the Spatial Portal of Atlas of Living Australia to address questions about biodiversity"
+        },
+        {
+            "number": "LO2.",
+            "description": "Obtain observation data and map species occurrences (in R)"
+        },
+        {
+            "number": "LO3.",
+            "description": "Construct maps of species richness (in R)"
+        },
+        {
+            "number": "LO4.",
+            "description": "estimate a phylogeny using DNA sequence data"
+        },
+        {
+            "number": "LO5.",
+            "description": "use DNA-barcoding to identify an unknown organism"
+        },
+        {
+            "number": "LO6.",
+            "description": "implement species distribution modelling (environmental niche modelling) using maxent"
+        },
+        {
+            "number": "LO7.",
+            "description": "interpret population genetic data"
+        },
+        {
+            "number": "LO8.",
+            "description": "explain the meaning of \"systematics\" and why it is important in understanding biodiversity"
+        },
+        {
+            "number": "LO9.",
+            "description": "demonstrate an understanding of biodiversity and diversification, and how these are reflected in present-day environments."
+        },
+        {
+            "number": "LO10.",
+            "description": "explain how organisms are classified and how the different schools of classification differ"
+        },
+        {
+            "number": "LO11.",
+            "description": "critically evaluate inferences of phylogenetic relationships"
+        },
+        {
+            "number": "LO12.",
+            "description": "interpret a phylogeny in a biological context"
+        },
+        {
+            "number": "LO13.",
+            "description": "critically evaluate a taxonomic paper"
+        },
+        {
+            "number": "LO14.",
+            "description": "elucidate the importance of biodiversity to modern human society"
+        },
+        {
+            "number": "LO15.",
+            "description": "present the results of biodiversity and evolutionary studies orally"
+        },
+        {
+            "number": "LO16.",
+            "description": "explain the importance of biodiversity collections (museums and herbaria"
+        },
+        {
+            "number": "LO17.",
+            "description": "demonstrate an understanding of how organisms are named and the importance of type specimens"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly in-class quizzes for each learning module",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> Week 1 - Week 13</p>\n<p>\n</p><p>During Class</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Essay/ Critique, Quiz, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each week, there is required pre-class learning material (related to the topic for the week), which is to be completed before the lecture. During each lecture, there will be a quiz that focusses on the pre-class learning materials for that week and the activities undertaken in the current or previous week's lecture. There is no final exam and these quizzes form the major theory and content-based assessment.</p>\n<p>\"Quizzes\" include quizzes, summations, writing assignments or critical thinking challenges based on the pre-class learning material and the previous and/or current week's lecture. The assessment is designed to assess understanding of assigned readings and the week's learning material, and to keep students on track for successfully incorporating biodiversity and systematics concepts. Quizzes are administered via Learn.UQ or via paper-copy during lectures. They are to be done in-person during class.</p>\n<p>There are 11 quizzes but only the best 8 scores will be included in your final mark. Each will be equally weighted and averaged for your final score. This means you can miss several quizzes wthout needing a medical certificate, but if you miss more you should contact the course coordinator.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission is during class time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project applying practical skills",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 30/05/2025 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>New analytical skills are covered in practicals each week, related to the weekly topic.  Using skills learned in practicals, students will design and implement analyses to address questions relating to those topics covered in the course. The topic for assessment will be randomly assigned from among those covered in class shortly before the due date.</p>\n<p>There may also be an identification quiz during one of the practicals.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission through Turnitin only.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to biodiversity &amp; systematics</strong><br/><p>Overview of course. What is biodiversity and why is it important. How does systematics underpin our understanding of biodiversity. The Linnaean system of naming and classification.<br/>Lyn Cook</p></p></div></td>",
+            "topic_title": "<strong>Introduction to biodiversity &amp; systematics</strong>",
+            "topic_description": "Introduction to biodiversity & systematics Overview of course. What is biodiversity and why is it important. How does systematics underpin our understanding of biodiversity. The Linnaean system of naming and classification. Lyn Cook",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biodiversity databases</strong><br><p>Exploring the relationships between the Australian Faunal Directory, the Australian Plant Census, The Australian Virtual Herbarium, the Atlas of Living Australia (ALA) and the Global Biodiversity Information Facility (GBIF), and the roles of citizen science databases such as Questagame, iNaturalist and Birdlife Australia in contributing to biodiversity data. <br/>Lyn Cook</p></br></p></div></td>",
+            "topic_title": "<strong>Biodiversity databases</strong>",
+            "topic_description": "Biodiversity databases Exploring the relationships between the Australian Faunal Directory, the Australian Plant Census, The Australian Virtual Herbarium, the Atlas of Living Australia (ALA) and the Global Biodiversity Information Facility (GBIF), and the roles of citizen science databases such as Questagame, iNaturalist and Birdlife Australia in contributing to biodiversity data. Lyn Cook",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>How many species are there?</strong><br><p>Species as the basic units of biodiversity. What are the current estimates for the number of species on the planet, and how is species diversity estimated when there are so many unknowns. </p></br></p></div></td>",
+            "topic_title": "<strong>How many species are there?</strong>",
+            "topic_description": "How many species are there? Species as the basic units of biodiversity. What are the current estimates for the number of species on the planet, and how is species diversity estimated when there are so many unknowns.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Estimating &amp; identifying biodiversity</strong><br/><p>Species accumulation curves for estimating diversity. Dichotomous, multi-entry, computer vision &amp; AI, and pictorial keys are used for identifying species.<br/>Lyn Cook</p></p></div></td>",
+            "topic_title": "<strong>Estimating &amp; identifying biodiversity</strong>",
+            "topic_description": "Estimating & identifying biodiversity Species accumulation curves for estimating diversity. Dichotomous, multi-entry, computer vision & AI, and pictorial keys are used for identifying species. Lyn Cook",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Species concepts &amp; speciation</strong><br><p>Where is biodiversity? Geographic structuring of biodiversity, such as the latitudinal gradient.<br/>Lyn Cook</p></br></p></div></td>",
+            "topic_title": "<strong>Species concepts &amp; speciation</strong>",
+            "topic_description": "Species concepts & speciation Where is biodiversity? Geographic structuring of biodiversity, such as the latitudinal gradient. Lyn Cook",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applying species concepts—Antechinus</strong><br><p>Obtain occurrence data for a group of organisms and produce a species richness map. Determine biodiversity hotspots for the taxon.<br/>Lyn Cook</p></br></p></div></td>",
+            "topic_title": "<strong>Applying species concepts—Antechinus</strong>",
+            "topic_description": "Applying species concepts—Antechinus Obtain occurrence data for a group of organisms and produce a species richness map. Determine biodiversity hotspots for the taxon. Lyn Cook",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Importance of biodiversity collections</strong><br><p>How species are named and described. The role of biodiversity collections (museums and Herbarium).<br/>Lyn Cook</p></br></p></div></td>",
+            "topic_title": "<strong>Importance of biodiversity collections</strong>",
+            "topic_description": "Importance of biodiversity collections How species are named and described. The role of biodiversity collections (museums and Herbarium). Lyn Cook",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Optional visit to QLD Herbarium</strong><br><p>Optional behind the scenes visit to the Queensland Herbarium. Meet with research scientists and see how specimens are stored and used at QLD's premier herbarium.<br/>There is no in-class practical this week.</p></br></p></div></td>",
+            "topic_title": "<strong>Optional visit to QLD Herbarium</strong>",
+            "topic_description": "Optional visit to QLD Herbarium Optional behind the scenes visit to the Queensland Herbarium. Meet with research scientists and see how specimens are stored and used at QLD's premier herbarium. There is no in-class practical this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Homology and classification</strong><br><p>What are species? How do species form? Are species real?<br/>Simone Blomberg</p></br></p></div></td>",
+            "topic_title": "<strong>Homology and classification</strong>",
+            "topic_description": "Homology and classification What are species? How do species form? Are species real? Simone Blomberg",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Classifications</strong><br><p>Applying different approaches to delimit species of Antechinus: how does concept and method affect our interpretation of species boundaries.<br/>Simone Blomberg</p></br></p></div></td>",
+            "topic_title": "<strong>Classifications</strong>",
+            "topic_description": "Classifications Applying different approaches to delimit species of Antechinus: how does concept and method affect our interpretation of species boundaries. Simone Blomberg",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Comparative methods</strong><br><p>Covers how classification systems have changed over time in Western civilisations. Is it necessary to have \"scientific names\" as a distinct system from indigenous naming and classification. <br/>Simone Blomberg</p></br></p></div></td>",
+            "topic_title": "<strong>Comparative methods</strong>",
+            "topic_description": "Comparative methods Covers how classification systems have changed over time in Western civilisations. Is it necessary to have \"scientific names\" as a distinct system from indigenous naming and classification. Simone Blomberg",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Phylomorphospace and PGLS</strong><br><p>Testing classifications of real organisms<br/>Simone Blomberg</p></br></p></div></td>",
+            "topic_title": "<strong>Phylomorphospace and PGLS</strong>",
+            "topic_description": "Phylomorphospace and PGLS Testing classifications of real organisms Simone Blomberg",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cryptic species—distributions</strong><br/></p></div></td>",
+            "topic_title": "<strong>Cryptic species—distributions</strong>",
+            "topic_description": "Cryptic species—distributions",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SDM (ENM)</strong><br/></p></div></td>",
+            "topic_title": "<strong>SDM (ENM)</strong>",
+            "topic_description": "SDM (ENM)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 9(14 Apr - 04 May)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Easter and mid-semester break and 3rd-year teaching free week</strong><br/></p></div></td>",
+            "topic_title": "<strong>Easter and mid-semester break and 3rd-year teaching free week</strong>",
+            "topic_description": "Easter and mid-semester break and 3rd-year teaching free week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Phylogeography and population genetics</strong><br/></p></div></td>",
+            "topic_title": "<strong>Phylogeography and population genetics</strong>",
+            "topic_description": "Phylogeography and population genetics",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cryptic species—DNA barcoding</strong><br/></p></div></td>",
+            "topic_title": "<strong>Cryptic species—DNA barcoding</strong>",
+            "topic_description": "Cryptic species—DNA barcoding",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>PCA, STRUCTURE, Popgen</strong><br/></p></div></td>",
+            "topic_title": "<strong>PCA, STRUCTURE, Popgen</strong>",
+            "topic_description": "PCA, STRUCTURE, Popgen",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prepare for project</strong><br/></p></div></td>",
+            "topic_title": "<strong>Prepare for project</strong>",
+            "topic_description": "Prepare for project",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Work on project</strong><br/></p></div></td>",
+            "topic_title": "<strong>Work on project</strong>",
+            "topic_description": "Work on project",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Australian biota and biogeography</strong><br/></p></div></td>",
+            "topic_title": "<strong>Australian biota and biogeography</strong>",
+            "topic_description": "Australian biota and biogeography",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Work on project</strong><br/><p>Phylogeography examines the spatial distribution of diversity below the species level<br/>Nigel Beebe</p></p></div></td>",
+            "topic_title": "<strong>Work on project</strong>",
+            "topic_description": "Work on project Phylogeography examines the spatial distribution of diversity below the species level Nigel Beebe",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Humans and biodiversity</strong><br/></p></div></td>",
+            "topic_title": "<strong>Humans and biodiversity</strong>",
+            "topic_description": "Humans and biodiversity",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Finalise and submit project</strong><br/></p></div></td>",
+            "topic_title": "<strong>Finalise and submit project</strong>",
+            "topic_description": "Finalise and submit project",
+            "learning_outcomes": []
+        }
+    ]
+}
