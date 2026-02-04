@@ -1,0 +1,258 @@
+{
+    "course_title": "Structures & Materials",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2300-21322-7520",
+    "full_course_code": "MECH2300-21322-7520",
+    "course_code": "MECH2300",
+    "class_code": "21322",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse the mechanical behaviour of statically determinate or indeterminate 1D structural members under various loadings, and interpret experimental data for bending of beams."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate two-dimensional stress and strain states in solids, and apply this knowledge to solve design problems involving stress analysis and materials selection."
+        },
+        {
+            "number": "LO3.",
+            "description": "Interpret mechanical properties in terms of yield, modulus, fracture toughness, creep and how they are related to failure modes and design"
+        },
+        {
+            "number": "LO4.",
+            "description": "Interpret the impact of fundamental material characteristics and microstructure on the mechanical properties of engineering materials."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify the major forms of metal corrosion and methods to limit their effects."
+        },
+        {
+            "number": "LO6.",
+            "description": "Utilize phase diagrams and Time-Temperature-Transformation (TTT) diagrams to predict the microstructure of fundamental metal systems."
+        },
+        {
+            "number": "LO7.",
+            "description": "Collaborate in small groups to develop your teamwork skills and prepare group reports on engineering investigations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly Online Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20% See task description </dd>",
+            "due_date": "<dd><p> Week 1 - Week 13</p>\n<p>\n</p><p>Quizzes will run on Weeks 1-7 and 9-13 (there will be no quiz in Week 8 due to the Good Friday public holiday). Hence there will be 12 quizzes in total. Each quiz will be is released on Friday at 12pm, and will test that week's syllabus. The due date will be 10am on following Thursday.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Weekly online quiz using the Pearson “Mastering Engineering” platform. This platform integrates into Blackboard and enables the course to run assessed quizzes which draw from a large range of example structures and materials problems. The problems are randomizable to ensure all students work with a unique set of numbers to ensure individual work in support of academic integrity.</p>\n<p>Each week's quiz is designed to test concepts covered in that week's lecture and tutorial. If you attend that week's tutorial and understand the problems which it covers, then you should be well prepared to complete that week's quiz. You are strongly encouraged to attend the tutorials and clarify any questions about the tutorial problems during that session. Each week's quiz is timed to become available to students at the conclusion of the last tutorial for that week, and is then due 2 hours before the following week's tutorial. This ensures all students have the same amount of time to attempt the quiz, regardless of which tutorial they attend, and also ensures that tutorial time can focus on that week's tutorial problems. If you have questions about the quizzes you should raise these on Ed Discussion Board, which will ensure all students have access to the teaching staff's advice on this assessment item.</p>\n<p>The mark for this assessment is calculated as follows:</p>\n<ul>\n<li>The maximum mark for each week's quiz is 2% of the overall course grade, and there are 12 quizzes in total.</li>\n<li>To get the full 2% for each week's quiz, you will need to get at least 75% for the quiz (i.e. correctly answer 75% of the quiz problems).</li>\n<li>Each quiz mark will be computed as follows: weekly quiz grade = minimum(&lt;your quiz mark in %&gt;, 75%)/(75%)×2%</li>\n<li>The total mark for this assessment item is capped at 20% for the semester, with overall grade = min(20%, ∑&lt;your quiz grades across the 12 quizzes&gt;)</li>\n</ul>\n<p>You are required to <strong>register with Pearson Mastering in Week 1 of Semester</strong> so that you are able to complete the assessed online quizzes. If you encounter technical problems doing so, as a first step you should refer to the provided support documents on Blackboard; as a second step, seek advice through the Ed Discussion Board; if you continue to have problems you should contact the Course Coordinator by email. <strong>If you leave the registration process until Week 2 and encounter technical problems which prevent submission of your quiz by the due date, these technical problems will not be accepted as grounds for an extension to the assessment.</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Access to the Pearson Mastering Engineering online quiz is via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Practical Sequence - Bending of Beams Prac (5%) and Heat Treatment Prac (5%)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10% See task description </dd>",
+            "due_date": "<dd><p>Bending of the Beams Pre-work due (all students in all groups) 20/03/2025 1:00 pm</p>\n<p>Heat Treatment Pre-work due (all students in all groups) 1/05/2025 1:00 pm</p>\n<p>\n</p><p><strong>Group reports: </strong>For each of the two practicals, each group is required to submit a group report within 2 working days of the group's scheduled session (by 5pm on that day).</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Written",
+            "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment series involves two separate practicals. This assessment series involves two separate practicals. Each practical assessment task has two parts, as follows:</p>\n<ol>\n<li>An individual pre-work online Blackboard quiz. This must be completed by students, individually, by the specified due date, which is in advance of the practicals; and</li>\n<li>A group report. This must be completed by the group and submitted within 2 working days of the group's scheduled session (by 5pm on that day). Further details are provided below.</li>\n</ol>\n<p><br/></p>\n<p><em>Individual Pre-work:</em></p>\n<p>Students are required to individually complete an online Blackboard quiz comprising a set of pre-work questions, in advance of the practical session, by the specified due date, via Blackboard. This part of the assessment constitutes 20% of the available mark for this assessment item. If students fail to individually submit the pre-work part of this assessment, they will individually receive a zero for this part of the assessment.</p>\n<p><em>Practical and group report:</em></p>\n<p>Students are divided into groups at the start of the practical session. Each group is required to submit a group report for the practical within 2 business days of the group's scheduled session (by 5pm on that day). This part of the assessment constitutes 80% of the available mark. Details of the assessment task will be provided on Blackboard.</p>\n<p><em>Notes:</em></p>\n<ul>\n<li>All students in the group must have attended the same session and worked as a group.</li>\n<li>The group size is normally four students. The group size may be extended by 1 student by the casual demonstrator.</li>\n<li>If your group is not functioning during the session, inform your casual demonstrator as early in the session as possible so that issues can be resolved.</li>\n<li>The names and student numbers of all group members have to be listed on the first page of the group report.</li>\n</ul>\n<p><br/></p>\n<p><em>Criteria &amp; Marking:</em></p>\n<p>A detailed marking rubric will be made available on the Blackboard site of the course. Note that 20% of the mark for this assignment will be based on individual student's pre-work quiz result; the remaining 80% will be based on the group report.</p>\n<p><em>Submission:</em></p>\n<p>Pre-work to be completed via Blackboard online quiz; group report to be submitted via TurnItIn on Blackboard.</p>\n<p><br/></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Pre-work to be submitted via Blackboard; group report to be submitted via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Integrated Assignment Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20% See task description </dd>",
+            "due_date": "<dd><p> 29/05/2025 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Analyse a mechanical system and solve materials selection problems.</p>\n<p>A professional technical report for the structural analysis and the materials selection is to be submitted.</p>\n<p>The technical report for the structural analysis and the materials selection part <strong>can be submitted individually or in pairs</strong>. The title page must include the names and student numbers of both students, if it is a group report.</p>\n<p><br/></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>End of Semester Exam consisting of 50% Structures questions and 50% Materials questions</p>\n<p>Format: Multiple-choice, Short answer, Problem solving</p>\n<p>No electronic aids are permitted e.g. laptops, phones.</p>\n<p>Useful formulas are provided at the end of the examination paper.</p>\n<p><br/></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Tutorials</strong><br><p>The weekly 2 hour tutorial sessions are used to apply and extend concepts presented in the course, discuss and solve sample problems and study worked solutions. Use 'Sign-on' to select a tutorial session. Note, due to the Good Friday public holiday, no tutorials will run in Week 8.</p></br></p></div></td>",
+            "topic_title": "<strong>Weekly Tutorials</strong>",
+            "topic_description": "Weekly Tutorials The weekly 2 hour tutorial sessions are used to apply and extend concepts presented in the course, discuss and solve sample problems and study worked solutions. Use 'Sign-on' to select a tutorial session. Note, due to the Good Friday public holiday, no tutorials will run in Week 8.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction and Revision</strong><br><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Introduction and Revision</strong>",
+            "topic_description": "Introduction and Revision Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Axial Loading</strong><br><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Axial Loading</strong>",
+            "topic_description": "Axial Loading Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Beam Deflection</strong><br><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Beam Deflection</strong>",
+            "topic_description": "Beam Deflection Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bending and Shear Stresses in Beams</strong><br><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Bending and Shear Stresses in Beams</strong>",
+            "topic_description": "Bending and Shear Stresses in Beams Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Special Topics in Stress Analysis</strong><br><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Special Topics in Stress Analysis</strong>",
+            "topic_description": "Special Topics in Stress Analysis Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transformation of Stress</strong><br><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Transformation of Stress</strong>",
+            "topic_description": "Transformation of Stress Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transformation of Strain</strong><br/><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></p></div></td>",
+            "topic_title": "<strong>Transformation of Strain</strong>",
+            "topic_description": "Transformation of Strain Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Designing against Plastic Failure of Materials</strong><br/><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></p></div></td>",
+            "topic_title": "<strong>Designing against Plastic Failure of Materials</strong>",
+            "topic_description": "Designing against Plastic Failure of Materials Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Correlating Microstructure to Mechanical Strength: Part 1 </strong><br/><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></p></div></td>",
+            "topic_title": "<strong>Correlating Microstructure to Mechanical Strength: Part 1 </strong>",
+            "topic_description": "Correlating Microstructure to Mechanical Strength: Part 1 Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Correlating Microstructure to Mechanical Strength: Part 2</strong><br/><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></p></div></td>",
+            "topic_title": "<strong>Correlating Microstructure to Mechanical Strength: Part 2</strong>",
+            "topic_description": "Correlating Microstructure to Mechanical Strength: Part 2 Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fracture and Fracture Toughness </strong><br/><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></p></div></td>",
+            "topic_title": "<strong>Fracture and Fracture Toughness </strong>",
+            "topic_description": "Fracture and Fracture Toughness Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fatigue and Creep</strong><br/><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></p></div></td>",
+            "topic_title": "<strong>Fatigue and Creep</strong>",
+            "topic_description": "Fatigue and Creep Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corrosion</strong><br/><p>Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.</p></p></div></td>",
+            "topic_title": "<strong>Corrosion</strong>",
+            "topic_description": "Corrosion Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems.",
+            "learning_outcomes": []
+        }
+    ]
+}
