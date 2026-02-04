@@ -1,0 +1,178 @@
+{
+    "course_title": "Calculus & Linear Algebra I",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7051-64381-7460",
+    "full_course_code": "MATH7051-64381-7460",
+    "course_code": "MATH7051",
+    "class_code": "64381",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Evaluate limits, derivatives, and integrals, explain the underlying mathematical basis, interpret the results geometrically, and perform calculations associated with a number of applications;"
+        },
+        {
+            "number": "LO2.",
+            "description": "Calculate the limits of sequences and series, and use them to approximate functions;"
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand linear transformations using matrices;"
+        },
+        {
+            "number": "LO4.",
+            "description": "Work with matrices and vectors including a complete understanding of the behaviour of an m * n linear system;"
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand the concept of invertibility for matrices, know many criteria for invertibility and be able to find inverses;"
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand abstract concepts in linear algebra such as vector space, dimension and basis, and be able to construct simple proofs involving these concepts;"
+        },
+        {
+            "number": "LO7.",
+            "description": "Compute confidently with basic Matlab commands and interpret the results."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Workshop Exercises",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p>Week 1: 22/07/2024 - 26/07/2024</p>\n<p>Week 2: 29/07/2024 - 2/08/2024</p>\n<p>Week 3: 5/08/2024 - 9/08/2024</p>\n<p>Week 5: 19/08/2024 - 23/08/2024</p>\n<p>Week 6: 26/08/2024 - 30/08/2024</p>\n<p>Week 7: 2/09/2024 - 6/09/2024</p>\n<p>Week 8: 9/09/2024 - 13/09/2024</p>\n<p>Week 9: 16/09/2024 - 20/09/2024</p>\n<p>Week 10: 30/09/2024 - 4/10/2024</p>\n<p>Week 12: 14/10/2024 - 18/10/2024</p>\n<p>Week 13: 21/10/2024 - 25/10/2024</p>\n<p>\n</p><p>You will submit the collaborative exercise at the end of your workshop. </p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Participation/ Student contribution, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will complete a collaborative exercise at the workshop each week. The collaborative exercise includes a MATLAB activity. The best 9 exercises will count for assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit ONE collaborative exercise per group. Further instructions are provided are Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Two Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 16/08/2024 5:00 pm</p>\n<p> 11/10/2024 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You must submit detailed written solutions to a collection of mathematical problems.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Gradescope. Instructions are on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In-semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>31/08/2024 - 14/09/2024</p>\n<p>\n</p><p><strong>You must hold all of the following three Saturdays free until the exam date is officially announced</strong></p>\n<ul>\n<li>31 August 2024 (week 6)</li>\n<li>7 September 2024 (week 7)</li>\n<li>14 September 2024 (week 8)</li>\n</ul>\n<p><br/></p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester examination will be an in-person exam held on campus.</p>\n<p>There will be a range of short-answer and problem solving questions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>N/A</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination in this course will be held during the end-of-semester examination period.</p>\n<p>It will be an in-person, invigilated exam held on campus.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>N/A</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop</strong><br><p>In the workshops students will complete collaborative worksheets which include Matlab activities, receive help on various assessments, get corrected assignments returned, be able to ask questions on Matlab and the problem sheets, be able to ask general questions related to course work. </p></br></p></div></td>",
+            "topic_title": "<strong>Workshop</strong>",
+            "topic_description": "Workshop In the workshops students will complete collaborative worksheets which include Matlab activities, receive help on various assessments, get corrected assignments returned, be able to ask questions on Matlab and the problem sheets, be able to ask general questions related to course work.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br><p>Students may choose to attend either face-to-face lectures (on campus) or view the online lectures. The online lectures will cover the same content as the face-to-face lectures. Both face-to-face and online lectures are centred around the workbook, so it is vital that students have their workbook with them for both face-to-face and online lectures. As well as completing the workbook in a comprehensive manner, students will be provided with additional material and examples. Students electing to simply download the completed workbook from Blackboard after each chapter is finished will hence be missing material. </p></br></p></div></td>",
+            "topic_title": "<strong>Lecture</strong>",
+            "topic_description": "Lecture Students may choose to attend either face-to-face lectures (on campus) or view the online lectures. The online lectures will cover the same content as the face-to-face lectures. Both face-to-face and online lectures are centred around the workbook, so it is vital that students have their workbook with them for both face-to-face and online lectures. As well as completing the workbook in a comprehensive manner, students will be provided with additional material and examples. Students electing to simply download the completed workbook from Blackboard after each chapter is finished will hence be missing material.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Exam week 2",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Independent Study</strong><br/><p>During the semester students are expected to work on MATH1051 outside of class time to consolidate the information given during lectures, work on the problem sheets and assignments, complete extra practice problems and study for examinations.</p></p></div></td>",
+            "topic_title": "<strong>Independent Study</strong>",
+            "topic_description": "Independent Study During the semester students are expected to work on MATH1051 outside of class time to consolidate the information given during lectures, work on the problem sheets and assignments, complete extra practice problems and study for examinations.",
+            "learning_outcomes": []
+        }
+    ]
+}
