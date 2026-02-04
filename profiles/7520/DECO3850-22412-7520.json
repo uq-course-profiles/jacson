@@ -1,0 +1,218 @@
+{
+    "course_title": "Physical Computing Studio",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/DECO3850-22412-7520",
+    "full_course_code": "DECO3850-22412-7520",
+    "course_code": "DECO3850",
+    "class_code": "22412",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Generate and explore alternative design proposals in response to a challenging physical computing brief."
+        },
+        {
+            "number": "LO2.",
+            "description": "Build and exhibit a creative, functional, considered physical computing and interaction design project demonstrating a creative interpretation of the brief and demonstrating intended/successful outcomes."
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify, critique, and appropriately cite influential work in the area of your project, relating your design practice to a contemporary understanding of interaction design"
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate the effects (including successes) of your project against agreed criteria, with evidence from user responses and interactions."
+        },
+        {
+            "number": "LO5.",
+            "description": "Effectively communicate design processes, decision-making and project outcomes to a wide range of stakeholders in oral and written forms."
+        },
+        {
+            "number": "LO6.",
+            "description": "Critically reflect on the core values intrinsic to your own and others' design work within a framework of ethical and social concerns."
+        },
+        {
+            "number": "LO7.",
+            "description": "Collaborate meaningfully and effectively in a team environment, working towards shared and individual project goals."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Workshop Safety Induction Suite",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 21/03/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02",
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In order to produce physical computing projects, students will be required to construct physical forms using a variety of materials &amp; methods. The Workshop Induction introduces students to a variety of facilities available for use in the construction of their projects. UQ Innovate and the Physical Design Workshop are key spaces where project construction will take place. It is important to complete inductions early in the semester to ensure that you are able to access the facilities you need to complete your project as the need arises.</p>\n<p>All students are required to undertake the following Physical Computing Induction, incorporating in-person sessions &amp; online modules:</p>\n<ul>\n<li>Space Induction for 78-207 (session times will be posted to Blackboard) = 1 hr in-person</li>\n<li>Soldering 101 tutorial with ETSG (session times will be posted to Blackboard) = 1.5 hr in-person</li>\n<li>Arduino induction</li>\n<li>UQ Innovate Induction for select facilities (session times will be posted to Blackboard) = ~2 hr in-person</li>\n<li>Online modules:</li>\n<li>UQ Innovate - Area Induction, Hand Tools, Lab Safety, Fire Training - all linked from <a href=\"https://student.eait.uq.edu.au/urite/index.wphp?act=show&amp;schedule=752#requirements\">https://student.eait.uq.edu.au/urite/index.wphp?act=show&amp;schedule=752#requirements</a></li>\n<li>OH&amp;S Requirements Declaration - <a href=\"https://student.eait.uq.edu.au/ohs/requirements/\">https://student.eait.uq.edu.au/ohs/requirements/</a></li>\n</ul>\n<p>Additional items may be added in the event of changes to OH&amp;S requirements. These will be advertised to the class in person &amp; through Blackboard.</p>\n<p>Students will need to have completed the safety induction requirements before accessing the workshop.</p>\n<p>Access to the workshop is essential for project work and will significantly impact your ability to contribute meaningfully to the team project.</p>\n<p>Students who have completed parts of the above induction previously can submit documentation as evidence by email to the course coordinator for consideration. Certain elements of the online OH&amp;S induction will need to be repeated regardless of prior completions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Successful completion of each component will be recorded.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Ideation Poster",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 3/03/2025</p>\n<p>\n</p><p>Posters will be presented in class on Monday of Week 2.</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Poster",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each student will explore resources &amp; inspirations on the topic of physical interactions with digital information from science fiction, interaction design projects and resources, and elsewhere to contribute to a class-wide review of the area and help form initial ideas for projects. Students will produce a single A3 sketch of their idea/inspiration along with descriptive tags and links to the resources that inspired them. Posters will be presented during class and must also be uploaded to Blackboard.</p>\n<p><strong>Use of AI:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Students are expected to be able to justify and reason about all aspects of their work, including any work that has been supported by AI (this includes the specifics of code, concepts, or electronics).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Posters should be printed and brought to class. They should also be uploaded digitally to blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Physical Computing Design Project - Deliverables 1 - 5",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>70%</dd>",
+            "due_date": "<dd><p>Deliverable 1 - Blueprint, due in class on Monday in Week 5 24/03/2025</p>\n<p>Deliverable 2 - Passive Prototype, due in class on Monday in Week 7 7/04/2025</p>\n<p>Deliverable 3 - Medium-fidelity Prototype, due in Week 9 studio sessions (Tuesday and Wednesday) 28/04/2025</p>\n<p>Deliverable 4 - Exhibit, due at the exhibit event in Week 13 (exact date of exhibit still being organised) 28/05/2025</p>\n<p>Deliverable 5 - Marketing and Promotional materials 7/05/2025 12:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L07",
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Proposal Blueprint – Deliverable 1  </strong></p>\n<ul>\n<li><strong>10% Weighting</strong></li>\n<li><strong>Group Assessment</strong></li>\n</ul>\n<p>The blueprint assessment is where teams document, in detail, their proposed idea that responds to the studio brief. This blueprint will capture their overall idea, key design inspirations, intended interactions and experience, electronics plan, and initial physical designs. <strong>This blueprint will be presented in class at the beginning of week 5, on Monday.</strong></p>\n<p><strong>Passive Prototype - Deliverable 2</strong></p>\n<ul>\n<li><strong>15% Weighting</strong></li>\n<li><strong>Group Assessment</strong></li>\n</ul>\n<p>Teams will demonstrate an initial prototype of their intended exhibit in class in week 7. This will be a passive prototype (i.e., no electrical components will be involved) and is intended to demonstrate form, function, and experience, using passive prototyping techniques, including paper / cardboard prototyping, role play, body-storming, and wizard-of-oz. This will assessed in class and feedback will be delivered verbally in the class.</p>\n<p><strong>Mid-fidelity Prototype - Deliverable 3</strong></p>\n<ul>\n<li><strong>20% Weighting</strong></li>\n<li><strong>Group Assessment</strong></li>\n</ul>\n<p>Teams and individuals will demonstrate their work-in-progress via a live demonstration of a medium-fidelity version of their final idea. Live demonstrations will be conducted during workshop sessions for immediate peer and teaching team feedback.</p>\n<p><strong>Final Exhibit - Deliverable 4</strong></p>\n<ul>\n<li><strong>50% Weighting</strong></li>\n<li><strong>Group Assessment</strong></li>\n</ul>\n<p>Students will exhibit their work to the wider public, including peers, friends, family, industry members and academics. Teams and individuals should aim to exhibit a working interactive digital/physical artefact or environment which demonstrates how their project has addressed the studio theme.</p>\n<p><strong>Marketing and Promotion Material - Deliverable 5</strong></p>\n<ul>\n<li><strong>5% Weighting.</strong></li>\n<li><strong>Group Assessment.</strong></li>\n</ul>\n<p>To communicate and promote the project, teams will produce an online landing page and digital media for their project. A template will be provided.</p>\n<p><strong>Use of AI in all deliverables in this sequence:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Students are expected to be able to justify and reason about all aspects of their work, including any work that has been supported by AI (this includes the specifics of code, concepts, or electronics).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Deliverable 1: Blueprint - presented in class and submitted to Blackboard</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Individual Process Portfolio Video",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 11/06/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L04, L05, L06",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each individual will produce a YouTube video for their project. This video will cover the contribution of the project, spanning validity, novelty, and contribution. Students are expected to capture and maintain video clips from the work of each week. The final video will curate, edit, and polish the content of the videos captured every week into a concise presentation of the work, including design, build, and experiential details. The portfolio video will present key information for consumption by a wider audience (eg. employers).</p>\n<p>A key aim of this video is to make visible the individuals' contribution to, and understanding of, the final product exhibited in Week 13, providing insight into both the design and build of the project. [On account of this, in severe circumstances where individual contributions to the team have been highly inequitable, this assessment may be used (at the course coordinator's discretion) to moderate an individual's mark (one grade level up or down) for the team project deliverables A1: 1, 3, &amp; 4.]</p>\n<p>Good reference videos will be provided to students, as inspiration and qualitative template. </p>\n<p>Use of AI:</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Students are expected to be able to justify and reason about all aspects of their work, including any work that has been supported by AI (this includes the specifics of code, concepts, or electronics).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students should upload their video to YouTube (uploads can be private) and the YouTube link should be submitted to Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Research Paper",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 17/06/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>At the culmination of the semester, students will produce a short research paper that highlights the contribution of their work, considering validity, novelty, and significance. The report should also ensure the reproducibility of the project work. The report must connect with contemporary related work.</p>\n<p>Use of AI:</p>\n<p>Machine Translation (MT) may support students in completing this assessment task. Students may appropriately use MT in completing this assessment task. Students must clearly reference any use of MT in each instance. Use of generative Artificial Intelligence (AI) in this task is prohibited. A failure to reference MT use and / or the use of generative AI may constitute student misconduct under the Student Code of Conduct</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Papers to Turnitin on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 4(24 Feb - 23 Mar)",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact (Mondays)</strong><br><p>Studio sessions will cover content delivery related to project, assessment and contemporary work.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Contact (Mondays)</strong>",
+            "topic_description": "Contact (Mondays) Studio sessions will cover content delivery related to project, assessment and contemporary work.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(24 Feb - 25 May)",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Studio Sessions</strong><br><p>In these sessions: teaching staff consultation and support for project work, assessment- and project-based presentations, exercises related to project work.<br/><br/>These sessions are listed as CON2 &amp; CON3 for weeks 1 - 4; and as studio streams (ie. 01-P1, 01-P1) from week 5 on your timetable.<br/>An indication of weekly activities is available on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Studio Sessions</strong>",
+            "topic_description": "Studio Sessions In these sessions: teaching staff consultation and support for project work, assessment- and project-based presentations, exercises related to project work. These sessions are listed as CON2 & CON3 for weeks 1 - 4; and as studio streams (ie. 01-P1, 01-P1) from week 5 on your timetable. An indication of weekly activities is available on Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 12(24 Mar - 25 May)",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Report-Back (Mondays, in class Weeks 5 - 12)</strong><br><p>An important aspect of studio is the social interaction that comes from collectively working in the same space. Wherever possible, we encourage students in this course to make use of and inhabit the shared physical and online spaces of the course during this semester to help generate the opportunities to collaborate that lead to higher quality projects. To enhance and encourage this culture of collaboration, we run report back sessions during Studio contacts. Nominated studio contacts will start with this, where every team &amp; individual gives an update on progress. All students are expected to participate in this unless extenuating circumstances prevent it. Participation in report-back requires providing input (comments, support, suggestions) to other individuals, reflecting on your own progress in relation to the cohort. <strong>Show, don't tell - </strong>the teaching team will give feedback, but students must bring sketches, photos, videos, code, resources in order to solicit specific input from teachers.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Team Report-Back (Mondays, in class Weeks 5 - 12)</strong>",
+            "topic_description": "Team Report-Back (Mondays, in class Weeks 5 - 12) An important aspect of studio is the social interaction that comes from collectively working in the same space. Wherever possible, we encourage students in this course to make use of and inhabit the shared physical and online spaces of the course during this semester to help generate the opportunities to collaborate that lead to higher quality projects. To enhance and encourage this culture of collaboration, we run report back sessions during Studio contacts. Nominated studio contacts will start with this, where every team & individual gives an update on progress. All students are expected to participate in this unless extenuating circumstances prevent it. Participation in report-back requires providing input (comments, support, suggestions) to other individuals, reflecting on your own progress in relation to the cohort. Show, don't tell - the teaching team will give feedback, but students must bring sketches, photos, videos, code, resources in order to solicit specific input from teachers.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Symposium",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Interaction Design Exhibit</strong><br><p>Students will exhibit their work to the wider public, including peers, friends, family, industry members and academics. At the time of writing, the form of the exhibit is in negotiation, likely 24 May but to be confirmed later in semester.</p></br></p><p><strong>Learning outcomes:</strong> L04, L05, L07</p></div></td>",
+            "topic_title": "<strong>Interaction Design Exhibit</strong>",
+            "topic_description": "Interaction Design Exhibit Students will exhibit their work to the wider public, including peers, friends, family, industry members and academics. At the time of writing, the form of the exhibit is in negotiation, likely 24 May but to be confirmed later in semester.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L07"
+            ]
+        }
+    ]
+}
