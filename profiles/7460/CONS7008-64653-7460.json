@@ -1,0 +1,524 @@
+{
+    "course_title": "Sampling Design & Analysis in Conservation Science",
+    "study_period": "Sem 2 2024",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CONS7008-64653-7460",
+    "full_course_code": "CONS7008-64653-7460",
+    "course_code": "CONS7008",
+    "class_code": "64653",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Written project proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 12/09/2024 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Write a project proposal in response to a request from an NGO or government agency (you will have multiple scenarios to choose from). In your proposal, (i) clearly articulate your research questions (15%), (ii) demonstrate and justify a clear plan for how you will design your study (15%), (iii) explain what types of data you would collect (20%; hint: search the internet for details about any existing datasets that might be relevant to your study), (iv) explain in broad terms (not statistical detail) how you would analyse your data (20%), and (v) show how you would draw conclusions from your results (30%). A detailed task description will be provided by Rich Fuller.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students are required to submit an electronic version of their report through Turnitin which can be found on the course Blackboard site in the Assessment folder.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Detailed research proposal (recorded group presentation)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 3/10/2024 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p> </p>\n<p>This assignment follows logically from Rich Fuller’s more conceptual proposal task. <strong>IN GROUPS OF 3</strong> you will apply your new understanding of the scientific method and key principles of experimental design to a real-world conservation science problem!!! You will be given a realistic scenario. Your job is to present (using MS Powerpoint) a proposed experiment and/or observational survey design to address the questions. Record the presentation IN ONE TAKE using Zoom or similar. A detailed task description and submission details will be provided by John Dwyer.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Statistical analysis using R (10 weekly quizzes worth 1 mark each)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 5/08/2024 - 21/10/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Sum total score obtained from 10 online quizzes: one conducted following each prac session.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final RMarkdown report (Statistical analysis of frog data)",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 7/11/2024 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Final version of statistical analysis report prepared using RMarkdown. A detailed task description will be provided by John Dwyer.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronic submission via Turnitin and email directly to John Dwyer - j.dwyer2@uq.edu.au</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course intro &amp; How to ask a good scientific question</strong><br><p> with John Dwyer and Richard Fuller</p></br></p></div></td>",
+            "topic_title": "<strong>Course intro &amp; How to ask a good scientific question</strong>",
+            "topic_description": "Course intro & How to ask a good scientific question with John Dwyer and Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to the scientific method</strong><br><p>John Dwyer</p></br></p></div></td>",
+            "topic_title": "<strong>Introduction to the scientific method</strong>",
+            "topic_description": "Introduction to the scientific method John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tidy Data and reproducible research</strong><br><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></br></p></div></td>",
+            "topic_title": "<strong>Tidy Data and reproducible research</strong>",
+            "topic_description": "Tidy Data and reproducible research PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Types of scientific studies</strong><br><p>John Dwyer (lecture on experimental design due to EKKA Holiday in Week 2)</p></br></p></div></td>",
+            "topic_title": "<strong>Types of scientific studies</strong>",
+            "topic_description": "Types of scientific studies John Dwyer (lecture on experimental design due to EKKA Holiday in Week 2)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 1: Getting started with R, installing and running R, RStudio, basic R commands</strong><br><p>With John Dwyer and Ella Cathcart-van Weeren</p></br></p></div></td>",
+            "topic_title": "<strong>R Prac 1: Getting started with R, installing and running R, RStudio, basic R commands</strong>",
+            "topic_description": "R Prac 1: Getting started with R, installing and running R, RStudio, basic R commands With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introductory case study: Migratory shorebirds of the East Asian-Australasian Flyway</strong><br><p>with Richard Fuller</p></br></p></div></td>",
+            "topic_title": "<strong>Introductory case study: Migratory shorebirds of the East Asian-Australasian Flyway</strong>",
+            "topic_description": "Introductory case study: Migratory shorebirds of the East Asian-Australasian Flyway with Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sampling from populations and the normal distribution</strong><br><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></br></p></div></td>",
+            "topic_title": "<strong>Sampling from populations and the normal distribution</strong>",
+            "topic_description": "Sampling from populations and the normal distribution PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding distributions</strong><br><p>John Dwyer</p></br></p></div></td>",
+            "topic_title": "<strong>Understanding distributions</strong>",
+            "topic_description": "Understanding distributions John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 2: Estimation and descriptive statistics</strong><br/><p>With John Dwyer and Ella Cathcart-van Weeren</p></p></div></td>",
+            "topic_title": "<strong>R Prac 2: Estimation and descriptive statistics</strong>",
+            "topic_description": "R Prac 2: Estimation and descriptive statistics With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Species distributions I</strong><br/><p>Richard Fuller</p></p></div></td>",
+            "topic_title": "<strong>Species distributions I</strong>",
+            "topic_description": "Species distributions I Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Control in all types of studies</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Control in all types of studies</strong>",
+            "topic_description": "Control in all types of studies John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis testing</strong><br/><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></p></div></td>",
+            "topic_title": "<strong>Hypothesis testing</strong>",
+            "topic_description": "Hypothesis testing PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding power</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Understanding power</strong>",
+            "topic_description": "Understanding power John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 3: Introduction to hypothesis testing</strong><br/><p>With John Dwyer and Ella Cathcart-van Weeren</p></p></div></td>",
+            "topic_title": "<strong>R Prac 3: Introduction to hypothesis testing</strong>",
+            "topic_description": "R Prac 3: Introduction to hypothesis testing With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Species distributions II</strong><br/><p>Richard Fuller</p></p></div></td>",
+            "topic_title": "<strong>Species distributions II</strong>",
+            "topic_description": "Species distributions II Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Replication in all types of studies</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Replication in all types of studies</strong>",
+            "topic_description": "Replication in all types of studies John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear models (regression)</strong><br/><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></p></div></td>",
+            "topic_title": "<strong>Linear models (regression)</strong>",
+            "topic_description": "Linear models (regression) PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision &amp; Transforming variables</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Revision &amp; Transforming variables</strong>",
+            "topic_description": "Revision & Transforming variables John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 4: Linear models (regression)</strong><br/><p>With John Dwyer and Ella Cathcart-van Weeren</p></p></div></td>",
+            "topic_title": "<strong>R Prac 4: Linear models (regression)</strong>",
+            "topic_description": "R Prac 4: Linear models (regression) With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Earth observation</strong><br/><p>Richard Fuller</p></p></div></td>",
+            "topic_title": "<strong>Earth observation</strong>",
+            "topic_description": "Earth observation Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Randomisation in all types of studies</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Randomisation in all types of studies</strong>",
+            "topic_description": "Randomisation in all types of studies John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear models (ANOVA)</strong><br/><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></p></div></td>",
+            "topic_title": "<strong>Linear models (ANOVA)</strong>",
+            "topic_description": "Linear models (ANOVA) PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding interactions between categorical variables</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Understanding interactions between categorical variables</strong>",
+            "topic_description": "Understanding interactions between categorical variables John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 5: Linear models (ANOVA)</strong><br/><p>With John Dwyer and Ella Cathcart-van Weeren</p></p></div></td>",
+            "topic_title": "<strong>R Prac 5: Linear models (ANOVA)</strong>",
+            "topic_description": "R Prac 5: Linear models (ANOVA) With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Socio-economic data I</strong><br/><p>Richard Fuller</p></p></div></td>",
+            "topic_title": "<strong>Socio-economic data I</strong>",
+            "topic_description": "Socio-economic data I Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Designs to assess context dependence</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Designs to assess context dependence</strong>",
+            "topic_description": "Designs to assess context dependence John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear models (multiple regression)</strong><br/><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></p></div></td>",
+            "topic_title": "<strong>Linear models (multiple regression)</strong>",
+            "topic_description": "Linear models (multiple regression) PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding interactions between continuous variables</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Understanding interactions between continuous variables</strong>",
+            "topic_description": "Understanding interactions between continuous variables John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 6: Linear models (Multiple regression)</strong><br/><p>With John Dwyer and Ella Cathcart-van Weeren</p></p></div></td>",
+            "topic_title": "<strong>R Prac 6: Linear models (Multiple regression)</strong>",
+            "topic_description": "R Prac 6: Linear models (Multiple regression) With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Socio-economic data II</strong><br/><p>Richard Fuller</p></p></div></td>",
+            "topic_title": "<strong>Socio-economic data II</strong>",
+            "topic_description": "Socio-economic data II Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Designs with structure</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Designs with structure</strong>",
+            "topic_description": "Designs with structure John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear mixed-effects models (LMMs)</strong><br/><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></p></div></td>",
+            "topic_title": "<strong>Linear mixed-effects models (LMMs)</strong>",
+            "topic_description": "Linear mixed-effects models (LMMs) PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding fixed and random effects</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Understanding fixed and random effects</strong>",
+            "topic_description": "Understanding fixed and random effects John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 7: Linear mixed-effects models (LMMs)</strong><br/><p>With John Dwyer and Ella Cathcart-van Weeren</p></p></div></td>",
+            "topic_title": "<strong>R Prac 7: Linear mixed-effects models (LMMs)</strong>",
+            "topic_description": "R Prac 7: Linear mixed-effects models (LMMs) With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break(23 Sep - 29 Sep)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-semester break</strong><br/><p>No classes</p></p></div></td>",
+            "topic_title": "<strong>Mid-semester break</strong>",
+            "topic_description": "Mid-semester break No classes",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Making do with poor data</strong><br/><p>Richard Fuller</p></p></div></td>",
+            "topic_title": "<strong>Making do with poor data</strong>",
+            "topic_description": "Making do with poor data Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Before-After-Control-Impact Designs</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Before-After-Control-Impact Designs</strong>",
+            "topic_description": "Before-After-Control-Impact Designs John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Generalised linear models (GLMs)</strong><br/><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></p></div></td>",
+            "topic_title": "<strong>Generalised linear models (GLMs)</strong>",
+            "topic_description": "Generalised linear models (GLMs) PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Markdown Assignment Info</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>R Markdown Assignment Info</strong>",
+            "topic_description": "R Markdown Assignment Info John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 8: Generalised linear models (GLMs)</strong><br/><p>With John Dwyer and Ella Cathcart-van Weeren</p></p></div></td>",
+            "topic_title": "<strong>R Prac 8: Generalised linear models (GLMs)</strong>",
+            "topic_description": "R Prac 8: Generalised linear models (GLMs) With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>KING'S BIRTHDAY</strong><br/><p>NO CLASSES TODAY</p></p></div></td>",
+            "topic_title": "<strong>KING'S BIRTHDAY</strong>",
+            "topic_description": "KING'S BIRTHDAY NO CLASSES TODAY",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Markdown Basics</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>R Markdown Basics</strong>",
+            "topic_description": "R Markdown Basics John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data visualisation</strong><br/><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></p></div></td>",
+            "topic_title": "<strong>Data visualisation</strong>",
+            "topic_description": "Data visualisation PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dwyer's Decision Trees</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Dwyer's Decision Trees</strong>",
+            "topic_description": "Dwyer's Decision Trees John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 9: Graphical exploration of data</strong><br/><p>With John Dwyer and Ella Cathcart-van Weeren</p></p></div></td>",
+            "topic_title": "<strong>R Prac 9: Graphical exploration of data</strong>",
+            "topic_description": "R Prac 9: Graphical exploration of data With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Other types of conservation analyses</strong><br/><p>Richard Fuller</p></p></div></td>",
+            "topic_title": "<strong>Other types of conservation analyses</strong>",
+            "topic_description": "Other types of conservation analyses Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Common sources of multi-variate data</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Common sources of multi-variate data</strong>",
+            "topic_description": "Common sources of multi-variate data John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Principal Component Analysis</strong><br/><p>PRE-RECORDED STATS MODULE (John Dwyer)</p></p></div></td>",
+            "topic_title": "<strong>Principal Component Analysis</strong>",
+            "topic_description": "Principal Component Analysis PRE-RECORDED STATS MODULE (John Dwyer)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Let's generate multi-variate data!</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>Let's generate multi-variate data!</strong>",
+            "topic_description": "Let's generate multi-variate data! John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 10: Principal component analysis (PCA)</strong><br/><p>With John Dwyer and Ella Cathcart-van Weeren</p></p></div></td>",
+            "topic_title": "<strong>R Prac 10: Principal component analysis (PCA)</strong>",
+            "topic_description": "R Prac 10: Principal component analysis (PCA) With John Dwyer and Ella Cathcart-van Weeren",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Conservation science and policy</strong><br/><p>Richard Fuller</p></p></div></td>",
+            "topic_title": "<strong>Conservation science and policy</strong>",
+            "topic_description": "Conservation science and policy Richard Fuller",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SPARE LECTURE SLOT</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>SPARE LECTURE SLOT</strong>",
+            "topic_description": "SPARE LECTURE SLOT John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SPARE LECTURE SLOT</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>SPARE LECTURE SLOT</strong>",
+            "topic_description": "SPARE LECTURE SLOT John Dwyer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Prac 11: Help session for Rmarkdown assessment</strong><br/><p>John Dwyer</p></p></div></td>",
+            "topic_title": "<strong>R Prac 11: Help session for Rmarkdown assessment</strong>",
+            "topic_description": "R Prac 11: Help session for Rmarkdown assessment John Dwyer",
+            "learning_outcomes": []
+        }
+    ]
+}
