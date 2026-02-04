@@ -1,0 +1,389 @@
+{
+    "course_title": "Programming for Engineers",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG1001-60552-7560",
+    "full_course_code": "ENGG1001-60552-7560",
+    "course_code": "ENGG1001",
+    "class_code": "60552",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Differentiate and apply program constructs such as variables, selection, iteration and sub-routines"
+        },
+        {
+            "number": "LO2.",
+            "description": "Recognise and apply basic object-oriented design methodologies, along with associated concepts such as classes, instances and methods"
+        },
+        {
+            "number": "LO3.",
+            "description": "Read and analyse programs written by others"
+        },
+        {
+            "number": "LO4.",
+            "description": "Interpret an engineering problem and design an algorithmic solution to the problem"
+        },
+        {
+            "number": "LO5.",
+            "description": "Read and analyse an algorithmic design and be able to translate the design into a working program"
+        },
+        {
+            "number": "LO6.",
+            "description": "Apply techniques for program testing and debugging"
+        },
+        {
+            "number": "LO7.",
+            "description": "Apply sound programming techniques to the solution of real world engineering problems"
+        },
+        {
+            "number": "LO8.",
+            "description": "Analyse and visualise engineering data"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 29/08/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In writing this assignment (and other assessment items) students must not look at anyone else's code or show anyone else their own code. They must also refrain from copying code from the internet or other sources. See assignment sheet for details.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Students will need to attend a compulsory interview in the week after the due date, and will be required to sign up for an interview time slot. If students fail to get at least 50% for the interview, their assignment mark will be capped at 50% of the total available marks for the assignment, If students cannot attend the scheduled interview for a legitimate reason (with appropriate documentation) there will be a make up session in Week 13.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignment submitted on-line via Gradescope. Students should submit their code regularly to Gradescope as they progress in the assignment.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 1 Practical",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd> Pass/fail </dd>",
+            "due_date": "<dd><p> Week 6 Mon - Week 6 Thu</p></dd>",
+            "learning_objectives": "L01, L02, L06, L07, L08",
+            "mode": "Oral",
+            "category": "Computer Code, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This item forms the secure element of Assignment 1.</p>\n<p>You will sign up for an interview slot and in the interview you will be asked questions about your code for Assignment 1.  You must bring your student card.</p>\n<p>Failure to attend may result in a failure.</p>\n<p>Your performance in this session will contribute to your Assignment 1 mark, as specified in the Assignment 1 task sheet.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 24/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In writing this assignment (and other assessment items) students must not look at anyone else's code or show anyone else their own code. They must also refrain from copying code from the internet or other sources. See assignment sheet for details.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Students will need to attend a compulsory interview in the week after the due date, and will be required to sign up for an interview time slot. If students fail to get at least 50% for the interview, their assignment mark will be capped at 50% of the total available marks for the assignment. If students cannot attend the scheduled interview for a legitimate reason (with appropriate documentation) there will be a make up session in Week 13.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignment submitted on-line via Gradescope. Students should submit their code regularly to Gradescope as they progress in the assignment.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Assignment 2 Practical",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd> Pass/fail </dd>",
+            "due_date": "<dd><p> Week 13 Mon - Week 13 Thu</p></dd>",
+            "learning_objectives": "L01, L02, L06, L07, L08",
+            "mode": "Oral",
+            "category": "Computer Code, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This item forms the secure element of Assignment 2.</p>\n<p>You will sign up for an interview slot and in the interview you will be asked questions about your code for Assignment 2.  You must bring your student card.</p>\n<p>Failure to attend may result in a failure.</p>\n<p>Your performance in this session will contribute to your Assignment 1 mark, as specified in the Assignment 2 task sheet.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>No submission required.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "End of semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L06, L07, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>End of semester exam. The exam will test understanding of the concepts covered over the entire course. </p>\n<p>The exam will be an invigilated multiple choice exam. The exam will be conducted on-campus.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1</strong><br/><p>Introduction to course and Python programming, variables and types, multiline programs</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Week 1</strong>",
+            "topic_description": "Week 1 Introduction to course and Python programming, variables and types, multiline programs",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly tutorials</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Weekly tutorials</strong>",
+            "topic_description": "Weekly tutorials",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2</strong><br/><p>Functional decomposition and control structures</p></p><p><strong>Learning outcomes:</strong> L01, L03, L06</p></div></td>",
+            "topic_title": "<strong>Week 2</strong>",
+            "topic_description": "Week 2 Functional decomposition and control structures",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 12",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Daily Help sessions (Monday-Friday 10am-5pm, Weeks 3-12).</strong><br/><p>Students can drop in to the Help Center (78-217) any time between 10am to 5pm to seek guidance from the teaching team.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Daily Help sessions (Monday-Friday 10am-5pm, Weeks 3-12).</strong>",
+            "topic_description": "Daily Help sessions (Monday-Friday 10am-5pm, Weeks 3-12). Students can drop in to the Help Center (78-217) any time between 10am to 5pm to seek guidance from the teaching team.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3</strong><br/><p>Manipulating data structures, file I/O</p></p><p><strong>Learning outcomes:</strong> L01, L03, L06</p></div></td>",
+            "topic_title": "<strong>Week 3</strong>",
+            "topic_description": "Week 3 Manipulating data structures, file I/O",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4</strong><br/><p>Intro to classes and objects, lists, variable scope</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L06</p></div></td>",
+            "topic_title": "<strong>Week 4</strong>",
+            "topic_description": "Week 4 Intro to classes and objects, lists, variable scope",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5</strong><br/><p>Dictionaries, Intro to Numpy</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 5</strong>",
+            "topic_description": "Week 5 Dictionaries, Intro to Numpy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6</strong><br/><p>Array creation, vectorisation</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Week 6</strong>",
+            "topic_description": "Week 6 Array creation, vectorisation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7</strong><br/><p>Data visualisation and further numpy examples</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 7</strong>",
+            "topic_description": "Week 7 Data visualisation and further numpy examples",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8</strong><br/><p>Introduction to data analysis</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Week 8</strong>",
+            "topic_description": "Week 8 Introduction to data analysis",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9</strong><br/><p>Analysis of engineering data</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Week 9</strong>",
+            "topic_description": "Week 9 Analysis of engineering data",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10</strong><br/><p>Object orientation, implementation and application of classes, inheritance</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 10</strong>",
+            "topic_description": "Week 10 Object orientation, implementation and application of classes, inheritance",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11</strong><br/><p>Engineering applications, random walks</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Week 11</strong>",
+            "topic_description": "Week 11 Engineering applications, random walks",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12</strong><br/><p>Engineering applications, diffusive processes</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Week 12</strong>",
+            "topic_description": "Week 12 Engineering applications, diffusive processes",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13</strong><br/><p>Engineering applications, course review</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Week 13</strong>",
+            "topic_description": "Week 13 Engineering applications, course review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
