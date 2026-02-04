@@ -1,0 +1,265 @@
+{
+    "course_title": "Advanced Techniques in Biomedical Science",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOM2222-61998-7460",
+    "full_course_code": "BIOM2222-61998-7460",
+    "course_code": "BIOM2222",
+    "class_code": "61998",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply practical skills to effectively conduct research in the field of biomedical sciences"
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate and analyse the theory behind different biomedical techniques"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the necessity for appropriate controls in research"
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate and analyse scientific data"
+        },
+        {
+            "number": "LO5.",
+            "description": "Maintain appropriate scientific records"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Molecular Biology - Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 25/07/2024 1:00 pm</p>\n<p>\n</p><p>In class</p></dd>",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students will complete an online in-class quiz testing their knowledge of core practical skills for each module. Have your UQ student ID card available for all of your quizzes.</li>\n<li>Further details of the assessment format and marking criteria will be provided on Blackboard during the semester.</li>\n<li>This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Details of the quiz format and marking criteria will be provided on Blackboard during the semester.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Molecular Biology - Advanced techniques - Practical skills",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>8%</dd>",
+            "due_date": "<dd><p>Due 1pm of week 5 22/07/2024 - 19/08/2024</p>\n<p>\n</p><p>During scheduled practicals</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Activity/ Performance, Written",
+            "category": "Notebook/ Logbook, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students will be assessed on their laboratory performance for this module. This will include their proficiency in performing the experiments and the documentation of their results in the lab book.</li>\n<li>Further details of the assessment format and marking criteria will be provided on Blackboard during the semester.</li>\n<li>This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assessment will be take place in students' scheduled practical sessions.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Molecular Biology - Lab report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Molecular Biology Module  4/09/2024 1:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students will be asked to solve a cloning problem drawing on theory learnt within the module and submit a written report.</li>\n<li>Further details of the assessment format and marking criteria will be provided on Blackboard during the semester.</li>\n<li>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit your Assessment task, with the electronic coversheet available on the Schools <a href=\"https://biomedical-sciences.uq.edu.au/student-support/resources \">website</a> (under Undergraduate - Assessment), to Turnitin by the submission deadline. You may submit drafts to Turnitin up to the due date, but you will only be able to submit once on or after the due date. You should also keep an electronic copy of every piece of assessment you submit.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Cell Biology - Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 29/08/2024 1:00 pm</p>\n<p>\n</p><p>In class</p></dd>",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students will complete an in class, online quiz testing their knowledge of core practical skills for each module. Have your UQ student ID card available for all of your quizzes.</li>\n<li>Further details of the assessment format and marking criteria will be provided on Blackboard during the semester.</li>\n<li>This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Details of the quiz format and marking criteria will be provided on Blackboard during the semester.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Cell Biology - Advanced techniques - Practical skills",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>8%</dd>",
+            "due_date": "<dd><p>Due 1pm of week 9 26/08/2024 - 18/09/2024</p>\n<p>\n</p><p>During scheduled practicals</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Activity/ Performance, Written",
+            "category": "Notebook/ Logbook, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students will be assessed on their laboratory performance for this module. This will include their proficiency in performing the experiments and the documentation of their results in the lab book.</li>\n<li>Further details of the assessment format and marking criteria will be provided on Blackboard during the semester.</li>\n<li>This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assessment will be take place in students' scheduled practical sessions.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-5",
+            "assessment_title": "Cell Biology - Advanced techniques - Lab report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Cell Biology Module 8/10/2024 1:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students will write a report on experiments conducted in this module.</li>\n<li>Further details of the assessment format and marking criteria will be provided on Blackboard during the semester.</li>\n<li>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit your Assessment task, with the electronic coversheet available on the Schools website (<a href=\"https://biomedical-sciences.uq.edu.au/student-support/resources\">https://biomedical-sciences.uq.edu.au/student-support/resources</a> under Undergraduate - Assessment), to Turnitin by the submission deadline. You may submit drafts to Turnitin up to the due date, but you will only be able to submit once on or after the due date. You should also keep an electronic copy of every piece of assessment you submit.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-6",
+            "assessment_title": "Biochemistry - Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 3/10/2024 1:00 pm</p>\n<p>\n</p><p>In class</p></dd>",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students will complete an in-class, online quiz testing their knowledge of core practical skills for each module. Have your UQ student ID card available for all of your quizzes.</li>\n<li>Further details of the assessment format and marking criteria will be provided on Blackboard during the semester.</li>\n<li>This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Details of the quiz format and marking criteria will be provided on Blackboard during the semester.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-7",
+            "assessment_title": "Biochemistry - Advanced techniques - Practical skills",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>9%</dd>",
+            "due_date": "<dd><p>Due 1pm of week 13 30/09/2024 - 23/10/2024</p>\n<p>\n</p><p>During scheduled practicals</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Activity/ Performance, Written",
+            "category": "Notebook/ Logbook, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students will be assessed on their laboratory performance for this module. This will include their proficiency in performing the experiments and the documentation of their results in the lab book.</li>\n<li>Further details of the assessment format and marking criteria will be provided on Blackboard during the semester.</li>\n<li>This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assessment will be take place in students' scheduled practical sessions.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-8",
+            "assessment_title": "Biochemistry - Advanced techniques - Lab report",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Biochemistry Module  6/11/2024 1:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ul>\n<li>Students will write a report on experiments conducted in this module.</li>\n<li>Further details of the assessment format and marking criteria will be provided on Blackboard during the semester.</li>\n<li>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit your Assessment task, with the electronic coversheet available on the Schools website (<a href=\"https://biomedical-sciences.uq.edu.au/student-support/resources\">https://biomedical-sciences.uq.edu.au/student-support/resources</a> under Undergraduate - Assessment), to Turnitin by the submission deadline. You may submit drafts to Turnitin up to the due date, but you will only be able to submit once on or after the due date. You should also keep an electronic copy of every piece of assessment you submit.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>P01 and P02 Molecular Biology [Millard]</strong><br/><p>Students will learn core and advanced skills in Molecular Biology. This module runs in weeks 1-5.</p></p></div></td>",
+            "topic_title": "<strong>P01 and P02 Molecular Biology [Millard]</strong>",
+            "topic_description": "P01 and P02 Molecular Biology [Millard] Students will learn core and advanced skills in Molecular Biology. This module runs in weeks 1-5.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>P01 and P02 Thursday tutorials</strong><br/><p>This first Thursday of each module will consist of a quiz in the computer lab. The other 3 Thursdays are reserved for tutorials as needed (in a lecture theatre), but the academic leading each module will let students know when to meet.</p></p></div></td>",
+            "topic_title": "<strong>P01 and P02 Thursday tutorials</strong>",
+            "topic_description": "P01 and P02 Thursday tutorials This first Thursday of each module will consist of a quiz in the computer lab. The other 3 Thursdays are reserved for tutorials as needed (in a lecture theatre), but the academic leading each module will let students know when to meet.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>P01 and P02 Cell Biology [Pagan]</strong><br/><p>Students will learn core and advanced skills in Cell Biology. This modules runs weeks 6-9.</p></p></div></td>",
+            "topic_title": "<strong>P01 and P02 Cell Biology [Pagan]</strong>",
+            "topic_description": "P01 and P02 Cell Biology [Pagan] Students will learn core and advanced skills in Cell Biology. This modules runs weeks 6-9.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>P01 and P02 Biochemistry [Ng]</strong><br/><p>Students will learn core and advanced skills in Biochemistry. This module runs weeks 10-13.</p></p></div></td>",
+            "topic_title": "<strong>P01 and P02 Biochemistry [Ng]</strong>",
+            "topic_description": "P01 and P02 Biochemistry [Ng] Students will learn core and advanced skills in Biochemistry. This module runs weeks 10-13.",
+            "learning_outcomes": []
+        }
+    ]
+}
