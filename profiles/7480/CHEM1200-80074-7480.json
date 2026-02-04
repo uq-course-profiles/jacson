@@ -1,0 +1,233 @@
+{
+    "course_title": "Chemistry 2",
+    "study_period": "Summer 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEM1200-80074-7480",
+    "full_course_code": "CHEM1200-80074-7480",
+    "course_code": "CHEM1200",
+    "class_code": "80074",
+    "semester_code": "7480",
+    "semester_details": "Summer Semester, 2024 (25/11/2024 - 08/02/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply the kinetics of non-reversible reactions to determine orders of reaction, reaction rates, rate constants and relate simple reaction mechanisms to rate laws."
+        },
+        {
+            "number": "LO2.",
+            "description": "Represent selected reaction pathways using accepted organic chemistry conventions. Describe the shapes and bonding of organic molecules and use these to predict the reactivity of various functional groups and outcomes of selected reactions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply concepts related to weak acids and bases to aqueous solutions and buffers."
+        },
+        {
+            "number": "LO4.",
+            "description": "Determine simple chemical structures by Mass Spectrometry (MS) and Nuclear Magnetic Resonance (NMR) Spectroscopy."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply crystal field theory to the bonding and visible spectroscopy of transition metal compounds."
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate practical competencies in a basic set of laboratory techniques."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Chemical understanding and literacy quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Quiz 1 2/12/2024 - 9/12/2024</p>\n<p>Quiz 2 9/12/2024 - 16/12/2024</p>\n<p>Quiz 3 16/12/2024 - 6/01/2025</p>\n<p>Quiz 4 6/01/2025 - 13/01/2025</p>\n<p>Quiz 5 13/01/2025 - 20/01/2025</p>\n<p>Quiz 6 24/01/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There are six online quizzes. They will be accessible via Blackboard with specified opening and closing times as follows:</p>\n<p>Quiz 1 - Opens Monday of week 2 (2 December), closes 2pm Monday of week 3 (9 December); covers the topics from week 1 of the learning pathway.</p>\n<p>Quiz 2 - Opens Monday of week 3 (9 December), closes 2pm Monday of week 4 (16 December); covers the topics from week 2 of the learning pathway.</p>\n<p>Quiz 3 - Opens Monday of week 4 (16 December), closes 2pm Monday of week 6 (6 January); covers the topics from week 3 of the learning pathway.</p>\n<p>Quiz 4 - Opens Monday of week 6 (6 January), closes 2pm Monday of week 7 (13 January); covers the topics from weeks 4 and 5 of the learning pathway.</p>\n<p>Quiz 5 - Opens Monday of week 7 (13 January), closes 2pm Monday of week 8 (20 January); covers the topics from week 6 of the learning pathway.</p>\n<p>Quiz 6 - This quiz is held during Workshop 2; the opening and closing times will occur during the scheduled workshop session on 24 January; this quiz covers the lecture topics from all weeks of the learning pathway.</p>\n<p>You must submit your answers for each quiz before the closing time.</p>\n<p>Quizzes 1, 2, 3, 5 and 6 will be marked out of 10.</p>\n<p>Quiz 4 will be marked out of 20.</p>\n<p>The total marks for the six quizzes (out of 70) will be scaled to a mark out of 20, which will count 20% towards your overall course mark.</p>\n<p> <strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The online quizzes will be submitted on Blackboard during the times listed above under TASK DESCRIPTION.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Five Practicals",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 13/01/2025 - 17/01/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Attendance and completion of 5 experiments is required to obtain a passing grade (4 or higher). The laboratory classes are performed in scheduled practical sessions in Week 7 of semester. It is your responsibility to attend ALL 5 laboratory sessions at your scheduled times. If you miss a laboratory session, it is your responsibility to inform the laboratory coordinator (chem1prac.scmb@enquire.uq.edu.au) and arrange a catch-up session--see the additional information below. If you miss multiple laboratory sessions, you should consider withdrawing from the course, as you will be unable to fulfil the course requirements.</p>\n<p>Please note that you are required to complete an online pre-lab quiz at least 30 minutes before each of your scheduled laboratory sessions and must complete the online post-lab quiz within 24 hours of completing each of the experiment. Each practical is equally weighted.</p>\n<p> <strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>1/02/2025 - 8/02/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An examination containing both multiple choice questions and short answer questions. Marks are NOT deducted for an incorrect answer. Marks are NOT awarded for a blank answer.</p>\n<p>The end of semester examination will cover lecture (lectorial) material from all parts of the course. Individual questions to be successfully answered may require knowledge of more than one area. This will be an on-campus invigilated exam.</p>\n<p> <strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 8(25 Nov - 26 Jan)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Study sessions</strong><br><p>Guided study sessions for students seeking additional assistance and guidance. Attendance is voluntary but highly recommended. Refer to Blackboard for further details.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Study sessions</strong>",
+            "topic_description": "Study sessions Guided study sessions for students seeking additional assistance and guidance. Attendance is voluntary but highly recommended. Refer to Blackboard for further details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 1(25 Nov - 01 Dec)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Chemical Kinetics</strong><br/><p>Video lectorials, textbook readings, practice problems.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Chemical Kinetics</strong>",
+            "topic_description": "Chemical Kinetics Video lectorials, textbook readings, practice problems.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1(25 Nov - 01 Dec)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Orientation Workshop</strong><br/><p>Course overview and expectations, lab introduction, in-class formative quiz.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Orientation Workshop</strong>",
+            "topic_description": "Orientation Workshop Course overview and expectations, lab introduction, in-class formative quiz.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Dec - 08 Dec)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Acids/Bases</strong><br/><p>Video lectorials, textbook readings, practice problems.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Acids/Bases</strong>",
+            "topic_description": "Acids/Bases Video lectorials, textbook readings, practice problems.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(09 Dec - 15 Dec)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Organic stereochemistry and introduction to reaction mechanisms (alkenes/alkynes)</strong><br/><p>Video lectorials, textbook readings, practice problems.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Organic stereochemistry and introduction to reaction mechanisms (alkenes/alkynes)</strong>",
+            "topic_description": "Organic stereochemistry and introduction to reaction mechanisms (alkenes/alkynes) Video lectorials, textbook readings, practice problems.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Dec - 22 Dec)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Organic reactions (substitution &amp; elimination reactions)</strong><br/><p>Video lectorials, textbook readings, practice problems.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Organic reactions (substitution &amp; elimination reactions)</strong>",
+            "topic_description": "Organic reactions (substitution & elimination reactions) Video lectorials, textbook readings, practice problems.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5 (Mid Sem break ends Wed)(30 Dec - 05 Jan)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Structure determinations and carbonyl compound reactions</strong><br/><p>Video lectorials, textbook reading, practice problems.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Structure determinations and carbonyl compound reactions</strong>",
+            "topic_description": "Structure determinations and carbonyl compound reactions Video lectorials, textbook reading, practice problems.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(06 Jan - 12 Jan)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to transition metal chemistry</strong><br/><p>Video lectorials, textbook reading, practice problems.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Introduction to transition metal chemistry</strong>",
+            "topic_description": "Introduction to transition metal chemistry Video lectorials, textbook reading, practice problems.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Jan - 19 Jan)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laboratory Class Week</strong><br/><p>One laboratory session per day for 5 days.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Laboratory Class Week</strong>",
+            "topic_description": "Laboratory Class Week One laboratory session per day for 5 days.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Jan - 26 Jan)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision Workshop</strong><br/><p>Question and answer session, examination advice, in-class assessment tasks.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Revision Workshop</strong>",
+            "topic_description": "Revision Workshop Question and answer session, examination advice, in-class assessment tasks.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
