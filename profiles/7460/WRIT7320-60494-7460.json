@@ -1,0 +1,131 @@
+{
+    "course_title": "Dissertation",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/WRIT7320-60494-7460",
+    "full_course_code": "WRIT7320-60494-7460",
+    "course_code": "WRIT7320",
+    "class_code": "60494",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify a research topic in the field of WEP or Communication"
+        },
+        {
+            "number": "LO2.",
+            "description": "Plan and carry out research within the field of WEP or Communication"
+        },
+        {
+            "number": "LO3.",
+            "description": "Access, evaluate, and critique primary and secondary sources"
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop an argument critically and clearly"
+        },
+        {
+            "number": "LO5.",
+            "description": "Organise and present written research at a sophisticated level, in a form appropriate to the intended audience"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "10,000-word dissertation",
+            "special_indicators": [],
+            "weighting": "<dd>100%</dd>",
+            "due_date": "<dd><p> 9/06/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Thesis",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will write a 10,000-word dissertation on a topic decided in consultation with your supervisor.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Email a pdf copy of your dissertation to your supervisor and to r.newsome@uq.edu.au</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 1</strong><br/><p>Week 1: Designing and managing a research project, from idea to submission</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Workshop 1</strong>",
+            "topic_description": "Workshop 1 Week 1: Designing and managing a research project, from idea to submission",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 2</strong><br/><p>Week 2: Practical researching: library resources, archives and literature reviews</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 2</strong>",
+            "topic_description": "Workshop 2 Week 2: Practical researching: library resources, archives and literature reviews",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 3</strong><br/><p>Week 3: Critical reading &amp; effective writing -- planning and completing your dissertation</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 3</strong>",
+            "topic_description": "Workshop 3 Week 3: Critical reading & effective writing -- planning and completing your dissertation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Question</strong><br/><p>Submit your research question and consult with supervisor</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Research Question</strong>",
+            "topic_description": "Research Question Submit your research question and consult with supervisor",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Outline and/or synopsis</strong><br/><p>Submit your outline and/or synopsis and consult with supervisor</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Outline and/or synopsis</strong>",
+            "topic_description": "Outline and/or synopsis Submit your outline and/or synopsis and consult with supervisor",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Draft section 1 (2500 words)</strong><br/><p>Submit first 2500 words of draft and consult with supervisor</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Draft section 1 (2500 words)</strong>",
+            "topic_description": "Draft section 1 (2500 words) Submit first 2500 words of draft and consult with supervisor",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
