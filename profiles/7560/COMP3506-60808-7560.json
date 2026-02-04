@@ -1,0 +1,154 @@
+{
+    "course_title": "Algorithms & Data Structures",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3506-60808-7560",
+    "full_course_code": "COMP3506-60808-7560",
+    "course_code": "COMP3506",
+    "class_code": "60808",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the principles of data structures - Understand the internal workings of fundamental data structures and algorithms"
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand the principles of data structures - Determine the running time and memory space usage of common algorithms."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop algorithmic solutions - Analyse the performance of fundamental data structures and algorithms"
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop algorithmic solutions - Adapt or invent new algorithms and data structures for software engineering problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop algorithmic solutions - Select and justify appropriate combinations of data structures and algorithms to solve software engineering problems."
+        },
+        {
+            "number": "LO6.",
+            "description": "Develop algorithmic solutions - Communicate the efficiency and correctness of identified solutions"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Sets",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10% (Best 4 of 5) </dd>",
+            "due_date": "<dd><p> 15/08/2025 4:00 pm</p>\n<p> 29/08/2025 4:00 pm</p>\n<p> 19/09/2025 4:00 pm</p>\n<p> 10/10/2025 4:00 pm</p>\n<p> 31/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Problem sets are designed to consolidate the knowledge of the course material, demonstrate your ability to understand data structures, solve simple algorithmic problems, compute the time and space complexity of algorithms, and optimize their computational complexity. These activities are designed to keep students engaged with the week-by-week teaching material.</p>\n<p>The best 4 of 5 submissions will be used to calculate a student's mark, with each submission weighted equally. Each problem set will be accompanied by a detailed specification sheet uploaded to Blackboard.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment will be submitted online via the Gradescope platform. Detailed instructions will be provided in the task specification.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 5/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the first assignment, you will demonstrate your ability to translate theory to practice by implementing fundamental data structures to solve a range of algorithmic problems. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment will be submitted online via the Gradescope platform. Detailed instructions will be provided in the task specification.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 29/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the second assignment, you will demonstrate your ability to design, implement and apply complex data structures and algorithms to solve advanced computing problems. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment will be submitted online via the Gradescope platform. Detailed instructions will be provided in the task specification.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A three-hour invigilated final examination will be held during the final examination period. It aims to test the students' understanding of topics covered by the whole course. The examination is centrally timetabled.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>Lectures will be used to introduce the course material, focusing primarily on theoretical concepts with some practical examples.</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Lectures will be used to introduce the course material, focusing primarily on theoretical concepts with some practical examples.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(04 Aug - 02 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Classes</strong><br><p>Applied classes will be used to consolidate understanding of the course material in a more practical nature such as (group) problem solving and discussions.</p></br></p></div></td>",
+            "topic_title": "<strong>Applied Classes</strong>",
+            "topic_description": "Applied Classes Applied classes will be used to consolidate understanding of the course material in a more practical nature such as (group) problem solving and discussions.",
+            "learning_outcomes": []
+        }
+    ]
+}
