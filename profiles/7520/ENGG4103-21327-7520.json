@@ -1,0 +1,299 @@
+{
+    "course_title": "Engineering Asset Management",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG4103-21327-7520",
+    "full_course_code": "ENGG4103-21327-7520",
+    "course_code": "ENGG4103",
+    "class_code": "21327",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand and apply asset management principles - Recognise that Asset Management involves life-cycle decisions"
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand and apply asset management principles - Appreciate that Asset Management is holistic and involves working as part of multidisciplinary teams"
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand and apply asset management principles - Appreciate that Asset Management drives value"
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand and apply asset management principles - Design maintenance support systems for assets"
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand and apply asset management principles - Specify appropriate maintenance tactics"
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand and apply asset management principles - Specify appropriate maintenance intervals"
+        },
+        {
+            "number": "LO7.",
+            "description": "Analyse data in reliability engineering processes - Identify functions, functional failures and failure modes"
+        },
+        {
+            "number": "LO8.",
+            "description": "Analyse data in reliability engineering processes - Specify appropriate maintenance and inspection controls for failure modes"
+        },
+        {
+            "number": "LO9.",
+            "description": "Analyse data in reliability engineering processes - Analyse failure data to determine principal failure modes"
+        },
+        {
+            "number": "LO10.",
+            "description": "Analyse data in reliability engineering processes - Be familiar with equipment performance metrics"
+        },
+        {
+            "number": "LO11.",
+            "description": "Evaluate economic decisions related to assets - Develop quantified risk assessments"
+        },
+        {
+            "number": "LO12.",
+            "description": "Evaluate economic decisions related to assets - Use EAC approaches to determine life cycle costs"
+        },
+        {
+            "number": "LO13.",
+            "description": "Evaluate economic decisions related to assets - Determine economic optimum for asset replacement"
+        },
+        {
+            "number": "LO14.",
+            "description": "Work competently as part of a team - Coordinate and contribute to team projects involving engineering assets"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Tutorial Exercises",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Weibull curve fitting (10%) 27/03/2025 5:00 pm</p>\n<p>Capital replacement (10%) 8/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L05, L06, L09, L11, L12, L13",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Part 1 of 2 Weibull curve fitting</strong></p>\n<p>Weibull curve fitting exercise. Individual submission one week following tutorial.</p>\n<p><strong>Part 2 of 2 Capital Replacement</strong></p>\n<p>Analyse capital replacement of equipment. Individual submission due one week following tutorial.</p>\n<p><br/></p>\n<p>Assessment tasks prohibits use of AI or MT. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 1: Maintenance Strategy Formulation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30% Includes Peer Assessment </dd>",
+            "due_date": "<dd><p> 4/04/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L04, L05, L06, L07, L08, L09, L14",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Formulation of a maintenance strategy for a wind generator. Group report (4 students per group). Ability to analyse and formulate program using engineering reliability tools.</p>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p><br/></p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. A Peer Assessment Factor of between zero and 1.1 will be applied to your team mark in order to derive your individual assignment mark.</em></p>\n<p><br/></p>\n<p>This task has been designed to be challenging, authentic and complex. Students may use AI and/or MT technologies for evaluating maintenance controls and the frequency with which they should be applied, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 12/05/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L05, L07, L08, L09, L10, L11, L12, L13",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Reading: 5 minutes</p>\n<p>Duration: 30 minutes</p>\n<p>Format: Multiple-choice, Short answer, Problem solving</p>\n<p>The quiz covers modules 1 to 10 inclusive.</p>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p>Students are expected to undertake the quiz during the timetabled session.</p>\n<p><br/></p>\n<p>Assessment tasks prohibits use of AI or MT. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Assignment 2:  Case Study Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 16/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L10, L11",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Individual assignment. Written presentation, Analysis of case study and downtime data, determining improvement priorities, Ability to understand maintenance indices and formulate action plans.</p>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p>Assessment tasks prohibits use of AI or MT. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1: Physical Assets (2 hours)</strong><br><ul>\n<li>The purpose of physical assets</li>\n<li>Performance requirements</li>\n<li>The life cycle of physical assets</li>\n<li>Value through asset management</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L14</p></div></td>",
+            "topic_title": "<strong>Module 1: Physical Assets (2 hours)</strong>",
+            "topic_description": "Module 1: Physical Assets (2 hours) The purpose of physical assets Performance requirements The life cycle of physical assets Value through asset management",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2: Asset Management Strategy</strong><br><ul>\n<li>Strategy, tactics and resources</li>\n<li>The maintenance process</li>\n<li>Determining equipment priority</li>\n<li>Maintenance maturity model</li>\n</ul>\n<p> RELEASE OF ASSIGNMENT 1</p></br></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 2: Asset Management Strategy</strong>",
+            "topic_description": "Module 2: Asset Management Strategy Strategy, tactics and resources The maintenance process Determining equipment priority Maintenance maturity model RELEASE OF ASSIGNMENT 1",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3 : Asset Management Tactics</strong><br><ul>\n<li>Functions, functional failures and failure modes</li>\n<li>Failure intensity functions</li>\n<li>Maintenance tactics</li>\n<li>Selecting tactics</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Module 3 : Asset Management Tactics</strong>",
+            "topic_description": "Module 3 : Asset Management Tactics Functions, functional failures and failure modes Failure intensity functions Maintenance tactics Selecting tactics",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4: Asset Management Processes and Organisation (3 hours)</strong><br><ul>\n<li>Key asset management processes</li>\n<li>Work Order Management</li>\n<li>Maintenance forecasting, planning &amp; scheduling</li>\n<li>Organisational structure</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L04, L10</p></div></td>",
+            "topic_title": "<strong>Module 4: Asset Management Processes and Organisation (3 hours)</strong>",
+            "topic_description": "Module 4: Asset Management Processes and Organisation (3 hours) Key asset management processes Work Order Management Maintenance forecasting, planning & scheduling Organisational structure",
+            "learning_outcomes": [
+                "L04",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 5: Asset Management Measurement, Control &amp; Improvement</strong><br><ul>\n<li>Performance measurement</li>\n<li>Continuous improvement</li>\n<li>Root Cause Analysis</li>\n<li>Operator Driven Reliability</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Module 5: Asset Management Measurement, Control &amp; Improvement</strong>",
+            "topic_description": "Module 5: Asset Management Measurement, Control & Improvement Performance measurement Continuous improvement Root Cause Analysis Operator Driven Reliability",
+            "learning_outcomes": [
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 6 </strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Module 6 </strong>",
+            "topic_description": "Module 6",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 7 </strong><br/></p></div></td>",
+            "topic_title": "<strong>Module 7 </strong>",
+            "topic_description": "Module 7",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 8: Spares and Repairs Management</strong><br/><ul>\n<li>Spares classification</li>\n<li>High rotation spares</li>\n<li>Low rotation spares</li>\n<li>Advanced sparing decisions</li>\n</ul></p><p><strong>Learning outcomes:</strong> L10</p></div></td>",
+            "topic_title": "<strong>Module 8: Spares and Repairs Management</strong>",
+            "topic_description": "Module 8: Spares and Repairs Management Spares classification High rotation spares Low rotation spares Advanced sparing decisions",
+            "learning_outcomes": [
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 9: Contracts, Contractor Management</strong><br/><ul>\n<li>Contract types</li>\n<li>Work scope</li>\n<li>Agreed performance measurements</li>\n<li>Risk sharing</li>\n</ul>\n<p> RELEASE OF ASSIGNMENT 2</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L11</p></div></td>",
+            "topic_title": "<strong>Module 9: Contracts, Contractor Management</strong>",
+            "topic_description": "Module 9: Contracts, Contractor Management Contract types Work scope Agreed performance measurements Risk sharing RELEASE OF ASSIGNMENT 2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 10: Life Cycle Cost Estimation</strong><br/></p><p><strong>Learning outcomes:</strong> L10, L12, L13</p></div></td>",
+            "topic_title": "<strong>Module 10: Life Cycle Cost Estimation</strong>",
+            "topic_description": "Module 10: Life Cycle Cost Estimation",
+            "learning_outcomes": [
+                "L10",
+                "L12",
+                "L13"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 11:  ISO 55000 Asset Management Standards and the Future of Asset Management</strong><br/></p><p><strong>Learning outcomes:</strong> L09, L10</p></div></td>",
+            "topic_title": "<strong>Module 11:  ISO 55000 Asset Management Standards and the Future of Asset Management</strong>",
+            "topic_description": "Module 11:  ISO 55000 Asset Management Standards and the Future of Asset Management",
+            "learning_outcomes": [
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 12: Maintenance Data Analytics</strong><br/></p><p><strong>Learning outcomes:</strong> L10</p></div></td>",
+            "topic_title": "<strong>Module 12: Maintenance Data Analytics</strong>",
+            "topic_description": "Module 12: Maintenance Data Analytics",
+            "learning_outcomes": [
+                "L10"
+            ]
+        }
+    ]
+}
