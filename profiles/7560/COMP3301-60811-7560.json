@@ -1,0 +1,166 @@
+{
+    "course_title": "Operating Systems Architecture",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3301-60811-7560",
+    "full_course_code": "COMP3301-60811-7560",
+    "course_code": "COMP3301",
+    "class_code": "60811",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify and define key components of operating systems such as the kernel, process management, memory management, and file systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the role and functionality of operating systems in managing hardware and software resources and how software interacts with hardware."
+        },
+        {
+            "number": "LO3.",
+            "description": "Create and apply design decisions for low-level operating systems components at the kernel and device driver level."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse the performance and trade-offs of operating system components like schedulers or file systems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate security features and vulnerabilities of operating systems and propose improvements or alternatives."
+        },
+        {
+            "number": "LO6.",
+            "description": "Design a simple operating system module or enhance an existing module, such as a scheduler or a file system, using appropriate programming tools and environments."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Programming Assignment One",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 25/08/2025 1:00 pm</p>\n<p>\n</p><p>You will demonstrate your assignment using the code submitted for that stage during the lab session in the week it is due.  </p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Practical/ Demonstration, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each programming assignment will require students to implement a systems programming exercise in C. Students will work individually on assignments.</p>\n<p><br/></p>\n<p><strong>Use of AI</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><strong>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assignment-related code must be submitted to the student's code repository by the due date. The code must be submitted using git push. A Git commit is not a submission as it does not send the code to the student’s online repository. Any other assignment-related assessment items must be submitted to Black Board.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Programming Assignment Two",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 26/09/2025 1:00 pm</p>\n<p>\n</p><p>You will demonstrate your assignment using the code submitted for that stage during the lab session in week 10.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Practical/ Demonstration, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each programming assignment will require students to implement a systems programming exercise in C. Students will work individually on assignments.</p>\n<p><br/></p>\n<p><strong>Use of AI</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><strong>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assignment-related code must be submitted to the student's code repository by the due date. The code must be submitted using git push. A Git commit is not a submission as it does not send the code to the student’s online repository. Any other assignment-related assessment items must be submitted to Black Board.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Programming Assignment Three",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 27/10/2025 1:00 pm</p>\n<p>\n</p><p>You will demonstrate your assignment using the code submitted for that stage during the lab session in the week it is due.  </p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each programming assignment will require students to implement a systems programming exercise in C. Students will work individually on assignments.</p>\n<p><br/></p>\n<p><strong>Use of AI</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><strong>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assignment-related code must be submitted to the student's code repository by the due date. The code must be submitted using git push. A Git commit is not a submission as it does not send the code to the student’s online repository. Any other assignment-related assessment items must be submitted to Black Board.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will test students' understanding of the theoretical content of the course.</p>\n<p><br/></p>\n<p><strong>Use of AI</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Lectures</strong><br><p>Weekly lectures will provide the theoretical foundation for the course material. Lecture slides are provided on the course BlackBoard site.</p></br></p></div></td>",
+            "topic_title": "<strong>Weekly Lectures</strong>",
+            "topic_description": "Weekly Lectures Weekly lectures will provide the theoretical foundation for the course material. Lecture slides are provided on the course BlackBoard site.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(28 Jul - 26 Oct)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Applied Class</strong><br><p>The weekly applied class session will present content related to the practicals and assignments, and revise lecture material through revision questions.</p></br></p></div></td>",
+            "topic_title": "<strong>Weekly Applied Class</strong>",
+            "topic_description": "Weekly Applied Class The weekly applied class session will present content related to the practicals and assignments, and revise lecture material through revision questions.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 8(28 Jul - 21 Sep)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Practicals</strong><br><p>Students should sign-on to one scheduled weekly practical session. The weekly practical sessions will be on-campus and will provide an opportunity to work through a set of staged exercises which provide students with the necessary skills to undertake the programming assignments.</p></br></p></div></td>",
+            "topic_title": "<strong>Weekly Practicals</strong>",
+            "topic_description": "Weekly Practicals Students should sign-on to one scheduled weekly practical session. The weekly practical sessions will be on-campus and will provide an opportunity to work through a set of staged exercises which provide students with the necessary skills to undertake the programming assignments.",
+            "learning_outcomes": []
+        }
+    ]
+}
