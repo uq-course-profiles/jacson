@@ -1,0 +1,151 @@
+{
+    "course_title": "Vulnerability Assessment and Penetration Testing",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3320-21268-7520",
+    "full_course_code": "COMP3320-21268-7520",
+    "course_code": "COMP3320",
+    "class_code": "21268",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "apply the ethical and legal aspects of conducting vulnerability assessment and penetration testing"
+        },
+        {
+            "number": "LO2.",
+            "description": "interpret the processes of vulnerability assessment and penetration testing"
+        },
+        {
+            "number": "LO3.",
+            "description": "select and apply suitable techniques and tools for reconnaissance, sniffing, scanning and enumeration"
+        },
+        {
+            "number": "LO4.",
+            "description": "recognise the known vulnerabilities in existing protocols, systems and applications"
+        },
+        {
+            "number": "LO5.",
+            "description": "design and compare suitable strategies and techniques for access gaining"
+        },
+        {
+            "number": "LO6.",
+            "description": "develop customised plans of vulnerability discovery, management and remediation"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Practical Reports (Progressive Assessment)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> Week 2 - Week 7</p>\n<p> Week 9 - Week 13</p>\n<p>\n</p><p>Practical reports are submitted during the student's allocated practical session.</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The weekly practical work will involve tasks and exercises to be progressively assessed each week during the student's allocated practical session. Practical classes start in Week 3. Weekly attendance at your allocated practical session is mandatory. Missed sessions are calculated as zero marks for that session. <strong>Late addition of this course after Week 2 is not permitted.</strong> Every practical session develops new skills and assesses the application of the skills from the previous week's practical session. Thus, practical sessions are cumulative, each week building on the previous week. The first practical class in week 3 provides the formative learning that will be assessed the following week.</p>\n<p>The weekly practical reports must be submitted as part of the student’s allocated practical session - late submissions receive a 100% late penalty and no extensions are possible. Information required for your unique solution for the weekly assessments can only be obtained during your practical session. Target machines are only orchestrated for each hour of your scheduled lab session and are torn-down automatically and changed to accommodate the next session. You must select a single lab session that you can physically attend at the same time for the full 2 hours every week.</p>\n<p>The Week 3 assessment is formative (practice). All nine remaining practical sessions start with summative assessments of the previous week's practical skills.</p>\n<p>The practical sessions will be delivered in the Computer Labs in the General Purpose South building (78-116) or, for some weeks, in the UQ Cyber War Rooms on Level 4 of the General Purpose South building (78). Ensure you request practical sessions that you can physically attend the whole 2-hour session (all timetabling shows the location as 78-116). You may not attend another session that you are not allocated to. Lab sessions will be very full and the practical environments will be set up with the logins of the students allocated to each particular session in UQ's class allocation system.</p>\n<p>The course uses only Unix-based tools and does not use Microsoft Windows or other GUI-based systems. All practical assessments use a shell command line (see <strong>Assumed Background</strong>). The prerequisite assumed knowledge will not be re-taught in this course.</p>\n<p>Details of each weekly session's tasks and method for submission will be provided on the Lab Instructions each week (downloadable from Blackboard each week). There are no practical sessions in Week 1 or Week 8 (due to a public holiday affecting one of the classes in Week 8).</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The practical work is submitted during the practical session. Practical reports assess the practical skills developed the previous week. Additional submission details will be given in the lab sheet each week.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Penetration Testing Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 15/04/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment requires students to compile a report that demonstrates the ability to locate high quality sources of relevant information, to understand complex concepts, to analyse and organise information and ideas and to convey those ideas clearly and fluently; and the ability synthesize a clear and concise report of the appropriate level and style. The specific details, tasks, and assessment criteria for this assignment will be released during the first lecture on 25th February 2025 and will be due seven weeks later, on 15th April 2025. The assignment runs concurrently with the first half of the course's lectures and practicals, but assesses a completely different aspect of the course objectives, requiring a combination of risk assessment, legal, and ethical considerations that you have researched after the Week 1 lecture, and your solution is then presented in your report in a manner appropriate for the target audience. </p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will be a summative assessment which covers all topics in this course. </p>\n<p>The exam will be an on-campus paper-based exam. This exam will be closed-book and will contain a combination of problem-solving and short answer questions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>Lectures will be mainly used to introduce new material. Learning materials are available on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Lectures will be mainly used to introduce new material. Learning materials are available on Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(03 Mar - 01 Jun)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical lab sessions</strong><br><p>Practical sessions are based on the topics covered by lectures. They will be mainly used to work on hands-on exercises and challenges. This will be a more interactive process than lecture presentations. The intent is to provide a learning environment that provides better support for developing practical skills. There will also be time during practical sessions specifically for getting help and being assessed by lab demonstrators.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Practical lab sessions</strong>",
+            "topic_description": "Practical lab sessions Practical sessions are based on the topics covered by lectures. They will be mainly used to work on hands-on exercises and challenges. This will be a more interactive process than lecture presentations. The intent is to provide a learning environment that provides better support for developing practical skills. There will also be time during practical sessions specifically for getting help and being assessed by lab demonstrators.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
