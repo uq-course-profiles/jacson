@@ -1,0 +1,193 @@
+{
+    "course_title": "Pattern Recognition and Analysis",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3710-60898-7460",
+    "full_course_code": "COMP3710-60898-7460",
+    "course_code": "COMP3710",
+    "class_code": "60898",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate their mathematical theory of patterns such as symmetry groups and fractal geometry"
+        },
+        {
+            "number": "LO2.",
+            "description": "Extract and interpret patterns that exist in data and for solving recognition problems"
+        },
+        {
+            "number": "LO3.",
+            "description": "Make use of different transform domains and dimensionality reduction in identifying patterns"
+        },
+        {
+            "number": "LO4.",
+            "description": "Distinguishing when to apply and make use of decision trees to various large datasets"
+        },
+        {
+            "number": "LO5.",
+            "description": "Distinguishing when to apply and make use of convolutional neural networks and/or transformers"
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate the ability to develop algorithms, while applying appropriate software engineering principles"
+        },
+        {
+            "number": "LO7.",
+            "description": "Develop heterogeneous computing solutions using industry grade software packages such as Tensorflow, JAX or PyTorch"
+        },
+        {
+            "number": "LO8.",
+            "description": "Effectively communicate (using oral and written communication and appropriate figures and visualisations) the purpose, operation, technical functionality and research directions related to a pattern recognition algorithm"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Fractals",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 5/08/2024 - 19/08/2024</p>\n<p>\n</p><p>Assessment during scheduled lab session</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Computer Code, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Implement a fractal using a deep learning framework such as Tensorflow, JAX or PyTorch.</p>\n<p>Practical sessions in the course are dedicated to run within this period in order for you to complete the tasks for the Demonstration and they are designed to be completed within these allocated sessions.</p>\n<p>Students will be asked to complete a Git Introduction Short course and show the relevant course as completed as part of this demo.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Pattern Recognition",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 2/09/2024 - 16/09/2024</p>\n<p>\n</p><p>Assessment during scheduled lab session</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Computer Code, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Solve a recognition problem for a dataset of your choice. Construct the algorithm, curate the code and document your findings.</p>\n<p>Practical sessions in the course are dedicated to run within this period in order for you to complete the tasks for the Demonstration and they are designed to be completed within these allocated sessions.</p>\n<p>Students will be asked to complete a Git Advanced Short course and show the relevant course as completed as part of this demo.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Pattern Analysis Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p>\n<p>\n</p><p>Assessment during scheduled lab session + Submission items</p></dd>",
+            "learning_objectives": "L02, L03, L06, L07, L08",
+            "mode": "Activity/ Performance, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Implement an image processing, computer vision or pattern recognition solution in Tensorflow, JAX or PyTorch.</p>\n<p>Practical sessions in the course are dedicated to run from weeks 9-12 (inclusive) in order for you to complete the tasks for the Demonstration, but may require additional time outside class time for you to complete your report.</p>\n<p><strong>You are required to submit Git pull request to the relevant open-source project by the due date.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This will be a Turn-it-in submission and a pull request to the relevant open source project.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A 120-minute examination will be held during the examination period.</p>\n<p>The exam will cover content from the whole semester. Note that exam hurdles will apply for higher grades.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Patterns and Symmetry</strong><br><p>Lecture series on how symmetry and self-similarity leads to the patterns we observe in nature, such as fractals and the known particles of the universe.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Patterns and Symmetry</strong>",
+            "topic_description": "Patterns and Symmetry Lecture series on how symmetry and self-similarity leads to the patterns we observe in nature, such as fractals and the known particles of the universe.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Theoretical Problems</strong><br/><p>Understanding the theoretical aspects of pattern recognition.</p></p></div></td>",
+            "topic_title": "<strong>Theoretical Problems</strong>",
+            "topic_description": "Theoretical Problems Understanding the theoretical aspects of pattern recognition.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br/><p>Implement algorithms in Tensorflow/JAX/PyTorch.</p></p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals Implement algorithms in Tensorflow/JAX/PyTorch.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Traditional Pattern Recognition</strong><br/><p>Lecture series on how patterns are quantified, measured and identified using features, similarity, information theory, principles of transform domains and decision trees.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Traditional Pattern Recognition</strong>",
+            "topic_description": "Traditional Pattern Recognition Lecture series on how patterns are quantified, measured and identified using features, similarity, information theory, principles of transform domains and decision trees.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deep Learning</strong><br/><p>Lecture series on how the idea of receptive fields, convolutions and attention are used to learn appropriate multi-scale, self-adaptive features via neural networks.</p></p><p><strong>Learning outcomes:</strong> L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Deep Learning</strong>",
+            "topic_description": "Deep Learning Lecture series on how the idea of receptive fields, convolutions and attention are used to learn appropriate multi-scale, self-adaptive features via neural networks.",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
