@@ -1,0 +1,173 @@
+{
+    "course_title": "Introduction to Computer Systems",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE2010-21280-7520",
+    "full_course_code": "CSSE2010-21280-7520",
+    "course_code": "CSSE2010",
+    "class_code": "21280",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "convert unsigned integers, signed integers and floating point numbers to and from various binary number representations and perform operations on those binary numbers"
+        },
+        {
+            "number": "LO2.",
+            "description": "express logic functions in various representations (gates, expressions, truth-tables, timing diagrams) and be able to convert those functions between representations"
+        },
+        {
+            "number": "LO3.",
+            "description": "design, analyse, simulate and build combinational circuits and simple sequential circuits"
+        },
+        {
+            "number": "LO4.",
+            "description": "explain the operation of a CPU with respect to its major components, and instruction set architecture, with specific emphasis on the AVR microcontroller"
+        },
+        {
+            "number": "LO5.",
+            "description": "demonstrate your knowledge of flow-of-control and the use of a stack in a CPU and be able to write procedures and interrupt service routines in both AVR assembly language and C"
+        },
+        {
+            "number": "LO6.",
+            "description": "describe the major components of a computer system and how they communicate and be able to perform calculations on their characteristics"
+        },
+        {
+            "number": "LO7.",
+            "description": "simulate the processes of assembly and linking on sample code"
+        },
+        {
+            "number": "LO8.",
+            "description": "modify, write, simulate, debug, assemble/compile and download assembly language and C programs targeted to the AVR microcontroller and be able to construct associated AVR hardware and peripherals"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly online quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Quiz 1 28/02/2025 4:00 pm</p>\n<p>Quiz 2 14/03/2025 4:00 pm</p>\n<p>Quiz 3 21/03/2025 4:00 pm</p>\n<p>Quiz 4 28/03/2025 4:00 pm</p>\n<p>Quiz 5 4/04/2025 4:00 pm</p>\n<p>Quiz 6 11/04/2025 4:00 pm</p>\n<p>Quiz 7 2/05/2025 4:00 pm</p>\n<p>Quiz 8 9/05/2025 4:00 pm</p>\n<p>Quiz 9 16/05/2025 4:00 pm</p>\n<p>Quiz 10 23/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Activity/ Performance",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Ten weekly quizzes will be used with the specific submission due dates as indicated. Quizzes will open at least 3 days prior to the due date. </p>\n<p>Quizzes will usually cover topics from the previous week or two of classes, but may cover topics from any previous week and/or may require students to do some research or reading beyond the class notes. Students are expected to take the quiz individually and on their own time and these weekly quizzes are designed to keep students up to date with the week by week teaching material. Each quiz must be explicitly submitted by the due date (i.e. quizzes are not auto-submitted) and there is only one attempt for each quiz.</p>\n<p>This assessment item is open-book and students may use whichever resources they think appropriate when answering them. These resources may include course notes, books, data sheets, manuals and tools including calculators, assemblers, compilers, search engines and AI tools. You do not need to reference the source of your answers. You must not communicate with other people when attempting the quizzes.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 1 (Digital Logic Design)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 17/04/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Activity/ Performance, Written",
+            "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be required to provide worked solutions to a set of problems based on Digital Logic Design concepts and demonstrate a working solution for a selected problem on hardware. This is an individual assignment. The scope and complexity of the problems will be based on lectures and lab activities from week 1-5 (inclusive). Students are required to submit their assignment on Blackboard by the due date (Thursday of week 8, 17/4/25, 4:00pm AEST).</p>\n<p>This assessment item has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission on Blackboard by the due date (Thursday of week 8, 17/4/25, 4:00pm AEST).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 2 (AVR Programming)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 30/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L08",
+            "mode": "Activity/ Performance",
+            "category": "Computer Code, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will undertake a programming task for the AVR microcontroller (may contain a number of sub-tasks) which implements a system for a given set of specifications. You may be asked to attend a subsequent oral assessment (interview) if the course coordinator has any doubts about the origin of your submission. <em>Invitations for such oral assessments will be issued by email to your student email account at any time up until the end of week one of the exam period. Failure to respond to an interview invitation by the deadline stated in the invitation (which will be at least 3 days after the invitation is sent) or failure to attend a scheduled interview will result in zero marks for the assignment unless exceptional circumstances can be demonstrated with supporting evidence.</em></p>\n<p>This assessment item has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An on campus<strong>, </strong>open-book, invigilated exam will be held<strong> </strong>during the final examination period. This exam can contain multiple-choice, short-answer, numerical and code-writing type questions. Open-book means that you may bring any written or printed material (including books) into the examination room.</p>\n<p>This assessment item is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Lecture</strong><br><p>There are two 1-hour weekly lectures (<strong>Mon 10-11am</strong> and <strong>Wed 5-6pm</strong>). Refer to detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on the venues/times. Lectures are expected to be recorded and made available on the course Blackboard site, although there is no guarantee that recordings will always work. Lectures provide an introduction to the course material and present examples to help students understand the principles and techniques. There may be recommended reading or other activities which should be undertaken before a lecture. Please note that the lecture slides in the course notes may NOT be a complete record of the lecture. Examples will be worked through and exercises undertaken which may not be shown on the slides. Interactive polls may be used to assess understanding and get feedback from students. It is strongly suggested that you attend the lectures or watch the recording each week to maintain progressive learning. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Weekly Lecture</strong>",
+            "topic_description": "Weekly Lecture There are two 1-hour weekly lectures ( Mon 10-11am and Wed 5-6pm ). Refer to detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on the venues/times. Lectures are expected to be recorded and made available on the course Blackboard site, although there is no guarantee that recordings will always work. Lectures provide an introduction to the course material and present examples to help students understand the principles and techniques. There may be recommended reading or other activities which should be undertaken before a lecture. Please note that the lecture slides in the course notes may NOT be a complete record of the lecture. Examples will be worked through and exercises undertaken which may not be shown on the slides. Interactive polls may be used to assess understanding and get feedback from students. It is strongly suggested that you attend the lectures or watch the recording each week to maintain progressive learning.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Learning Lab Sessions</strong><br/><p>You<strong> must sign-up for a pair of prac sessions</strong> out of the 6 pairs available (PRA-x-P2, PRA-x-P1), where x=1,2,...,6. All prac sessions will be held in the <strong>Axon Building Computer Laboratory (building 47, room 104)</strong> in face-to-face mode. These lab classes will start with their P1 sessions from Wed-Fri of Week 1. No P2 sessions are held during Mon-Wed of week 1. From week 2 to week 13 both P2 and P1 sessions will be held (refer to the detailed teaching outline on Blackboard for more information about public holidays). Students will be loaned a kit during their lab classes in weeks 1-4, which <strong>must be returned by the end of the semester</strong>. You must have a lab kit with you in order to complete and pass the course. Lab kits must be collected in-person during lab classes in weeks 1-4. </p>\n<p>If you borrow a lab kit and drop the course then you <strong>must return the kit within 3 business days to EECS school office at building 78 room 425 (penalties apply otherwise).</strong></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L08</p></div></td>",
+            "topic_title": "<strong>Learning Lab Sessions</strong>",
+            "topic_description": "Learning Lab Sessions You must sign-up for a pair of prac sessions out of the 6 pairs available (PRA-x-P2, PRA-x-P1), where x=1,2,...,6. All prac sessions will be held in the Axon Building Computer Laboratory (building 47, room 104) in face-to-face mode. These lab classes will start with their P1 sessions from Wed-Fri of Week 1. No P2 sessions are held during Mon-Wed of week 1. From week 2 to week 13 both P2 and P1 sessions will be held (refer to the detailed teaching outline on Blackboard for more information about public holidays). Students will be loaned a kit during their lab classes in weeks 1-4, which must be returned by the end of the semester . You must have a lab kit with you in order to complete and pass the course. Lab kits must be collected in-person during lab classes in weeks 1-4. If you borrow a lab kit and drop the course then you must return the kit within 3 business days to EECS school office at building 78 room 425 (penalties apply otherwise).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L08"
+            ]
+        }
+    ]
+}
