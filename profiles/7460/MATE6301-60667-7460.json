@@ -1,0 +1,636 @@
+{
+    "course_title": "Nanomaterials",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATE6301-60667-7460",
+    "full_course_code": "MATE6301-60667-7460",
+    "course_code": "MATE6301",
+    "class_code": "60667",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate an understanding of nanomaterials - Explain the difference between nanomaterials and their bulk counterparts in terms of their properties and applications"
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrate an understanding of nanomaterials - Design the fabrication and characterisation of nanomaterials for securing their high-performance applications"
+        },
+        {
+            "number": "LO3.",
+            "description": "Experimentally characterise nanomaterials - Apply X-ray crystallography techniques to determine the microstructures of nanomaterials"
+        },
+        {
+            "number": "LO4.",
+            "description": "Experimentally characterise nanomaterials - Employ electron microscopy techniques to determine the microstructures of nanomaterials"
+        },
+        {
+            "number": "LO5.",
+            "description": "Experimentally characterise nanomaterials - Design approaches to establish the phase of unknown materials by comparing experimental data with data from peer-reviewed literature and justifying conclusions"
+        },
+        {
+            "number": "LO6.",
+            "description": "Design/fabricate functional nanomaterials - Describe the characteristics of gold loaded porous carbon nanostructures in terms of their fabrications, characterisations, and optical properties, as well as their applications"
+        },
+        {
+            "number": "LO7.",
+            "description": "Design/fabricate functional nanomaterials - Design/manufacture/characterise magnetic nanocomposites, analyse their properties and relate them to their practical applications"
+        },
+        {
+            "number": "LO8.",
+            "description": "Design/fabricate functional nanomaterials - Efficiently select magnetic and optical nanostructures to meet the requirements of designed applications"
+        },
+        {
+            "number": "LO9.",
+            "description": "Design/fabricate functional nanomaterials - Design approaches to enhance the mechanical properties and performance of selected nanocellulose"
+        },
+        {
+            "number": "LO10.",
+            "description": "Design/fabricate functional nanomaterials - Understand physical concepts and phenomena of nanocatalysts and describe the current and potential applications of nanocatalysts"
+        },
+        {
+            "number": "LO11.",
+            "description": "Fabricate/characterise porous nanostructures - Describe the current and prospective applications of porous materials in medical, energy, agriculture, and environment"
+        },
+        {
+            "number": "LO12.",
+            "description": "Fabricate/characterise porous nanostructures - Understand physical concepts and phenomena of porous nanostructures and how these are beneficially used in their designed applications"
+        },
+        {
+            "number": "LO13.",
+            "description": "Fabricate/characterise porous nanostructures - Fabricate various types of porous nanostructured materials and measure their properties for various applications"
+        },
+        {
+            "number": "LO14.",
+            "description": "Fabricate/characterise porous nanostructures - Design experimental methods to enhance the performance of porous nanostructured materials for their respective applications"
+        },
+        {
+            "number": "LO15.",
+            "description": "Communicate professionally - Construct literature reviews by critically evaluating the existing literature for given nanomaterial systems"
+        },
+        {
+            "number": "LO16.",
+            "description": "Communicate professionally - Employ the norms of the discipline to describe the outcomes of experimental investigations and other explorations into nanomaterials"
+        },
+        {
+            "number": "LO17.",
+            "description": "Communicate professionally - Present research outcomes by critically evaluating and logically presenting the topic for given nanomaterial systems"
+        },
+        {
+            "number": "LO18.",
+            "description": "Communicate professionally - Demonstrate a comprehensive insight of the R&D challenges by visiting nanomaterials manufacturing facilities at ANFF/AIBN/CMM and recommend roadmap for industries."
+        },
+        {
+            "number": "LO19.",
+            "description": "Communicate professionally - Collect experimental data working in teams, independently analyse and critically evaluate both experimental and literature data for various applications of nanomaterials"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Active class/Laboratory engagement and progress portfolio",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 21/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19",
+            "mode": "Written",
+            "category": "Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An engagement portfolio is a collection of evidence that demonstrates that you have been actively engaged with your course, particularly application focused lecture classes and practical sessions. In the section of the portfolio devoted to class engagement tasks, you may be required to include information about tasks that you have completed individually but in collaboration with your peers. However, all sections of the portfolio, you should write reflections individually. This will allow you to reflect on your own learning and experiences, rather than just those of your team.</p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Critical analysis on selected published literature on nanomaterials, their characterisations and applications",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Upload the presentation slide 14/10/2024 4:00 pm</p>\n<p>Presentation 16/10/2024 8:00 am</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19",
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment mimics an international conference. Each student will be assigned a high-quality journal article on nanostructure manufacturing and will be tasked to prepare a scientific presentation based on the article. The course lecturers will provide published journal papers on different topics on nanomaterials manufacturing based on their learning materials. Based on the assigned paper, the students will prepare power point slides and upload the presentation slide in Blackboard (14/10/2024 by 4pm) before the presentation date (16/10/2024). Students individual/group will present a 5-minute on their allocated topic to all MATE6301 staffs and students. The presentation will be assessed by the course lecturers as well as peer assessed by other students. They are required to work individually on a topic related to nanomaterials manufacturing. Both teaching staff and students will be involved in Q&amp;A session in the class. </p>\n<p>The presentation and Q&amp;A will be during the seminar.</p>\n<p>Specific details for the presentation will be available on Blackboard. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students must submit their slides online on Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Development and characterisation of metal loaded carbon nanostructure",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 29/08/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L15, L16",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project will be conducted in 3 sessions: synthesis of metal loaded mesoporous carbon, followed by characterization using scanning electron microscopy (SEM), transmission electron microscopy (TEM), and X-ray diffraction (XRD) analysis. The projects will be performed in person laboratory tasks for students. Students will be given experimental data, and each student is required to write an independent report.</p>\n<p>Although this project will be conducted in groups, each student is required to write an independent report based on their data and results obtained in laboratory activities. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exam Conditions: This is a closed Book Examination</p>\n<p>Calculators - Casio FX82 series or UQ approved (labelled)</p>\n<p>The final exam will comprehensively test knowledge learned during the course. A minimum achievement of 40% in the final exam is required to achieve a passing grade for the course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Intro and nanomaterials basics/fabrication</strong><br><p>A/Prof. Hossain</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19</p></div></td>",
+            "topic_title": "<strong>Course Intro and nanomaterials basics/fabrication</strong>",
+            "topic_description": "Course Intro and nanomaterials basics/fabrication A/Prof. Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Synthesis of nanomaterials and X-ray crystallography</strong><br/><p>Dr Minjun Kim/A/Prof Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L15, L16</p></div></td>",
+            "topic_title": "<strong>Synthesis of nanomaterials and X-ray crystallography</strong>",
+            "topic_description": "Synthesis of nanomaterials and X-ray crystallography Dr Minjun Kim/A/Prof Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L15",
+                "L16"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Synthesis of metal loaded carbon nanostructures and X-Ray characterisation</strong><br/><p>Dr Minjun Kim/A/Prof Hossain/Demonstrator</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L15, L16</p></div></td>",
+            "topic_title": "<strong>Synthesis of metal loaded carbon nanostructures and X-Ray characterisation</strong>",
+            "topic_description": "Synthesis of metal loaded carbon nanostructures and X-Ray characterisation Dr Minjun Kim/A/Prof Hossain/Demonstrator",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L15",
+                "L16"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scanning Electron Microscopy (SEM)</strong><br/><p>Dr Minjun Kim/A/Prof Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L15, L16</p></div></td>",
+            "topic_title": "<strong>Scanning Electron Microscopy (SEM)</strong>",
+            "topic_description": "Scanning Electron Microscopy (SEM) Dr Minjun Kim/A/Prof Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L15",
+                "L16"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SEM characterisation and data analysis on metal loaded carbon nanostructure</strong><br/><p>Dr Minjun Kim/A/Prof Hossain/Demonstrator</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L15, L16</p></div></td>",
+            "topic_title": "<strong>SEM characterisation and data analysis on metal loaded carbon nanostructure</strong>",
+            "topic_description": "SEM characterisation and data analysis on metal loaded carbon nanostructure Dr Minjun Kim/A/Prof Hossain/Demonstrator",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L15",
+                "L16"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Transmission Electron Microscopy (TEM)</strong><br/><p>Dr Minjun Kim/A/Prof Hossain/Demonstrator</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L15, L16</p></div></td>",
+            "topic_title": "<strong>Transmission Electron Microscopy (TEM)</strong>",
+            "topic_description": "Transmission Electron Microscopy (TEM) Dr Minjun Kim/A/Prof Hossain/Demonstrator",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L15",
+                "L16"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>TEM characterisation and data analysis on metal loaded carbon nanostructure</strong><br/><p>A/Prof. Hossain/Demonstrator</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L15, L16</p></div></td>",
+            "topic_title": "<strong>TEM characterisation and data analysis on metal loaded carbon nanostructure</strong>",
+            "topic_description": "TEM characterisation and data analysis on metal loaded carbon nanostructure A/Prof. Hossain/Demonstrator",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L15",
+                "L16"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Nano-cellulose manufacturing from Australian biomass and their characterisation</strong><br/><p>Dr Nasim Amiralian - Lecture + Practical in the class</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L09, L15, L16, L17, L19</p></div></td>",
+            "topic_title": "<strong>Nano-cellulose manufacturing from Australian biomass and their characterisation</strong>",
+            "topic_description": "Nano-cellulose manufacturing from Australian biomass and their characterisation Dr Nasim Amiralian - Lecture + Practical in the class",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L09",
+                "L15",
+                "L16",
+                "L17",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Nanocatalysts - Waste water treatment</strong><br/><p>Dr Valentino Kaneti</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L10, L11</p></div></td>",
+            "topic_title": "<strong>Nanocatalysts - Waste water treatment</strong>",
+            "topic_description": "Nanocatalysts - Waste water treatment Dr Valentino Kaneti",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Nanocatalysts synthesis/characterisation for waste water treatment</strong><br/><p>Dr. Kaneti/Demonstrator</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L10, L11, L15, L16, L17, L19</p></div></td>",
+            "topic_title": "<strong>Nanocatalysts synthesis/characterisation for waste water treatment</strong>",
+            "topic_description": "Nanocatalysts synthesis/characterisation for waste water treatment Dr. Kaneti/Demonstrator",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L10",
+                "L11",
+                "L15",
+                "L16",
+                "L17",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Nanomagnetism and fabrication of magnetic nanomaterials</strong><br/><p>A/Prof. Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07, L08, L15, L16, L17, L19</p></div></td>",
+            "topic_title": "<strong>Nanomagnetism and fabrication of magnetic nanomaterials</strong>",
+            "topic_description": "Nanomagnetism and fabrication of magnetic nanomaterials A/Prof. Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L07",
+                "L08",
+                "L15",
+                "L16",
+                "L17",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Synthesis and surface modification of magnetic nanocomposites</strong><br/><p>A/Prof. Shahriar Hossain/Demonstrator</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07, L08, L15, L16, L17, L19</p></div></td>",
+            "topic_title": "<strong>Synthesis and surface modification of magnetic nanocomposites</strong>",
+            "topic_description": "Synthesis and surface modification of magnetic nanocomposites A/Prof. Shahriar Hossain/Demonstrator",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L07",
+                "L08",
+                "L15",
+                "L16",
+                "L17",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case study: applications of magnetic nanocomposite</strong><br/><p>A/Prof. Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07, L08, L15, L16, L17, L19</p></div></td>",
+            "topic_title": "<strong>Case study: applications of magnetic nanocomposite</strong>",
+            "topic_description": "Case study: applications of magnetic nanocomposite A/Prof. Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L07",
+                "L08",
+                "L15",
+                "L16",
+                "L17",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electrochemical characterisation of magnetic nanocomposite</strong><br/><p>Dr Mostafa Masud and A/Prof. Md Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07, L08, L15, L16, L17, L19</p></div></td>",
+            "topic_title": "<strong>Electrochemical characterisation of magnetic nanocomposite</strong>",
+            "topic_description": "Electrochemical characterisation of magnetic nanocomposite Dr Mostafa Masud and A/Prof. Md Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L07",
+                "L08",
+                "L15",
+                "L16",
+                "L17",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Manufacture of nanostructured porous carbon</strong><br/><p>A/Prof. Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L12, L13, L14, L15, L19</p></div></td>",
+            "topic_title": "<strong>Manufacture of nanostructured porous carbon</strong>",
+            "topic_description": "Manufacture of nanostructured porous carbon A/Prof. Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Porous carbon for supercapacitor application</strong><br/><p>Dr Minjun Kim and A/Prof. Md Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L12, L13, L14, L15, L16, L17, L19</p></div></td>",
+            "topic_title": "<strong>Porous carbon for supercapacitor application</strong>",
+            "topic_description": "Porous carbon for supercapacitor application Dr Minjun Kim and A/Prof. Md Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Plasmonic porous metal nanocomposite</strong><br/><p>Dr Moatafa Masud/A/Prof. Md Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L08, L11, L15, L19</p></div></td>",
+            "topic_title": "<strong>Plasmonic porous metal nanocomposite</strong>",
+            "topic_description": "Plasmonic porous metal nanocomposite Dr Moatafa Masud/A/Prof. Md Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L08",
+                "L11",
+                "L15",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Surface Enhanced Raman Scattering (SERS) using plasmonic nanomaterials for optical biosensing</strong><br/><p>Dr. Mostafa Masud and A/Prof. Md Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L08, L11, L15, L19</p></div></td>",
+            "topic_title": "<strong>Surface Enhanced Raman Scattering (SERS) using plasmonic nanomaterials for optical biosensing</strong>",
+            "topic_description": "Surface Enhanced Raman Scattering (SERS) using plasmonic nanomaterials for optical biosensing Dr. Mostafa Masud and A/Prof. Md Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L08",
+                "L11",
+                "L15",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bi- and tri-metallic nanocomposite for optical biosensing</strong><br/><p>A/Prof. Shahriar Al Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L10, L11, L19</p></div></td>",
+            "topic_title": "<strong>Bi- and tri-metallic nanocomposite for optical biosensing</strong>",
+            "topic_description": "Bi- and tri-metallic nanocomposite for optical biosensing A/Prof. Shahriar Al Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L10",
+                "L11",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electrochemical deposition of nanocomposite for biosensing applications</strong><br/><p>Dr Mostafa Masud and A/Prof.Md Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L10, L11, L19</p></div></td>",
+            "topic_title": "<strong>Electrochemical deposition of nanocomposite for biosensing applications</strong>",
+            "topic_description": "Electrochemical deposition of nanocomposite for biosensing applications Dr Mostafa Masud and A/Prof.Md Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L10",
+                "L11",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Critical analysis on published articles on nanomaterials - Presentation</strong><br/><p>All teaching team</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19</p></div></td>",
+            "topic_title": "<strong>Critical analysis on published articles on nanomaterials - Presentation</strong>",
+            "topic_description": "Critical analysis on published articles on nanomaterials - Presentation All teaching team",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Presentation preparation, discussion and Q/A</strong><br/><p>A/Prof. Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19</p></div></td>",
+            "topic_title": "<strong>Presentation preparation, discussion and Q/A</strong>",
+            "topic_description": "Presentation preparation, discussion and Q/A A/Prof. Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Porous nano-architectonics for energy, environment and biomedical applications - Review</strong><br/><p>Prof Yusuke Yamauchi and A/Prof. Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14</p></div></td>",
+            "topic_title": "<strong>Porous nano-architectonics for energy, environment and biomedical applications - Review</strong>",
+            "topic_description": "Porous nano-architectonics for energy, environment and biomedical applications - Review Prof Yusuke Yamauchi and A/Prof. Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Nano-manufacturing Research to industry, Course overview and discussion on Final exam</strong><br/><p>All teaching team</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19</p></div></td>",
+            "topic_title": "<strong>Nano-manufacturing Research to industry, Course overview and discussion on Final exam</strong>",
+            "topic_description": "Nano-manufacturing Research to industry, Course overview and discussion on Final exam All teaching team",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19"
+            ]
+        }
+    ]
+}
