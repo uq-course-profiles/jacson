@@ -1,0 +1,183 @@
+{
+    "course_title": "Advanced Embedded Systems",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE4011-21281-7520",
+    "full_course_code": "CSSE4011-21281-7520",
+    "course_code": "CSSE4011",
+    "class_code": "21281",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain and apply the fundamental background science and engineering behind advanced embedded systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply advanced concepts of peripheral interfacing and communication protocols."
+        },
+        {
+            "number": "LO3.",
+            "description": "Build embedded systems that utilise wireless communication networks."
+        },
+        {
+            "number": "LO4.",
+            "description": "Create and execute a project plan for a complex embedded systems design."
+        },
+        {
+            "number": "LO5.",
+            "description": "Work successfully as part of a team."
+        },
+        {
+            "number": "LO6.",
+            "description": "Propose and analyse advanced embedded system design solutions using effective written and oral communication techniques."
+        },
+        {
+            "number": "LO7.",
+            "description": "Demonstrate realtime operating system concepts used in advanced embedded systems."
+        },
+        {
+            "number": "LO8.",
+            "description": "Use advanced hardware design principles for implementing embedded systems."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Laboratory Practicals",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%  Prac 1 is worth 10%. Prac 2 and 3 are each worth 20%. </dd>",
+            "due_date": "<dd><p>Practical 1 17/03/2025 1:00 pm</p>\n<p>Practical 2 7/04/2025 1:00 pm</p>\n<p>Practical 3 6/05/2025 1:00 pm</p>\n<p>\n</p><p>All stated dates and times are AEST</p></dd>",
+            "learning_objectives": "L01, L02, L03, L06, L07, L08",
+            "mode": "Activity/ Performance",
+            "category": "Computer Code, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There are three practicals (prac). Practicals will be done in groups of 3 with designated tasks for each group member. A group has <strong>partner A,</strong> <strong>partner B, and partner C</strong>. Each practical consists of a demonstration and code repository submission. Prac work will involve individual tasks for each partner. The lab sessions are designed to build up the necessary knowledge and skills and develop software modules. The work in pracs takes you from the basic functionality of software modules to advanced features.</p>\n<p>All assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Students may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Practical code must be submitted to the specified code repository by the due date using git push. Code submissions made with only git commit will not be accepted. The practical must be demonstrated during your assigned lab session.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Milestone",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 15/05/2025 - 16/05/2025</p>\n<p>\n</p><p>The milestone presentation must be given by all group members in the assigned timeslot during the lab session. Before the presentation, all presentation slides must be uploaded to BB, and the code and wiki must be committed to the git repository.</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05, L06",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project proposal and progress will be assessed in the project milestone. The project milestone is assessed as an oral presentation that must involve all group members. The current project progress will be assessed in the lab session.</p>\n<p>All assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Students may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Milestone code and the wiki must be submitted to the specified code repository by the due date using git push. Code submissions made with only git commit will not be accepted. The milestone presentation slides must also be uploaded to BlackBoard. The milestone presentation must be given by all group members in the assigned time slot during the lab session.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Submission",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 29/05/2025 - 30/05/2025</p>\n<p>\n</p><p>All stated dates and times are AEST</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Practical/ Demonstration, Poster, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project is done in a group and demonstrated during the lab session in week 13. The project will involve implementing an embedded system for a real-world application that involves:</p>\n<ul>\n<li>Using a real-time operating system</li>\n<li>Sensor/peripheral integration</li>\n<li>Advanced networking features (e.g. Bluetooth, MQTT)</li>\n<li>sensor data fusion techniques or embedded machine learning</li>\n<li>Integrated software and hardware design approaches</li>\n</ul>\n<p><strong>Peer Assessment</strong></p>\n<p>A peer assessment factor is applied to the final project mark of each group member. The default Peer Assessment Factor (PAF), which will moderate the final project mark, will be 1.0. If any members of the group wish to change this distribution, a moderation meeting will be required with the teaching staff. Students must indicate this intention by email to the course coordinator by 4pm Friday 30 May 2025.</p>\n<p>A moderation meeting will require the attendance of all members and a brief presentation with the best evidence of their contribution to the project. Every opportunity will be given to the group to derive an acceptable distribution of PAFs. If no resolution within the meeting is possible, teaching staff will allocate PAFs based on the material presented, history of performance, staff feedback, and marked project demo.</p>\n<p>A PAF of one indicates that you are making a satisfactory/expected contribution to the group. A PAF less than one indicates your contribution is less than expected. A PAF greater than one indicates you are contributing more than expected.</p>\n<p>Your overall PAF will determine a Project Scaling Factor (PSF) as follows:</p>\n<ul>\n<li>PSF = PAF if your PAF is &lt;= 1 and PSF = (1+PAF)/2 if your PAF is &gt; 1</li>\n</ul>\n<p>Your final project mark will be scaled (multiplied) by this PSF (and capped at the maximum possible project mark where applicable).</p>\n<p>All assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Students may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The project code and the wiki must be submitted to the specified code repository by the due date using git push. Code submissions made with only git commit will not be accepted. The project poster must also be uploaded to BlackBoard. The group demonstration must be given in an assigned time slot during the lab session.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(24 Feb - 25 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Lectures</strong><br><p>Weekly Lectures cover the theoretical background to the course. The lectures are aligned as much as possible with laboratory experiments and the project.<br/>The schedule of lectures and the topics is available on this course Blackboard site.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L07, L08</p></div></td>",
+            "topic_title": "<strong>Weekly Lectures</strong>",
+            "topic_description": "Weekly Lectures Weekly Lectures cover the theoretical background to the course. The lectures are aligned as much as possible with laboratory experiments and the project. The schedule of lectures and the topics is available on this course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 9(24 Feb - 04 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab Sessions</strong><br><p>Weekly laboratory development and consultation sessions with tasks specified according to the Practical specifications.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lab Sessions</strong>",
+            "topic_description": "Lab Sessions Weekly laboratory development and consultation sessions with tasks specified according to the Practical specifications.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 13(05 May - 01 Jun)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project</strong><br><p>Students will work in groups to undertake the development of a significant embedded systems application.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Project</strong>",
+            "topic_description": "Project Students will work in groups to undertake the development of a significant embedded systems application.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
