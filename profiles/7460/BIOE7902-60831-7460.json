@@ -1,0 +1,160 @@
+{
+    "course_title": "Biomedical Signal Processing",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE7902-60831-7460",
+    "full_course_code": "BIOE7902-60831-7460",
+    "course_code": "BIOE7902",
+    "class_code": "60831",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand and describe properties of selected biomedical signals, including how these may affect related clinical applications."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify appropriate solutions for specific problems in biomedical engineering by considering the benefits and limitations of various digital signal processing approaches."
+        },
+        {
+            "number": "LO3.",
+            "description": "Implement signal processing algorithms for practical problems involving biomedical signals."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse selected physiological data with a particular focus on detecting events in biomedical signals."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate the need for digital signal processing in certain medical devices and clinical procedures."
+        },
+        {
+            "number": "LO6.",
+            "description": "Propose, carry out, orally present, and report in conference-proceedings format, a research project on biomedical signal processing."
+        },
+        {
+            "number": "LO7.",
+            "description": "Critically analyse information independently acquired from diverse sources (e.g., the Internet, books, electronic application notes, company product data sheets, databases such as the ISI Web of Science and IEEExplore) in providing solutions to real-world clinical biomedical signal analysis problems."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 23/08/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project regards the first module in the course (spectral analysis). The project involves developing computer code to analyse the given data and reproduce the results of the selected paper. Students formulate code, code is being run and checked, submit a short report, and then undergo a brief (e.g., 5–10 min) oral exam to demonstrate their code and verify that it is theirs and that they understand it. Students will sign up for a time from available sessions in the week immediately following the submission deadline to demonstrate their code. This will likely be outside of the normal scheduled class time.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item. The data, codes, and report will be in a single zip file with the student's name and student ID. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 20/09/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project regards the second module in the course (event detection). The project involves developing computer code to analyse the given data and to reproduce the results of the selected paper. Students formulate code, code is being run and checked, submit a short report, and then undergo a brief (e.g., 5–10 min) oral exam to demonstrate their code and verify that it is theirs and that they understand it. Students will sign up for a time from available sessions in the week immediately following the submission deadline to demonstrate their code. This will likely be outside of the normal scheduled class time.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.  The data, codes, and report will be in a single zip file with the student's name and student ID. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project 3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 18/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L05, L06, L07",
+            "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project regards the third module in the course (fMRI). The project involves developing computer code to analyse the given data and to reproduce the results of the selected paper. Students formulate code, code is being run and checked, submit a short report, and then undergo a brief (e.g., 5–10 min) oral exam to demonstrate their code and verify that it is theirs and that they understand it. Students will sign up for a time from available sessions in the week immediately following the submission deadline to demonstrate their code. This will likely be outside of the normal scheduled class time.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.  The data, codes, and report will be in a single zip file with the student's name and student ID. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Conference paper about one of the 3 projects.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 4/11/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be required to write a 2-page conference paper about one of the three projects and seat for an oral exam (e.g., 5- 10 min). Students will sign up for a time from available sessions in the week immediately following the submission deadline to demonstrate their code. This will likely be outside of the normal scheduled class time. Students can choose which project they would like to use. The format of the project guidelines (<a href=\"https://eecs.uq.edu.au/files/4941/Conference%20Paper%20Template.doc\">template</a>).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Projects</strong><br/><p>Each main module of the course will feature an individual project where biomedical signal processing methods and real-world data are used.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Projects</strong>",
+            "topic_description": "Projects Each main module of the course will feature an individual project where biomedical signal processing methods and real-world data are used.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/><p>Lecture on all topics addressed in the course.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Lecture on all topics addressed in the course.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
