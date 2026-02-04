@@ -1,0 +1,234 @@
+{
+    "course_title": "Microeconomics B",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON6030-61115-7460",
+    "full_course_code": "ECON6030-61115-7460",
+    "course_code": "ECON6030",
+    "class_code": "61115",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply game theory to solve microeconomic problems in a logical, rigorous, and precise manner."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically analyse key issues and concepts in information economics and mechanism design."
+        },
+        {
+            "number": "LO3.",
+            "description": "Model real-world economic situations in which the competitive market model may not be appropriate."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop communications skills to devise supervised research in microeconomic theory."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Midsemester Assignment",
+            "special_indicators": [],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 27/08/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An open book assignment involving problem solving and/or short answer questions. Questions can be given on any topic covered prior to the midsemester assignment (that is, any topic covered in teaching weeks 1 to 6, inclusive).</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via the course blackboard website.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Tutorial Exercise",
+            "special_indicators": [],
+            "weighting": "<dd>20% (Best 10 out of 11) </dd>",
+            "due_date": "<dd><p>Due 30 minutes prior to the beginning of each tutorial session.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A total of eleven (11) sets of tutorial questions will be uploaded on blackboard throughout the course -- one set each week prior to a tutorial session. (There is no problem set due on the week of the Midsemester Assignment.)</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via the course blackboard website.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Assignment",
+            "special_indicators": [],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p> 7/11/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An open book assignment involving problem solving and/or short answer questions. Questions can be given on any topic covered in the course.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via the course blackboard website.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Decision Under Uncertainty</strong><br/><p>vNM Expected Utility, Risk preferences, Anscombe-Aumann Subjective Expected Utility, Ambiguity, Allais Paradox and Rabin Paradox</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Decision Under Uncertainty</strong>",
+            "topic_description": "Decision Under Uncertainty vNM Expected Utility, Risk preferences, Anscombe-Aumann Subjective Expected Utility, Ambiguity, Allais Paradox and Rabin Paradox",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Normal Form Games I</strong><br/><p>Dominance, Rationalizability</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Normal Form Games I</strong>",
+            "topic_description": "Normal Form Games I Dominance, Rationalizability",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Normal Form Games II</strong><br/><p>Nash Equilibrium</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Normal Form Games II</strong>",
+            "topic_description": "Normal Form Games II Nash Equilibrium",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bayesian Games</strong><br/><p>Definition of games with incomplete information, type space, common prior</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Bayesian Games</strong>",
+            "topic_description": "Bayesian Games Definition of games with incomplete information, type space, common prior",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bayesian Games II</strong><br/><p>Bayes Nash Equilibrium</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Bayesian Games II</strong>",
+            "topic_description": "Bayesian Games II Bayes Nash Equilibrium",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Midsemester Assignment</strong><br/><p>Assignment on topics covered up to and including the lecture in Week 5</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Midsemester Assignment</strong>",
+            "topic_description": "Midsemester Assignment Assignment on topics covered up to and including the lecture in Week 5",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Extensive Form Games I</strong><br/><p>Game trees, Kuhn equivalence of mixed and behavioural strategies under perfect recall, perfect information extensive form games, backward induction</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Extensive Form Games I</strong>",
+            "topic_description": "Extensive Form Games I Game trees, Kuhn equivalence of mixed and behavioural strategies under perfect recall, perfect information extensive form games, backward induction",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Extensive Form Games II</strong><br/><p>Subgame and subgame perfection, belief consistency, sequential equilibrium</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Extensive Form Games II</strong>",
+            "topic_description": "Extensive Form Games II Subgame and subgame perfection, belief consistency, sequential equilibrium",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Screening</strong><br/><p>Screening model, separating equilibrium, non-existence of equilibrium</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Screening</strong>",
+            "topic_description": "Screening Screening model, separating equilibrium, non-existence of equilibrium",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break(23 Sep - 29 Sep)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid-Semester Break</strong>",
+            "topic_description": "Mid-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Signaling and Adverse Selection</strong><br/><p>Signalling model, single-crossing property, separating and pooling equilibria, Cho-Kreps Intuitive Criterion, The Market for Lemons.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Signaling and Adverse Selection</strong>",
+            "topic_description": "Signaling and Adverse Selection Signalling model, single-crossing property, separating and pooling equilibria, Cho-Kreps Intuitive Criterion, The Market for Lemons.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Moral Hazard</strong><br/><p>Principal-agent problem, first-best and second-best contracts</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Moral Hazard</strong>",
+            "topic_description": "Moral Hazard Principal-agent problem, first-best and second-best contracts",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mechanism Design I</strong><br/><p>Revelation Principle, Incentive compatible direct mechanism, Ex-post efficient allocation, First-price auction</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Mechanism Design I</strong>",
+            "topic_description": "Mechanism Design I Revelation Principle, Incentive compatible direct mechanism, Ex-post efficient allocation, First-price auction",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mechanism Design II</strong><br/><p>Revenue Equivalence, Optimal auction, Myerson-Satterthwaite Theorem</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Mechanism Design II</strong>",
+            "topic_description": "Mechanism Design II Revenue Equivalence, Optimal auction, Myerson-Satterthwaite Theorem",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
