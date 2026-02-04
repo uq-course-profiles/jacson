@@ -1,0 +1,133 @@
+{
+    "course_title": "Systems Safety Engineering",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG6020-63030-7460",
+    "full_course_code": "ENGG6020-63030-7460",
+    "course_code": "ENGG6020",
+    "class_code": "63030",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain basic system safety principles and the purpose and structure of risk based safety assessments."
+        },
+        {
+            "number": "LO2.",
+            "description": "Describe the role and responsibilities of Safety Professionals."
+        },
+        {
+            "number": "LO3.",
+            "description": "Perform and critique Risk Analyses for a system using a number of known techniques."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply and critique risk treatment approaches using a number of known techniques."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify and specify functional safety requirements for a given system or system design."
+        },
+        {
+            "number": "LO6.",
+            "description": "Identify, describe, interpret, evaluate and describe application of systems safety approaches using key industry standards and codes of practice."
+        },
+        {
+            "number": "LO7.",
+            "description": "Improve team work and communication skills through practice on project work and from reflection and feedback."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1. Systems Safety Risk Analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 23/08/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L06, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Group Assignment with Individual Memo.</p>\n<p>Work in groups to undertake a systems safety risk assessment for a case study that will be provided.</p>\n<p>Students are then required to write a technical memo describing task and reporting on the system safety risks for a case study.</p>\n<p>More detailed guidance will be given in class.</p>\n<p>This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All written assignments will be submitted electronically via Blackboard and using TurnItIn.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2. Risk control analysis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 20/09/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Group Assignment with Individual Memo.</p>\n<p>Work in groups to undertake a risk treatment analysis for a case study that will be provided.</p>\n<p>Students are then required to write a technical memo describing task and reporting on the risk treatment requirements for a case study.</p>\n<p>More detailed guidance will be given in class.</p>\n<p>This task has been designed to be challenging, authentic and complex. This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All written assignments will be submitted electronically via Blackboard using TurnItIn.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3. Literature and case study review",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 25/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignment type: individual.</p>\n<p>Conduct human and organisational factors analyses for a case study provided and discuss findings as they relate to</p>\n<p>(a) defence in depth including inherently safety design</p>\n<p>(b) system safety management systems and three lines of defence.</p>\n<p>More detailed guidance will be given in class.</p>\n<p>This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance</p>\n<p>A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All written assignments will be submitted electronically via Blackboard and using TurnItIn.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Oral exam (interview) (20 Minutes)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p>\n<p>\n</p><p>Examination period</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Oral",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an oral assessment which consists of an interview session which will be held during the exam period. </p>\n<p>More information will be provided in class.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>NOTE: Only 20 minutes will be allocated to each student.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": []
+}
