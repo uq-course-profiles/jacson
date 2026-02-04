@@ -1,0 +1,178 @@
+{
+    "course_title": "Chemical Thermodynamics",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE2030-60542-7560",
+    "full_course_code": "CHEE2030-60542-7560",
+    "course_code": "CHEE2030",
+    "class_code": "60542",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify and explain the underlying thermodynamic principles of real processes: the first law, second law, and free energy minimisation."
+        },
+        {
+            "number": "LO2.",
+            "description": "Source, and use, a wide range of thermodynamic data and charts."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the basis of ideal and non-ideal models for fluid and solution thermodynamic properties and apply them to process calculations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Identify and solve complex thermodynamic problems involving mass and energy balances, phase, and reaction equilibria."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use Matlab, Excel, and specialist thermodynamic software to perform complex thermodynamic calculations."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Sets",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>26% Problem Set (Hurdle) </dd>",
+            "due_date": "<dd><p>weeks 1 and 2 components 11/08/2025 4:00 pm</p>\n<p>weeks 3 and 4 components 25/08/2025 4:00 pm</p>\n<p>weeks 5 and 6 components 8/09/2025 4:00 pm</p>\n<p>weeks 7 and 8 components 22/09/2025 4:00 pm</p>\n<p>weeks 9 and 10 components 13/10/2025 4:00 pm</p>\n<p>weeks 11 and 12 components 27/10/2025 4:00 pm</p>\n<p>\n</p><p>Every second Monday at 4pm Weeks 3, 5, 7, 9, 11, 13</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Fortnightly problem sets (combined from two weekly components) will be worked on through the semester and submitted every second week.</p>\n<p>They can be completed in self-formed pairs. No peer assessment will be applied. It is expected pairs will make an equal contribution. If your partner is not pulling their weight, form another pair! If this causes issues, discuss with coordinator. Individual submissions are allowed if you want or cannot find a partner that week.</p>\n<p>The practice of the ICT - Python skills (Computer Exercise) class is not assessed, however it is critical for the completion of the subsequent problem sets.</p>\n<p>The problem sets are evenly weighted. Your best 5 of 6 fortnightly problem sets will count towards determining your average mark for the problem sets.  </p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit online through Gradescope.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assessments must be submitted on or before the due date.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Exam – In-Semester Outside Scheduled Class",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20% In-Semester Examination </dd>",
+            "due_date": "<dd><p> 15/09/2025</p>\n<p>\n</p><p>18:00-20:00</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Closed book invigilated In-Semester Exam will cover materials of weeks 1 to 6. This exam may cover <strong><em>any </em></strong>material covered in those weeks except for calculations using Python/Excel/Factsage which are <strong><em>not </em></strong>part of the exam.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Practical Phase Diagram",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>4%</dd>",
+            "due_date": "<dd><p> 24/09/2025 - 26/09/2025</p>\n<p>\n</p><p>Attend your signed-on session. </p>\n<p><br/></p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Activity/ Performance, Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Lab session where students work in groups to construct a ternary phase diagram for a liquid-liquid equlibrium system from experimental observation.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p><strong>Lab sessions 46-542 Wet Lab - attend signed-on session 24-26 September 2025</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Calculations and diagram submitted at the end of class (one set per group).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Exam – during Exam Period (Central)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50% Final Examination (Hurdle) </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exam is closed book. Material from all weeks will be covered. </p>\n<p>Students will be provided with a copy of the equation and data booklet. </p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online lectures and readings</strong><br><p>Students are required to review the week's material before and complete the related online quizzes before the Workshop.  Online quizzes are not assessed, however completion of online quizzes is strongly recommended as an essential component for effective learning of the course material.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Online lectures and readings</strong>",
+            "topic_description": "Online lectures and readings Students are required to review the week's material before and complete the related online quizzes before the Workshop.  Online quizzes are not assessed, however completion of online quizzes is strongly recommended as an essential component for effective learning of the course material.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop (WKS)</strong><br><p>Active learning workshop targeting key concepts and skills for the week. This will help address common misconceptions and give you a head start for the Problem Sets that week. A combination of concept and clicker questions will be used.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop (WKS)</strong>",
+            "topic_description": "Workshop (WKS) Active learning workshop targeting key concepts and skills for the week. This will help address common misconceptions and give you a head start for the Problem Sets that week. A combination of concept and clicker questions will be used.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class (Tutorial)</strong><br><p>Class where students work on problem sets. This is a classroom learning environment where students get to ask questions related to how they are going. It is highly recommended that problem sets are started BEFORE the Applied Class (Tutorial). You will get a lot more out of the Applied Class (Tutorial) if you do this and you will finish problem sets faster.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Applied Class (Tutorial)</strong>",
+            "topic_description": "Applied Class (Tutorial) Class where students work on problem sets. This is a classroom learning environment where students get to ask questions related to how they are going. It is highly recommended that problem sets are started BEFORE the Applied Class (Tutorial). You will get a lot more out of the Applied Class (Tutorial) if you do this and you will finish problem sets faster.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
