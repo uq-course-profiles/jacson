@@ -1,0 +1,514 @@
+{
+    "course_title": "Chemistry",
+    "study_period": "UQC 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEM1101E-1006-7450",
+    "full_course_code": "CHEM1101E-1006-7450",
+    "course_code": "CHEM1101E",
+    "class_code": "1006",
+    "semester_code": "7450",
+    "semester_details": "UQ College Intake 2, 2024 (14/10/2024 - 27/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply understanding of Chemistry concepts, theories, models, and systems within their limitations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Describe and explain Chemistry concepts, theories, models, systems, and their limitations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse and interpret evidence presented within Chemistry questions, obtained from experiments, and research questions."
+        },
+        {
+            "number": "LO4.",
+            "description": "Investigate relevant chemical phenomena presented in Chemistry questions, associated with experiments, and research questions."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate processes, claims and conclusions presented in Chemistry questions, experiments, and research questions."
+        },
+        {
+            "number": "LO6.",
+            "description": "Communicate understandings, findings, arguments, and conclusions associated with Chemistry questions, experiments, and research questions."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Term 1 Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Quiz 1 11/11/2024 - 15/11/2024</p>\n<p>Quiz 2 16/12/2024 - 20/12/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Week 5 Quiz (5%)</strong></p>\n<p>Blackboard quiz covering the first 2 topics from Term 1</p>\n<p><strong>Week 10 Quiz (5%)</strong></p>\n<p>Blackboard quiz covering the next 2 topics in Term 1</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Completed during scheduled class time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to <a href=\"https://uqcollege.uq.edu.au/files/7774/UQC%20Assignment%20Extensions%20Exam%20Deferrals%20and%20Late%20Penalty%20Policy%20and%20Procedure%20v%203_0.pdf\">UQ College Assessment Extensions, Exam Deferrals and Late Penalty Policy and Procedure.</a></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Design an Experiment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 7/02/2025 10:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Design an experiment to investigate a chemical phenomenon using science inquiry skills.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Turnitin</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to <a href=\"https://uqcollege.uq.edu.au/files/7774/UQC%20Assignment%20Extensions%20Exam%20Deferrals%20and%20Late%20Penalty%20Policy%20and%20Procedure%20v%203_0.pdf\">UQ College Assessment Extensions, Exam Deferrals and Late Penalty Policy and Procedure.</a></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Laboratory Reports",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p>Experiment 1 14/02/2025 10:00 pm</p>\n<p>Experiment 2 21/02/2025 10:00 pm</p>\n<p>Experiment 3 2/05/2025 10:00 pm</p>\n<p>\n</p><p>These dates may change based on Lab Prac Scheduling. Check course blackboard site for any updates on due dates.</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are to submit completed practical workbooks and excel files.</p>\n<p>Each report must include the Safety Considerations, Results, Analysis, and Discussion &amp; Conclusion sections. </p>\n<p>Students carry out 5 experiments throughout the course - subject to lab availability in School of Chemistry and Molecular Biosciences (SCMB)</p>\n<p><strong>Final three workbooks are summative.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via Blackboard</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to <a href=\"https://uqcollege.uq.edu.au/files/7774/UQC%20Assignment%20Extensions%20Exam%20Deferrals%20and%20Late%20Penalty%20Policy%20and%20Procedure%20v%203_0.pdf\">UQ College Assessment Extensions, Exam Deferrals and Late Penalty Policy and Procedure.</a></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Term 2 Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Term 2 Exam Block</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Term 2 content is assessed</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to <a href=\"https://uqcollege.uq.edu.au/files/7774/UQC%20Assignment%20Extensions%20Exam%20Deferrals%20and%20Late%20Penalty%20Policy%20and%20Procedure%20v%203_0.pdf\">UQ College Assessment Extensions, Exam Deferrals and Late Penalty Policy and Procedure.</a></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Video Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 9/05/2025 10:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06",
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Research Assignment on a chosen topic.</p>\n<p>Details provided in the Assessment folder on Blackboard</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to <a href=\"https://uqcollege.uq.edu.au/files/7774/UQC%20Assignment%20Extensions%20Exam%20Deferrals%20and%20Late%20Penalty%20Policy%20and%20Procedure%20v%203_0.pdf\">UQ College Assessment Extensions, Exam Deferrals and Late Penalty Policy and Procedure.</a></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-5",
+            "assessment_title": "Term 3 Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Term 3 Exam Block</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Term 3 content is assessed.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(14 Oct - 20 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamentals</strong><br/><p>Scientific method; Measurement and uncertainty; Graphical analysis</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Fundamentals</strong>",
+            "topic_description": "Fundamentals Scientific method; Measurement and uncertainty; Graphical analysis",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 3(21 Oct - 03 Nov)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Atoms</strong><br><p>History of the Atom; Atomic structure; Relative atomic mass; Electron configuration; Periodic table trends; Naming compounds</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Atoms</strong>",
+            "topic_description": "Atoms History of the Atom; Atomic structure; Relative atomic mass; Electron configuration; Periodic table trends; Naming compounds",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4(04 Nov - 10 Nov)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Materials</strong><br/><p>Matter   Elements, Compounds and Mixtures; Bonding and compound properties</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Materials</strong>",
+            "topic_description": "Materials Matter   Elements, Compounds and Mixtures; Bonding and compound properties",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 7(11 Nov - 01 Dec)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Chemical Reactions</strong><br><p>Mole concept; Empirical and molecular formula; Writing and Balancing Chemical Equations; Types of chemical reactions; Stoichiometry</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Chemical Reactions</strong>",
+            "topic_description": "Chemical Reactions Mole concept; Empirical and molecular formula; Writing and Balancing Chemical Equations; Types of chemical reactions; Stoichiometry",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(02 Dec - 08 Dec)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Thermochemistry</strong><br/><p>Chemical reactions and heat energy</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Thermochemistry</strong>",
+            "topic_description": "Thermochemistry Chemical reactions and heat energy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9(09 Dec - 15 Dec)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intermolecular Forces</strong><br/><p>Covalent Bonding   VSEPR Theory, Hybridization, Polarity, Van der Waal s Forces.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Intermolecular Forces</strong>",
+            "topic_description": "Intermolecular Forces Covalent Bonding   VSEPR Theory, Hybridization, Polarity, Van der Waal s Forces.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 10(16 Dec - 22 Dec)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11(06 Jan - 12 Jan)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Gas Behaviour</strong><br/><p>Kinetic molecular theory; Gas laws</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Gas Behaviour</strong>",
+            "topic_description": "Gas Behaviour Kinetic molecular theory; Gas laws",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12(13 Jan - 19 Jan)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Water</strong><br/><p>Properties of water</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Water</strong>",
+            "topic_description": "Water Properties of water",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 13 To Week 14(20 Jan - 02 Feb)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Aqueous Solutions</strong><br><p>Dissociation and solvation; Solubility; Molarity</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Aqueous Solutions</strong>",
+            "topic_description": "Aqueous Solutions Dissociation and solvation; Solubility; Molarity",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 15(03 Feb - 09 Feb)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Acids</strong><br/><p>Introduction to pH; Arrhenius theory; Reactions of acids</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Acids</strong>",
+            "topic_description": "Acids Introduction to pH; Arrhenius theory; Reactions of acids",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 16(10 Feb - 16 Feb)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Reaction rates</strong><br/><p>Rates of chemical reactions</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Reaction rates</strong>",
+            "topic_description": "Reaction rates Rates of chemical reactions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 17(17 Feb - 23 Feb)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Chemical equilibrium</strong><br/><p>Reversible reactions and equilibrium; LeChaterlier's Principle; Factors that effect equilibrium</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Chemical equilibrium</strong>",
+            "topic_description": "Chemical equilibrium Reversible reactions and equilibrium; LeChaterlier's Principle; Factors that effect equilibrium",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 18(24 Feb - 02 Mar)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Acids and Bases</strong><br/><p>Bronsted-Lowry model; pH and pOH calculations; Weak acids and bases</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Acids and Bases</strong>",
+            "topic_description": "Acids and Bases Bronsted-Lowry model; pH and pOH calculations; Weak acids and bases",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 19(03 Mar - 09 Mar)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Volumetric Analysis</strong><br/><p>Acid-base titrations</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Volumetric Analysis</strong>",
+            "topic_description": "Volumetric Analysis Acid-base titrations",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 20(10 Mar - 16 Mar)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/><p>Review of all material covered in Term 2</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision Review of all material covered in Term 2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 21(07 Apr - 13 Apr)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Redox reactions</strong><br/><p>Oxidation and reduction; Redox reactions</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Redox reactions</strong>",
+            "topic_description": "Redox reactions Oxidation and reduction; Redox reactions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 22(14 Apr - 20 Apr)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electrochemical cells</strong><br/><p>Galvanic cells; Standard cell potential</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Electrochemical cells</strong>",
+            "topic_description": "Electrochemical cells Galvanic cells; Standard cell potential",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 23(21 Apr - 27 Apr)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electrolysis</strong><br/><p>Electrolytic cell</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Electrolysis</strong>",
+            "topic_description": "Electrolysis Electrolytic cell",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 24(28 Apr - 04 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hydrocarbons</strong><br/><p>Alkanes, alkenes and alkynes; Structural isomers</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Hydrocarbons</strong>",
+            "topic_description": "Hydrocarbons Alkanes, alkenes and alkynes; Structural isomers",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 25 To Week 26(05 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Functional Groups</strong><br><p>Alcohols; Halocarbons; Aldehydes and ketones; Carboxylic acids and esters; Amines and amides</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Functional Groups</strong>",
+            "topic_description": "Functional Groups Alcohols; Halocarbons; Aldehydes and ketones; Carboxylic acids and esters; Amines and amides",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 27(19 May - 25 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Organic Reactions</strong><br/><p>Addition and substitution reactions; Oxidation and reduction; Esterification</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Organic Reactions</strong>",
+            "topic_description": "Organic Reactions Addition and substitution reactions; Oxidation and reduction; Esterification",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 28(26 May - 01 Jun)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Poymerisation</strong><br/><p>Polymerisation; Chemical synthesis and Green chemistry</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Poymerisation</strong>",
+            "topic_description": "Poymerisation Polymerisation; Chemical synthesis and Green chemistry",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 29(02 Jun - 08 Jun)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biochemistry</strong><br/><p>Macromolecules: polymers, proteins, and carbohydrates</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Biochemistry</strong>",
+            "topic_description": "Biochemistry Macromolecules: polymers, proteins, and carbohydrates",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 30(09 Jun - 15 Jun)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/><p>Review of all material covered in Term 3</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision Review of all material covered in Term 3",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
