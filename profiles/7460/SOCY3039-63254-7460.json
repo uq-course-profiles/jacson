@@ -1,0 +1,415 @@
+{
+    "course_title": "Applied Quantitative Research",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/SOCY3039-63254-7460",
+    "full_course_code": "SOCY3039-63254-7460",
+    "course_code": "SOCY3039",
+    "class_code": "63254",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Articulate the logic and benefits of advanced quantitative social science research"
+        },
+        {
+            "number": "LO2.",
+            "description": "Interpret advanced quantitative analyses in published academic and non-academic research outputs"
+        },
+        {
+            "number": "LO3.",
+            "description": "Review and critique advanced quantitative analyses done by others"
+        },
+        {
+            "number": "LO4.",
+            "description": "Identify the appropriate regression model for analysing continuous or categorical data"
+        },
+        {
+            "number": "LO5.",
+            "description": "Appreciate conceptual differences between confounding, moderation and mediation"
+        },
+        {
+            "number": "LO6.",
+            "description": "Use statistical software to access, manage and manipulate survey data in preparation for quantitative analyses"
+        },
+        {
+            "number": "LO7.",
+            "description": "Use statistical software to undertake bivariate and multiple linear and logistic regression models"
+        },
+        {
+            "number": "LO8.",
+            "description": "Access and manage data according to the principles of responsible data use"
+        },
+        {
+            "number": "LO9.",
+            "description": "Understand core concepts and tools for causal inference"
+        },
+        {
+            "number": "LO10.",
+            "description": "Gain familiarity with advanced study designs for multilevel, longitudinal, and experimental/quasi-experimental research."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 16/08/2024 2:00 pm</p>\n<p>\n</p><p>Submit via Course Blackboard (TurnItIn).</p></dd>",
+            "learning_objectives": "L01, L02, L06, L08",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A computer and statistical assignment worth 30% of the overall course grade. This assignment will be placed on Blackboard in Week 2 and will be completed in a three-week period (weeks 2, 3, and 4). The assignment will pose a series of separate questions that with cover the material covered in the lectures and lab sessions. There is no strict word limit for this assignment, but it is expected that students' combined responses will be no longer than 1,000 words (excluding Stata output, tables, graphs, and Stata log files).</p>\n<p><strong>Marking criteria</strong> and/or marking rubrics are available in the ‘Assessment’ folder in Blackboard for this course.</p>\n<p><strong>AI use: </strong>This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>You must submit your assignment electronically by the due time, on the due date.</strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 20/09/2024 2:00 pm</p>\n<p>\n</p><p>Submit via Course Blackboard (TurnItIn).</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06, L08",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A computer and statistical assignment worth 35% of the overall course grade. This assignment will be placed on Blackboard in Week 7 and will be completed in a three-week period (weeks 7, 8, and 9). The assignment will pose a series of separate questions that with cover the material covered in the lectures and lab sessions. There is no strict word limit for this assignment, but it is expected that students' combined responses will be no longer than 1,000 words (excluding Stata output, tables, graphs, and Stata log files).</p>\n<p><strong>Marking criteria</strong> and/or marking rubrics are available in the ‘Assessment’ folder in Blackboard for this course.</p>\n<p><strong>AI use: </strong>This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your assignment must be submitted via Turnitin on blackboard. To submit your assignment electronically log in to <a href=\"http://learn.uq.edu.au/\">http://learn.uq.edu.au/</a> with your UQ username and password, then click on Course Code&gt;&gt;Assessment&gt;&gt;Assignments, and use the appropriate assignment submission link for each piece of assessment. No e-mailed submissions of assessments will be accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3",
+            "special_indicators": [],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 21/10/2024</p>\n<p>\n</p><p>Submit via Course Blackboard (TurnItIn).</p></dd>",
+            "learning_objectives": "L01, L03, L06, L07, L08, L09",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A computer and statistical assignment worth 35% of the overall course grade. This assignment will be placed on Blackboard in Week 10 and will be completed in a three-week period (weeks 10, 11, and 12). The assignment will pose a series of separate questions that with cover the material covered in the lectures and lab sessions. There is no strict word limit for this assignment, but it is expected that students' combined responses will be no longer than 1,000 words (excluding Stata output, tables, graphs, and Stata log files).</p>\n<p><strong>Marking criteria</strong> and/or marking rubrics are available in the ‘Assessment’ folder in Blackboard for this course.</p>\n<p><strong>AI use: </strong>This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your assignment must be submitted via Turnitin on blackboard. To submit your assignment electronically log in to <a href=\"http://learn.uq.edu.au/\">http://learn.uq.edu.au/</a> with your UQ username and password, then click on Course Code&gt;&gt;Assessment&gt;&gt;Assignments, and use the appropriate assignment submission link for each piece of assessment. No e-mailed submissions of assessments will be accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course introduction (Week 1)</strong><br/><p>This lecture will introduce the course. Among others, it will cover the course structure, the objectives, the recommended readings, and the assessment.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course introduction (Week 1)</strong>",
+            "topic_description": "Course introduction (Week 1) This lecture will introduce the course. Among others, it will cover the course structure, the objectives, the recommended readings, and the assessment.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 1)</strong><br/><p>This lab session will introduce the datasets used in the course and provide a refresher of statistical concepts and Stata software syntax.</p></p><p><strong>Learning outcomes:</strong> L02, L06, L08</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 1)</strong>",
+            "topic_description": "Lab session (Week 1) This lab session will introduce the datasets used in the course and provide a refresher of statistical concepts and Stata software syntax.",
+            "learning_outcomes": [
+                "L02",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision of statistical concepts (Week 2)</strong><br/><p>This lecture will provide a revision of key ideas concerning the logic of quantitative research, the properties of quantitative data, bivariate data analyses, and foundational notions in statistical inference. This is a refresher on/summary of material covered in 'SOCY2339 Introducing Quantitative Research'.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Revision of statistical concepts (Week 2)</strong>",
+            "topic_description": "Revision of statistical concepts (Week 2) This lecture will provide a revision of key ideas concerning the logic of quantitative research, the properties of quantitative data, bivariate data analyses, and foundational notions in statistical inference. This is a refresher on/summary of material covered in 'SOCY2339 Introducing Quantitative Research'.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 2)</strong><br/><p>This lab session will cover Stata commands to implement statistical inference for bivariate associations (correlation, chi-squared tests, and t-tests).</p></p><p><strong>Learning outcomes:</strong> L04, L08</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 2)</strong>",
+            "topic_description": "Lab session (Week 2) This lab session will cover Stata commands to implement statistical inference for bivariate associations (correlation, chi-squared tests, and t-tests).",
+            "learning_outcomes": [
+                "L04",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Index and scale construction (Week 3)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Index and scale construction (Week 3)</strong>",
+            "topic_description": "Index and scale construction (Week 3)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 3)</strong><br/><p>This session will introduce techniques for index construction using Stata</p></p><p><strong>Learning outcomes:</strong> L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 3)</strong>",
+            "topic_description": "Lab session (Week 3) This session will introduce techniques for index construction using Stata",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to regression (Week 4)</strong><br/></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Introduction to regression (Week 4)</strong>",
+            "topic_description": "Introduction to regression (Week 4)",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 4)</strong><br/><p>This lab session will provide hands-on practice using multiple linear regression. Students will use Stata software to plot bivariate scatterplots.</p></p></div></td>",
+            "topic_title": "<strong>Lab session (Week 4)</strong>",
+            "topic_description": "Lab session (Week 4) This lab session will provide hands-on practice using multiple linear regression. Students will use Stata software to plot bivariate scatterplots.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamentals of bivariate and multiple linear regression (Week 5)</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Fundamentals of bivariate and multiple linear regression (Week 5)</strong>",
+            "topic_description": "Fundamentals of bivariate and multiple linear regression (Week 5)",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 5)</strong><br/><p>Students will continue using Stata to estimate bivariate linear regression. </p></p><p><strong>Learning outcomes:</strong> L06, L07, L08, L10</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 5)</strong>",
+            "topic_description": "Lab session (Week 5) Students will continue using Stata to estimate bivariate linear regression.",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Incorporating categorical predictors in linear regression (Week 6)</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Incorporating categorical predictors in linear regression (Week 6)</strong>",
+            "topic_description": "Incorporating categorical predictors in linear regression (Week 6)",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 6)</strong><br/><p>Students will fit and interpret multiple regression models in Stata</p></p><p><strong>Learning outcomes:</strong> L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 6)</strong>",
+            "topic_description": "Lab session (Week 6) Students will fit and interpret multiple regression models in Stata",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical moderation (Week 7)</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05, L10</p></div></td>",
+            "topic_title": "<strong>Statistical moderation (Week 7)</strong>",
+            "topic_description": "Statistical moderation (Week 7)",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 7)</strong><br/><p>This lab session will consist of Stata-based exercises using multiple linear regression.</p></p><p><strong>Learning outcomes:</strong> L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 7)</strong>",
+            "topic_description": "Lab session (Week 7) This lab session will consist of Stata-based exercises using multiple linear regression.",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical mediation (Week 8)</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Statistical mediation (Week 8)</strong>",
+            "topic_description": "Statistical mediation (Week 8)",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 8)</strong><br/><p>This lab session will involve Stata-based exercises illustrating the logics of moderation and using it in regression models.</p></p><p><strong>Learning outcomes:</strong> L06, L07, L08, L10</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 8)</strong>",
+            "topic_description": "Lab session (Week 8) This lab session will involve Stata-based exercises illustrating the logics of moderation and using it in regression models.",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>NO LECTURE</strong><br/></p></div></td>",
+            "topic_title": "<strong>NO LECTURE</strong>",
+            "topic_description": "NO LECTURE",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 9)</strong><br/><p>This lab session will involve Stata-based exercises using mediation</p></p><p><strong>Learning outcomes:</strong> L06, L07, L08, L10</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 9)</strong>",
+            "topic_description": "Lab session (Week 9) This lab session will involve Stata-based exercises using mediation",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break(23 Sep - 29 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/><p>There will be no lecture this week.</p></p></div></td>",
+            "topic_title": "<strong>Mid-Semester Break</strong>",
+            "topic_description": "Mid-Semester Break There will be no lecture this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break(23 Sep - 29 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/><p>There will be no tutorial this week.</p></p></div></td>",
+            "topic_title": "<strong>Mid-Semester Break</strong>",
+            "topic_description": "Mid-Semester Break There will be no tutorial this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Modelling non-linear relationships (Week 10)</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L10</p></div></td>",
+            "topic_title": "<strong>Modelling non-linear relationships (Week 10)</strong>",
+            "topic_description": "Modelling non-linear relationships (Week 10)",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 10)</strong><br/><p>This lab session will involve Stata-based exercises in which students learn how to fit non-linear regression models.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L10</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 10)</strong>",
+            "topic_description": "Lab session (Week 10) This lab session will involve Stata-based exercises in which students learn how to fit non-linear regression models.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Binary logistic regression models (Week 11).</strong><br/></p><p><strong>Learning outcomes:</strong> L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Binary logistic regression models (Week 11).</strong>",
+            "topic_description": "Binary logistic regression models (Week 11).",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 11)</strong><br/><p>This lab session will enable students to fit binary logistic regression models.</p></p><p><strong>Learning outcomes:</strong> L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 11)</strong>",
+            "topic_description": "Lab session (Week 11) This lab session will enable students to fit binary logistic regression models.",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced techniques and external reviews (Week 12)</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L10</p></div></td>",
+            "topic_title": "<strong>Advanced techniques and external reviews (Week 12)</strong>",
+            "topic_description": "Advanced techniques and external reviews (Week 12)",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab session (Week 12)</strong><br/><p>In this lab session, students will practice fitting models with ordered and multinomial outcome variables.</p></p><p><strong>Learning outcomes:</strong> L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Lab session (Week 12)</strong>",
+            "topic_description": "Lab session (Week 12) In this lab session, students will practice fitting models with ordered and multinomial outcome variables.",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quantitative research showcase (Week 13)</strong><br/><p>This session will offer students the opportunity to learn about quantitative research projects undertaken by students of Social Science at UQ. Several current and former post-graduate students and research fellows will present findings from their own research and share their experiences with using quantitative research techniques for the analysis of Social Science data.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L10</p></div></td>",
+            "topic_title": "<strong>Quantitative research showcase (Week 13)</strong>",
+            "topic_description": "Quantitative research showcase (Week 13) This session will offer students the opportunity to learn about quantitative research projects undertaken by students of Social Science at UQ. Several current and former post-graduate students and research fellows will present findings from their own research and share their experiences with using quantitative research techniques for the analysis of Social Science data.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L10"
+            ]
+        }
+    ]
+}
