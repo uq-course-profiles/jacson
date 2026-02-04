@@ -1,0 +1,124 @@
+{
+    "course_title": "International Software Development 2",
+    "study_period": "Summer 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3881-80164-7580",
+    "full_course_code": "COMP3881-80164-7580",
+    "course_code": "COMP3881",
+    "class_code": "80164",
+    "semester_code": "7580",
+    "semester_details": "Summer Semester, 2025 (29/12/2025 - 09/02/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Communicate goals and expectations in a cross-cultural environment to negotiate project outcomes."
+        },
+        {
+            "number": "LO2.",
+            "description": "Develop IT systems that deliver solutions that are suitable for a global audience."
+        },
+        {
+            "number": "LO3.",
+            "description": "Work in a cross-cultural team to deliver an IT system."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Internship Work Diary",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd> Pass / Fail </dd>",
+            "due_date": "<dd><p> 12/01/2026 1:00 pm</p>\n<p> 19/01/2026 1:00 pm</p>\n<p> 26/01/2026 1:00 pm</p>\n<p> 2/02/2026 1:00 pm</p>\n<p>\n</p><p>Weekly submission during internship.</p>\n<p><strong>Note</strong>: As the program takes place in Vietnam, Jan. 26 is <strong>not</strong> considered a public holiday, so your work diary is due on that date.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Notebook/ Logbook, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will write a work diary that records your weekly work activities. The diary should</p>\n<ul>\n<li>record the activities you perform each week,</li>\n<li>highlight what you have learnt from those activities, and</li>\n<li>briefly reflect on how to apply what you have learnt to improve your professional activities in the following week.</li>\n</ul>\n<p>Each submission is to be less than 500 words in length.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<p>This is to be submitted on-line at the end of every week of your internship. To meet UQ submission policy, the diary is due by 13:00 on the Monday following your internship work week (Jan. 12, 19, 26, and Feb. 2. <strong>Note</strong>: As the program takes place in Vietnam, Jan. 26 is <strong>not</strong> considered a public holiday, so your work diary is due on that date.). It is recommended that you attempt to complete and submit your diary as close to the end of your work week as possible.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Each weekly diary entry is to be submitted via the link provided in the course BlackBoard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final Project Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Pass / Fail </dd>",
+            "due_date": "<dd><p> 26/01/2026 - 29/01/2026</p>\n<p>\n</p><p>Scheduled during the final week of your internship. The presentation may take place at your host company office or at the FPTU campus.</p>\n<p><strong>Note</strong>: As the program takes place in Vietnam, Jan. 26 is <strong>not</strong> considered a public holiday, so your presentation could be scheduled on that date.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will give a formal presentation of the product(s) you produce during your internship. The presentation will describe the product's functionality. The presentation should highlight the value delivered by the product. The presentation should reflect on what you have learnt during development of the product.</p>\n<p>In accordance with UQ assessment policy, your presentation will be recorded.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Use of generative AI or MT in the development of your project will depend on the policies of the company hosting your internship. UQ does not impose any constraint on the use of generative AI or MT in your project development.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Upload a copy of your presentation file to the link provided on BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> Pass / Fail </dd>",
+            "due_date": "<dd><p> 9/02/2026 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will submit a reflective essay that describes what you have learnt from your experience during your trip. You should make use of your diary submissions, to reflect on what you have learnt and how you will apply those learnings in the future. Your reflection may extend beyond your internship activities, to include other experiences you had during your trip.</p>\n<p>This reflective essay must be less than 1500 words in length.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via the link provided on BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(29 Dec - 04 Jan)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Program Orientation</strong><br/><p>The first week of the program consists of orientation activities to prepare you for your internship. This includes how to manage issues that may arise during the program, understanding the Vietnamese work culture, communication skills, Vietnamese language lessons, career planning, and cultural activities. Program activities and their times are indicated in the provided program schedule.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Program Orientation</strong>",
+            "topic_description": "Program Orientation The first week of the program consists of orientation activities to prepare you for your internship. This includes how to manage issues that may arise during the program, understanding the Vietnamese work culture, communication skills, Vietnamese language lessons, career planning, and cultural activities. Program activities and their times are indicated in the provided program schedule.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 5(05 Jan - 01 Feb)",
+            "activity_type": "Placement",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Vietnam Internship Program</strong><br><p>This is an intensive program to develop your ability to work in a multi-cultural team to deliver a software product.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Vietnam Internship Program</strong>",
+            "topic_description": "Vietnam Internship Program This is an intensive program to develop your ability to work in a multi-cultural team to deliver a software product.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
