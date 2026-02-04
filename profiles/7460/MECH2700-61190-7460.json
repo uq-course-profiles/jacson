@@ -1,0 +1,230 @@
+{
+    "course_title": "Computational Engineering & Data Analysis",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2700-61190-7460",
+    "full_course_code": "MECH2700-61190-7460",
+    "course_code": "MECH2700",
+    "class_code": "61190",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Formulate mathematical models of systems encountered in mechanical engineering - Understand which types of mathematical model are appropriate for different systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Formulate mathematical models of systems encountered in mechanical engineering - Model systems using algebraic equations, ordinary differential equations, partial differential equations, systems of linear equations, interpolating functions, approximating functions and integral equations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Formulate mathematical models of systems encountered in mechanical engineering - Construct system models based on rough descriptions of mechanical engineering situations or problems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to nonlinear algebraic equations using the bisection method, Newtons method, secant method, shadow position method and fixed point iteration comparing their convergence, efficiency and robustness."
+        },
+        {
+            "number": "LO5.",
+            "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to ordinary differential equations using the Euler, modified Euler and Runge-Kutta methods, and analyse their order of accuracy using Taylor series."
+        },
+        {
+            "number": "LO6.",
+            "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to integration problems using Newton-Cotes methods, Gauss quadrature and composite quadrature methods."
+        },
+        {
+            "number": "LO7.",
+            "description": "Select or develop numerical methods to analyse the behaviour of system models - Approximate derivatives of function using finite differences and analyse their order of accuracy."
+        },
+        {
+            "number": "LO8.",
+            "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to partial differential equations using a spectrum of numerical methods."
+        },
+        {
+            "number": "LO9.",
+            "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to one-dimensional optimisation problems using the Golden search algorithm."
+        },
+        {
+            "number": "LO10.",
+            "description": "Select or develop numerical methods to analyse engineering data - Generate continuous approximations of engineering data using monomial and Lagrange interpolation and least-squares fitting for general basis functions."
+        },
+        {
+            "number": "LO11.",
+            "description": "Select or develop numerical methods to analyse engineering data - Approximate integrals of engineering data using quadrature methods."
+        },
+        {
+            "number": "LO12.",
+            "description": "Select or develop numerical methods to analyse engineering data - Approximate derivatives from engineering data using finite differences and analyse their order of accuracy."
+        },
+        {
+            "number": "LO13.",
+            "description": "Select or develop numerical methods to analyse engineering data - Visualize engineering data using a variety of approaches."
+        },
+        {
+            "number": "LO14.",
+            "description": "Compose computer programs to implement numerical methods - Construct functional programs in the Python language that systematically initialize required variables, execute a numerical method and output the variables of interest."
+        },
+        {
+            "number": "LO15.",
+            "description": "Compose computer programs to implement numerical methods - Construct functional programs in the Python language that systematically read in, analyse and visualise engineering data."
+        },
+        {
+            "number": "LO16.",
+            "description": "Interpret, evaluate and report on the results of numerical analysis - Interpret the results of numerical analysis in terms of the behaviour of the physical system it models."
+        },
+        {
+            "number": "LO17.",
+            "description": "Interpret, evaluate and report on the results of numerical analysis - Evaluate the performance of numerical analysis in terms of convergence and efficiency."
+        },
+        {
+            "number": "LO18.",
+            "description": "Interpret, evaluate and report on the results of numerical analysis - Report on the results of numerical analysis in written and graphical format."
+        },
+        {
+            "number": "LO19.",
+            "description": "Understand and apply new approaches from the numerical methods literature - Understand the language and structure of the numerical analysis field sufficiently to find and understand new numerical methods from the literature."
+        },
+        {
+            "number": "LO20.",
+            "description": "Understand and apply new approaches from the numerical methods literature - Evaluate the suitability of new numerical analysis techniques for your applications."
+        },
+        {
+            "number": "LO21.",
+            "description": "Understand and apply new approaches from the numerical methods literature - Apply new numerical analysis techniques to engineering applications by implementing them in Python programs."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly tutorial exercise",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Due weekly at 4 pm Friday from Week 2</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Short weekly theoretical and/or coding tasks to apply the analysis techniques discussed in lectures to engineering problems. Each weekly task is due at 4pm Friday of the given week.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission of both theoretical and programming task should be provided in a single pdf to the submission links provided on Blackboard. The theoretical question may be scanned or typeset. The code can be copied into the document along with the output/results.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 6/09/2024 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An exercise in modelling and programming that will require submission to be described on Blackboard. You are to do this exercise individually and you are welcome to ask questions in the computer lab (ICT) sessions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your assignment should be submitted as a single PDF document plus a set of Python source code files that can be run for verification. The source code should include a README file that describes how your code can be executed to produce your submitted results. A link for submission will be provided on BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A larger exercise in modelling and programming that will require submission as to be detailed on Blackboard. You are to do this exercise in pairs (or individually) and you are welcome to ask questions in the computer lab (ICT) sessions.</p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your assignment should be submitted as a single PDF document plus a set of Python source code files that can be run for verification. The source code should include a README file that describes how your code can be executed to produce your submitted results. A link for submission will be provided on BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>End of semester closed book examination.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures - Modelling and Numerical Methods</strong><br><p>This Learning Activity will cover the following topics:</p>\n<p>Week 1 - Course introduction. Problem solving; A numerical approach. Floating-point numbers and error. </p>\n<p>Week 2 - Interpolation (High-order polynomials, Lagrange basis functions, Chebyshev points). Good programming practices.</p>\n<p>Week 3 - Numerical differentiation (Finite difference formulas and associated errors).</p>\n<p>Week 4 - Numerical integration (Newton-Cotes formulas-Trapezoidal rule, Simpson's 1/3 rule, etc., Composite quadrature).</p>\n<p>Week 5 - Direct solutions to linear systems (Gauss-Jordan elimination, LU decomposition).</p>\n<p>Week 6 - Iterative solutions to linear systems (Jacobi, Gauss-Seidel, Relaxation methods, Least-Squares approach for over-constrained systems).</p>\n<p>Week 7 - Numerical solutions to ODEs (Euler's, Modified Euler's, Runge-Kutta, Runge-Kutta-Fehlberg, Systems of Equations).</p>\n<p>Week 8 - Solving non-linear equations (Bisection, Fixed-Point Iteration, Gradient-based methods).</p>\n<p>Week 9 - Data fitting and optimisation (Least-squares, Chebyshev polynomials, Golden search, Bracketing).</p>\n<p>Week 10 - Intro to numerical solutions of PDEs and Parabolic PDEs (Classifications, finite difference schemes, diffusion problems).</p>\n<p>Week 11 - Parabolic PDEs conti. and Hyperbolic PDEs (Boundary conditions, stability of parabolic PDE solutions, Wave equation). </p>\n<p>Week 12 - Nonlinear Hyperbolic PDEs and Elliptic PDEs (Euler equations, inviscid Burgers equation, shocks, boundary value problems, solution approaches).</p>\n<p>Week 13 - Semester review and feedback.</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures - Modelling and Numerical Methods</strong>",
+            "topic_description": "Lectures - Modelling and Numerical Methods This Learning Activity will cover the following topics: Week 1 - Course introduction. Problem solving; A numerical approach. Floating-point numbers and error. Week 2 - Interpolation (High-order polynomials, Lagrange basis functions, Chebyshev points). Good programming practices. Week 3 - Numerical differentiation (Finite difference formulas and associated errors). Week 4 - Numerical integration (Newton-Cotes formulas-Trapezoidal rule, Simpson's 1/3 rule, etc., Composite quadrature). Week 5 - Direct solutions to linear systems (Gauss-Jordan elimination, LU decomposition). Week 6 - Iterative solutions to linear systems (Jacobi, Gauss-Seidel, Relaxation methods, Least-Squares approach for over-constrained systems). Week 7 - Numerical solutions to ODEs (Euler's, Modified Euler's, Runge-Kutta, Runge-Kutta-Fehlberg, Systems of Equations). Week 8 - Solving non-linear equations (Bisection, Fixed-Point Iteration, Gradient-based methods). Week 9 - Data fitting and optimisation (Least-squares, Chebyshev polynomials, Golden search, Bracketing). Week 10 - Intro to numerical solutions of PDEs and Parabolic PDEs (Classifications, finite difference schemes, diffusion problems). Week 11 - Parabolic PDEs conti. and Hyperbolic PDEs (Boundary conditions, stability of parabolic PDE solutions, Wave equation). Week 12 - Nonlinear Hyperbolic PDEs and Elliptic PDEs (Euler equations, inviscid Burgers equation, shocks, boundary value problems, solution approaches). Week 13 - Semester review and feedback.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(22 Jul - 20 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact - Weekly interactive problem-solving</strong><br><p>Weekly workshops that begin with a physical engineering problem and work through the entire problem-solving process from defining the problem, to coding up the solution and interpreting the results, getting input from the class at every stage.</p></br></p></div></td>",
+            "topic_title": "<strong>Contact - Weekly interactive problem-solving</strong>",
+            "topic_description": "Contact - Weekly interactive problem-solving Weekly workshops that begin with a physical engineering problem and work through the entire problem-solving process from defining the problem, to coding up the solution and interpreting the results, getting input from the class at every stage.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(29 Jul - 27 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Computer Lab Sessions</strong><br><p>To achieve the learning objectives of the course, you will need to work through weekly problem sets on solving engineering problems using numerical methods. This involves writing and executing code and interpreting the results. In order to do this at a time when tutorial assistance is available, you will need to attend one of the lab sessions that will be held each week. These are labelled I01 through I06.</p></br></p></div></td>",
+            "topic_title": "<strong>Computer Lab Sessions</strong>",
+            "topic_description": "Computer Lab Sessions To achieve the learning objectives of the course, you will need to work through weekly problem sets on solving engineering problems using numerical methods. This involves writing and executing code and interpreting the results. In order to do this at a time when tutorial assistance is available, you will need to attend one of the lab sessions that will be held each week. These are labelled I01 through I06.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 13(12 Aug - 27 Oct)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment</strong><br><p>You will need to complete assignments based on the analysis of mechanical engineering problems and the interpretation of numerical results relevant to those problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Assignment</strong>",
+            "topic_description": "Assignment You will need to complete assignments based on the analysis of mechanical engineering problems and the interpretation of numerical results relevant to those problems.",
+            "learning_outcomes": []
+        }
+    ]
+}
