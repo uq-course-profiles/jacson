@@ -1,0 +1,97 @@
+{
+    "course_title": "Fast Imaging Techniques",
+    "study_period": "Sem 2 2024",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MRES7005-64438-7460",
+    "full_course_code": "MRES7005-64438-7460",
+    "course_code": "MRES7005",
+    "class_code": "64438",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand fast imaging sequences like EPI, HASTE, BLADE/PROPELLER"
+        },
+        {
+            "number": "LO2.",
+            "description": "Define optimum k-spacing sampling"
+        },
+        {
+            "number": "LO3.",
+            "description": "Discuss susceptibility effects and image artefacts, including methods of reducing image distortion and improving image contrast for clinical and research applications of gradient and spin echo EPI"
+        },
+        {
+            "number": "LO4.",
+            "description": "Methods for improving temporal resolution in dynamic studies"
+        },
+        {
+            "number": "LO5.",
+            "description": "Understanding how fast imaging can be applied in a clinical situation and the pros and cons of the variety of fast imaging sequences."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Blackboard Online quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 19/08/2024 - 26/08/2024</p>\n<p>\n</p><p>Submission no later than Monday of Week 6 at 2 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This quiz tests information from Modules 1-3 and is worth 10 marks. 10 questions will be randomly selected from a larger pool of questions.</p>\n<p>Question format includes:</p>\n<ul>\n<li>multiple choice</li>\n<li>true/false</li>\n<li>fill in the blanks</li>\n<li>match </li>\n<li>order</li>\n</ul>\n<p>Please allow an uninterrupted 25 minutes to take the quiz.</p>\n<p>Once you save and submit from Question 10, you will not be able to retake or edit any entries. You only have one attempt to answer the question. You cannot backtrack to check or change an answer. </p>\n<p>When the time runs out, the quiz will automatically be saved and submitted as is. </p>\n<p><strong>The quiz will be available for 1 week only, during Week 5 9:00 am and disappear on Monday week 6 at 2:00 pm</strong>.</p>\n<p>Extensions will need to be applied for in advance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Blackboard quiz</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Written assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 8/10/2024 2:00 pm</p>\n<p>\n</p><p>Tuesday of Week 11</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Essay/ Critique, Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will comprise of a choice of topics that are posted on Blackboard. Choose one topic from this list. Complete a written assignment (13 pages or less, not including references). </p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit assignments to TurnItIn, through BlackBoard (https://learn.uq.edu.au/webapps/portal/frameset.jsp). Detailed instructions on how to access and use TurnItIn will be provided at the beginning of the semester. The assignment should be saved as a word or a pdf file. The file name should be  MRES7005_surname_assign2.doc .  The first page of your assignment must be the assignment coversheet filled with your details. The coversheet is available on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Online Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>All, internal and external students will complete the final exam online via Blackboard.</p>\n<p>Students will receive the exam date once Central Examinations has concluded the timetable. </p>\n<p><strong>Structure of the Exam</strong></p>\n<p>The online exam consists of two sections: A True &amp; False and an Essay-type questions section.</p>\n<p>These may include:</p>\n<ul>\n<li>Writing definitions to explain and interrelate the key concepts of fast imaging</li>\n<li>Describing the principles of operation of different fast imaging sequences</li>\n<li>Drawing diagrams to explain key concepts </li>\n<li>Making informed decisions on sequence choices for given circumstances.</li>\n</ul>\n<p>Marks are allocated as indicated on the final exam. In order to pass this course, students must receive at least 45% of the available marks on the final examination. </p>\n<p> </p>\n<p><strong>Exam technique</strong></p>\n<p><strong>Do’s </strong> </p>\n<ul>\n<li>Read the instructions and questions carefully.</li>\n<li>Understand and analyse the question.</li>\n<li>Plan your answer. Use the 10-minute perusal time to help you with planning and jot down your answer.</li>\n<li>Answer the question that has been set.</li>\n<li>Attempt to answer all parts of the question.</li>\n<li>Make your diagrams and calculations clear. We need evidence that you have recognised and can demonstrate the correct equation and constants with correct units to award marks.</li>\n<li>Use a piece of paper to record any problem-solving of numerical questions</li>\n<li>Manage your time. Clarify the weight of the questions. Which questions are worth more? Allocate more time to these. If a question is worth 2 marks, don’t spend 20 minutes on it. If you have time in the end, you can come back and review questions that you haven’t answered.</li>\n<li>Practice on sample papers that are available through the library.</li>\n</ul>\n<p><strong>Exam Technique</strong></p>\n<p><strong>Don’ts</strong></p>\n<ul>\n<li>Answer the question you hoped to see</li>\n<li>Write everything you know about the topic</li>\n</ul>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": []
+}
