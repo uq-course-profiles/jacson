@@ -1,0 +1,175 @@
+{
+    "course_title": "Energy Systems",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ENGY4000-21364-7520",
+    "full_course_code": "ENGY4000-21364-7520",
+    "course_code": "ENGY4000",
+    "class_code": "21364",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the fundamental principles associated with conventional and emerging energy systems and sustainable development"
+        },
+        {
+            "number": "LO2.",
+            "description": "Competently critique energy systems using thermodynamic analysis to predict energy requirements, outputs, efficiencies and explain environmental impacts"
+        },
+        {
+            "number": "LO3.",
+            "description": "Synthesize integrated solutions for a selected energy project by choosing and optimizing various energy technologies and evaluating their technical, environmental, social and economic aspects"
+        },
+        {
+            "number": "LO4.",
+            "description": "Effectively communicate to multiple audiences and stakeholders, sustainable engineering solutions to multifaceted energy problems"
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate the ability to successfully work as a multi-skilled engineering team by learning from and managing other team members to produce an integrated solution"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Wind Farm Infographic",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 24/03/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Poster",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be given raw wind data for several locations in Australia and will then do the preliminary (ie scoping study level) design of a wind farm to meet certain criteria. They will then construct a poster (i.e. single page A0 in digital form) explaining the underlying wind data, relevant features of the wind turbines chosen and a final recommendation for the wind farm. </p>\n<p>A full description will be published on Blackboard.</p>\n<p>Students will submit individually, but will work in their groups for the assessment.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through Blackboard. Students should submit both the Poster file and calculation / analysis files for markers to review.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Electricity Generation using Fossil Fuels",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 7/04/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The complete project description will be posted to Blackboard. </p>\n<p>This project will focus on electricity generation using fossil fuels. The project will be completed individually. Students will be required to compare and contrast a range of low emission fossil fuel power plants with the goal of reducing the emissions intensity of the electricity grid in the fictional Downunder Land. </p>\n<p>The format of the task will be a short report, with associated calculations submitted if desired.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Reports should be submitted through Blackboard. Students are welcome to submit their calculation and analysis files if desired.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Solar Problem Set",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 12/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will answer an extended set of tutorial problems. This will culminate in the preliminary (scoping study) design of a solar farm using solar data provided.</p>\n<p>A full description (ie questions and criteria) will be posted in Blackboard.</p>\n<p>Students submit this task individually, but are encouraged to work in their assigned groups to complete the task.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission through link on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Group Project - Net Zero Energy System",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40% Report (25%) / Video (15%) </dd>",
+            "due_date": "<dd><p>Report (25%) 9/06/2025 4:00 pm</p>\n<p>Video (15%) 10/06/2025 4:00 pm</p>\n<p>\n</p><p>The report is submitted as a group, but the video presentation must be completed independently.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The complete project description will be posted to Blackboard.</p>\n<p>This project will focus on renewable electricity and hydrogen production to meet climate targets related to emissions intensity and cost, in the fictional Downunder Land. Your team will be required to choose, design and cost the technology solution(s) to meet the project requirements. The choices will need to be justified based on technical details, project economics which may include a carbon price and / or additional environmental constraints. The group report will not use a Peer Assessment Factor, unless Mentors and teams provide adequate evidence of non-participation from group members.</p>\n<p>The video demonstration will be undertaken and submitted individually.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The report will be submitted through Blackboard (as a group report). </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mentor Meetings</strong><br/><p>Project teams meet with their mentor and/or one of the course coordinators at regular intervals to discuss progress. Most meetings will occur during the timetabled tutorials; but requests can be made to schedule them at other times (via Zoom or Teams for example).</p>\n<p>The general structure will be:</p>\n<ul>\n<li>Mentors will talk to the group as a whole asking about progress and challenges they have encountered.</li>\n<li>Mentors will direct questions to individuals, asking specific technical questions about their work as well as asking them about what their role(s) is within the group.</li>\n<li>We aim to meet each group ~4 times during semester, although this is not a requirement. The meetings will go for 15-20 mins.</li>\n<li>Mentors provide feedback to course coordinators on student demonstration of mastery (or progress to mastery) of course learning objectives through the group project task. Please note that students will not be penalised for not attending these mentor meetings; however, mentors can only provide feedback on progress towards mastery / contribution to group tasks when students are present and participate.</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Mentor Meetings</strong>",
+            "topic_description": "Mentor Meetings Project teams meet with their mentor and/or one of the course coordinators at regular intervals to discuss progress. Most meetings will occur during the timetabled tutorials; but requests can be made to schedule them at other times (via Zoom or Teams for example). The general structure will be: Mentors will talk to the group as a whole asking about progress and challenges they have encountered. Mentors will direct questions to individuals, asking specific technical questions about their work as well as asking them about what their role(s) is within the group. We aim to meet each group ~4 times during semester, although this is not a requirement. The meetings will go for 15-20 mins. Mentors provide feedback to course coordinators on student demonstration of mastery (or progress to mastery) of course learning objectives through the group project task. Please note that students will not be penalised for not attending these mentor meetings; however, mentors can only provide feedback on progress towards mastery / contribution to group tasks when students are present and participate.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Guest Lectures</strong><br/><p>Engineers, academics and other professionals working in the Energy and Engineering sectors will be invited to give seminars as guest lecturers. The aim of this activity is to show the students the current problems faced in Australia and internationally and the likely pathway that the industry is taking to solve these problems. Attendance is expected as the guest lecturers volunteer to present. </p>\n<p>Typical topics include:</p>\n<ul>\n<li>Project development lifecycles</li>\n<li>The growing hydrogen industry</li>\n<li>Energy markets </li>\n</ul></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Guest Lectures</strong>",
+            "topic_description": "Guest Lectures Engineers, academics and other professionals working in the Energy and Engineering sectors will be invited to give seminars as guest lecturers. The aim of this activity is to show the students the current problems faced in Australia and internationally and the likely pathway that the industry is taking to solve these problems. Attendance is expected as the guest lecturers volunteer to present. Typical topics include: Project development lifecycles The growing hydrogen industry Energy markets",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Core Lectures</strong><br/><p>Core lectures delivered by the teaching team focus on the electricity system and its transition to Net Zero emissions. This will include:</p>\n<ul>\n<li>Wind</li>\n<li>Solar</li>\n<li>Thermal </li>\n<li>Fossil</li>\n<li>Biomass</li>\n<li>Nuclear</li>\n<li>Hydro</li>\n<li>Energy Storage</li>\n<li>Transmission, Distribution and Grid Stability</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Core Lectures</strong>",
+            "topic_description": "Core Lectures Core lectures delivered by the teaching team focus on the electricity system and its transition to Net Zero emissions. This will include: Wind Solar Thermal Fossil Biomass Nuclear Hydro Energy Storage Transmission, Distribution and Grid Stability",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials</strong><br/><p>Tutorial time will be associated with project work and mentor meetings. However, we may cover some fundamentals and advanced aspects of project economics, project risk, and system design.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Tutorials</strong>",
+            "topic_description": "Tutorials Tutorial time will be associated with project work and mentor meetings. However, we may cover some fundamentals and advanced aspects of project economics, project risk, and system design.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        }
+    ]
+}
