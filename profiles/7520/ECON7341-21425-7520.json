@@ -1,0 +1,281 @@
+{
+    "course_title": "Productivity and Efficiency Analysis",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7341-21425-7520",
+    "full_course_code": "ECON7341-21425-7520",
+    "course_code": "ECON7341",
+    "class_code": "21425",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "explain the most common assumptions made about production technologies (e.g., inactivity, no free lunch)."
+        },
+        {
+            "number": "LO2.",
+            "description": "compute measures of output and input quantity change (and therefore productivity change) in ways that are consistent with measurement theory."
+        },
+        {
+            "number": "LO3.",
+            "description": "explain the situations under which different firm managers may choose to maximise output, minimise input, maximise revenue, minimise cost, maximise profit and/or maximise productivity."
+        },
+        {
+            "number": "LO4.",
+            "description": "define various measures of technical, mix, scale, allocative, revenue, cost and profit efficiency."
+        },
+        {
+            "number": "LO5.",
+            "description": "explain the main assumptions that underpin piecewise frontier analysis and use DEA and FDH methods to estimate a piecewise-linear frontier"
+        },
+        {
+            "number": "LO6.",
+            "description": "explain the main assumptions that underpin deterministic frontier analysis and use GA, LS and ML methods to estimate the parameters of a deterministic frontier model"
+        },
+        {
+            "number": "LO7.",
+            "description": "explain the main assumptions that underpin stochastic frontier analysis and use LS and ML methods to estimate the parameters of a stochastic frontier model"
+        },
+        {
+            "number": "LO8.",
+            "description": "use DEA, LS and ML methods to estimate levels of technical, cost, revenue and profit efficiency."
+        },
+        {
+            "number": "LO9.",
+            "description": "use DEA, LS and ML methods to decompose proper TFP indexes into measures of technical change, environmental change and various types of efficiency change."
+        },
+        {
+            "number": "LO10.",
+            "description": "identify the policies that governments might use to target the different drivers of productivity change."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "MCQs",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Quiz 1: 21/03/2025 4:00 pm</p>\n<p>Quiz 2: 4/04/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Quiz 1 will cover production technologies and measures of productivity change.  Quiz 2 will cover managerial behaviour and measures of efficiency.  These assessment tasks evaluate student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.  </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Each quiz is worth 10%.  Students will have 30 minutes to complete each quiz.  Each quiz will be released on Blackboard at 10am and must be completed by 4pm on the due date.  </p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of the Week 8 tutorial.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This examination will be held in the Week 8 tutorial.  It will evaluate student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Answer sheets/booklets will be collected at the end of the examination.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 1: PFA",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 2/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L05, L08, L09, L10",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task evaluates student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assignment must be submitted electronically via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Assignment 2: DFA and SFA",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 30/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L06, L07, L08, L09, L10",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task evaluates student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assignment must be submitted electronically via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Overview</strong><br/><p>Course structure; overview of topics; introduction to R and RStudio</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Overview</strong>",
+            "topic_description": "Overview Course structure; overview of topics; introduction to R and RStudio",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Production Technologies</strong><br/><p>Output sets; distance functions; other sets and functions</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Production Technologies</strong>",
+            "topic_description": "Production Technologies Output sets; distance functions; other sets and functions",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Classes</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Classes</strong>",
+            "topic_description": "No Classes",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Measures of Productivity Change </strong><br/><p>Quantity indexes, productivity indexes, other indexes</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Measures of Productivity Change </strong>",
+            "topic_description": "Measures of Productivity Change Quantity indexes, productivity indexes, other indexes",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Managerial Behaviour and Measures of Efficiency</strong><br/><p>Output maximisation; cost minimisation; other types of behaviour; output- and cost-oriented measures of efficiency; other measures</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Managerial Behaviour and Measures of Efficiency</strong>",
+            "topic_description": "Managerial Behaviour and Measures of Efficiency Output maximisation; cost minimisation; other types of behaviour; output- and cost-oriented measures of efficiency; other measures",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Piecewise Frontier Analysis A</strong><br/><p>Basic models; models with different assumptions</p></p><p><strong>Learning outcomes:</strong> L05, L08</p></div></td>",
+            "topic_title": "<strong>Piecewise Frontier Analysis A</strong>",
+            "topic_description": "Piecewise Frontier Analysis A Basic models; models with different assumptions",
+            "learning_outcomes": [
+                "L05",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Piecewise Frontier Analysis B</strong><br/><p>Inference; productivity analysis; other models</p></p><p><strong>Learning outcomes:</strong> L09</p></div></td>",
+            "topic_title": "<strong>Piecewise Frontier Analysis B</strong>",
+            "topic_description": "Piecewise Frontier Analysis B Inference; productivity analysis; other models",
+            "learning_outcomes": [
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review and In-semester Examination</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Review and In-semester Examination</strong>",
+            "topic_description": "Review and In-semester Examination",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deterministic Frontier Analysis A</strong><br/><p>Basic models; least squares estimation</p></p><p><strong>Learning outcomes:</strong> L06, L08</p></div></td>",
+            "topic_title": "<strong>Deterministic Frontier Analysis A</strong>",
+            "topic_description": "Deterministic Frontier Analysis A Basic models; least squares estimation",
+            "learning_outcomes": [
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deterministic Frontier Analysis B</strong><br/><p>Maximum likelihood estimation; productivity analysis</p></p><p><strong>Learning outcomes:</strong> L09</p></div></td>",
+            "topic_title": "<strong>Deterministic Frontier Analysis B</strong>",
+            "topic_description": "Deterministic Frontier Analysis B Maximum likelihood estimation; productivity analysis",
+            "learning_outcomes": [
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stochastic Frontier Analysis A</strong><br/><p>Basic models; least squares and maximum likelihood estimation</p></p><p><strong>Learning outcomes:</strong> L07, L08</p></div></td>",
+            "topic_title": "<strong>Stochastic Frontier Analysis A</strong>",
+            "topic_description": "Stochastic Frontier Analysis A Basic models; least squares and maximum likelihood estimation",
+            "learning_outcomes": [
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stochastic Frontier Analysis B</strong><br/><p>Productivity analysis</p></p><p><strong>Learning outcomes:</strong> L09</p></div></td>",
+            "topic_title": "<strong>Stochastic Frontier Analysis B</strong>",
+            "topic_description": "Stochastic Frontier Analysis B Productivity analysis",
+            "learning_outcomes": [
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Review</strong>",
+            "topic_description": "Review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        }
+    ]
+}
