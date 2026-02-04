@@ -1,0 +1,266 @@
+{
+    "course_title": "Advanced Financial Modelling",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM4414-64874-7460",
+    "full_course_code": "FINM4414-64874-7460",
+    "course_code": "FINM4414",
+    "class_code": "64874",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 16/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Value a range of options and other derivative securities."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain how derivative securities are traded in a range of markets."
+        },
+        {
+            "number": "LO3.",
+            "description": "Implement a range of techniques for modelling volatility."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply spreadsheet and programming tools in quantifying volatility and other metrics."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate core collaborative competencies needed to work effectively in a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester Exam During Class",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 28/08/2024 10:10 am</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>60-minute sit-down closed-book exam to take held inside the usual time and venue for this class.</p>\n<p>The exam will cover content delivered in weeks 1-4 inclusive and will be comprised of around 15 multiple choice questions, and 1-3 questions from each of the following formats: short answer, calculation, coding.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students to write their answers in the answer booklet provided and submit it at the end of the exam.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment - Part 1 (Individual)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 20/09/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L04",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will design and code an algorithm that can accomplish a series of defined objectives. Detailed information about the requirements of the assignment and the marking criteria will be made available to students on Blackboard.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronic submission through Blackboard assignment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment - Part 2 (Group)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 25/10/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be formed into pairs and will integrate, innovate and refine on each of your individual algorithms submitted for \"Assignment - Part 1 (Individual)\" in response to specific feedback provided for that item and a new series of defined objectives. Detailed information about the requirements of the assignment and the marking criteria will be made available to students on Blackboard.</p>\n<p><em>This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronic submission through Blackboard assignment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 1 - Market Making and Orderbooks</strong><br/><p>Resource: Chapter 1, Course Reader</p>\n<p><br/></p>\n<p>Lecture (3 hours): Learn the concept of making a market, the role of market makers, and the mechanics of order books.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Seminar 1 - Market Making and Orderbooks</strong>",
+            "topic_description": "Seminar 1 - Market Making and Orderbooks Resource: Chapter 1, Course Reader Lecture (3 hours): Learn the concept of making a market, the role of market makers, and the mechanics of order books.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 5",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consultation with Tutors</strong><br><p>Each week from week 2 - week 5 consultations will be held that serve as additional drop-in help sessions to review course materials. There will not be defined activities for these sessions, but they will be open for you to seek assistance with course content. Consultations will NOT be held from weeks 6 onwards, but tutors will be available to assist students attending the 3-hour open labs each week.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Consultation with Tutors</strong>",
+            "topic_description": "Consultation with Tutors Each week from week 2 - week 5 consultations will be held that serve as additional drop-in help sessions to review course materials. There will not be defined activities for these sessions, but they will be open for you to seek assistance with course content. Consultations will NOT be held from weeks 6 onwards, but tutors will be available to assist students attending the 3-hour open labs each week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 2 - Introduction to Python</strong><br/><p>Resource: Chapter 2, Course Reader</p>\n<p><br/></p>\n<p>Lecture (2 hours): Learn the course-relevant essentials of the Python programming language.</p>\n<p>Lab (1 hour): Practice programming in Python by attempting exercises.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Seminar 2 - Introduction to Python</strong>",
+            "topic_description": "Seminar 2 - Introduction to Python Resource: Chapter 2, Course Reader Lecture (2 hours): Learn the course-relevant essentials of the Python programming language. Lab (1 hour): Practice programming in Python by attempting exercises.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 3 - Time Series Analysis I</strong><br><p>Resource: Chapter 3, Course Reader</p>\n<p><br/></p>\n<p>Lecture (2 hours): Learn the concept of time series analysis, and about two particular models for time series data: autocorrelation and ARMA.</p>\n<p>Lab (1 hour): Practice working with autocorrelation and ARMA models.</p></br></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Seminar 3 - Time Series Analysis I</strong>",
+            "topic_description": "Seminar 3 - Time Series Analysis I Resource: Chapter 3, Course Reader Lecture (2 hours): Learn the concept of time series analysis, and about two particular models for time series data: autocorrelation and ARMA. Lab (1 hour): Practice working with autocorrelation and ARMA models.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 4 - Time Series Analysis II </strong><br><p>NOTE: This lecture falls on a public holiday. No class will be held and a pre-recorded video version of the lecture will be posted on Blackboard instead.</p>\n<p>Resource: Chapter 3, Course Reader</p>\n<p>Lecture (2 hours): Learn how to apply time series techniques to model stock prices.</p>\n<p>Lab (1 hour): Practice working with a trading strategy that utilises the concepts learned in this lesson: pair trading.</p></br></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Seminar 4 - Time Series Analysis II </strong>",
+            "topic_description": "Seminar 4 - Time Series Analysis II NOTE: This lecture falls on a public holiday. No class will be held and a pre-recorded video version of the lecture will be posted on Blackboard instead. Resource: Chapter 3, Course Reader Lecture (2 hours): Learn how to apply time series techniques to model stock prices. Lab (1 hour): Practice working with a trading strategy that utilises the concepts learned in this lesson: pair trading.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 5 - The Optibook Exchange</strong><br/><p>Resource: Optibook Manual</p>\n<p><br/></p>\n<p>Lecture (2 hours): Meet Optibook, a virtual sandbox trading platform designed by Optiver.</p>\n<p>Lab (1 hour): Get hands-on practice using Optibook.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Seminar 5 - The Optibook Exchange</strong>",
+            "topic_description": "Seminar 5 - The Optibook Exchange Resource: Optibook Manual Lecture (2 hours): Meet Optibook, a virtual sandbox trading platform designed by Optiver. Lab (1 hour): Get hands-on practice using Optibook.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 6 - Our First Algorithm </strong><br><p>Resource: Chapter 4, Course Reader</p>\n<p><br/></p>\n<p>MID-SEMESTER EXAM (1 hour): In the first hour of class this week students will sit the mid-semester exam in-person in the usual venue.</p>\n<p><br/></p>\n<p>Lecture (1 hour): Step through the development of a trading algorithm using the concepts and tools learned in previous sessions.</p>\n<p>Lab (1 hour): Practice implementing and experimenting with the trading algorithm covered in this seminar.</p></br></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Seminar 6 - Our First Algorithm </strong>",
+            "topic_description": "Seminar 6 - Our First Algorithm Resource: Chapter 4, Course Reader MID-SEMESTER EXAM (1 hour): In the first hour of class this week students will sit the mid-semester exam in-person in the usual venue. Lecture (1 hour): Step through the development of a trading algorithm using the concepts and tools learned in previous sessions. Lab (1 hour): Practice implementing and experimenting with the trading algorithm covered in this seminar.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 7 - Finishing the Algo, Market Making</strong><br><p>Resource: Chapter 4, Course Reader</p>\n<p><br/></p>\n<p>Open Lab (3 hours): Interactively refine the algorithm from the last seminar by learning to implement <em>stellage</em>, a strategy for scaling the size of your trades depending on the size of the spread being captured.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Seminar 7 - Finishing the Algo, Market Making</strong>",
+            "topic_description": "Seminar 7 - Finishing the Algo, Market Making Resource: Chapter 4, Course Reader Open Lab (3 hours): Interactively refine the algorithm from the last seminar by learning to implement stellage , a strategy for scaling the size of your trades depending on the size of the spread being captured.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 8 - Basket Trading</strong><br><p>Resource: Chapter 5, Course Reader</p>\n<p><br/></p>\n<p>Open Lab (3 hours): Implement and explore the strategy of <em>basket trading </em>used by market makers.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Seminar 8 - Basket Trading</strong>",
+            "topic_description": "Seminar 8 - Basket Trading Resource: Chapter 5, Course Reader Open Lab (3 hours): Implement and explore the strategy of basket trading used by market makers.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 9 - Assignment Help</strong><br><p>Resource: N/A</p>\n<p><br/></p>\n<p>Open Lab (3 hours): Get help working through your assignment.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Seminar 9 - Assignment Help</strong>",
+            "topic_description": "Seminar 9 - Assignment Help Resource: N/A Open Lab (3 hours): Get help working through your assignment.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br><p>No classes this week.</p></br></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No classes this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 10 - Options Pricing and Volatility</strong><br><p>Resource: Chapter 6, Course Reader</p>\n<p><br/></p>\n<p>Lecture (2 hours): Learn about how to price options and how to estimate volatility using the market price of options.</p>\n<p>Lab (1 hour): Practice modelling volatility using the concepts from this seminar.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Seminar 10 - Options Pricing and Volatility</strong>",
+            "topic_description": "Seminar 10 - Options Pricing and Volatility Resource: Chapter 6, Course Reader Lecture (2 hours): Learn about how to price options and how to estimate volatility using the market price of options. Lab (1 hour): Practice modelling volatility using the concepts from this seminar.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 11 - Options Trading I</strong><br><p>Resource: Chapter 7, Course Reader</p>\n<p><br/></p>\n<p>Open Lab (3 hours): Interactively work through implementing an options trading strategy.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Seminar 11 - Options Trading I</strong>",
+            "topic_description": "Seminar 11 - Options Trading I Resource: Chapter 7, Course Reader Open Lab (3 hours): Interactively work through implementing an options trading strategy.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 12 - Options Trading II</strong><br><p>Resource: Chapter 7, Course Reader</p>\n<p><br/></p>\n<p>Open Lab (3 hours): Continue working through and improving a strategy for trading options.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Seminar 12 - Options Trading II</strong>",
+            "topic_description": "Seminar 12 - Options Trading II Resource: Chapter 7, Course Reader Open Lab (3 hours): Continue working through and improving a strategy for trading options.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar 13 - Summary</strong><br><p>Resource: N/A</p>\n<p><br/></p>\n<p>Open Lab (3 hours): Revise content from throughout the course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Seminar 13 - Summary</strong>",
+            "topic_description": "Seminar 13 - Summary Resource: N/A Open Lab (3 hours): Revise content from throughout the course.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
