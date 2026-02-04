@@ -1,0 +1,228 @@
+{
+    "course_title": "Computational Mechanics",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH3780-20381-7520",
+    "full_course_code": "MECH3780-20381-7520",
+    "course_code": "MECH3780",
+    "class_code": "20381",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Discuss the role that computational analysis plays in product lifecycle management."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply engineering principles to reduce complex mechanical systems and fluid flows (including the loads and constraints to which they are subjected) to a form that can be analysed using finite element analysis (FEA) or computational fluid dynamics (CFD), respectively."
+        },
+        {
+            "number": "LO3.",
+            "description": "Derive the system of linear equations that models a truss (and analogous problems in mechanical engineering) using direct and variational approaches."
+        },
+        {
+            "number": "LO4.",
+            "description": "Select the most appropriate element formulation (truss, beam, membrane, shell, solid) to apply to FEA of mechanical systems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Model nonlinear behaviour (contact, plasticity, large deformation) in FEA of mechanical systems using commercial software."
+        },
+        {
+            "number": "LO6.",
+            "description": "Derive the systems of linear equations that model components (convection, diffusion, convection-diffusion) of the Navier-Stokes equations for incompressible fluid flows using finite difference and finite volume methods."
+        },
+        {
+            "number": "LO7.",
+            "description": "Model turbulence and heat transfer in fluid flows using commercial CFD software and closure parameters calculated from fluid mechanical theory."
+        },
+        {
+            "number": "LO8.",
+            "description": "Apply systematic mesh/grid refinement techniques to appropriately discretise (in the context of standard quality metrics) solid/fluid geometries for FEA/CFD using commercial software."
+        },
+        {
+            "number": "LO9.",
+            "description": "Demonstrate the computational analysis workflow (model definition, dimensional analysis, mesh/grid generation, application of boundary and initial conditions, selection of solution strategy, interrogation of results) in FEA and CFD of mechanical and fluid systems, respectively."
+        },
+        {
+            "number": "LO10.",
+            "description": "Verify and validate the predictions of FEA and CFD using analytical solutions and experimental data."
+        },
+        {
+            "number": "LO11.",
+            "description": "Communicate the outcomes of FEA and CFD using appropriate visual aids (e.g. plots, graphs) in formal technical reporting."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "FEA Project Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 14/04/2025 8:00 am</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05, L08, L11",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Structural analysis of a component or assembly using Siemens NX. This assignment will help demonstrate your ability to (i) develop a practical computational model of an engineering problem of interest, (ii) make sound engineering decisions that facilitate robust, efficient, and accurate analysis, and (iii) interrogate, visualise and document analysis results in a technical letter.</p>\n<p>Turnitin (and other platforms) will be used to detect plagiarism and collusion in your reports and analysis file(s).</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit technical letter (in .pdf format) and analysis file(s) via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>29/03/2025 - 12/04/2025</p>\n<p>\n</p><p>Please refer to your personal exam timetable on my.UQ.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Written exam covering the finite element analysis (FEA) half of the course. You will be marked on the correctness and completeness of your answers. Questions will show the number of marks allocated. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "CFD Project Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 30/05/2025 6:00 pm</p></dd>",
+            "learning_objectives": "L02, L07, L08, L09, L10, L11",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Computational analysis of a fluid flow problem using Siemens StarCCM+. This assignment will help demonstrate your ability to (i) develop a practical computational model of an engineering problem of interest, (ii) make sound engineering decisions that facilitate robust, efficient, and accurate analysis, and (iii) interrogate, visualise and document analysis results in a formal report.</p>\n<p>Turnitin (and other platforms) will be used to detect plagiarism and collusion in your reports and analysis file(s).</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Refer to submission instructions released during the semester on Blackboard, which include what to do in the event of technical issues.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p>\n<p>\n</p><p>Please refer to your personal exam timetable. </p></dd>",
+            "learning_objectives": "L01, L02, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Invigilated exam covering the computational fluid dynamics (CFD) half of the course. You will be marked on the correctness and completeness of your answers. Questions will show the number of marks allocated. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture Series</strong><br><p>Lectures on the basic underlying theory of FEA and CFD. Weeks 1-6 will focus on FEA and Weeks 7-13 will focus on CFD.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11</p></div></td>",
+            "topic_title": "<strong>Lecture Series</strong>",
+            "topic_description": "Lecture Series Lectures on the basic underlying theory of FEA and CFD. Weeks 1-6 will focus on FEA and Weeks 7-13 will focus on CFD.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact Sessions</strong><br/><p>Demonstration of the numerical implementation and practical application of FEA and CFD. Some lecture-type material will be presented in some sessions. Weeks 1-6 will focus on FEA and Weeks 7-13 will focus on CFD.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Contact Sessions</strong>",
+            "topic_description": "Contact Sessions Demonstration of the numerical implementation and practical application of FEA and CFD. Some lecture-type material will be presented in some sessions. Weeks 1-6 will focus on FEA and Weeks 7-13 will focus on CFD.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Computer-Based Tutorials</strong><br/><p>FEA and CFD tutorial problems with assistance from the teaching team.</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05, L07, L08, L09, L10, L11</p></div></td>",
+            "topic_title": "<strong>Computer-Based Tutorials</strong>",
+            "topic_description": "Computer-Based Tutorials FEA and CFD tutorial problems with assistance from the teaching team.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11"
+            ]
+        }
+    ]
+}
