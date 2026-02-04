@@ -1,0 +1,82 @@
+{
+    "course_title": "Data Science Capstone Project 2",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/DATA7902-63494-7460",
+    "full_course_code": "DATA7902-63494-7460",
+    "course_code": "DATA7902",
+    "class_code": "63494",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Synthesise information from a variety of sources to develop informed solutions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Implement a data science approach to solving a problem within a given application context."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply, optimise and evaluate appropriate data science techniques to a practical problem, taking into account ethical and legal aspects."
+        },
+        {
+            "number": "LO4.",
+            "description": "Present project outcomes in a coherent manner with compelling arguments and appropriate use of visual aids and digital technology."
+        },
+        {
+            "number": "LO5.",
+            "description": "Write a technical project report that clearly describes the problem, motivation, methodology and findings, with justifications where necessary."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Presentation",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 14/10/2024 - 18/10/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each student must verbally and visually present the results of their work at a time negotiated with their supervisor and examiner. The duration of the presentation will be 20 minutes followed by questions. The presentation may include a demonstration of software produced during the project. An electronic copy of the slides used in the presentation is to be submitted to the supervisor and examiner at the time of the presentation.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final report",
+            "special_indicators": [],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p> 6/11/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final report reports on the results from the student's project. It should be written as to facilitate assessment by persons other than the supervisor, and should comprehensively include material on the problems and goals of the project, applicable methods, the approach taken, major decisions and the reasons for the selection of goals and methods, results, the extent to which the goals have been achieved, the relevance, importance and context of achievements and the reasons for any shortcomings.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit your final report through the Turnitin link provided on Blackboard. Any supplementary files may be uploaded as a single zip file on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Science Project Build</strong><br/><p>This runs through the entire semester. It is important to remember that you largely drive your project. You are responsible for managing the timely completion of your project, generating ideas, working through difficulties, searching for appropriate resources, and completing your project deliverables on time. Your supervisor's role should be as an advisor and mentor.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Data Science Project Build</strong>",
+            "topic_description": "Data Science Project Build This runs through the entire semester. It is important to remember that you largely drive your project. You are responsible for managing the timely completion of your project, generating ideas, working through difficulties, searching for appropriate resources, and completing your project deliverables on time. Your supervisor's role should be as an advisor and mentor.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
