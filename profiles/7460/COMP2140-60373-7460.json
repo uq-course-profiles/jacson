@@ -1,0 +1,210 @@
+{
+    "course_title": "Web/Mobile Programming",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP2140-60373-7460",
+    "full_course_code": "COMP2140-60373-7460",
+    "course_code": "COMP2140",
+    "class_code": "60373",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply an intermediate knowledge of functional programming with vanilla JavaScript."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse a specification and develop interactive web apps with a cross-platform JavaScript framework, testing across web browsers and device sizes."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse a specification and develop interactive native apps with a cross-platform JavaScript framework, testing with device simulators (iOS and Android)."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop Javascript code to communicate with web and device APIs that are shared across web/native apps."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply user interface (UI) principles and critically evaluate user data privacy considerations for web/native apps."
+        },
+        {
+            "number": "LO6.",
+            "description": "Evaluate the design, implementation and architecture for delivering complex, cross-platform web/native apps."
+        },
+        {
+            "number": "LO7.",
+            "description": "Develop customised testing regimes for evaluating design, code and security of cross-platform web/native apps."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly Activities",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 2/08/2024 - 11/10/2024</p>\n<p>\n</p><p>Weekly activities are due on Friday at 3:00pm.</p></dd>",
+            "learning_objectives": "L05, L06, L07",
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution, Quiz, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the <em>Weekly Activities</em> assessment, students will regularly participate in a series of activities via the course's Blackboard site. These activities will enable students to track their learning through regular quizzes and activities using a combination of learning platforms including Blackboard quizzes, RiPPLE (i.e. creation, moderation and practice cycles) and GradeScope.</p>\n<p>Between Week 2 &amp; 12, students will regularly complete a weekly activity to test their knowledge of recently practiced functional programming in JavaScript, React Web &amp; React Native. Student completion of each weekly activity will be graded in order to provide a means of tracking learning.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission details will be available via the assessment brief on Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due. </p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "JavaScript Functional Programming",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 30/08/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L04, L06, L07",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the <em>JavaScript Functional Programming</em> assessment, students will build a terminal-based, Node.js app that demonstrates their knowledge &amp; application of functional programming in JavaScript. This assessment is designed to extend student’s skills in JavaScript &amp; programming fundamentals, through the prerequisite courses, DECO1400 (JavaScript) &amp; CSSE1001 (Python). Work towards this assessment will assist in making architectural decisions for the <em>Cross-Platform Project</em>.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission details will be available via the assessment brief on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "React Web App",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 4/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05, L06, L07",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the <em>React Web App</em> assessment (the 1st part of the <em>Cross-Platform Project</em>), students will build an interactive web app with a cross-platform JavaScript framework (React), testing across web browsers &amp; device sizes. The web app will communicate with web &amp; device APIs that are shared across the <em>Cross-Platform Project</em>. Throughout, students will evaluate the design, implementation &amp; architecture for delivering a complex web app. Work towards this assessment will then inform the 2nd part of the <em>Cross-Platform Project</em> — the <em>React Native App</em> assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission details will be available via the assessment brief on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "React Native App",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 4/11/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05, L06, L07",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the <em>React Native App</em> assessment (the 2nd part of the <em>Cross-Platform Project</em>), students will build an interactive native app with a cross-platform JavaScript framework (React Native), testing with device simulators (iOS &amp; Android). The native app will communicate with web &amp; device APIs that are shared across the <em>Cross-Platform Project</em>. Throughout, students will evaluate the design, implementation &amp; architecture for delivering a complex native app. Previous work towards the <em>React Web App</em> assessment will inform this part of the <em>Cross-Platform Project</em>.</p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission details will be available via the assessment brief on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Code Reviews",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>The React Web App Review will occur in Week 9. 16/09/2024 - 20/09/2024</p>\n<p>The React Native App Review will occur in Week 13. 21/10/2024 - 25/10/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Computer Code, Practical/ Demonstration, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to complete a Code Review for the React Web App and the React Native App assessment items in their scheduled Contact session. </p>\n<p><em>Code Review of Web App: </em>During the Week 9 Contact, students will deliver a demo of a half complete version of their <em>React Web App</em> assessment. Students will consult with teaching staff &amp; peers to inform improvements to their work prior to final submission in Week 10. </p>\n<p><em>Code Review of React Native App: </em>During the Week 13 Contact, students will deliver a demo of a half complete version of their <em>React Native App</em> assessment. Students will consult with teaching staff &amp; peers to inform improvements to their work prior to final submission in Exam Week 1. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The Code Reviews will occur in your scheduled Contact.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contacts from Week 1 to 13</strong><br><p>3.5 hour Contacts delivered in-person. Contacts enable students to practice functional programming in JavaScript, React Web &amp; React Native. Additionally, students will have multiple opportunities to give &amp; receive feedback on their work to date, with a couple of Contacts earmarked for reviews of their assessments.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Contacts from Week 1 to 13</strong>",
+            "topic_description": "Contacts from Week 1 to 13 3.5 hour Contacts delivered in-person. Contacts enable students to practice functional programming in JavaScript, React Web & React Native. Additionally, students will have multiple opportunities to give & receive feedback on their work to date, with a couple of Contacts earmarked for reviews of their assessments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(22 Jul - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures from Week 1 to 12</strong><br><p>1.5 hour Lectures delivered in-person, with recordings available for viewing anytime. Lectures will introduce functional programming in JavaScript, React Web &amp; React Native in preparation for building upon these skills during later Contacts. Additionally, Lectures will discuss topics pertinent to the assessments, such as assessment introductions, cross device/browser design, privacy &amp; ethics.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lectures from Week 1 to 12</strong>",
+            "topic_description": "Lectures from Week 1 to 12 1.5 hour Lectures delivered in-person, with recordings available for viewing anytime. Lectures will introduce functional programming in JavaScript, React Web & React Native in preparation for building upon these skills during later Contacts. Additionally, Lectures will discuss topics pertinent to the assessments, such as assessment introductions, cross device/browser design, privacy & ethics.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
