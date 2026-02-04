@@ -1,0 +1,196 @@
+{
+    "course_title": "Introduction to Web Design",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/DECO7140-62177-7460",
+    "full_course_code": "DECO7140-62177-7460",
+    "course_code": "DECO7140",
+    "class_code": "62177",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse user data, metrics, and feedback to identify design considerations and make design decisions to support user needs, values and outcomes in and iteratively enhance the user experience of a website. (UX, UI)"
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrate an understanding of user interface design theories, principles (including visual and interaction design principles, usability and accessibility), and best practice. (UI)"
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate an understanding of the fundamental concepts and technologies that underpin the functioning of the web including key principles related to client-server architecture, web browsers, file transfer protocol (FTP) and other essential components for web development and deployment practices. (FED)"
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply knowledge and skills to identify and address accessibility, usability, social, cultural, colonial, ethical and cybersecurity issues in web design. (UX, UI)"
+        },
+        {
+            "number": "LO5.",
+            "description": "Construct well-structured, interactive, dynamic and responsive websites using HTML, CSS, and JavaScript evaluating and selecting appropriate approaches for web design challenges including technical implementation as well as accessibility, usability, social, cultural, ethical and cybersecurity issues. (UI, UX, FED)"
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate proficiency in utilizing industry-standard web development tools, including GitHub for version control, VS Code for code editing, Figma or Adobe XD for design mock-ups, and FTP for web deployment. (UI, FED)"
+        },
+        {
+            "number": "LO7.",
+            "description": "Apply effective collaboration and communication skills in an online platform to actively engage with peers, exchange ideas, and contribute to a collective learning and support environment. (Collaboration, Communication)"
+        },
+        {
+            "number": "LO8.",
+            "description": "Demonstrate effective communication of UX, UI and FED concepts, design rationales and outcomes visually, orally and in written forms. (Communication)"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Ethical Reasoning in Web Design",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> 1 </dd>",
+            "due_date": "<dd><p> 19/08/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L07, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Aim: </strong>The aim of this assessment is to enable students to critically apply ethical frameworks to real-world web design scenarios, fostering a deeper understanding of the ethical considerations and responsibilities involved in the field of web design. This task encourages the development of critical thinking skills, ethical reasoning, and the ability to propose solutions that prioritize ethical integrity in web development projects.</p>\n<p><strong>Description: </strong>In this assessment, you will select an ethical framework from a pre-defined list and apply it to analyse a provided case study involving web design challenges. You will identify key ethical issues, consider the impact on various stakeholders, and propose ethical solutions based on your chosen framework. This exercise aims to enhance your ability to navigate ethical dilemmas in web design and develop responsible design practices. The deliverable is a comprehensive written report, demonstrating your analysis and reflections.</p>\n<p><strong>Brief</strong>: A more detailed brief for this assessment item will be provided in Blackboard in Assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be through a <strong>Turnitin</strong> link available in Blackboard Ultra in the Assessment information. <strong>More information</strong> about how to submit will be available in the <strong>brief for this assessment item</strong> (via the course Blackboard site).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Accessibility Audit",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> 1 </dd>",
+            "due_date": "<dd><p> 2/09/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Aim:</strong> The aim of this assessment is to develop students' understanding of web accessibility standards by evaluating existing websites against the W3C Web Content Accessibility Guidelines (WCAG) 2.2. This task will enhance students' practical skills in identifying accessibility issues and recommending improvements, promoting inclusive web design practices.</p>\n<p><strong>Description: </strong>In this assessment, students will evaluate a chosen website against the W3C Web Content Accessibility Guidelines (WCAG) 2.2, focusing on Principles 1, 2, and 3. Each student will select at least eight success criteria from the WCAG 2.2 to assess the website's compliance with accessibility principles. The evaluation involves identifying accessibility issues, providing clear explanations, and offering actionable recommendations, including suggested code where relevant. The deliverable is a comprehensive report detailing the evaluation findings and improvement recommendations. This exercise aims to enhance students' practical experience in assessing and improving web accessibility.</p>\n<p><strong>Brief</strong>: A more detailed brief for this assessment item will be provided in Blackboard in Assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be through a <strong>Turnitin</strong> link available in Blackboard Ultra in the Assessment information. <strong>More information</strong> about how to submit will be available in the <strong>brief for this assessment item</strong> (via the course Blackboard site).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Website - Design Proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> 2 </dd>",
+            "due_date": "<dd><p> 16/09/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Aim</strong>: The aim of this assessment is to develop students' skills in creating comprehensive design proposals for client website projects. Students will learn to interpret client briefs, understand user needs, and apply design principles to create proposals that meet client objectives and user expectations.</p>\n<p><strong>Description</strong>: In this assessment, students will create a design report for a client's website project based on a provided client brief and user stories. The report will include a site map, and mock-ups of three website pages created using design software such as Figma or Adobe XD. Students will provide detailed explanations and rationales for their design decisions, demonstrating how their proposals align with the client's requirements and user needs. The deliverable is a comprehensive design report that showcases the proposed website design and the reasoning behind key design elements.</p>\n<p><strong>Brief</strong>: A more detailed brief for this assessment item will be provided in Blackboard in Assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be through a <strong>Turnitin</strong> link available in Blackboard Ultra in the Assessment information. <strong>More information</strong> about how to submit will be available in the <strong>brief for this assessment item</strong> (via the course Blackboard site).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Website - Implementation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> 6 </dd>",
+            "due_date": "<dd><p>Code Review 1 30/09/2024 2:00 pm</p>\n<p>Code Review 2 21/10/2024 2:00 pm</p>\n<p>Website Code 4/11/2024 2:00 pm</p>\n<p>Design Rationale 4/11/2024 2:00 pm</p>\n<p>\n</p><p><strong>Code Review 1 and 2</strong></p>\n<p>Code Reviews will take place during your allocated Studio.  </p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06, L08",
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Aim</strong>: The aim of this assessment sequence is to enable students to practically apply their web design skills by implementing a fully functional website based on their design proposal. This sequence assesses students' technical proficiency in HTML, CSS, and JavaScript, their ability to adhere to accessibility standards, and their capability to creatively solve design challenges. Additionally, it evaluates students' ability to document and present their implementation process effectively.</p>\n<p><strong>Description</strong>: In this final assessment, students will implement a website based on their design proposal, using HTML, CSS, and JavaScript. The website must comply with accessibility standards, be interactive and dynamic, and align with the design proposal. The assessment includes multiple components: code reviews in weeks 10 and 13, a deployed website, a maintained GitHub repository, code submission to Blackboard, and a design rationale document. This sequence aims to assess students' technical and creative skills in web development, their ability to document their process, and their proficiency in presenting their work.</p>\n<p><strong>Brief</strong>: A more detailed brief for this assessment item will be provided in Blackboard in Assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>Code Review 1 and 2</strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Studios | Weeks 1 to 13</strong><br/><p>Each week studios create a collaborative environment that will develop and demonstrate an understanding of User Experience Design principles and methods, and User Interface Design principles, methods, and tools that are essential for effective web design. Many of the studio sessions will focus on supporting your completion of the assessment items. Refer to the course Blackboard site for details of studio topics and activities.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Studios | Weeks 1 to 13</strong>",
+            "topic_description": "Studios | Weeks 1 to 13 Each week studios create a collaborative environment that will develop and demonstrate an understanding of User Experience Design principles and methods, and User Interface Design principles, methods, and tools that are essential for effective web design. Many of the studio sessions will focus on supporting your completion of the assessment items. Refer to the course Blackboard site for details of studio topics and activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures | Weeks 1 to 13</strong><br/><p>During lectures, key concepts in User Experience Design, User Interface Design, and Frontend Development are introduced. Examples of are also given by way of explanation. The lectures sign post the way for students to learn in the tutorials, practicals and their own study. Refer to the course Blackboard site for details of lecture topics.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lectures | Weeks 1 to 13</strong>",
+            "topic_description": "Lectures | Weeks 1 to 13 During lectures, key concepts in User Experience Design, User Interface Design, and Frontend Development are introduced. Examples of are also given by way of explanation. The lectures sign post the way for students to learn in the tutorials, practicals and their own study. Refer to the course Blackboard site for details of lecture topics.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
