@@ -1,0 +1,137 @@
+{
+    "course_title": "Fire Dynamics",
+    "study_period": "Sem 2 2024",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FIRE7620-60026-7460",
+    "full_course_code": "FIRE7620-60026-7460",
+    "course_code": "FIRE7620",
+    "class_code": "60026",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 16/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Examine the fundamental physical, chemical, and thermal mechanisms behind ignition, fire growth, and extinction."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the fundamental mathematical models for flammability, fire spread, and extinction to solve practical problems in fire dynamics."
+        },
+        {
+            "number": "LO3.",
+            "description": "Build numerical models for the simulation of fire and its consequences and assess their limitations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain the background and limitations of empirical models and the underlying experimental data."
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse a complex fire dynamics problem using the empirical, mathematical, and numerical tools from the course while working as part of a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Sets",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Assignment 1 23/08/2024 4:00 pm</p>\n<p>Assignment 2 27/09/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L05",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignment #1 is a problem set on the material taught in the first weeks of the course (20%)</p>\n<p>Assignment #2 is a problem set on the material taught in the intermediate weeks of the course (20%)</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments will be submitted electronically via Turnitin.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment #3 (group)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 4/11/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L05",
+            "mode": "Written",
+            "category": "Project, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignment #3 consists of a problem set covering the material from the later weeks of the course.</p>\n<p>The assignment will be taken in groups of two students, and contains a significant amount of numerical simulation work and a final written report.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments will be submitted electronically via Turnitin.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Online Peer Assessment",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignment #3 will be moderated by a peer assessment factor (PAF) to determine an individual team member's mark.</p>\n<p>You will be asked to assess your peers again and this mark will be used to scale each individual's team marks for that specific deliverable.</p>\n<p>PAFs are capped at 1.2 which means that you can potentially receive an additional 10% of the team marks but that no student will be overly rewarded for effort in place of marks for the other FIRE7620 learning objectives. PAFs of 1.2 or less will be directly applied to the team component of the report marks (e.g. if you receive a PAF of 0.8, you will get 80% of the team mark component).</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment must be submitted through the course BlackBoard site.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Interview",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 4/11/2024 - 15/11/2024</p>\n<p>\n</p><p>To be scheduled during the exam period.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This interview is an identity-verified assessment that will be conducted virtually and will be used to assess student understanding and retention of the course material. It will also assess the capacity of the student to understand and apply the acquired knowledge to a change in design brief or underlying design parameters. The interview duration is 15 to 20 minutes and will be conducted individually for each student by one of the course academic staff members.</p>\n<p>The interview will cover all of the course content and will be recorded. </p>\n<p>Students are allowed to have prepared notes, but are not allowed to use online search or any form of AI. The students will need to have a working camera and microphone, and must adhere to the setup guidelines instructed by the course academic on Learn prior to the interview. These may include, for example, having hands and upper body in the camera frame, sharing their computer screen, and disclosing the type and content of the notes that are being used during the interview.</p>\n<p>Note that this interview is a \"hurdle\". Failure in this assessment results in failure of the entire course regardless of prior performance.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial sessions to support assignment</strong><br/></p></div></td>",
+            "topic_title": "<strong>Tutorial sessions to support assignment</strong>",
+            "topic_description": "Tutorial sessions to support assignment",
+            "learning_outcomes": []
+        }
+    ]
+}
