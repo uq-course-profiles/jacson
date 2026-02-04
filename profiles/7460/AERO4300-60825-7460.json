@@ -1,0 +1,284 @@
+{
+    "course_title": "Aerospace Composites",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/AERO4300-60825-7460",
+    "full_course_code": "AERO4300-60825-7460",
+    "course_code": "AERO4300",
+    "class_code": "60825",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Choose composite material systems - Identify the most common matrix/resins used in aerospace applications"
+        },
+        {
+            "number": "LO2.",
+            "description": "Choose composite material systems - Describe the most common fibre types and forms used in aerospace applications and know their properties"
+        },
+        {
+            "number": "LO3.",
+            "description": "Choose composite material systems - Explain advantages/disadvantages of the different constituent options"
+        },
+        {
+            "number": "LO4.",
+            "description": "Choose composite material systems - Derive constituent material requirements for a given application"
+        },
+        {
+            "number": "LO5.",
+            "description": "Select manufacturing methods - Identify the most commonly used composite manufacturing processes"
+        },
+        {
+            "number": "LO6.",
+            "description": "Select manufacturing methods - Explain the different processing requirements of thermosetting, thermoplastic and ceramic matrix composites"
+        },
+        {
+            "number": "LO7.",
+            "description": "Select manufacturing methods - Explain how thermomechanical, chemical and physical properties of the constituent materials affect manufacturing processes"
+        },
+        {
+            "number": "LO8.",
+            "description": "Select manufacturing methods - Assess the suitability of a given manufacturing method based on their respective advantages/disadvantages"
+        },
+        {
+            "number": "LO9.",
+            "description": "Select manufacturing methods - Generate a manufacturing concept for a given composite component"
+        },
+        {
+            "number": "LO10.",
+            "description": "Solve composite design problems - Apply commonly used micromechanical concepts for the prediction of fibre-reinforced composites and sandwich structures"
+        },
+        {
+            "number": "LO11.",
+            "description": "Solve composite design problems - Apply composite failure models to determine design limits for fibre-reinforced composites and sandwich structures"
+        },
+        {
+            "number": "LO12.",
+            "description": "Solve composite design problems - Perform composite laminate analysis using classical laminate theory"
+        },
+        {
+            "number": "LO13.",
+            "description": "Solve composite design problems - Evaluate the dynamic behaviour of composite materials by considering their viscoelastic behaviour"
+        },
+        {
+            "number": "LO14.",
+            "description": "Explain the fundamental principles of commonly used non-destructive testing methods"
+        },
+        {
+            "number": "LO15.",
+            "description": "Use ultrasonic non-destructive testing to locate flaws and determine material properties"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project Part A",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 29/08/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09",
+            "mode": "Written",
+            "category": "Poster",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is the first part of the individual semester long project. In the project, you will employ the course learnings to independently develop a complete materials, manufacturing and design concept for an aerospace component. The first milestone ‘poster’ is due in Week 6, with the final project findings being delivered in form of a video presentation in Week 12.</p>\n<p>A detailed introduction to the project will be provided during the tutorial in Week 2. This will include the marking criteria for the poster.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment Composite Mechanics",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 10/10/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L10, L11, L12, L13, L14",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Solve problems related to composite material constituents and elastic behaviour of composite materials</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Part B",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 17/10/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15",
+            "mode": "Activity/ Performance",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is the second part of the individual semester long project. In the project, you will employ the course learnings to independently develop a complete materials, manufacturing and design concept for an aerospace component.</p>\n<p>In the final submission, you will present your project in the form of a video. A detailed introduction to the project, the deliverables and the marking criteria will be discussed in tutorial of Week 2. </p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The video presentation is submitted via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Independently solve problems related to the course content.</p>\n<ul>\n<li>Closed-book examination, with one sheet (A4, double sided) of handwritten or typed notes permitted.</li>\n<li>Calculators: Casio FX82 series or UQ approved (and labelled) calculator only.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Independent Study</strong><br><p>Reinforce course content by studying lecture and reference material</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15</p></div></td>",
+            "topic_title": "<strong>Independent Study</strong>",
+            "topic_description": "Independent Study Reinforce course content by studying lecture and reference material",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Studio - Lecture</strong><br><p>Learn new concepts about the application of composite materials in aeronautical and aerospace applications, their manufacturing and methods to analyse the mechanical behaviour of the materials.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13</p></div></td>",
+            "topic_title": "<strong>Studio - Lecture</strong>",
+            "topic_description": "Studio - Lecture Learn new concepts about the application of composite materials in aeronautical and aerospace applications, their manufacturing and methods to analyse the mechanical behaviour of the materials.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Studio - Tutorial</strong><br/><p>Apply and extend lecture concepts and methods; study and discuss sample problems and worked solutions</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13</p></div></td>",
+            "topic_title": "<strong>Studio - Tutorial</strong>",
+            "topic_description": "Studio - Tutorial Apply and extend lecture concepts and methods; study and discuss sample problems and worked solutions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12(29 Jul - 20 Oct)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignments/Project</strong><br><p>Independently solve problems; study feedback and worked solutions</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15</p></div></td>",
+            "topic_title": "<strong>Assignments/Project</strong>",
+            "topic_description": "Assignments/Project Independently solve problems; study feedback and worked solutions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 12(05 Aug - 20 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>Learn about basic principles of manufacturing fibre-reinforced composites; Study different types of aerospace materials; apply ultrasonic non-destructive testing to determine material properties and find defects.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06, L07, L08, L09, L14, L15</p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals Learn about basic principles of manufacturing fibre-reinforced composites; Study different types of aerospace materials; apply ultrasonic non-destructive testing to determine material properties and find defects.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L14",
+                "L15"
+            ]
+        }
+    ]
+}
