@@ -1,0 +1,106 @@
+{
+    "course_title": "Quantum Field Theory",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS4040-64343-7460",
+    "full_course_code": "PHYS4040-64343-7460",
+    "course_code": "PHYS4040",
+    "class_code": "64343",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use the second-quantised formalism of quantum mechanics to describe systems of identical particles, including both bosons and fermions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Use symmetry considerations to derive conserved quantities."
+        },
+        {
+            "number": "LO3.",
+            "description": "Quantise a field theory and determine the properties of the resulting particles, including their charge, spin, and statistics."
+        },
+        {
+            "number": "LO4.",
+            "description": "Use the techniques of relativistic quantum mechanics to calculate amplitudes in scalar field theory and in quantum electrodynamics."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe the structure of the Standard Model of particle physics."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>48% ,12% for each assignment </dd>",
+            "due_date": "<dd><p>Assignment 1: 13/08/2024 5:00 pm</p>\n<p>Assignment 2: 3/09/2024 5:00 pm</p>\n<p>Assignment 3: 1/10/2024 5:00 pm</p>\n<p>Assignment 4: 22/10/2024 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Four written assignments will give the students a chance to explore the concepts introduced in the lectures. Collaboration is permitted provided that partners are acknowledged. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assignments have to be submitted exclusively in digital form on blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Written Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>52%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus.</p>\n<p>During the written exam: answer all questions. Keep in mind that the marks associated with each part of a question are not necessarily an indication of how much time they will take to answer. Try to attempt all parts of each question in order to maximise your marks. If you find yourself spending too long on one particular question, explain how you think your answer should proceed, and move on.</p>\n<p>The written exam will be marked between 0 and 52 points. More information on the marking criteria of the written exam can be found in the course profile.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignments</strong><br/><p>Some problems from class will be handed in and marked.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Assignments</strong>",
+            "topic_description": "Assignments Some problems from class will be handed in and marked.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures, tutorials, and problem solving</strong><br/><p>Two two-hour sessions will be held each week for which pre-lecture reading is recommended. Lectures will include explanation of theoretical and practical work. They will also focus on addressing questions arising from the reading and working on illustrative problems with your classmates.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lectures, tutorials, and problem solving</strong>",
+            "topic_description": "Lectures, tutorials, and problem solving Two two-hour sessions will be held each week for which pre-lecture reading is recommended. Lectures will include explanation of theoretical and practical work. They will also focus on addressing questions arising from the reading and working on illustrative problems with your classmates.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
