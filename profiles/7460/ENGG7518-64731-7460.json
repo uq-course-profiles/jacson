@@ -1,0 +1,166 @@
+{
+    "course_title": "Research Methods for Engineers",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG7518-64731-7460",
+    "full_course_code": "ENGG7518-64731-7460",
+    "course_code": "ENGG7518",
+    "class_code": "64731",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the basic elements and process of conducting academic research, including but not limited to framing research questions, developing hypotheses, conducting critical literature reviews, designing experiments or observational studies, ethics issues and fallacies & obstacles to scientific research."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify and cope with common data issues, and carry out descriptive data analysis."
+        },
+        {
+            "number": "LO3.",
+            "description": "Estimate basic statistical models, interpret their findings, and convey results in a meaningful manner."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain the basic principles of numerical optimization problems in Engineering, how they arise, and how to solve basic problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Explain basic concepts, theories, and procedures of some commonly used optimisation methods in Engineering."
+        },
+        {
+            "number": "LO6.",
+            "description": "Articulate the limitations of your research and how to remain objective when reviewing your own research or research of others."
+        },
+        {
+            "number": "LO7.",
+            "description": "Write and format your research report professionally and communicate research results in a reproducible manner."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Identifying hypotheses and data",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 19/09/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L06, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The purpose of this homework is to begin the development of a research project.</p>\n<p>It will involve:</p>\n<p>1) Introduction of topic and establishing importance of topic.</p>\n<p>2) Fully articulate the theory/research problem/hypotheses of prime interest.</p>\n<p>3) Demonstrate that you understand the critical elements of a literature review needed for undertaking research: Synthesising what is already known about topic; articulating clearly what is not known about topic; motivating the need for further research into this topic and identifying appropriate references.</p>\n<p>4) Identify and fully describe a set of data.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignment must be submitted via Turnitin through BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Statistical Modelling",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 14/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L06, L07",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Using the data provided on the Blackboard, you will estimate a statistical model to describe and explain the data generating process. The assessment shall include:</p>\n<p>1) Propose statistical model that represents data generating process</p>\n<p>2) Estimate statistical model and defend final specification, show 'best' and '2nd best' models</p>\n<p>3) Assess the 'best' model's performance</p>\n<p>3) Explain all variables' effects using the 'best' model</p>\n<p>The report should be totally reproducible. Two versions of your report should be submitted:</p>\n<p>• The <em>qmd</em> (or <em>rmd</em>) file;</p>\n<p>• The document (in one of the following formats: PDF, html, or MS Word)generated from the <em>qmd (or rmd)</em> file.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignment must be submitted via Turnitin through BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Data Analysis and Optimisation Problem",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment will require you to solve a set of data analysis and rudimentary optimisation problems using concepts taught in class.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignment must be submitted via Turnitin through BlackBoard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures in correspondence with course aims</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lectures in correspondence with course aims</strong>",
+            "topic_description": "Lectures in correspondence with course aims",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial</strong><br/><p>Tutorials and computer coding activities.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tutorial</strong>",
+            "topic_description": "Tutorial Tutorials and computer coding activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
