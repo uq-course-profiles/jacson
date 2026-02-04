@@ -1,0 +1,177 @@
+{
+    "course_title": "Introduction to Computer Systems",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE2010-62173-7460",
+    "full_course_code": "CSSE2010-62173-7460",
+    "course_code": "CSSE2010",
+    "class_code": "62173",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "convert unsigned integers, signed integers and floating point numbers to and from various binary number representations and perform operations on those binary numbers"
+        },
+        {
+            "number": "LO2.",
+            "description": "express logic functions in various representations (gates, expressions, truth-tables, timing diagrams) and be able to convert those functions between representations"
+        },
+        {
+            "number": "LO3.",
+            "description": "design, analyse, simulate and build combinational circuits and simple sequential circuits"
+        },
+        {
+            "number": "LO4.",
+            "description": "explain the operation of a CPU with respect to its major components, and instruction set architecture, with specific emphasis on the AVR microcontroller"
+        },
+        {
+            "number": "LO5.",
+            "description": "demonstrate your knowledge of flow-of-control and the use of a stack in a CPU and be able to write procedures and interrupt service routines in both AVR assembly language and C"
+        },
+        {
+            "number": "LO6.",
+            "description": "describe the major components of a computer system and how they communicate and be able to perform calculations on their characteristics"
+        },
+        {
+            "number": "LO7.",
+            "description": "simulate the processes of assembly and linking on sample code"
+        },
+        {
+            "number": "LO8.",
+            "description": "modify, write, simulate, debug, assemble/compile and download assembly language and C programs targeted to the AVR microcontroller and be able to construct associated AVR hardware and peripherals"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-semester lab exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> Week 6 Mon - Week 6 Fri</p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Activity/ Performance, Written",
+            "category": "Examination, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A lab exam covering material and ideas from practical activities in weeks 1 to 5 inclusive will be held during learning lab sessions on Monday-Friday in week 6. You must only attend the lab exam session you are scheduled for (selected from your regular signed-up lab sessions for the week), and you will be allocated to a particular time slot within this session. The exact schedule will be communicated to students via Blackboard. </p>\n<p>Students will be required to wire up a logic circuit, demonstrate its functionality and record some observations/results. Lab examinations are individual and closed book and relevant hardcopies of datasheets will be provided during the exam. No online access is permitted.</p>\n<p>Failure to attend a scheduled lab examination will be considered a failure of the exam unless you submit a request for a deferred lab exam via mySI-net. </p>\n<p>Prac examinations are subject to the rules of the University. In particular, please be sure to bring identification (student card) and obey the instructions of exam supervisors.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will be assessed during the allocated lab exam time slot.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester theory exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>31/08/2024 - 14/09/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A centrally scheduled Saturday in-semester theory exam will be held at the end of week 6, 7 or 8 (as determined by the UQ examinations section). The test is individual and will be multiple-choice, closed-book (with one double-sided A4 page of written and/or printed material permitted). The in-semester theory exam will cover material from weeks 1 to 5 inclusive (lectures, learning lab sessions, homework and associated readings etc.). You will require an HB or 2B pencil and an eraser to complete the in-semester theory exam.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "AVR Programming Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L08",
+            "mode": "Activity/ Performance",
+            "category": "Computer Code, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will undertake a programming task for the AVR microcontroller (may contain a number of sub-tasks) which implements a system for a given set of specifications. You may be asked to attend a subsequent oral assessment (interview) if the course coordinator has any doubts about the origin of your submission. <em>Invitations for such oral assessments will be issued by email to your student email account at any time up until the end of week one of the exam period. Failure to respond to an interview invitation by the deadline stated in the invitation (which will be at least one week after the invitation is sent) or failure to attend a scheduled interview will result in zero marks for the assignment unless exceptional circumstances can be demonstrated with supporting evidence.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An on campus<strong>, </strong>open-book, invigilated exam will be held<strong> </strong>during the final examination period. This exam can contain multiple-choice, short-answer, numerical and code-writing type questions. Open-book means that you may bring any written or printed material (including books) into the examination room. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Lecture</strong><br><p>There are two 1-hour weekly lectures. Refer to detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on the venues/times. Lectures are expected to be recorded and made available on the course Blackboard site, although there is no guarantee that recordings will always work. Lectures provide an introduction to the course material and present examples to help students understand the principles and techniques. There may be recommended reading or other activities which should be undertaken before a lecture. Please note that the lecture slides in the course notes may NOT be a complete record of the lecture. Examples will be worked through and exercises undertaken which may not be shown on the slides. Interactive polls may be used to assess understanding and get feedback from students. It is strongly suggested that you attend the lectures or watch the recording each week to maintain progressive learning. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Weekly Lecture</strong>",
+            "topic_description": "Weekly Lecture There are two 1-hour weekly lectures. Refer to detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on the venues/times. Lectures are expected to be recorded and made available on the course Blackboard site, although there is no guarantee that recordings will always work. Lectures provide an introduction to the course material and present examples to help students understand the principles and techniques. There may be recommended reading or other activities which should be undertaken before a lecture. Please note that the lecture slides in the course notes may NOT be a complete record of the lecture. Examples will be worked through and exercises undertaken which may not be shown on the slides. Interactive polls may be used to assess understanding and get feedback from students. It is strongly suggested that you attend the lectures or watch the recording each week to maintain progressive learning.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Learning Lab Sessions</strong><br><p>You<strong> must sign-up for a pair of prac sessions</strong> out of the 7 pairs available (PRA1-x, PRA2-x), where x=1,2,...,7. All prac sessions will be held in the <strong>Axon Building Computer Laboratory (building 47, room 104)</strong> in face-to-face mode. These lab classes will start with their PRA2 sessions from Wed-Fri of Week 1. NO PRA1 session lab classes are held during Mon-Tue of week 1. From week 2 to week 13 both PRA1 and PRA2 sessions will be held (refer to the detailed teaching outline on Blackboard for more information about public holidays). Students will be loaned a kit during their lab classes in weeks 1-4, which <strong>must be returned by the end of the semester</strong>. You must have a lab kit with you in order to complete and pass the course. Lab kits must be collected in-person during lab classes in weeks 1-4. </p>\n<p>If you borrow a lab kit and drop the course then you <strong>must return the kit within 3 business days to EECS school office at building 78 room 425.</strong></p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L08</p></div></td>",
+            "topic_title": "<strong>Learning Lab Sessions</strong>",
+            "topic_description": "Learning Lab Sessions You must sign-up for a pair of prac sessions out of the 7 pairs available (PRA1-x, PRA2-x), where x=1,2,...,7. All prac sessions will be held in the Axon Building Computer Laboratory (building 47, room 104) in face-to-face mode. These lab classes will start with their PRA2 sessions from Wed-Fri of Week 1. NO PRA1 session lab classes are held during Mon-Tue of week 1. From week 2 to week 13 both PRA1 and PRA2 sessions will be held (refer to the detailed teaching outline on Blackboard for more information about public holidays). Students will be loaned a kit during their lab classes in weeks 1-4, which must be returned by the end of the semester . You must have a lab kit with you in order to complete and pass the course. Lab kits must be collected in-person during lab classes in weeks 1-4. If you borrow a lab kit and drop the course then you must return the kit within 3 business days to EECS school office at building 78 room 425.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L08"
+            ]
+        }
+    ]
+}
