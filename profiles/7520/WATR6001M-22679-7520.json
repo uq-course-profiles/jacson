@@ -1,0 +1,141 @@
+{
+    "course_title": "Wastewater Treatment",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/WATR6001M-22679-7520",
+    "full_course_code": "WATR6001M-22679-7520",
+    "course_code": "WATR6001M",
+    "class_code": "22679",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Evaluate wastewater stream treatment requirements based on physicochemical and biological parameters derived from quantitative characterization methods."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the working principles of wastewater treatment unit operations using concepts from physics, chemistry, and biology to support engineering solutions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate the sustainability and resource recovery potential of wastewater management using environmental, social, and economic criteria."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply scientific and engineering principles to design, analyse, and troubleshoot wastewater treatment processes."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Portfolios",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>36%</dd>",
+            "due_date": "<dd><p> 24/02/2025 - 26/05/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Problem Portfolios are formal assessment exercises requiring detailed analysis and thoughtful responses. You will submit these three times during the course as part of your evaluation.</p>\n<ul>\n<li>Problem Portfolio 1 covers Modules 1–4, submissions open from 24/02/25 until 28/03/25 at 4 PM</li>\n<li>Problem Portfolio 2 covers Modules 5–8, submissions open from 24/03/25 until 2/05/25 at 4 PM</li>\n<li>Problem Portfolio 3 covers Modules 9–12, submissions open from 28/04/25 until 30/05/25 at 4 PM</li>\n</ul>\n<p>Problem Portfolios are submitted electronically. A Turnitin link will be made available on Blackboard for each Problem Portfolio. You can submit anytime during the submission period indicated above. We recommend completing the exercises as you progress through each module. Please note that the problems of the four modules comprising each Portfolio must be submitted together as a single pdf.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Virtual Practicals Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>9%</dd>",
+            "due_date": "<dd><p> 24/03/2025 - 19/05/2025</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Blackboard quiz (multiple-choice) to be submitted electronically using the link provided on Blackboard covering the content of the Virtual Practical experiences.</p>\n<ul>\n<li>Submissions open from 24/03/25 until 23/05/25 at 4PM.</li>\n</ul>\n<p>You can submit anytime during the submission period indicated above. You are allowed only one attempt.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Exam During Exam Period (School)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Zoom invigilated exam on all course content. No electronic aids are permitted (e.g. laptops, phones). </p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/><p>Course content delivered through the following modules:</p>\n<ol>\n<li>Introduction to wastewater treatment</li>\n<li>Wastewater characterisation</li>\n<li>Preliminary treatment</li>\n<li>Primary treatment</li>\n<li>Fundamentals of biological treatment</li>\n<li>Activated sludge process</li>\n<li>Settling of activated sludge</li>\n<li>Stabilisation ponds</li>\n<li>Fixed-film treatment</li>\n<li>Nutrients removal (Nitrogen)</li>\n<li>Nutrients removal (Phosphorus)</li>\n<li>Sludge treatment and management of biosolids</li>\n</ol>\n<p>Digital material will be provided on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Course content delivered through the following modules: Introduction to wastewater treatment Wastewater characterisation Preliminary treatment Primary treatment Fundamentals of biological treatment Activated sludge process Settling of activated sludge Stabilisation ponds Fixed-film treatment Nutrients removal (Nitrogen) Nutrients removal (Phosphorus) Sludge treatment and management of biosolids Digital material will be provided on Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Virtual Practicals</strong><br/><p>Virtual practical 1 - Settling of Activated Sludge</p>\n<p>Virtual practical 2 - Microbial Respirometry</p>\n<p>Virtual practical 3 - Virtual tour of WWTP</p>\n<p>Digital material will be provided on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Virtual Practicals</strong>",
+            "topic_description": "Virtual Practicals Virtual practical 1 - Settling of Activated Sludge Virtual practical 2 - Microbial Respirometry Virtual practical 3 - Virtual tour of WWTP Digital material will be provided on Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Q&amp;A sessions with teaching staff</strong><br/><p>Q&amp;A sessions on Zoom for contact with the teaching staff.</p>\n<p>Log-in details will be provided on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Q&amp;A sessions with teaching staff</strong>",
+            "topic_description": "Q&A sessions with teaching staff Q&A sessions on Zoom for contact with the teaching staff. Log-in details will be provided on Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
