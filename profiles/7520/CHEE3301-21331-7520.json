@@ -1,0 +1,521 @@
+{
+    "course_title": "Polymer Engineering",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE3301-21331-7520",
+    "full_course_code": "CHEE3301-21331-7520",
+    "course_code": "CHEE3301",
+    "class_code": "21331",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Polymer chemical structure: Describe the basic molecular structure of common polymers and relate this to the synthesis route for the polymer."
+        },
+        {
+            "number": "LO2.",
+            "description": "Polymer physical structure: Describe the physical morphology of polymer materials and relate this to relevant features of the chemical structure of the polymer."
+        },
+        {
+            "number": "LO3.",
+            "description": "Polymer characterisation: Interpret data from polymer characterisation tests and relate this to identifying polymers and to solving problems encountered in polymer use."
+        },
+        {
+            "number": "LO4.",
+            "description": "Polymer processing operations: Describe the basic unit operations used to manufacture polymer articles. You should be aware of the appropriate methods for making common articles and the basic characteristics of the polymers required for such operations. Practical work will be completed in a group."
+        },
+        {
+            "number": "LO5.",
+            "description": "Polymer material properties: Describe the basic mechanical behaviour of polymers and relate this to the chemical and physical structure of the material and the molecular and bulk deformation processes. Practical work will be completed in a group."
+        },
+        {
+            "number": "LO6.",
+            "description": "Polymer degradation: Understand the basic mechanisms and the effects of polymer degradation and become familiar with the common measures taken to either encourage or to limit these effects."
+        },
+        {
+            "number": "LO7.",
+            "description": "Polymer selection: Using knowledge of polymer properties and polymer processing, select and justify suitable polymers for engineering uses."
+        },
+        {
+            "number": "LO8.",
+            "description": "Polymers and society: Be able to articulate an engineering based response to contemporary issues relating to polymer use."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Safety Inductions",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd> Pass/Fail Hurdle </dd>",
+            "due_date": "<dd><p> 28/02/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>By Friday 3 PM of week 1 you must complete the online 'UQ Undergraduate OHS Induction', and pass the associated assessment.</p>\n<p> You can find this on Blackboard under \"UQ Workplace Inductions and OHS Training\".</p>\n<p>In addition there is information to review on the CHEE3301 Blackboard site to ensure that you have understood some local requirements.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>These are completed online.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Polymer Wiki and Student Review",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>6%</dd>",
+            "due_date": "<dd><p> 17/03/2025 - 24/03/2025</p></dd>",
+            "learning_objectives": "L01, L02, L05, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<h4>Polymer Wiki Due 21 Mar 15:00 Weight: 4%</h4>\n<p>Research an allocated polymer type such as polyethylene, nylon, polycarbonate, etc. to find summary information e.g. chemical structure, properties, manufacturing processes and key applications for materials. This information is to be placed in a Wiki, available on the course blackboard site for all students in the course to view.</p>\n<p>Your Wiki page must be uploaded by 3 PM Friday in Week 3.</p>\n<h4>Review of other students' Wiki pages Due 28 Mar 15:00 Weight: 2%</h4>\n<p>You are required to read and comment on other student's Wiki pages by 3 PM Friday in Week 4 - with marks based on quality of review.</p>\n<p>2.0 Very useful and insightful comments added to both allocated pages to review</p>\n<p>1.5 Generally useful and insightful comments added to both allocated pages to review, but with some gaps and issues missed</p>\n<p>1.0 Some useful comments added to both allocated pages to review</p>\n<p>0.5 Limited comments of low usefulness, or just one page reviewed</p>\n<p>0 Irrelevant (or no) comments added</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Polymer Wiki: To be added to the Wiki on the course blackboard site by 3 PM on the first due date. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Practicals",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>29%</dd>",
+            "due_date": "<dd><p> 24/03/2025 - 12/05/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L07",
+            "mode": "Activity/ Performance",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<h4>Practical 1 Lab report - Polymer identification Due 28 Mar 15:00 Weight: 8%</h4>\n<p>Practical 1 report to be completed on an individual or two-person basis using the template provided and submitted via Blackboard. </p>\n<p>Details will be presented in Practical handouts.</p>\n<p>Note that completing the online Safety Briefings before the end of week 1 is compulsory before attending labs. </p>\n<p>Also Note: for this practical, we will be providing a video of the prac in operation as additional support.</p>\n<h4>Practical 2 Lab report - Polymer melting/blending Due 17 Apr 15:00 Weight: 8%</h4>\n<p>Practical 2 report to be completed on an individual or two-person basis using the template provided and submitted via Blackboard. A video is also provided.</p>\n<h4>Practical 3 Lab report - Mechanical properties Due 16 May 15:00 Weight: 11%</h4>\n<p>Practical 3 report to be completed on an individual or two-person basis using the template provided and submitted via Blackboard. </p>\n<p>Details will be presented in Practical handouts.</p>\n<p>Note: for this practical, we will also be providing a video of the prac in operation.</p>\n<h4>Practical 4 lab assessment Submitted at end of prac in class Due Wk 11 Weight: 2%</h4>\n<p>In-prac questionnaire - to be submitted at the time of the practical on an individual basis.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Pracs 1, 2, 3: Submissions will be electronically submitted through blackboard. A turnitin link will be made available before the due date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Polymer materials selection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 23/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L04, L05, L07, L08",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This task requires you, as a member of a two-person team, to select a polymeric material for use in making a product for a specific application, to be detailed later in semester. It will require you to research databases and other information sources and prepare a 10 minute presentation on materials selection and manufacturing, outlining the background to your choice and justifying your final selection. </p>\n<p>Full details will be posted to Blackboard.</p>\n<p>This piece of assessment constitutes the Identity Verified Assessment Task (IVAT) for this course. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Presentations on your polymer materials selection report will be given in your teams of 2 and will last 10 minutes per team with 5 minutes for questions. These presentations will be both lecturer and peer assessed. You will also be required to provide critique and assessment of other teams' presentations. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Exam During Exam Period (Central)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>45% hurdle </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam is an invigilated closed book examination of 2 hours duration with 10 minutes for perusal, which tests all course content. Five double-sided pages of written or typed A4 notes can be brought into the exam. A Casio FX82 series or UQ approved and labelled calculator will be required for this exam. This piece of assessment constitutes the Identity Verified Assessment Task (IVAT) for this course.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 3(24 Feb - 16 Mar)",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Polymer Wiki</strong><br><p>Research information on a given polymer in order to prepare a polymer Wiki page. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06, L08</p></div></td>",
+            "topic_title": "<strong>Polymer Wiki</strong>",
+            "topic_description": "Polymer Wiki Research information on a given polymer in order to prepare a polymer Wiki page.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1</strong><br/><p>Introduction to course and to the polymer industry; overview of history and applications; Polymer Sustainability.</p></p><p><strong>Learning outcomes:</strong> L01, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lecture 1</strong>",
+            "topic_description": "Lecture 1 Introduction to course and to the polymer industry; overview of history and applications; Polymer Sustainability.",
+            "learning_outcomes": [
+                "L01",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction - hands on exercises</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction - hands on exercises</strong>",
+            "topic_description": "Introduction - hands on exercises",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2</strong><br/><p>Polymer classification, and terminology. Common polymer types. Overview of properties. Molecular weights.</p></p><p><strong>Learning outcomes:</strong> L01, L07</p></div></td>",
+            "topic_title": "<strong>Lecture 2</strong>",
+            "topic_description": "Lecture 2 Polymer classification, and terminology. Common polymer types. Overview of properties. Molecular weights.",
+            "learning_outcomes": [
+                "L01",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2</strong><br/><p>Polymer identification plus polymer overviews, background to polymer types and classifications</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 2</strong>",
+            "topic_description": "Tutorial 2 Polymer identification plus polymer overviews, background to polymer types and classifications",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3</strong><br/><p>Polymer synthesis. Polymerisation mechanisms. Industrial polymer synthesis. Copolymers, Microstructure and morphology.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 3</strong>",
+            "topic_description": "Lecture 3 Polymer synthesis. Polymerisation mechanisms. Industrial polymer synthesis. Copolymers, Microstructure and morphology.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab 1: Polymer ID</strong><br/><p>Polymer identification - practical sessions in Liveris 46-542.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Lab 1: Polymer ID</strong>",
+            "topic_description": "Lab 1: Polymer ID Polymer identification - practical sessions in Liveris 46-542.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3</strong><br/><p>Polymer synthesis, microstructure and morphology.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 3</strong>",
+            "topic_description": "Tutorial 3 Polymer synthesis, microstructure and morphology.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review of other student's Wikis</strong><br/><p>Review Wiki pages developed by other students.</p></p><p><strong>Learning outcomes:</strong> L07, L08</p></div></td>",
+            "topic_title": "<strong>Review of other student's Wikis</strong>",
+            "topic_description": "Review of other student's Wikis Review Wiki pages developed by other students.",
+            "learning_outcomes": [
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4</strong><br/><p>Thermal properties: Crystallisation, melting point and glass transition; Solubility and phase behaviour of common polymers ﾖ solutions and blends.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 4</strong>",
+            "topic_description": "Lecture 4 Thermal properties: Crystallisation, melting point and glass transition; Solubility and phase behaviour of common polymers ﾖ solutions and blends.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4</strong><br/><p>Thermal properties, plus solutions and blends.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 4</strong>",
+            "topic_description": "Tutorial 4 Thermal properties, plus solutions and blends.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5</strong><br/><p>Polymer characterisation.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Lecture 5</strong>",
+            "topic_description": "Lecture 5 Polymer characterisation.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab 2: Polymer thermal properties</strong><br/><p>Melting, blending and glass transition - practical session for internals; video also provided. In Liveris 46-542.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Lab 2: Polymer thermal properties</strong>",
+            "topic_description": "Lab 2: Polymer thermal properties Melting, blending and glass transition - practical session for internals; video also provided. In Liveris 46-542.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5</strong><br/><p>Polymer characterisation with a focus on DSC - important for prac 2.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 5</strong>",
+            "topic_description": "Tutorial 5 Polymer characterisation with a focus on DSC - important for prac 2.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6</strong><br/><p>Rheological properties of polymer melts, Power law model.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 6</strong>",
+            "topic_description": "Lecture 6 Rheological properties of polymer melts, Power law model.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6</strong><br/><p>Rheological properties of polymer melts.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 6</strong>",
+            "topic_description": "Tutorial 6 Rheological properties of polymer melts.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7</strong><br/><p>Viscoelasticity, rubbers and elastomers, stress strain behaviour, creep.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 7</strong>",
+            "topic_description": "Lecture 7 Viscoelasticity, rubbers and elastomers, stress strain behaviour, creep.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7</strong><br/><p>Viscoelasticity, rubbers and elastomers.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 7</strong>",
+            "topic_description": "Tutorial 7 Viscoelasticity, rubbers and elastomers.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8</strong><br/><p>Mechanical properties. Yield, brittle fracture, failure modes of plastics. Composites.</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 8</strong>",
+            "topic_description": "Lecture 8 Mechanical properties. Yield, brittle fracture, failure modes of plastics. Composites.",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab 3: Tensile, creep and fracture testing</strong><br/><p>Laboratory based activity testing the elongation/mechanical/creep/fracture properties of polymers. Video also provided.</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Lab 3: Tensile, creep and fracture testing</strong>",
+            "topic_description": "Lab 3: Tensile, creep and fracture testing Laboratory based activity testing the elongation/mechanical/creep/fracture properties of polymers. Video also provided.",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8</strong><br/><p>Mechanical properties.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8</strong>",
+            "topic_description": "Tutorial 8 Mechanical properties.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9</strong><br/><p>Polymer processing (introduction) and polymer extrusion.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 9</strong>",
+            "topic_description": "Lecture 9 Polymer processing (introduction) and polymer extrusion.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Fieldwork",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field trip to plastics processing facility</strong><br/><p>3 hours, time to be determined based on class availability.</p></p><p><strong>Learning outcomes:</strong> L07, L08</p></div></td>",
+            "topic_title": "<strong>Field trip to plastics processing facility</strong>",
+            "topic_description": "Field trip to plastics processing facility 3 hours, time to be determined based on class availability.",
+            "learning_outcomes": [
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9</strong><br/><p>Polymer extrusion.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9</strong>",
+            "topic_description": "Tutorial 9 Polymer extrusion.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10</strong><br/><p>Polymer moulding and other processes. Polymer formulations: filler, dyes, pigments and other additives.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 10</strong>",
+            "topic_description": "Lecture 10 Polymer moulding and other processes. Polymer formulations: filler, dyes, pigments and other additives.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10</strong><br/><p>Polymer processing and moulding defects.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10</strong>",
+            "topic_description": "Tutorial 10 Polymer processing and moulding defects.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab 4: Extrusion and Injection Molding</strong><br/><p>Laboratory based activity run in Week 11 demonstrating the extrusion and injection molding processing of polymers. This will be primarily a demonstration, with a small assessment task to be completed at the end of the prac session. </p></p><p><strong>Learning outcomes:</strong> L04, L05, L07</p></div></td>",
+            "topic_title": "<strong>Lab 4: Extrusion and Injection Molding</strong>",
+            "topic_description": "Lab 4: Extrusion and Injection Molding Laboratory based activity run in Week 11 demonstrating the extrusion and injection molding processing of polymers. This will be primarily a demonstration, with a small assessment task to be completed at the end of the prac session.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11</strong><br/><p>Polymer Degradation and failure. Polymer biodegradation.</p></p><p><strong>Learning outcomes:</strong> L06, L08</p></div></td>",
+            "topic_title": "<strong>Lecture 11</strong>",
+            "topic_description": "Lecture 11 Polymer Degradation and failure. Polymer biodegradation.",
+            "learning_outcomes": [
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11</strong><br/><p>Polymer degradation and failure. Biodegradation. </p></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong>Tutorial 11</strong>",
+            "topic_description": "Tutorial 11 Polymer degradation and failure. Biodegradation.",
+            "learning_outcomes": [
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 12</strong><br/><p>Plastics in the circular economy. Course summary. </p></p><p><strong>Learning outcomes:</strong> L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lecture 12</strong>",
+            "topic_description": "Lecture 12 Plastics in the circular economy. Course summary.",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12</strong><br/><p>Plastics in the circular economy. General review and open questions. </p></p><p><strong>Learning outcomes:</strong> L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Tutorial 12</strong>",
+            "topic_description": "Tutorial 12 Plastics in the circular economy. General review and open questions.",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
