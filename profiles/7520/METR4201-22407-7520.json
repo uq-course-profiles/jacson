@@ -1,0 +1,170 @@
+{
+    "course_title": "Control Engineering 1",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/METR4201-22407-7520",
+    "full_course_code": "METR4201-22407-7520",
+    "course_code": "METR4201",
+    "class_code": "22407",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Formulate Systems Models suitable for control system design."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse system models to understand behaviour including transient and steady state response and closed-loop system stability."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design and implement feedback control loops focussing on proportional, integral and derivative compensation (and combinations thereof) in feedback control."
+        },
+        {
+            "number": "LO4.",
+            "description": "Function effectively in teams by contributing constructively as a team member in the completion of practical exercises."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Laboratory Work",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>At scheduled practical sessions.</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During the semester, you will complete five laboratory tasks that are directly related to the lectures and practical assignments. Each of these tasks is based around a worksheet, which you can download from the course's Blackboard site. During practicals students work in small groups and complete a worksheet (one worksheet per group) During the practical sessions, casual demonstrators will be available to assist you with using the experimental equipment and to help clarify the concepts you are learning.</p>\n<p>Laboratories 2, 3, 4, and 5 are paired with an Assignment Aligned to the Practical (AAP) which is completed and submitted in advance of doing the practical. Both the practical and its aligned assignment are  designed to reinforce and deepen your understanding of the course's learning objectives.</p>\n<p><strong>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<p>Students who experience challenges with their laboratory team can access resources online <a href=\"https://my.uq.edu.au/information-and-services/student-support/study-skills/group-work/resolving-group-work-issues\">here</a>. Teams unable to resolve their challenges should reach out to the immediate teaching team for assistance.</p>\n<p><strong>Criteria and Marking:</strong></p>\n<p>Assessment will be based on casual demonstrator observations of each group's participation in the practical and understanding of the concepts covered.</p>\n<p>Casual demonstrators will assign each group a mark of 0, 1, or 2 in each practical based on the following criteria:</p>\n<p>0 - The group did not actively participate in the practical and/or demonstrate sufficient understanding.</p>\n<p>1 - The group participated in the practical, completed most the work and demonstrated some (but not full) understanding of the concepts involved through answers to the worksheet questions, engaging effectively as a team to do so</p>\n<p>2 - The group participated in the practical, completed the work and demonstrated an understanding of the concepts involved through answers to the worksheet questions, engaging effectively as a team to do so.</p>\n<p>Casual demonstrators will progressively mark each group during the practical using the practical worksheet and provide feedback on responses. Completed worksheets will be archived by the responsible casual demonstrator, who will record marks obtained by each group against the group members' names. Each student is responsible for ensuring that their name is recorded on the group worksheet. Each student is encouraged to complete an individual copy of the worksheet during the practical for their own records.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment is completed as part of a scheduled class. Students who fail to complete a practical will receive a score of 0 for that practical.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment Aligned to Practicals",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>Practical 2 (5%) 17/03/2025 9:00 am</p>\n<p>Practical 3 (5%) 14/04/2025 9:00 am</p>\n<p>Practical 4 (5%) 2/05/2025 7:00 pm</p>\n<p>Practical 5 (10%) 19/05/2025 9:00 am</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment aligns with the work you will complete in <strong>Practical 2</strong>. It involves:</p>\n<ul>\n<li>Forming a transfer function for a mechanical system using provided equations of motion.</li>\n<li>Developing a Simulink model of that system.</li>\n<li>Using Simulink to predict the system's time response to impulse, step, and sinusoidal inputs.</li>\n<li>Applying analytical methods to interpret the time response.</li>\n</ul>\n<p>This assignment is aligned with the work you will complete in <strong>Practical 3</strong>. It involves developing an understanding of:</p>\n<ul>\n<li>How feedback structures can be used to endow a system with specified dynamic properties.</li>\n<li>The physical interpretation of the Proportional (P) and Derivative (D) terms in a PID controller.</li>\n<li>The effect of zeros on the response of a system.</li>\n</ul>\n<p>This assignment is aligned with the work you will complete in <strong>Practical 4</strong>. It involves:</p>\n<ul>\n<li>Developing transfer functions that relate the controller error to command and disturbance forces for the rectilinear rig arranged in a mass-spring configuration under PID control.</li>\n<li>Finding the steady-state error for both a step input and a step disturbance.</li>\n<li>Evaluating the effect of the integral action in a PID controller on steady-state error.</li>\n<li>Determining conditions for stability.</li>\n</ul>\n<p>This assignment is aligned with the work you will complete in <strong>Practical 5</strong>. It involves:</p>\n<ul>\n<li>Designing cascaded compensation to control an inverted pendulum using root locus methods.</li>\n</ul>\n<p><strong>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 7/04/2025 6:00 pm</p>\n<p>\n</p><p>Specific locations will be distributed via Blackboard closer to the examination date.</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester exam covers the material presented in the weeks prior to the exam. Questions will be similar to tutorial problems and might be taken from previous examination papers. Past in-semester quizzes and their solutions are available on Blackboard. </p>\n<p><strong>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p>\n<p>\n</p><p>Please refer to your personal exam timetable on my.UQ.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Your understanding of the course concepts, as articulated through the learning outcomes, will be assessed in an end-of-semester examination.</p>\n<p><strong>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials</strong><br><p>In the tutorial sessions, you will apply the concepts and techniques presented in lectures to solve problems under the guidance of the course lecturer and casual demonstrators. </p>\n<p>The tutorials provide students with the opportunity to discuss any questions which arise from the lectures and the practical sessions with the lecturer, casual demonstrator and amongst themselves. </p>\n<p>Completion of the tutorial problems, combined with student's self-review of the tutorial solutions, will be a significant contributor to the student learning process.</p></br></p></div></td>",
+            "topic_title": "<strong>Tutorials</strong>",
+            "topic_description": "Tutorials In the tutorial sessions, you will apply the concepts and techniques presented in lectures to solve problems under the guidance of the course lecturer and casual demonstrators. The tutorials provide students with the opportunity to discuss any questions which arise from the lectures and the practical sessions with the lecturer, casual demonstrator and amongst themselves. Completion of the tutorial problems, combined with student's self-review of the tutorial solutions, will be a significant contributor to the student learning process.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>Lectures develop a scaffold to help you understand the course content by providing a continuous development of the material. Key concepts will be introduced and discussed. There will be one  in-person lecture per week and a number of LearnX videos that seek to explain key concepts.</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Lectures develop a scaffold to help you understand the course content by providing a continuous development of the material. Key concepts will be introduced and discussed. There will be one  in-person lecture per week and a number of LearnX videos that seek to explain key concepts.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact sessions. You ask. I Answer.</strong><br/><p>The contact is a student driven session where you can raise questions that you have about the course content.</p></p></div></td>",
+            "topic_title": "<strong>Contact sessions. You ask. I Answer.</strong>",
+            "topic_description": "Contact sessions. You ask. I Answer. The contact is a student driven session where you can raise questions that you have about the course content.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(03 Mar - 01 Jun)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>Over the semester you will be required to complete a series of five practicals. These are staged to complement your developing understanding of the course material and will give you some hands-on practice in analyzing and designing feedback control systems.</p>\n<p>Practicals take place in 49-401. To access this laboratory, students must have completed the Student Laboratory Safety Induction, Annual Fire Safety Training and Health Safety and Wellness (HSW). This can be accessed via Blackboard.</p>\n<p>You will require lab access for experimental work. To register for an induction searching for that laboratory (49-401) at the following link:</p>\n<p><a href=\"https://student.eait.uq.edu.au/urite/\">https://student.eait.uq.edu.au/urite/</a> </p>\n<p>Additional requirements to be inducted into each laboratory will be listed on that link.</p>\n<p>Students can also check their HSW training card here:</p>\n<p><a href=\"https://student.eait.uq.edu.au/safe\">https://student.eait.uq.edu.au/safe</a> </p>\n<p>Access to laboratories will be granted after all of the specific laboratory requirements have been met.</p>\n<p>If you have any questions regarding HSW please contact the Schoolﾒs Technical Services Team on labsupport@mechmining.uq.edu.</p></br></p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals Over the semester you will be required to complete a series of five practicals. These are staged to complement your developing understanding of the course material and will give you some hands-on practice in analyzing and designing feedback control systems. Practicals take place in 49-401. To access this laboratory, students must have completed the Student Laboratory Safety Induction, Annual Fire Safety Training and Health Safety and Wellness (HSW). This can be accessed via Blackboard. You will require lab access for experimental work. To register for an induction searching for that laboratory (49-401) at the following link: https://student.eait.uq.edu.au/urite/ Additional requirements to be inducted into each laboratory will be listed on that link. Students can also check their HSW training card here: https://student.eait.uq.edu.au/safe Access to laboratories will be granted after all of the specific laboratory requirements have been met. If you have any questions regarding HSW please contact the Schoolﾒs Technical Services Team on labsupport@mechmining.uq.edu.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 11(10 Mar - 18 May)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>One-on-one zoom help with a casual demonstrator</strong><br><p>Casual demonstrators will be available at specified times to provide  help with your AAP submissions . Dates/times and other details are available on blackboard and the sessions will be held in week 3, 7, 9, 11 </p></br></p></div></td>",
+            "topic_title": "<strong>One-on-one zoom help with a casual demonstrator</strong>",
+            "topic_description": "One-on-one zoom help with a casual demonstrator Casual demonstrators will be available at specified times to provide  help with your AAP submissions . Dates/times and other details are available on blackboard and the sessions will be held in week 3, 7, 9, 11",
+            "learning_outcomes": []
+        }
+    ]
+}
