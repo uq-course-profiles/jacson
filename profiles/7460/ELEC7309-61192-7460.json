@@ -1,0 +1,157 @@
+{
+    "course_title": "Power System Planning and Reliability",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC7309-61192-7460",
+    "full_course_code": "ELEC7309-61192-7460",
+    "course_code": "ELEC7309",
+    "class_code": "61192",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Construct a basic modelling of power system components for reliability evaluation and planning"
+        },
+        {
+            "number": "LO2.",
+            "description": "Design methodologies to solve power system generation system reliability calculation and generation planning."
+        },
+        {
+            "number": "LO3.",
+            "description": "Investigate calculation of reliability indices for combined generation and transmission systems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Formulate reliability concepts to transmission, distribution and interconnected systems, especially in planning."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design power systems reliability and planning in the context of the deregulated environment."
+        },
+        {
+            "number": "LO6.",
+            "description": "Develop load forecasting models for short-term and long-term power system planning"
+        },
+        {
+            "number": "LO7.",
+            "description": "Construct transmission and generation expansion models for both regulated and deregulated power systems."
+        },
+        {
+            "number": "LO8.",
+            "description": "Develop a simple peer-to-peer energy trading algorithm for distribution system planning analysis."
+        },
+        {
+            "number": "LO9.",
+            "description": "Select suitable technology options for generation and transmission planning problems using cost-benefit analysis."
+        },
+        {
+            "number": "LO10.",
+            "description": "Investigate challenges and tools for solving large-scale power system planning problems."
+        },
+        {
+            "number": "LO11.",
+            "description": "Construct small-scale planning/reliability problems using power system packages and toolboxes."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40% Individual </dd>",
+            "due_date": "<dd><p>Assignment 1 16/08/2024 3:00 pm</p>\n<p>Assignment 2 30/08/2024 3:00 pm</p>\n<p>Assignment 3 11/10/2024 3:00 pm</p>\n<p>Assignment 4 18/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Task Description:</p>\n<p>Four assignments will be given for the whole course. The weight of each assignment be 10%. Thus, the total weight for four assignments is 40%. </p>\n<p><strong>Assignment 1: </strong>Assignment 1<strong> </strong>will be based on the <em>Power System Planning</em> part of the course covering the topic of Power System Economics and Transmission Planning.</p>\n<p><strong>Assignment 2:</strong> Assignment 2<strong> </strong>will be based on the <em>Power System Planning</em> part of the course covering the topic of Generation Planning and Peer-to-Peer Energy Trading.</p>\n<p><strong>Assignment 3: </strong>Assignment 3 will be based on the <em>Power System Reliability</em> part of the course covering the topic of Generation Reliability analysis using the PowerFactory tool.</p>\n<p><strong>Assignment 4: </strong>Assignment 4 will be based on the <em>Power System Reliability</em> part of the course covering the topic of Generation, Transmission, and Composite System Reliability.</p>\n<p>Students will get at least one week time to work on their assignments. All the assignment questions will be made available via Blackboard.</p>\n<p>Criteria &amp; Marking:</p>\n<p>Understanding of the course content will be tested by short answers, problem-solving and PowerFactory Simulations.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assignments will be submitted online via Blackboard unless specified otherwise.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final exam during exam period",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60% Individual </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Task Description:</p>\n<p>The final exam will examine the full course, i.e. reliability and planning sections of the course.</p>\n<p>This final exam will be an on-campus invigilated exam. </p>\n<ul>\n<li>The final exam will be scheduled at a fixed time for all students – i.e. students will complete the exam simultaneously. </li>\n<li>Students will be required to use the Casio fx-82 series or UQ-approved and labelled non-programmable calculator for this exam. </li>\n<li>Students are not allowed to use computers or any software to solve the problems. No marks will be given if the students use a computer to solve problems.</li>\n<li>Assessment types will be from the following items: Short Answer, and Problem solving. The exam will be a closed-book exam.</li>\n<li>Further details will be discussed and announced during the semester lecture/tutorial scheduled events.</li>\n<li>To pass the course (GP 4 and above) the students must get at least 45% in the FINAL EXAM.</li>\n</ul>\n<p>Criteria &amp; Marking:</p>\n<p>Understanding of the course content will be tested by short answers, short essays and problem-solving.</p>\n<p>Students are required to explain their procedures and algorithms with the formula/equation number used for each section of problems.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture Series</strong><br><p>The Lecture Series will cover the following topics:</p>\n<ul>\n<li>Introduction and Engineering Economics for Power System Planning</li>\n<li>Transmission Expansion Planning</li>\n<li>Generation Expansion Planning</li>\n<li>Overview of Peer-to-Peer Energy Trading for Distribution System</li>\n<li>Introduction to Power System Reliability</li>\n<li>Generation Reliability</li>\n<li>Generation and Transmission Reliability</li>\n<li>Composite System Reliability</li>\n<li>Distribution System Reliability Evaluation</li>\n<li>Transmission and Distribution System</li>\n</ul>\n<p>Several <strong>Guest Lectures </strong>will also be organised on the broader<em> industry practices in power system planning and reliability</em>.</p>\n<p>All Lecturers will be delivered face-to-face in the classroom. The recording of the lectures will be made available on the same day of the Lecture.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Lecture Series</strong>",
+            "topic_description": "Lecture Series The Lecture Series will cover the following topics: Introduction and Engineering Economics for Power System Planning Transmission Expansion Planning Generation Expansion Planning Overview of Peer-to-Peer Energy Trading for Distribution System Introduction to Power System Reliability Generation Reliability Generation and Transmission Reliability Composite System Reliability Distribution System Reliability Evaluation Transmission and Distribution System Several Guest Lectures will also be organised on the broader industry practices in power system planning and reliability . All Lecturers will be delivered face-to-face in the classroom. The recording of the lectures will be made available on the same day of the Lecture.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case-based Learning Sessions</strong><br/><ul>\n<li>Each 2-hour Case-based Learning Activity session will allow students to explore the topics covered in the Lecture Series and address power system planning and reliability problems alongside teaching staff.</li>\n<li>DigSILENT PowerFactory will be demonstrated, enabling students to simulate real-world power system reliability issues as part of their learning and assignments.</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11</p></div></td>",
+            "topic_title": "<strong>Case-based Learning Sessions</strong>",
+            "topic_description": "Case-based Learning Sessions Each 2-hour Case-based Learning Activity session will allow students to explore the topics covered in the Lecture Series and address power system planning and reliability problems alongside teaching staff. DigSILENT PowerFactory will be demonstrated, enabling students to simulate real-world power system reliability issues as part of their learning and assignments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11"
+            ]
+        }
+    ]
+}
