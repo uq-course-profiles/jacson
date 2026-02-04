@@ -1,0 +1,462 @@
+{
+    "course_title": "Mathematical Methods",
+    "study_period": "UQC 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH1102E-1013-7450",
+    "full_course_code": "MATH1102E-1013-7450",
+    "course_code": "MATH1102E",
+    "class_code": "1013",
+    "semester_code": "7450",
+    "semester_details": "UQ College Intake 2, 2024 (14/10/2024 - 27/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Select, recall and use facts, rules, definitions and procedures drawn from Algebra, Functions, Relations and their graphs, Calculus and Statistics."
+        },
+        {
+            "number": "LO2.",
+            "description": "Comprehend and apply mathematical concepts and techniques to real life/simulated situations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Draw and interpret graphs of mathematical functions and relations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Solve practical problems by applying mathematical concepts and techniques drawn from Algebra, Functions, Relations and their graphs, Calculus and Statistics."
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate using mathematical, statistical and everyday language and conventions."
+        },
+        {
+            "number": "LO6.",
+            "description": "Evaluate the reasonableness of solutions."
+        },
+        {
+            "number": "LO7.",
+            "description": "Justify procedures and decisions through mathematical reasoning."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 18/11/2024 - 22/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Basic computation; Statistics.</p>\n<p>Format: Short answer, Problem solving.</p>\n<p>Simple Familiar (60%), Complex Familiar (20%) &amp; Complex Unfamiliar (20%) questions.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Completed during scheduled class time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to <a href=\"https://uqcollege.uq.edu.au/files/7774/UQC%20Assignment%20Extensions%20Exam%20Deferrals%20and%20Late%20Penalty%20Policy%20and%20Procedure%20v%203_0.pdf\">UQ College Assessment Extensions, Exam Deferrals and Late Penalty Policy and Procedure.</a></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 16/12/2024 - 20/12/2024</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Linear relations; Quadratics; Inverse relationships.</p>\n<p>Simple Familiar (60%), Complex Familiar (20%) &amp; Complex Unfamiliar (20%) questions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Completed during scheduled class time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to <a href=\"https://uqcollege.uq.edu.au/files/7774/UQC%20Assignment%20Extensions%20Exam%20Deferrals%20and%20Late%20Penalty%20Policy%20and%20Procedure%20v%203_0.pdf\">UQ College Assessment Extensions, Exam Deferrals and Late Penalty Policy and Procedure.</a></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Graphing Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 28/02/2025 10:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The task involves graphing functions applied to a real-world scenario and investigating the effects of changing different transformation parameters. The graphs to be investigated may include: linear, quadratic, cubic, exponential and logarithmic, hyperbolic and trigonometric functions. Desmos and/or Microsoft Excel will be used to graph and analyse these functions. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Final Submission via Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to <a href=\"https://uqcollege.uq.edu.au/files/7774/UQC%20Assignment%20Extensions%20Exam%20Deferrals%20and%20Late%20Penalty%20Policy%20and%20Procedure%20v%203_0.pdf\">UQ College Assessment Extensions, Exam Deferrals and Late Penalty Policy and Procedure.</a></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Term 2 Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Term 2 Exam Block</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Indices and logarithms; Circular measures; Trigonometry; Arithmetic and geometric sequences.</p>\n<p>Format: Short answer, Problem solving.</p>\n<p>Simple Familiar (60%), Complex Familiar (20%) &amp; Complex Unfamiliar (20%) questions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Calculus Differentiation Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 12/05/2025 - 16/05/2025</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Rates of change; Differentiation; Applications of differentiation.</p>\n<p>Format: Short answer, Problem solving.</p>\n<p>Simple Familiar (60%), Complex Familiar (20%) &amp; Complex Unfamiliar (20%) questions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-5",
+            "assessment_title": "Calculus Integration Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Term 3 Exam Block</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Integration; Applications of integration.</p>\n<p>Format: Short answer, Problem solving.</p>\n<p>Simple Familiar (60%), Complex Familiar (20%) &amp; Complex Unfamiliar (20%) questions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Basic Computation</strong><br/><p>Significant figures, rounding, scientific notation; Calculating percentages, using four operations, addition, subtraction, multiplication and division of fractions and decimals; Solving basic algebraic equations.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Basic Computation</strong>",
+            "topic_description": "Basic Computation Significant figures, rounding, scientific notation; Calculating percentages, using four operations, addition, subtraction, multiplication and division of fractions and decimals; Solving basic algebraic equations.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistics - Introduction</strong><br/><p>Display of data using frequency distribution tables and histograms; Using relative frequencies and histograms to calculate statistical measures; Measures of central tendency and spread; Understand the concept of a probability density function.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Statistics - Introduction</strong>",
+            "topic_description": "Statistics - Introduction Display of data using frequency distribution tables and histograms; Using relative frequencies and histograms to calculate statistical measures; Measures of central tendency and spread; Understand the concept of a probability density function.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(28 Oct - 03 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistics - Probability</strong><br/><p>Review the concepts and language of outcomes, sample spaces and events; Calculating probabilities; Use Venn diagrams to illustrate and represent practical occurrences; Recall rules for probability - complement of an event, union, and intersection; Use Addition rule.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Statistics - Probability</strong>",
+            "topic_description": "Statistics - Probability Review the concepts and language of outcomes, sample spaces and events; Calculating probabilities; Use Venn diagrams to illustrate and represent practical occurrences; Recall rules for probability - complement of an event, union, and intersection; Use Addition rule.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(04 Nov - 10 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistics - Types of Events</strong><br/><p>Mutually exclusive events, independent events; Combining events   use of Multiplication Theorem; Conditional probability (by reduced sample space); Binomial probability and Pascal s triangle.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Statistics - Types of Events</strong>",
+            "topic_description": "Statistics - Types of Events Mutually exclusive events, independent events; Combining events   use of Multiplication Theorem; Conditional probability (by reduced sample space); Binomial probability and Pascal s triangle.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5(11 Nov - 17 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistics - Normal distribution</strong><br/><p>Understand the Normal distribution and the use of Z scores; Recognise features of the normal distribution curve and the use of mean and standard deviation; Calculate the expected value, variance, and standard deviation of a continuous random variable.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Statistics - Normal distribution</strong>",
+            "topic_description": "Statistics - Normal distribution Understand the Normal distribution and the use of Z scores; Recognise features of the normal distribution curve and the use of mean and standard deviation; Calculate the expected value, variance, and standard deviation of a continuous random variable.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 7(18 Nov - 01 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Relations</strong><br><p>Graphing linear relations. Examine transformations of graphs; Finding gradient and x and y intercepts; Finding gradient of a line given two points; Parallel and perpendicular lines.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Linear Relations</strong>",
+            "topic_description": "Linear Relations Graphing linear relations. Examine transformations of graphs; Finding gradient and x and y intercepts; Finding gradient of a line given two points; Parallel and perpendicular lines.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 9(02 Dec - 15 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quadratics</strong><br><p>Graph quadratics by finding intercepts, turning point, axes of symmetry and/or table of values; Solve quadratic equations by: (a) factorisation and Null Factor Theorem, (b) quadratic formula, and (c) completing the square.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Quadratics</strong>",
+            "topic_description": "Quadratics Graph quadratics by finding intercepts, turning point, axes of symmetry and/or table of values; Solve quadratic equations by: (a) factorisation and Null Factor Theorem, (b) quadratic formula, and (c) completing the square.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 10(16 Dec - 22 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inverse Proportion</strong><br/><p>Review concept of direct proportion; Examine and solve problems using inverse proportion; Recognise features of inverse functions including their hyperbolic shape, the intercepts, their asymptotes, and behaviour as x approaches infinity.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Inverse Proportion</strong>",
+            "topic_description": "Inverse Proportion Review concept of direct proportion; Examine and solve problems using inverse proportion; Recognise features of inverse functions including their hyperbolic shape, the intercepts, their asymptotes, and behaviour as x approaches infinity.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 11 To Week 12(06 Jan - 19 Jan)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Indices and Logarithms</strong><br><p>Review index laws; Define logarithms as indices; Use laws of logarithms; Solve indicial and logarithm equations; Use change of base rule.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Indices and Logarithms</strong>",
+            "topic_description": "Indices and Logarithms Review index laws; Define logarithms as indices; Use laws of logarithms; Solve indicial and logarithm equations; Use change of base rule.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 13 To Week 14(20 Jan - 02 Feb)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Functions and Relations</strong><br><p>Identify domain and range from a graph; Identify dependent and independent variables; Use function notation; Expand quadratic and cubic polynomials from factors; Recognise features of cubic graphs such as shape, intercepts, and behaviour as x approaches infinity; Graph power functions.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Functions and Relations</strong>",
+            "topic_description": "Functions and Relations Identify domain and range from a graph; Identify dependent and independent variables; Use function notation; Expand quadratic and cubic polynomials from factors; Recognise features of cubic graphs such as shape, intercepts, and behaviour as x approaches infinity; Graph power functions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 15(03 Feb - 09 Feb)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Circular Functions</strong><br/><p>Review circle terminology and common formulae for circumference and area of a circle; Calculate area of a sector and arc length; Understand and use radian measure. Convert radians to degrees and vice versa.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Circular Functions</strong>",
+            "topic_description": "Circular Functions Review circle terminology and common formulae for circumference and area of a circle; Calculate area of a sector and arc length; Understand and use radian measure. Convert radians to degrees and vice versa.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 16 To Week 18(10 Feb - 02 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Trigonometry</strong><br><p>Review common trigonometric ratios: sine, cosine, and tangent; Understand the unit circle definition of sine, cosine, and tangent; Know and use the exact values for trigonometric ratios involving π/6, π/3, π/4; Calculate angles of any magnitude in each of the four quadrants.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Trigonometry</strong>",
+            "topic_description": "Trigonometry Review common trigonometric ratios: sine, cosine, and tangent; Understand the unit circle definition of sine, cosine, and tangent; Know and use the exact values for trigonometric ratios involving π/6, π/3, π/4; Calculate angles of any magnitude in each of the four quadrants.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 19(03 Mar - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Arithmetic and Geometric Sequences</strong><br/><p>Recognise and use the recursive definition to find any term in an arithmetic sequence; Establish and use the formula for the sum of the first n terms of an arithmetic sequence; Recognise and use the recursive definition to find any term in a geometric sequence; Establish and use the formula for the sum of the first n terms of a geometric sequence.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Arithmetic and Geometric Sequences</strong>",
+            "topic_description": "Arithmetic and Geometric Sequences Recognise and use the recursive definition to find any term in an arithmetic sequence; Establish and use the formula for the sum of the first n terms of an arithmetic sequence; Recognise and use the recursive definition to find any term in a geometric sequence; Establish and use the formula for the sum of the first n terms of a geometric sequence.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 20(10 Mar - 16 Mar)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 21(07 Apr - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rates of Change</strong><br/><p>Recognising relationships between variables; Average rate of change and application to real life situations; Gradient and equation of tangent to curve; Instantaneous rate of change; Process of differentiation from first principles.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Rates of Change</strong>",
+            "topic_description": "Rates of Change Recognising relationships between variables; Average rate of change and application to real life situations; Gradient and equation of tangent to curve; Instantaneous rate of change; Process of differentiation from first principles.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 22 To Week 24(14 Apr - 04 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Differentiation</strong><br><p>Understanding the concept of a limit and a derivative; Rules for differentiation of power functions and polynomials; Rules for sum/difference of functions; Using the chain rule to differentiate.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Differentiation</strong>",
+            "topic_description": "Differentiation Understanding the concept of a limit and a derivative; Rules for differentiation of power functions and polynomials; Rules for sum/difference of functions; Using the chain rule to differentiate.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 25(05 May - 11 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Application of Differentiation</strong><br/><p>Use curve sketching techniques to find maxima and minima; Apply differentiation to optimisation problems; Application of differentiation to real world problems.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Application of Differentiation</strong>",
+            "topic_description": "Application of Differentiation Use curve sketching techniques to find maxima and minima; Apply differentiation to optimisation problems; Application of differentiation to real world problems.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 26 To Week 28(12 May - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Integration</strong><br><p>Recognising that anti-differentiation is the reverse of differentiation; Using correct notation for indefinite integrals; Properties of indefinite integrals; Finding solutions to simple differential equations.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Integration</strong>",
+            "topic_description": "Integration Recognising that anti-differentiation is the reverse of differentiation; Using correct notation for indefinite integrals; Properties of indefinite integrals; Finding solutions to simple differential equations.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 29(02 Jun - 08 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Application of Integration</strong><br/><p>Apply integration to areas under curves and between curves involving a practical context; Applying integration to kinematics.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Application of Integration</strong>",
+            "topic_description": "Application of Integration Apply integration to areas under curves and between curves involving a practical context; Applying integration to kinematics.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 30(09 Jun - 15 Jun)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
