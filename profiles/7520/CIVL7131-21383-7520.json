@@ -1,0 +1,168 @@
+{
+    "course_title": "Urban Hydrology",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL7131-21383-7520",
+    "full_course_code": "CIVL7131-21383-7520",
+    "course_code": "CIVL7131",
+    "class_code": "21383",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe and explain the key components of the hydrological cycle and how they relate to each other in different urban settings."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse components of urban stormwater drainage in terms of their water and mass balances and their drainage performance for a range of hydrological scenarios."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply contemporary concepts of water sensitive urban design to develop solutions to various urban water and waterway management objectives."
+        },
+        {
+            "number": "LO4.",
+            "description": "Select, interpret and use information on the magnitude of hydrological events for design of civil and environmental engineering infrastructure."
+        },
+        {
+            "number": "LO5.",
+            "description": "Explain and defend the approach to, the conclusions from, and the limitations of an urban stormwater hydrological analysis."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Worth 10% 26/03/2025 10:00 am</p>\n<p>Worth 10% 7/05/2025 10:00 am</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The online quiz 1 tests basic understanding of lecture and tutorial material from weeks 1-4 and is to be completed during the week 5 tutorial session.</p>\n<p>The online quiz 2 tests basic understanding of lecture and tutorial material from weeks 5-9 and is to be completed during the week 10 tutorial session.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The quiz will be undertaken and submitted online using Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 11/04/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An individual written report on the design of an urban water system that addresses a specific project brief. A briefing document for this assessment item will be available via the course Blackboard site.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronic copy of report to be uploaded via link on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture Series</strong><br><p>The course is based on a 12-week series of lectures. Lectures expand on material presented in the pre-reading material and provide background information for the tutorial questions. Lectures usually include a brief overview of the theory and key concepts, sometimes with worked examples similar to problems given in tutorials and exams. The lectures also provide an important overview of the course and additional discussion of assessment.</p>\n<p>The University's video capture system will be used to record lectures if it is available in the allocated teaching space and to make the videos available to students. It should be noted that this system can fail from time-to-time so students should not rely on the video recordings as their primary means of accessing the lecture material. Lecture video recordings are automatically made available via the course Blackboard site.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture Series</strong>",
+            "topic_description": "Lecture Series The course is based on a 12-week series of lectures. Lectures expand on material presented in the pre-reading material and provide background information for the tutorial questions. Lectures usually include a brief overview of the theory and key concepts, sometimes with worked examples similar to problems given in tutorials and exams. The lectures also provide an important overview of the course and additional discussion of assessment. The University's video capture system will be used to record lectures if it is available in the allocated teaching space and to make the videos available to students. It should be noted that this system can fail from time-to-time so students should not rely on the video recordings as their primary means of accessing the lecture material. Lecture video recordings are automatically made available via the course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly tutorial session</strong><br/><p>Problem-based learning in tutorial class with guidance from course staff. Each tutorial session will focus on a different set of tutorial modules that relate to the material covered in lectures during the current and preceding weeks.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Weekly tutorial session</strong>",
+            "topic_description": "Weekly tutorial session Problem-based learning in tutorial class with guidance from course staff. Each tutorial session will focus on a different set of tutorial modules that relate to the material covered in lectures during the current and preceding weeks.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 7(24 Feb - 13 Apr)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop sessions</strong><br><p>Weekly workshop session that will be primarily used to assist students to progressively complete their project report.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop sessions</strong>",
+            "topic_description": "Workshop sessions Weekly workshop session that will be primarily used to assist students to progressively complete their project report.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ wetland tour</strong><br/><p>During scheduled lecture time, a 1- hour guided tour will be undertaken of the UQ constructed wetland, where wetland design principles learned in the lectures will be seen as applied in practice and explanation of the design and operation challenges provided.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>UQ wetland tour</strong>",
+            "topic_description": "UQ wetland tour During scheduled lecture time, a 1- hour guided tour will be undertaken of the UQ constructed wetland, where wetland design principles learned in the lectures will be seen as applied in practice and explanation of the design and operation challenges provided.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        }
+    ]
+}
