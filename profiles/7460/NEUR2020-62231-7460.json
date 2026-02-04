@@ -1,0 +1,497 @@
+{
+    "course_title": "Neuroscience for Psychologists",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/NEUR2020-62231-7460",
+    "full_course_code": "NEUR2020-62231-7460",
+    "course_code": "NEUR2020",
+    "class_code": "62231",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "locate basic brain structures and use anatomical terms"
+        },
+        {
+            "number": "LO2.",
+            "description": "identify parts of neurons"
+        },
+        {
+            "number": "LO3.",
+            "description": "identify types of brain cells and their functions"
+        },
+        {
+            "number": "LO4.",
+            "description": "specify how signals are transmitted through neurons"
+        },
+        {
+            "number": "LO5.",
+            "description": "specify the consequences of damage to certain brain regions"
+        },
+        {
+            "number": "LO6.",
+            "description": "define some key neurological syndromes (for example, agnosia, apraxia)"
+        },
+        {
+            "number": "LO7.",
+            "description": "specify the distinctions between several types of key neurological syndromes"
+        },
+        {
+            "number": "LO8.",
+            "description": "define and explain basic facts about how neurons, neurotransmitters and complex brain systems operate to produce normal and abnormal cognition, emotions, motivation and behaviour"
+        },
+        {
+            "number": "LO9.",
+            "description": "demonstrate understanding of facts in tests and written reports"
+        },
+        {
+            "number": "LO10.",
+            "description": "write an empirical report about a behavioural experiment, clearly defining theory, methods, data and results and inferences to be drawn from data and results"
+        },
+        {
+            "number": "LO11.",
+            "description": "demonstrate, through active laboratory activities, a knowledge of some key perceptual functions."
+        },
+        {
+            "number": "LO12.",
+            "description": "demonstrate, through active laboratory activities, an understanding of selected cognitive functions."
+        },
+        {
+            "number": "LO13.",
+            "description": "understand and explain how both low-level abilities, such as perception and motor control, and higher-level abilities, such as inhibitory control and working memory, are organised in the brain"
+        },
+        {
+            "number": "LO14.",
+            "description": "Identify and explain the range of research methods used in neuroscience"
+        },
+        {
+            "number": "LO15.",
+            "description": "Understand some preliminary principles of computer programming (Matlab)"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Signal detection assignment",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 23/08/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L11, L12, L13, L15",
+            "mode": "Activity/ Performance, Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will work on the Signal Detection assignment during the tutorials prior to the submission date.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via turnitin</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Quiz",
+            "special_indicators": [],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>Quiz 1 28/08/2024 - 30/08/2024</p>\n<p>Quiz 2 18/09/2024 - 20/09/2024</p>\n<p>Quiz 3 23/10/2024 - 25/10/2024</p>\n<p>\n</p><p>Quiz will be completed in Tutorials</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><em>In class Quizzes</em></p>\n<p>3 quizzes to be completed in tutorial classes.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Lab report (part 1)",
+            "special_indicators": [],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 13/09/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L09, L10, L11, L12, L13, L14",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Laboratory report (introduction).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via turnitin. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Lab report (part 2)",
+            "special_indicators": [],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 18/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L09, L10, L11, L12, L13, L14",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Laboratory report (discussion).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Via turnitin. NOTE: You will no longer receive an automatic submission receipt from Turnitin confirming your assignment has been received. You should download a copy of the digital receipt from the Assignment Dashboard and keep this as a record.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No tutorial</strong><br/></p></div></td>",
+            "topic_title": "<strong>No tutorial</strong>",
+            "topic_description": "No tutorial",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk1: Course Introduction; Methods in Neuroscience</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L14</p></div></td>",
+            "topic_title": "<strong>Wk1: Course Introduction; Methods in Neuroscience</strong>",
+            "topic_description": "Wk1: Course Introduction; Methods in Neuroscience",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction and Guided Brain Tour</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L09, L14</p></div></td>",
+            "topic_title": "<strong>Introduction and Guided Brain Tour</strong>",
+            "topic_description": "Introduction and Guided Brain Tour",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L09",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk2: Neuroanatomy 1   Gross Neuroanatomy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Wk2: Neuroanatomy 1   Gross Neuroanatomy</strong>",
+            "topic_description": "Wk2: Neuroanatomy 1   Gross Neuroanatomy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Signal Detection</strong><br/><p>***Attendance extremely important data collection and background for assignment</p></p><p><strong>Learning outcomes:</strong> L08, L09, L10, L11, L12, L13, L14</p></div></td>",
+            "topic_title": "<strong>Signal Detection</strong>",
+            "topic_description": "Signal Detection ***Attendance extremely important data collection and background for assignment",
+            "learning_outcomes": [
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk3: Neuroanatomy 2   Cellular Neuroanatomy</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L14</p></div></td>",
+            "topic_title": "<strong>Wk3: Neuroanatomy 2   Cellular Neuroanatomy</strong>",
+            "topic_description": "Wk3: Neuroanatomy 2   Cellular Neuroanatomy",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk4: No lecture</strong><br/><p>no lecture (EKKA week) </p></p></div></td>",
+            "topic_title": "<strong>Wk4: No lecture</strong>",
+            "topic_description": "Wk4: No lecture no lecture (EKKA week)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Stereovision and Depth Perception</strong><br/><p>The Pulfrich Illusion: ***Attendance extremely important The Pulfrich Illusion</p></p><p><strong>Learning outcomes:</strong> L08, L09, L10, L11, L12, L13, L14</p></div></td>",
+            "topic_title": "<strong>Stereovision and Depth Perception</strong>",
+            "topic_description": "Stereovision and Depth Perception The Pulfrich Illusion: ***Attendance extremely important The Pulfrich Illusion",
+            "learning_outcomes": [
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk5: The Visual System</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Wk5: The Visual System</strong>",
+            "topic_description": "Wk5: The Visual System",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 1</strong><br/><p>**during class time** Quiz material: Lectures from weeks 1 to 5 plus tutorials from weeks 2 and 5. In tutorial class. Duration 40 minutes, one question presented at a time, no backtracking. 40 questions, 0.5 marks each, total 20 marks</p>\n<p><br/></p>\n<p>Assignment 2: Lab report writing. Background and Introduction</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15</p></div></td>",
+            "topic_title": "<strong>Quiz 1</strong>",
+            "topic_description": "Quiz 1 **during class time** Quiz material: Lectures from weeks 1 to 5 plus tutorials from weeks 2 and 5. In tutorial class. Duration 40 minutes, one question presented at a time, no backtracking. 40 questions, 0.5 marks each, total 20 marks Assignment 2: Lab report writing. Background and Introduction",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk6: Other Sensory Systems and Multisensory</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Wk6: Other Sensory Systems and Multisensory</strong>",
+            "topic_description": "Wk6: Other Sensory Systems and Multisensory",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Body representation</strong><br/><p>Lab report writing - Background and Introduction recap</p>\n<p>Body representation: body representation and space: the rubber hand illusion</p></p><p><strong>Learning outcomes:</strong> L05, L06, L12</p></div></td>",
+            "topic_title": "<strong>Body representation</strong>",
+            "topic_description": "Body representation Lab report writing - Background and Introduction recap Body representation: body representation and space: the rubber hand illusion",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk7: Motor Control</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Wk7: Motor Control</strong>",
+            "topic_description": "Wk7: Motor Control",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment 2</strong><br/><p>Lab report writing - interpretation of results and discussion</p></p><p><strong>Learning outcomes:</strong> L08, L09, L10, L11, L12, L13, L14</p></div></td>",
+            "topic_title": "<strong>Assignment 2</strong>",
+            "topic_description": "Assignment 2 Lab report writing - interpretation of results and discussion",
+            "learning_outcomes": [
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk8: Neural Plasticity</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05, L07, L08</p></div></td>",
+            "topic_title": "<strong>Wk8: Neural Plasticity</strong>",
+            "topic_description": "Wk8: Neural Plasticity",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 2</strong><br/><p>**during class time** Quiz material: Lectures from weeks 6 to 8 plus tutorials from weeks 2 and 5. In tutorial class. Duration 40 minutes, one question presented at a time. 40 questions, 0.5 marks each, total 20 marks</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15</p></div></td>",
+            "topic_title": "<strong>Quiz 2</strong>",
+            "topic_description": "Quiz 2 **during class time** Quiz material: Lectures from weeks 6 to 8 plus tutorials from weeks 2 and 5. In tutorial class. Duration 40 minutes, one question presented at a time. 40 questions, 0.5 marks each, total 20 marks",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk9: Stress Anxiety and Depression</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Wk9: Stress Anxiety and Depression</strong>",
+            "topic_description": "Wk9: Stress Anxiety and Depression",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Emotion</strong><br/><p>Emotion and threat perception</p></p><p><strong>Learning outcomes:</strong> L11, L12</p></div></td>",
+            "topic_title": "<strong>Emotion</strong>",
+            "topic_description": "Emotion Emotion and threat perception",
+            "learning_outcomes": [
+                "L11",
+                "L12"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk10: Attention</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Wk10: Attention</strong>",
+            "topic_description": "Wk10: Attention",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Matlab 1</strong><br/><p>Applications and scripting a simple experiment.</p></p><p><strong>Learning outcomes:</strong> L15</p></div></td>",
+            "topic_title": "<strong>Matlab 1</strong>",
+            "topic_description": "Matlab 1 Applications and scripting a simple experiment.",
+            "learning_outcomes": [
+                "L15"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk11: Neuropsychology of Emotions</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Wk11: Neuropsychology of Emotions</strong>",
+            "topic_description": "Wk11: Neuropsychology of Emotions",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Matlab 2</strong><br/><p>Applications and scripting a simple experiment.</p></p><p><strong>Learning outcomes:</strong> L15</p></div></td>",
+            "topic_title": "<strong>Matlab 2</strong>",
+            "topic_description": "Matlab 2 Applications and scripting a simple experiment.",
+            "learning_outcomes": [
+                "L15"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk12: Frontal lobes and higher cortical function</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Wk12: Frontal lobes and higher cortical function</strong>",
+            "topic_description": "Wk12: Frontal lobes and higher cortical function",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 3 and wrap-up</strong><br/><p>Quiz material: Lectures from weeks 9 to 12 plus tutorials from weeks 10 to 12. In tutorial class. Duration 40 minutes, one question presented at a time. 40 questions, 0.5 marks each, total 20 marks</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15</p></div></td>",
+            "topic_title": "<strong>Quiz 3 and wrap-up</strong>",
+            "topic_description": "Quiz 3 and wrap-up Quiz material: Lectures from weeks 9 to 12 plus tutorials from weeks 10 to 12. In tutorial class. Duration 40 minutes, one question presented at a time. 40 questions, 0.5 marks each, total 20 marks",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Wk13: Revision and Q&amp;A session</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Wk13: Revision and Q&amp;A session</strong>",
+            "topic_description": "Wk13: Revision and Q&A session",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
