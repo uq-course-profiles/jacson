@@ -1,0 +1,256 @@
+{
+    "course_title": "Business Analytics Project",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN4204-20064-7520",
+    "full_course_code": "BSAN4204-20064-7520",
+    "course_code": "BSAN4204",
+    "class_code": "20064",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise and explain the application of business analytics to solving practical and strategic business problems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand how the principles and methods of business analytics can address business problems and improve business performance."
+        },
+        {
+            "number": "LO3.",
+            "description": "To create a project proposal for the design and development of a business analytics project that addresses a problem faced by business, government or society."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply a range of software tools for completing analytics projects and embedding analytics into decision support systems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Assess the value of analytics projects to business and the costs and benefits of investments in analytics projects and teams."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A1 Project Proposal/Prototype",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 19/03/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Poster, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This task requires students to conduct research on the technical requirements for an initial prototype for an online application as a proposed solution to solve a business problem provided by an industry partner, using either their own data or a dataset provided in class. The prototype should be delivered in the form of a 1-2 page description of the envisaged analytics solution in response to the industry partner briefing. Students are encouraged to use an \"infographic\" style of presentation that both depicts and explains the functional form of the online application as a proposed solution and how it addresses the business problem. The purpose of the prototype is for student to research a range of possible solutions so that feedback from project supervisors and teaching team can be received early in the development process.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong> are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "A2 Analytics Project",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 7/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L04, L05",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This task requires students to deliver a fully functional form of their prototype that addresses the briefing provided by the industry partner using either their own data or a dataset provided in class. The application should be based on their initial prototype, implementing feedback provided by the industry partner and academic supervisors. The assessment submission will comprise a URL link to a functioning implementation and deployment of the application. The task is to produce data-driven insights that address the business problem in an effective, technically sound, and creative way.  The application should include features which guide users on how to use the application with clear and concise language, navigational buttons, and structuring the application using a layout that ensures a good user experience as well as delivering robust analysis of the data. The application must include documentation (e.g., as a section/page/tab within the application) which provides a technical summary of how the application works.</p>\n<p>The weekly workshop sessions cover how create an R Shiny dashboard hosted on rshinyapps.io, however students may decide use any combination of technologies and platforms which they independent research to create their application.</p>\n<p><br/></p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong> are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "A3 Research Project and Reflection",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 28/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Product/ Design, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This task requires students to conduct research on currently emerging technologies of business analytics and to propose a future business analytics project which addresses a business problem (either the one provided by the industry partner addressed in the project, or a completely different business problem in another domain of business analytics). This requires students to reflect on their completion of the first two assessments and to identify what were some of the technological limitations or barriers they encountered which could be overcome by using currently emerging technologies. A secondary objective of this task is to encourage students to reflect upon and research what personal professional skill development they may need to engage in beyond their graduation to solve the business problems of the future, and to outline these as part of the necessary steps towards delivering the project proposal.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong> are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission link on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Kick off, Student Team Formation</strong><br><p>Team formation exercise, industry partner business problem briefing</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Kick off, Student Team Formation</strong>",
+            "topic_description": "Kick off, Student Team Formation Team formation exercise, industry partner business problem briefing",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Setting up Shinyapps.io,  R Shiny walk-through</strong><br/><p>Setting up Shinyapps.io, R Shiny walk-through. Students to finalise their team formations and begin working on project prototype</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Setting up Shinyapps.io,  R Shiny walk-through</strong>",
+            "topic_description": "Setting up Shinyapps.io,  R Shiny walk-through Setting up Shinyapps.io, R Shiny walk-through. Students to finalise their team formations and begin working on project prototype",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Shiny App design workshop</strong><br><p>R Shiny App design workshop. Students in their teams to continue working on their project prototype.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>R Shiny App design workshop</strong>",
+            "topic_description": "R Shiny App design workshop R Shiny App design workshop. Students in their teams to continue working on their project prototype.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Drop-In session</strong><br/><p>Drop-In session to receive advice on project prototype before submission.  Project prototype due this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Drop-In session</strong>",
+            "topic_description": "Drop-In session Drop-In session to receive advice on project prototype before submission.  Project prototype due this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Shiny App design workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>R Shiny App design workshop</strong>",
+            "topic_description": "R Shiny App design workshop",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Shiny App design workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>R Shiny App design workshop</strong>",
+            "topic_description": "R Shiny App design workshop",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Shiny App design workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>R Shiny App design workshop</strong>",
+            "topic_description": "R Shiny App design workshop",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Shiny App design workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>R Shiny App design workshop</strong>",
+            "topic_description": "R Shiny App design workshop",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No class this week</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No class this week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>R Shiny App design workshop</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>R Shiny App design workshop</strong>",
+            "topic_description": "R Shiny App design workshop",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Drop-in Session</strong><br/><p>Drop-In session to receive advice on project before submission.  Project due this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Drop-in Session</strong>",
+            "topic_description": "Drop-in Session Drop-In session to receive advice on project before submission.  Project due this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Drop-in Session</strong><br/><p>Drop-in Session to discuss work on reflection essay.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Drop-in Session</strong>",
+            "topic_description": "Drop-in Session Drop-in Session to discuss work on reflection essay.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Drop-in Session</strong><br/><p>Drop-in Session to discuss work on reflection essay.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Drop-in Session</strong>",
+            "topic_description": "Drop-in Session Drop-in Session to discuss work on reflection essay.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Reflection</strong><br/><p>Final seminar to close out semester.  In this session we will discuss contemporary issues in business analytics, focusing on topics, trends and technologies which have emerged during the course.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Review and Reflection</strong>",
+            "topic_description": "Course Review and Reflection Final seminar to close out semester.  In this session we will discuss contemporary issues in business analytics, focusing on topics, trends and technologies which have emerged during the course.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
