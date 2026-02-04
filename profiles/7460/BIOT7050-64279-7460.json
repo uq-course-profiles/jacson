@@ -1,0 +1,206 @@
+{
+    "course_title": "Principles of Synthetic Biology",
+    "study_period": "Sem 2 2024",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOT7050-64279-7460",
+    "full_course_code": "BIOT7050-64279-7460",
+    "course_code": "BIOT7050",
+    "class_code": "64279",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use ingenuity and creativity in proposing innovative synbio approaches to solve industrial or other applied problems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Propose ways to source bio-bricks with relevant properties from nature by bioprospecting and metagenomic screening."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain how directed evolution, gene editing and other advanced molecular methods can be used to re-engineer biological parts (e.g. proteins, promoters, receptors) and systems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Decide on an appropriate chassis for a given application and explain the advantages of different host organisms for recombinant expression."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design simple synbio devices showing an understanding of circuit design and logic gates."
+        },
+        {
+            "number": "LO6.",
+            "description": "Describe how various output methodologies, such as fluorescence, luminescence, and amperometric signals can be used in different contexts e.g. in bio-electronic devices, biocatalytic fermentations, intact cells and whole organisms."
+        },
+        {
+            "number": "LO7.",
+            "description": "Understand the complexity of metabolic systems and how this constrains efforts to redirect metabolic flux through desired pathways."
+        },
+        {
+            "number": "LO8.",
+            "description": "Discuss factors that influence public perceptions and acceptance of novel technologies – the social license."
+        },
+        {
+            "number": "LO9.",
+            "description": "Predict how economic and societal influences will determine the likely uptake of technical innovations – the triple bottom line."
+        },
+        {
+            "number": "LO10.",
+            "description": "Effectively communicate ideas about scientific innovations to a funding body or potential investors."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Synbio Research Proposal - Oral Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 21/10/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L08, L09, L10",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This oral presentation is part of a detailed research proposal to address a 'grand challenge'. Students will decide on their own research project in the realm of synthetic biology. Possible topics are:</p>\n<p>• Designing a cell factory to produce a particular chemical compound</p>\n<p>• Designing a biosensor to detect pollutants or poisons in water</p>\n<p>• Designing a device for bioremediation</p>\n<p>• Designing a device for detection or treatment of a disease in the body</p>\n<p>• Engineering a plant to improve crop viability/pest resistance/drought resistance or some other challenge</p>\n<p>• Engineering a device to recover metal, recycle plastic or recover other valuable building blocks</p>\n<p><br/></p>\n<p><strong>Use of Artificial Intelligence (AI)</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your presentation slides through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Synbio Research Proposal - Written Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 25/10/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L08, L09, L10",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This written report is part of a detailed research proposal to address a 'grand challenge'. Students will decide on their own research project in the realm of synthetic biology. Possible topics are:</p>\n<p>• Designing a cell factory to produce a particular chemical compound</p>\n<p>• Designing a biosensor to detect pollutants or poisons in water</p>\n<p>• Designing a device for bioremediation</p>\n<p>• Designing a device for detection or treatment of a disease in the body</p>\n<p>• Engineering a plant to improve crop viability/pest resistance/drought resistance or some other challenge</p>\n<p>• Engineering a device to recover metal, recycle plastic or recover other valuable building blocks</p>\n<p><strong>Use of Artificial Intelligence (AI)</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your project proposal through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End of Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06, L07, L08, L09, L10",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester exam will sample your knowledge of the topics covered in the lectures.</p>\n<p><strong>Use of Artificial Intelligence (AI)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 3(22 Jul - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Synbio at the protein or biobrick level</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Synbio at the protein or biobrick level</strong>",
+            "topic_description": "Synbio at the protein or biobrick level",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course introduction</strong><br/></p></div></td>",
+            "topic_title": "<strong>Course introduction</strong>",
+            "topic_description": "Course introduction",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 5(12 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Synbio at the pathway or device level</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Synbio at the pathway or device level</strong>",
+            "topic_description": "Synbio at the pathway or device level",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 7(19 Aug - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Synbio at the whole cell level</strong><br/></p><p><strong>Learning outcomes:</strong> L07</p></div></td>",
+            "topic_title": "<strong>Synbio at the whole cell level</strong>",
+            "topic_description": "Synbio at the whole cell level",
+            "learning_outcomes": [
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 9(09 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SynBio at the Societal Level</strong><br/></p><p><strong>Learning outcomes:</strong> L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>SynBio at the Societal Level</strong>",
+            "topic_description": "SynBio at the Societal Level",
+            "learning_outcomes": [
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 9 To Week 12(16 Sep - 20 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Design and development of synbio research proposal</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L10</p></div></td>",
+            "topic_title": "<strong>Design and development of synbio research proposal</strong>",
+            "topic_description": "Design and development of synbio research proposal",
+            "learning_outcomes": [
+                "L01",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Student pitches</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L10</p></div></td>",
+            "topic_title": "<strong>Student pitches</strong>",
+            "topic_description": "Student pitches",
+            "learning_outcomes": [
+                "L01",
+                "L10"
+            ]
+        }
+    ]
+}
