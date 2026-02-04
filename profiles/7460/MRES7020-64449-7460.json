@@ -1,0 +1,103 @@
+{
+    "course_title": "Advanced Research Project",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MRES7020-64449-7460",
+    "full_course_code": "MRES7020-64449-7460",
+    "course_code": "MRES7020",
+    "class_code": "64449",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse results, create reports and discuss findings"
+        },
+        {
+            "number": "LO2.",
+            "description": "Collect, analyse and organise information and convey that information clearly and fluently"
+        },
+        {
+            "number": "LO3.",
+            "description": "Make recommendations and improvements to the field"
+        },
+        {
+            "number": "LO4.",
+            "description": "Review literature and design a research project using MRI"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project Definition",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 13/09/2024 2:00 pm</p>\n<p>\n</p><p>Friday of Week 8</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Project proposal must include aim, justification, method, equipment and bibliography.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "PowerPoint Presentation",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>\n</p><p>Thursday of Week 13 in Semester 1 2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>PowerPoint presentation of the project. This should be presented to a couple of UQ staff members. The PowerPoint presentation can be completed in person or over zoom. A critique form will be completed by at least two staff members.</p>\n<p> </p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please email the presentation and the critic forms to the course coordinator.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Dissertation",
+            "special_indicators": [],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>Friday of Week 13 in Semester 1, 2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Submit an absolute maximum of 15000 words.  Should follow standard format:</p>\n<ul>\n<li> Introduction, which concludes with aim and hypothesis</li>\n<li>Literature review</li>\n<li>Method</li>\n<li>Results</li>\n<li>Discussion and Imaging Portfolio</li>\n<li>Conclusion</li>\n<li>Bibliography</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Powerpoint presentation of project</strong><br><p>Begin to prepare Powerpoint of project. This should be presented to a group of your peers.</p></br></p></div></td>",
+            "topic_title": "<strong>Powerpoint presentation of project</strong>",
+            "topic_description": "Powerpoint presentation of project Begin to prepare Powerpoint of project. This should be presented to a group of your peers.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dissertation</strong><br><p>Begin to prepare a dissertation as per the guidelines under Section 5. Assessment</p></br></p></div></td>",
+            "topic_title": "<strong>Dissertation</strong>",
+            "topic_description": "Dissertation Begin to prepare a dissertation as per the guidelines under Section 5. Assessment",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Definition</strong><br/><p>Students should contact the course co-ordinator to discuss the project proposal and related ethical considerations</p></p></div></td>",
+            "topic_title": "<strong>Project Definition</strong>",
+            "topic_description": "Project Definition Students should contact the course co-ordinator to discuss the project proposal and related ethical considerations",
+            "learning_outcomes": []
+        }
+    ]
+}
