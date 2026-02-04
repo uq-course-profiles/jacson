@@ -1,0 +1,259 @@
+{
+    "course_title": "Mathematical Foundations II",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH1050-64304-7460",
+    "full_course_code": "MATH1050-64304-7460",
+    "course_code": "MATH1050",
+    "class_code": "64304",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise and understand the meaning of - the mathematical notation for matrices and vectors."
+        },
+        {
+            "number": "LO2.",
+            "description": "Recognise and understand the meaning of - set notation and mathematical functions, the composition, inverse and the limit of functions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Recognise and understand the meaning of - the derivative of a function."
+        },
+        {
+            "number": "LO4.",
+            "description": "Recognise and understand the meaning of - complex numbers represented in cartesian, exponential and polar form."
+        },
+        {
+            "number": "LO5.",
+            "description": "Recognise and understand the meaning of - the Fundamental Theorem of Algebra, De Moivre's Theorem and the Fundamental Theorem of Calculus."
+        },
+        {
+            "number": "LO6.",
+            "description": "Recognise and understand the meaning of - integration as the antiderivative of a function and as the limit of a Riemann sum."
+        },
+        {
+            "number": "LO7.",
+            "description": "Express/manipulate - mathematical ideas using matrix and vector notation."
+        },
+        {
+            "number": "LO8.",
+            "description": "Express/manipulate - simple functions and represent them graphically."
+        },
+        {
+            "number": "LO9.",
+            "description": "Express/manipulate - equations involving complex numbers using the complex conjugate and represent a complex number on an Argand diagram."
+        },
+        {
+            "number": "LO10.",
+            "description": "Calculate - the solution to inequalities and express them graphically."
+        },
+        {
+            "number": "LO11.",
+            "description": "Calculate - evaluate the limit of a simple function, the derivative of simple functions using the limits formula, the constant multiple, sum, product and quotient rules of differentiation, and the derivative of a relation."
+        },
+        {
+            "number": "LO12.",
+            "description": "Calculate - critical points of a function, and use the first and second derivative tests to sketch the graph of a function."
+        },
+        {
+            "number": "LO13.",
+            "description": "Calculate - the Riemann sum to estimate the area under a curve and evaluate an integral using a substitution."
+        },
+        {
+            "number": "LO14.",
+            "description": "Calculate - equations of lines and planes and solve problems concerning lines and planes."
+        },
+        {
+            "number": "LO15.",
+            "description": "Apply/Model - physical problems using matrices and vectors."
+        },
+        {
+            "number": "LO16.",
+            "description": "Apply/Model - mathematical induction to prove mathematical statements."
+        },
+        {
+            "number": "LO17.",
+            "description": "Apply/Model - differentiation and integration to solve applied problems."
+        },
+        {
+            "number": "LO18.",
+            "description": "Apply/Model - the Fundamental Theorem of Calculus, De Moivre's Theorem and the Fundamental Theorem of Algebra."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Workshop Exercise",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Weeks 3,7,8,9,10,12,13.</p>\n<p>Submission required at the Workshops during these weeks.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L17, L18",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Weeks 3,7,8,9,10,12,13.</p>\n<p>Submission required at the Workshops during these weeks.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>In class - Hand in the collaborative exercise to your tutor at the end of the workshop.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "2 Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Assignment 1: 23/08/2024 4:00 pm</p>\n<p>Assignment 2: 11/10/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L17, L18",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You must submit detailed written solutions to a collection of mathematical problems.</p>\n<p>Assignments are released approximately 10 days before the due date.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your assignment via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In-semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p>Exam will take place Friday of Week 6 (30 August 2024) from 6pm.</p></dd>",
+            "learning_objectives": "L01, L04, L05, L07, L09, L15, L18",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The examination will be invigilated on-campus.</p>\n<p>The total time for the exam is 10 minutes (reading time) + 90 minutes (working time). </p>\n<p>There will be a range of short-answer and problem solving questions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The examination will be invigilated on-campus.</p>\n<p>There will be a range of short answer and problem solving questions. </p>\n<p>A formula sheet will be provided.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Chapter quizzes</strong><br/><p>Online quizzes are available on the course website.</p></p></div></td>",
+            "topic_title": "<strong>Chapter quizzes</strong>",
+            "topic_description": "Chapter quizzes Online quizzes are available on the course website.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/><p>Lectures define the course material. They set out the basic theory and demonstrate techniques for problem solving. They cover all the core material required for the course. While watching the lecture recordings, students are expected to annotate their course notes as the lecturer works through the notes, and complete the examples in the course notes. This semester you have access to a UQ Extend website which contains extra resources (pre-recorded videos, quizzes and interactive animations). The UQ Extend site link is on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L03, L05, L09, L12, L14</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Lectures define the course material. They set out the basic theory and demonstrate techniques for problem solving. They cover all the core material required for the course. While watching the lecture recordings, students are expected to annotate their course notes as the lecturer works through the notes, and complete the examples in the course notes. This semester you have access to a UQ Extend website which contains extra resources (pre-recorded videos, quizzes and interactive animations). The UQ Extend site link is on Blackboard.",
+            "learning_outcomes": [
+                "L03",
+                "L05",
+                "L09",
+                "L12",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Independent work</strong><br/><p>During the semester students are expected to work on MATH1050 outside of class time to consolidate the information given during lectures, work on tutorial problem sheets and assignments, complete extra practice problems and study for examinations. This semester you have access to a UQ Extend website which contains extra resources. The UQ Extend site link is on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L03, L05, L09, L12, L14, L16</p></div></td>",
+            "topic_title": "<strong>Independent work</strong>",
+            "topic_description": "Independent work During the semester students are expected to work on MATH1050 outside of class time to consolidate the information given during lectures, work on tutorial problem sheets and assignments, complete extra practice problems and study for examinations. This semester you have access to a UQ Extend website which contains extra resources. The UQ Extend site link is on Blackboard.",
+            "learning_outcomes": [
+                "L03",
+                "L05",
+                "L09",
+                "L12",
+                "L14",
+                "L16"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Workshop</strong><br/><p>Workshops provide students with an opportunity for individual assistance. Students will need to download a set of problems from the course website to complete before and during each tutorial, giving them the opportunity to practise mathematical techniques with assistance available from a tutor and/or from their peers. The tutors may also encourage group discussion on the questions covered on the problem sheets. Students will complete a collaborative exercise at the workshop in the weeks indicated under Assessment, and hand in the exercise at the end of the workshop. Tutors may also provide assistance with assignments and other aspects of the course.</p></p><p><strong>Learning outcomes:</strong> L03, L05, L09, L12, L14</p></div></td>",
+            "topic_title": "<strong>Weekly Workshop</strong>",
+            "topic_description": "Weekly Workshop Workshops provide students with an opportunity for individual assistance. Students will need to download a set of problems from the course website to complete before and during each tutorial, giving them the opportunity to practise mathematical techniques with assistance available from a tutor and/or from their peers. The tutors may also encourage group discussion on the questions covered on the problem sheets. Students will complete a collaborative exercise at the workshop in the weeks indicated under Assessment, and hand in the exercise at the end of the workshop. Tutors may also provide assistance with assignments and other aspects of the course.",
+            "learning_outcomes": [
+                "L03",
+                "L05",
+                "L09",
+                "L12",
+                "L14"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignments</strong><br/><p>Students will work on written solutions to a collection of mathematical problems that they will need to download from the course website.</p></p><p><strong>Learning outcomes:</strong> L03, L05, L09, L12, L14</p></div></td>",
+            "topic_title": "<strong>Assignments</strong>",
+            "topic_description": "Assignments Students will work on written solutions to a collection of mathematical problems that they will need to download from the course website.",
+            "learning_outcomes": [
+                "L03",
+                "L05",
+                "L09",
+                "L12",
+                "L14"
+            ]
+        }
+    ]
+}
