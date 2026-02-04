@@ -1,0 +1,177 @@
+{
+    "course_title": "Power Systems Analysis",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC4310-20446-7520",
+    "full_course_code": "ELEC4310-20446-7520",
+    "course_code": "ELEC4310",
+    "class_code": "20446",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply the basic modelling of power system components for steady state system analysis"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the appropriate methodologies to solve power system steady state operating conditions"
+        },
+        {
+            "number": "LO3.",
+            "description": "Solve load flow problems of large power systems with appropriate models of transmission line, transformer, generator and loads"
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse symmetrical and unsymmetrical faults in power systems"
+        },
+        {
+            "number": "LO5.",
+            "description": "Explain why stability is important to normal operation of power systems"
+        },
+        {
+            "number": "LO6.",
+            "description": "Apply basic stability techniques into power system analysis"
+        },
+        {
+            "number": "LO7.",
+            "description": "Solve power system analysis problems using PSS/E software to fulfil certain specifications of generation, transmission and demand"
+        },
+        {
+            "number": "LO8.",
+            "description": "Explain basics of power systems structure in a deregulated environment"
+        },
+        {
+            "number": "LO9.",
+            "description": "Explain Power Distribution network and voltage regulation"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Hardware experiments and simulation by PSS/E",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>PSS/E simulation -1 28/03/2025 4:00 pm</p>\n<p>PSS/E simulation -2 17/04/2025 4:00 pm</p>\n<p>PSS/E simulation -3 16/05/2025 4:00 pm</p>\n<p>PSS/E simulation -4 30/05/2025 4:00 pm</p>\n<p>Two Hardware Experiments 30/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L06, L07",
+            "mode": "Activity/ Performance, Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Hardware experiments:</strong> Two practical hardware experiments will be performed by the students at the Industry 4.0 Energy TestLab in Hawken Engineering Building S202. More information about the schedule is available in Blackboard. There will be no reports submission for the laboratory experiments. Students' work in the laboratory will be assessed during the lab sessions. Each lab will have 3% of marks and total marks will be 6% for two experiments.</p>\n<p><strong>Simulation:</strong> Students will complete four assignments using computer simulations on transmission line modelling for steady state power flow, load flow, short circuit analyses and transient stability using the PSS/E software. Students will be required to submit <strong>FOUR</strong> reports for the PSS/E simulation. Each simulation report will carry 6% marks and total marks for the simulation will be 24% for four reports.</p>\n<ul>\n<li>PSS/E simulation -1: <strong>Transmission line modelling for steady state power flow </strong></li>\n<li>PSS/E simulation-2: <strong>Load flow </strong></li>\n<li>PSS/E simulation -3: <strong>Short circuit analyses (both balanced and unbalanced) </strong></li>\n<li><strong> </strong>PSS/E simulation -4: <strong>Transient stability </strong></li>\n</ul>\n<p>This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>PSS/E Simulation reports are to be submitted through the course Blackboard Online system.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 10/04/2025 8:10 am</p>\n<p>\n</p><p>In-semester exam is based on the contents covered on the topic of Transmission and Distribution Line: Transmission and Distribution Line Modelling and Analysis. The exam will be scheduled during the tutorial time of 10 April 2025. This is a 60-minute invigilated in-semester exam. </p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In-semester exam content will be as below.</p>\n<ul>\n<li>Fundamentals of three phase and per unit quantities</li>\n<li>Transmission line modelling</li>\n<li>Power transfer and compensation techniques</li>\n</ul>\n<p>This is an invigilated exam conducted during the tutorial time. More information will be provided through Blackboard.</p>\n<p>To pass the course (GP 4 and above), students must get at least 40% in the combined two closed book exams (In-Semester and Final Exam)</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>In class submission at the end of exam time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p>\n<p>\n</p><p>The final exam will assess all materials presented during the course. This is an invigilated on-campus exam.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L08, L09",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will examine the full course, with a special emphasis to transmission line, load flow, fault analysis, transient stability, distribution systems, and electricity market structure.</p>\n<p>The final exam will be scheduled at a fixed time for all students – i.e. students will complete the exam simultaneously. The exam will be a closed book exam. </p>\n<p>Students will be required to use Casio fx-82 series or UQ approved and labelled non-programmable calculator for this exam. Students are not allowed to use computer and any software to solve the problems. No marks will be given if the students use computer to solve problems.</p>\n<p>Assessment types will include short answer, short essays and problem solving.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures on various topics</strong><br/><p>Series of lectures covering transmission and distribution system modelling, load flow analysis, balanced and unbalanced fault analysis and transient stability analysis for bulk power systems. Challenges in power system due to energy transition and electricity market structure in Australia will also be introduced. Two lectures will be delivered by the industry experts. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L08, L09</p></div></td>",
+            "topic_title": "<strong>Lectures on various topics</strong>",
+            "topic_description": "Lectures on various topics Series of lectures covering transmission and distribution system modelling, load flow analysis, balanced and unbalanced fault analysis and transient stability analysis for bulk power systems. Challenges in power system due to energy transition and electricity market structure in Australia will also be introduced. Two lectures will be delivered by the industry experts.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact</strong><br/><p>Contacts will start second week of the semester. Contacts will take place during   2nd week to 8th week (6/3-17/4), 9th week to 13th week (1/5-29/5). However, public holidays will be excluded.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Contact</strong>",
+            "topic_description": "Contact Contacts will start second week of the semester. Contacts will take place during   2nd week to 8th week (6/3-17/4), 9th week to 13th week (1/5-29/5). However, public holidays will be excluded.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hardware laboratory experiment and Simulation by PSS/E software</strong><br/><p>Use PSS/E software to solve power system problems and hardware experiments in the Industry 4.0 Energy Test laboratory. Details of this will be announced through course Blackboard site.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Hardware laboratory experiment and Simulation by PSS/E software</strong>",
+            "topic_description": "Hardware laboratory experiment and Simulation by PSS/E software Use PSS/E software to solve power system problems and hardware experiments in the Industry 4.0 Energy Test laboratory. Details of this will be announced through course Blackboard site.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
