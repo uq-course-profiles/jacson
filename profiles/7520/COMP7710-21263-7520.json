@@ -1,0 +1,127 @@
+{
+    "course_title": "Artificial Intelligence for Cyber Security",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP7710-21263-7520",
+    "full_course_code": "COMP7710-21263-7520",
+    "course_code": "COMP7710",
+    "class_code": "21263",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate technical knowledge of the underlying principles and concepts of machine learning algorithms, such as linear/non-linear models for classification and regression, dimensionality reduction, clustering, anomaly detection, and deep learning."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyze and assess the quality, effectiveness, and robustness of a machine learning model."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate a broad understanding of common cyber security tasks (e.g., detecting threats, predicting attacks)."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the practical aspects of machine learning techniques in the area of cyber security."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design, analyze, and evaluate an appropriate machine learning method for a given cyber security problem."
+        },
+        {
+            "number": "LO6.",
+            "description": "Analyze adversarial capabilities and goals, and develop machine learning algorithms to counteract the attacks."
+        },
+        {
+            "number": "LO7.",
+            "description": "Understand the limitations and risks of applying machine learning algorithms to cyber security problems."
+        },
+        {
+            "number": "LO8.",
+            "description": "Organizing and conveying acquired knowledge clearly in both written and spoken forms."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Homeworks",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50% Distributed equally among 5 homeworks (10% each homework) </dd>",
+            "due_date": "<dd><p> 26/03/2025 3:00 pm</p>\n<p> 7/04/2025 3:00 pm</p>\n<p> 16/04/2025 3:00 pm</p>\n<p> 28/04/2025 3:00 pm</p>\n<p> 6/05/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L07",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The homework is a short collection of problem-solving exercises where you will demonstrate your ability to understand machine learning algorithms and implement them, broadly understand cyber security problems, and use the appropriate machine learning algorithm to solve cyber security problems.</p>\n<p>This is an individually assessed assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>A solution python notebook should be uploaded on the blackboard at the specified date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 16/06/2025 - 19/06/2025</p>\n<p>\n</p><p>All students must upload their presentation and python notebook (with notes and explanations) to the blackboard on or before 1pm, 16th of June.</p></dd>",
+            "learning_objectives": "L02, L03, L05, L06, L07, L08",
+            "mode": "Oral, Written",
+            "category": "Computer Code, Presentation, Project, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The students should define/select a cyber security problem, with the datasets relevant to this problem, and propose appropriate machine learning algorithms that can be applied to the problem. All projects will have a presentation, with a Q&amp;A session afterward. The purpose of this Q&amp;A session is to further verify the student's mastery and understanding of the deliverables. Students must also demonstrate their working project (in Python), during the presentation.</p>\n<p>Please note: In accordance with UQ assessment policy, the session will be recorded.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students must upload their presentation and python notebook (with notes and explanations) to the blackboard on or before 1pm, 16th of June. The presentation should have the following information: Introduction (description of the cyber security problem, and the relevant datasets); Background &amp; Related works; Proposed machine learning methods to solve the problem; Analysis and justification behind the proposed approaches; Evaluation, and comparison of the proposed approaches, and Conclusions.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture Series</strong><br><p>Lectures will be on-campus, and also published on the blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L02, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lecture Series</strong>",
+            "topic_description": "Lecture Series Lectures will be on-campus, and also published on the blackboard.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact Series</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Contact Series</strong>",
+            "topic_description": "Contact Series",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
