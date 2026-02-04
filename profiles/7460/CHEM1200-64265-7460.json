@@ -1,0 +1,319 @@
+{
+    "course_title": "Chemistry 2",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEM1200-64265-7460",
+    "full_course_code": "CHEM1200-64265-7460",
+    "course_code": "CHEM1200",
+    "class_code": "64265",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply the kinetics of non-reversible reactions to determine orders of reaction, reaction rates, rate constants and relate simple reaction mechanisms to rate laws."
+        },
+        {
+            "number": "LO2.",
+            "description": "Represent selected reaction pathways using accepted organic chemistry conventions. Describe the shapes and bonding of organic molecules and use these to predict the reactivity of various functional groups and outcomes of selected reactions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply concepts related to weak acids and bases to aqueous solutions and buffers."
+        },
+        {
+            "number": "LO4.",
+            "description": "Determine simple chemical structures by Mass Spectrometry (MS) and Nuclear Magnetic Resonance (NMR) Spectroscopy."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply crystal field theory to the bonding and visible spectroscopy of transition metal compounds."
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate practical competencies in a basic set of laboratory techniques."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Five Practicals",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 22/07/2024 - 25/10/2024</p>\n<p>\n</p><p>Assessment completed after the respective laboratory session</p></dd>",
+            "learning_objectives": "L06",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Completion of 5 experiments is required to obtain a passing grade (4 or higher). The laboratory classes are performed in scheduled practical sessions throughout semester. It is your responsibility to attend all 5 laboratory sessions at your scheduled times. If you miss a laboratory session, it is your responsibility to inform the laboratory coordinator and arrange a catch-up session.</p>\n<p>OR</p>\n<p><strong>Chemistry Undergraduate Research Experience (CURE</strong>) An alternative to the traditional 5 experiments will be available to students who nominate for this and are selected. Numbers are restricted by the available lab space.</p>\n<p><strong>Use of Artificial Intelligence (AI)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-class active learning assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 22/07/2024 - 25/10/2024</p>\n<p>\n</p><p>Specific due dates for each in-class assessment item apply and will be provided at the start of the course</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Participation/ Student contribution, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In-class active learning assessment will be available during the active learning contact. Information will be emailed to each student in the course and placed on Blackboard detailing how this assessment can be accessed. Full details on due dates will be provided in the first few weeks of semester and emailed to the UQ email address of each student. <strong>NOTE:</strong> there is NO MINIMUM number of assessment items you are required to pass and no minimum number of assessment items you are required to actually complete. If you only choose to do half the assessment items (or none) that is your choice. But, you will only receive the marks for the assessment you complete! </p>\n<p>Deadlines for submission of each of the in-class assessment items are advertised well ahead of time and therefore there is no excuse for not submitting an attempt for a particular topic by that due date.</p>\n<p><strong>Use of Artificial Intelligence (AI)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment is to be submitted in class. Detailed instructions will be provided on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Mid Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>31/08/2024 - 14/09/2024</p>\n<p>\n</p><p>Advice about the date/time/venue will be provided around four weeks before the exam is scheduled.</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Activity/ Performance, Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A compulsory mid semester examination is based on work covered in the first set of lectures only (CHEM1200 lecture notes 1). The examination will be 1 hour (plus 10 minutes planning time) and will consist of a mixture of multiple choice and short answer questions. Results will be returned to students.</p>\n<p>NOTE: Questions in the mid-semester test will be taken from lecture material delivered in week 1 until the middle of week 5 of the semester (Kinetics and Organic Chemistry 1). This is also indicated on Blackboard in the Learning Resources folder in the description of the folders.</p>\n<p><strong>The exam will be face to face, invigilated examination held on the UQ St. Lucia Campus.</strong></p>\n<p><strong>Use of Artificial Intelligence (AI)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A 2 hour examination containing both multiple choice questions and short answer questions, with 10 minute planning time. Marks are NOT deducted for an incorrect answer. Marks are NOT awarded for a blank answer. Marks are only given for a correct answer.</p>\n<p>The end of semester examination will cover lecture material from the end of Week 5 of semester onwards (Acids and Bases, Organic Chemistry II and Transition Metal Chemistry). Lecture material examined in the mid-semester exam will not be included explicitly, although the material assessed on the end of semester examination builds on earlier material in the course.</p>\n<p><strong>The exam will be a face to face, invigilated examination held on UQ St. Lucia Campus.</strong></p>\n<p><strong>Use of Artificial Intelligence (AI)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 2(22 Jul - 04 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab induction</strong><br/></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong>Lab induction</strong>",
+            "topic_description": "Lab induction",
+            "learning_outcomes": [
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 3(22 Jul - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures (in person)</strong><br><p>Chemical kinetics</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Lectures (in person)</strong>",
+            "topic_description": "Lectures (in person) Chemical kinetics",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active learning contact 1</strong><br/><p>Course overview and revision of pre-requisite chemistry topics important for progression to CHEM1200.</p></p></div></td>",
+            "topic_title": "<strong>Active learning contact 1</strong>",
+            "topic_description": "Active learning contact 1 Course overview and revision of pre-requisite chemistry topics important for progression to CHEM1200.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 5(05 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures (in person)</strong><br><p>Organic stereochemistry, structure and reactions of alkenes and aromatic compounds (Organic 1)</p></br></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Lectures (in person)</strong>",
+            "topic_description": "Lectures (in person) Organic stereochemistry, structure and reactions of alkenes and aromatic compounds (Organic 1)",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 4(05 Aug - 18 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experiment 1</strong><br><p>Kinetics experiment</p></br></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Experiment 1</strong>",
+            "topic_description": "Experiment 1 Kinetics experiment",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active learning contact 2</strong><br/><p>Kinetics. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Active learning contact 2</strong>",
+            "topic_description": "Active learning contact 2 Kinetics. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 7(19 Aug - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures (in person)</strong><br><p>Acids &amp; bases</p></br></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Lectures (in person)</strong>",
+            "topic_description": "Lectures (in person) Acids & bases",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 6(19 Aug - 01 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experiment 2</strong><br><p>Organic reaction experiment</p></br></p><p><strong>Learning outcomes:</strong> L02, L06</p></div></td>",
+            "topic_title": "<strong>Experiment 2</strong>",
+            "topic_description": "Experiment 2 Organic reaction experiment",
+            "learning_outcomes": [
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active learning contact 3 </strong><br/><p>Stereochemistry/Alkenes/Aromatics (Organic 1). Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Active learning contact 3 </strong>",
+            "topic_description": "Active learning contact 3 Stereochemistry/Alkenes/Aromatics (Organic 1). Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 8(02 Sep - 15 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experiment 3</strong><br><p>Acid/base experiment</p></br></p><p><strong>Learning outcomes:</strong> L03, L06</p></div></td>",
+            "topic_title": "<strong>Experiment 3</strong>",
+            "topic_description": "Experiment 3 Acid/base experiment",
+            "learning_outcomes": [
+                "L03",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active learning contact 4</strong><br/><p>Acids and Bases. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Active learning contact 4</strong>",
+            "topic_description": "Active learning contact 4 Acids and Bases. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 11(09 Sep - 13 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures (in person)</strong><br><p>Nucleophilic substitution and elimination reactions, structure determination, structure and reactions of carbonyl compounds (Organic 2)</p></br></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Lectures (in person)</strong>",
+            "topic_description": "Lectures (in person) Nucleophilic substitution and elimination reactions, structure determination, structure and reactions of carbonyl compounds (Organic 2)",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 9 To Week 10(16 Sep - 06 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experiment 4</strong><br><p>Organic reaction experiment</p></br></p><p><strong>Learning outcomes:</strong> L02, L06</p></div></td>",
+            "topic_title": "<strong>Experiment 4</strong>",
+            "topic_description": "Experiment 4 Organic reaction experiment",
+            "learning_outcomes": [
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active learning contact 5</strong><br/><p>Substitution and Elimination. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Active learning contact 5</strong>",
+            "topic_description": "Active learning contact 5 Substitution and Elimination. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 11 To Week 13(07 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures (in person)</strong><br><p>Transition metals</p></br></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Lectures (in person)</strong>",
+            "topic_description": "Lectures (in person) Transition metals",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 11 To Week 12(07 Oct - 20 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experiment 5</strong><br><p>Transition metals experiment</p></br></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Experiment 5</strong>",
+            "topic_description": "Experiment 5 Transition metals experiment",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active learning contact 6</strong><br/><p>NMR &amp; carbonyl compounds. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Active learning contact 6</strong>",
+            "topic_description": "Active learning contact 6 NMR & carbonyl compounds. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active learning contact 7</strong><br/><p>Transition metals. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>Active learning contact 7</strong>",
+            "topic_description": "Active learning contact 7 Transition metals. Active learning contacts are offered at two different times (Wednesday 10-12 or Thursday 10-12 during odd weeks). A student need only attend ONE of these contacts.",
+            "learning_outcomes": [
+                "L05"
+            ]
+        }
+    ]
+}
