@@ -1,0 +1,222 @@
+{
+    "course_title": "Process Principles",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE2001-22398-7520",
+    "full_course_code": "CHEE2001-22398-7520",
+    "course_code": "CHEE2001",
+    "class_code": "22398",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Generate and interpret block flow diagrams and process flowsheets for a defined process."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse a defined process to determine mass and energy flows in the system with and without chemical reactions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Source and use a wide range of thermodynamic data and charts to analyse a defined process."
+        },
+        {
+            "number": "LO4.",
+            "description": "Project Management and Team Work - Work in teams to scope, plan and execute open-ended, industry-based projects."
+        },
+        {
+            "number": "LO5.",
+            "description": "Project Management and Team Work - Define and apply introductory sustainability concepts relating to process engineering."
+        },
+        {
+            "number": "LO6.",
+            "description": "Project Management and Team Work - Communicate assignment and project outcomes clearly and concisely in written and oral formats."
+        },
+        {
+            "number": "LO7.",
+            "description": "Consider the importance of Country for Aboriginal and Torres Strait Islander peoples, and outline impacts of engineering projects on Aboriginal and Torres Strait Islander peoples."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% Individual </dd>",
+            "due_date": "<dd><p> 28/03/2025 2:00 pm</p>\n<p>\n</p><p>Individual project</p></dd>",
+            "learning_objectives": "L01, L02, L05, L06",
+            "mode": "Written",
+            "category": "Project, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Develop a flow sheet for a multi-unit system and carry out a mass balance across that system. Use the mass balance to scenario-plan.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignment to be submitted online via Blackboard as a single PDF file.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Exam During Class.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 7/04/2025</p>\n<p>\n</p><p>Closed Book. 1h. In Class.</p></dd>",
+            "learning_objectives": "L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In-semester in class exam (flowsheets and mass balances).</p>\n<p>Duration: 60 mins. No planning time. Casio FX82 series only or UQ approved and labelled calculator. Closed Book examination - no written materials permitted. Invigilated in person.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Group Report and Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25% Group, Hurdle </dd>",
+            "due_date": "<dd><p> 23/05/2025 4:00 pm</p>\n<p>\n</p><p>Project report due Week 12.</p>\n<p>Project presentations due Week 13 (in class).</p></dd>",
+            "learning_objectives": "L04, L05, L06, L07",
+            "mode": "Oral, Written",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This team Project is an open-ended, industry-based project designed to contextualise classroom learning and to develop students' teamwork, problem solving, decision making, and communication skills. </p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<p>Students must participate in the presentations.</p>\n<p>Further details, including the expectations and criteria for the report and presentation, will be uploaded to Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Project reports to be submitted as a single PDF document via Turnitin and Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Exam During Exam Period (Central)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50% Exam, Hurdle </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This final exam tests all course content. Exam is closed book and invigilated. Students must pass this final exam to pass the course.</p>\n<p>Deferred examinations are available, subject to the consideration by the Examinations Central.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT).</p>\n<p>Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction (Week 1)</strong><br/><p>Introduction to the School and Chemical Engineering profession, process engineering concepts and systems analysis.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction (Week 1)</strong>",
+            "topic_description": "Introduction (Week 1) Introduction to the School and Chemical Engineering profession, process engineering concepts and systems analysis.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 3(03 Mar - 16 Mar)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mass Balance without reaction (Week 2, 3)</strong><br><p>Introduction to Chemical Engineering drawings, mass balancing without reaction, DOF analysis, psychrometric charts.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Mass Balance without reaction (Week 2, 3)</strong>",
+            "topic_description": "Mass Balance without reaction (Week 2, 3) Introduction to Chemical Engineering drawings, mass balancing without reaction, DOF analysis, psychrometric charts.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Gladstone (Week 4)</strong><br/><p>Gladstone Industry Tour.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Gladstone (Week 4)</strong>",
+            "topic_description": "Gladstone (Week 4) Gladstone Industry Tour.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 6(24 Mar - 06 Apr)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mass Balance with reaction (Week 5, 6, 7)</strong><br><p>Mass balancing for chemical process systems with reaction.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Mass Balance with reaction (Week 5, 6, 7)</strong>",
+            "topic_description": "Mass Balance with reaction (Week 5, 6, 7) Mass balancing for chemical process systems with reaction.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 13(07 Apr - 01 Jun)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Kick-off, Milestone and Presentations (Week 7, 10, 13)</strong><br><p>W7 - Project Kick-off. W10 - Project check-in and W13 - Course wrap up and Project presentations.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Project Kick-off, Milestone and Presentations (Week 7, 10, 13)</strong>",
+            "topic_description": "Project Kick-off, Milestone and Presentations (Week 7, 10, 13) W7 - Project Kick-off. W10 - Project check-in and W13 - Course wrap up and Project presentations.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 11(14 Apr - 18 May)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Energy Flows (Week 8-9, 11)</strong><br><p>Energy flows and introduction to energy balance analysis for chemical process systems without and then with reaction.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Energy Flows (Week 8-9, 11)</strong>",
+            "topic_description": "Energy Flows (Week 8-9, 11) Energy flows and introduction to energy balance analysis for chemical process systems without and then with reaction.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
