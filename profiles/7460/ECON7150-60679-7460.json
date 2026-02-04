@@ -1,0 +1,396 @@
+{
+    "course_title": "Mathematical Techniques for Economics",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7150-60679-7460",
+    "full_course_code": "ECON7150-60679-7460",
+    "course_code": "ECON7150",
+    "class_code": "60679",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Represent and manipulate simple economic models algebraically."
+        },
+        {
+            "number": "LO2.",
+            "description": "Use differential calculus, including partial derivatives and differentials, across a range of economic problems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply integration techniques to economic concepts such as consumer surplus and producer surplus."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply methods of unconstrained and constrained optimization to simple economic problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use matrix algebra to solve sets of simultaneous equations and simple input-output models."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 6/09/2024 - 13/09/2024</p>\n<p>\n</p><p>Assignment 1 will be released at 10 am on Friday, 6 September, and is due by 4 pm on Friday, 13 September.</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will be a series of problems that test students' knowledge of the topics covered in workshops and tutorials. Assignment 1 will cover material from Topics 1 to 6.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments must be handwritten and legible. Scan the assignment (scanners are available at the Library) and create <strong>ONE</strong> PDF document. <strong>Examine your PDF document prior to submission</strong> to ensure it is legible and complete. Submit online through Learn.UQ (Blackboard) Turnitin. More details will be provided on Learn.UQ (Blackboard).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 18/10/2024 - 25/10/2024</p>\n<p>\n</p><p>Assignment 2 will be released at 10 am on Friday, 18 October, and is due by 4 pm on Friday, 25 October.</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will be a series of problems that test students' knowledge of the topics covered in workshops and tutorials. Assignment 2 will cover material from Topics 3 to 10 (although this material is dependent on earlier topics as well).</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments must be handwritten and legible. Scan the assignment (scanners are available at the Library) and create <strong>ONE</strong> PDF document. <strong>Examine your PDF document prior to submission</strong> to ensure it is legible and complete. Submit online through Learn.UQ (Blackboard) Turnitin. More details will be provided on Learn.UQ (Blackboard).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The two-hour written exam will cover Topics 1 to 12, i.e., all topics from the course.</p>\n<p>The final exam will be held during the examination period at a time and place set by Central Exams. Important reminders and notices will be posted on Learn.UQ (Blackboard).</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorials</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Tutorials</strong>",
+            "topic_description": "No Tutorials",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 1: Set Theory, Logic &amp; Review of Algebra</strong><br/><p>Essentials of set theory and logic; real numbers; exponents; algebra; inequalities; intervals.</p>\n<p><strong>Readings:</strong> Ch 1 &amp; Ch 2.1-2.7 (Sydsæter et al., 2016 <strong>or</strong> 2021)</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Workshop 1: Set Theory, Logic &amp; Review of Algebra</strong>",
+            "topic_description": "Workshop 1: Set Theory, Logic & Review of Algebra Essentials of set theory and logic; real numbers; exponents; algebra; inequalities; intervals. Readings: Ch 1 & Ch 2.1-2.7 (Sydsæter et al., 2016 or 2021)",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1</strong><br/><p>Set Theory, Logic &amp; Review of Algebra</p>\n<p><strong>Readings:</strong> Ch 1 &amp; Ch 2.1-2.7 (Sydsæter et al., 2016 <strong>or</strong> 2021)</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial 1</strong>",
+            "topic_description": "Tutorial 1 Set Theory, Logic & Review of Algebra Readings: Ch 1 & Ch 2.1-2.7 (Sydsæter et al., 2016 or 2021)",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 2: Summation Notation &amp; Solving Equations</strong><br/><p>Summation notation; reviewing methods of solving equations.</p>\n<p><strong>Readings:</strong> Ch 2.8, 2.9, 2.11 &amp; Ch 3 (Sydsæter et al., 2016) <strong>or</strong> Ch 2.9, 2.10, 2.12 &amp; Ch 3 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Workshop 2: Summation Notation &amp; Solving Equations</strong>",
+            "topic_description": "Workshop 2: Summation Notation & Solving Equations Summation notation; reviewing methods of solving equations. Readings: Ch 2.8, 2.9, 2.11 & Ch 3 (Sydsæter et al., 2016) or Ch 2.9, 2.10, 2.12 & Ch 3 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2</strong><br/><p>Summation Notation &amp; Solving Equations</p>\n<p><strong>Readings:</strong> Ch 2.8, 2.9, 2.11 &amp; Ch 3 (Sydsæter et al., 2016) <strong>or</strong> Ch 2.9, 2.10, 2.12 &amp; Ch 3 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial 2</strong>",
+            "topic_description": "Tutorial 2 Summation Notation & Solving Equations Readings: Ch 2.8, 2.9, 2.11 & Ch 3 (Sydsæter et al., 2016) or Ch 2.9, 2.10, 2.12 & Ch 3 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 3: Functions of One Variable</strong><br/><p>Linear functions; quadratic functions; polynomials; power, exponential and logarithmic functions; graphs of functions; inverse functions.</p>\n<p><strong>Readings:</strong> Ch 4 &amp; Ch 5.1-5.3 (Sydsæter et al., 2016 <strong>or</strong> 2021)</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Workshop 3: Functions of One Variable</strong>",
+            "topic_description": "Workshop 3: Functions of One Variable Linear functions; quadratic functions; polynomials; power, exponential and logarithmic functions; graphs of functions; inverse functions. Readings: Ch 4 & Ch 5.1-5.3 (Sydsæter et al., 2016 or 2021)",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3</strong><br/><p>Functions of One Variable</p>\n<p><strong>Readings:</strong> Ch 4 &amp; Ch 5.1-5.3 (Sydsæter et al., 2016 <strong>or</strong> 2021)</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Tutorial 3</strong>",
+            "topic_description": "Tutorial 3 Functions of One Variable Readings: Ch 4 & Ch 5.1-5.3 (Sydsæter et al., 2016 or 2021)",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 4: Calculus 1</strong><br/><p>Basic concepts; rules of differentiation.</p>\n<p><strong>Readings:</strong> Ch 6 (Sydsæter et al., 2016 <strong>or</strong> 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Workshop 4: Calculus 1</strong>",
+            "topic_description": "Workshop 4: Calculus 1 Basic concepts; rules of differentiation. Readings: Ch 6 (Sydsæter et al., 2016 or 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public Holiday: Royal Queensland Show</strong><br/><p><strong>Wednesday 14/08/2024</strong></p>\n<p>No tutorials on this day. Students are invited to attend another tutorial for this week only.</p></p></div></td>",
+            "topic_title": "<strong>Public Holiday: Royal Queensland Show</strong>",
+            "topic_description": "Public Holiday: Royal Queensland Show Wednesday 14/08/2024 No tutorials on this day. Students are invited to attend another tutorial for this week only.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4</strong><br/><p>Calculus 1</p>\n<p><strong>Readings:</strong> Ch 6 (Sydsæter et al., 2016 <strong>or</strong> 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 4</strong>",
+            "topic_description": "Tutorial 4 Calculus 1 Readings: Ch 6 (Sydsæter et al., 2016 or 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 5: Calculus 2</strong><br/><p>Derivatives in Use - Implicit differentiation; linear and polynomial approximations; Taylor's formula</p>\n<p><strong>Readings:</strong> Ch 7.1, 7.2, 7.4, 7.5, 7.6 (Sydsæter et al., 2016 <strong>or</strong> 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Workshop 5: Calculus 2</strong>",
+            "topic_description": "Workshop 5: Calculus 2 Derivatives in Use - Implicit differentiation; linear and polynomial approximations; Taylor's formula Readings: Ch 7.1, 7.2, 7.4, 7.5, 7.6 (Sydsæter et al., 2016 or 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5</strong><br/><p>Calculus 2</p>\n<p><strong>Readings:</strong> Ch 7.1, 7.2, 7.4, 7.5, 7.6 (Sydsæter et al., 2016 <strong>or</strong> 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Tutorial 5</strong>",
+            "topic_description": "Tutorial 5 Calculus 2 Readings: Ch 7.1, 7.2, 7.4, 7.5, 7.6 (Sydsæter et al., 2016 or 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 6: Calculus 3</strong><br/><p>Single-variable optimisation; determination of extreme points; local extreme points.</p>\n<p><strong>Readings:</strong> Ch 8 (Sydsæter et al., 2016) <strong>or</strong> Ch 8 &amp; Ch 9 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Workshop 6: Calculus 3</strong>",
+            "topic_description": "Workshop 6: Calculus 3 Single-variable optimisation; determination of extreme points; local extreme points. Readings: Ch 8 (Sydsæter et al., 2016) or Ch 8 & Ch 9 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6</strong><br/><p>Calculus 3</p>\n<p><strong>Readings:</strong> Ch 8 (Sydsæter et al., 2016) <strong>or</strong> Ch 8 &amp; Ch 9 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 6</strong>",
+            "topic_description": "Tutorial 6 Calculus 3 Readings: Ch 8 (Sydsæter et al., 2016) or Ch 8 & Ch 9 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 7: Calculus 4</strong><br/><p>Partial derivatives; multivariate optimisation.</p>\n<p><strong>Readings:</strong> Ch 11.1-11.2 &amp; Ch 13.1-13.5 (Sydsæter et al., 2016) <strong>or</strong> Ch 14.1-14.2 &amp; Ch 17.1-17.5 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Workshop 7: Calculus 4</strong>",
+            "topic_description": "Workshop 7: Calculus 4 Partial derivatives; multivariate optimisation. Readings: Ch 11.1-11.2 & Ch 13.1-13.5 (Sydsæter et al., 2016) or Ch 14.1-14.2 & Ch 17.1-17.5 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7</strong><br/><p>Calculus 4</p>\n<p><strong>Readings:</strong> Ch 11.1-11.2 &amp; Ch 13.1-13.5 (Sydsæter et al., 2016) <strong>or</strong> Ch 14.1-14.2 &amp; Ch 17.1-17.5 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 7</strong>",
+            "topic_description": "Tutorial 7 Calculus 4 Readings: Ch 11.1-11.2 & Ch 13.1-13.5 (Sydsæter et al., 2016) or Ch 14.1-14.2 & Ch 17.1-17.5 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 8: Calculus 5</strong><br/><p>Lagrange multiplier; introduction to constrained optimisation; applications.</p>\n<p><strong>Readings:</strong> Ch 14.1-14.5 (Sydsæter et al., 2016) <strong>or</strong> Ch 18.1-18.5 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Workshop 8: Calculus 5</strong>",
+            "topic_description": "Workshop 8: Calculus 5 Lagrange multiplier; introduction to constrained optimisation; applications. Readings: Ch 14.1-14.5 (Sydsæter et al., 2016) or Ch 18.1-18.5 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8</strong><br/><p>Calculus 5</p>\n<p><strong>Readings:</strong> Ch 14.1-14.5 (Sydsæter et al., 2016) <strong>or</strong> Ch 18.1-18.5 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Tutorial 8</strong>",
+            "topic_description": "Tutorial 8 Calculus 5 Readings: Ch 14.1-14.5 (Sydsæter et al., 2016) or Ch 18.1-18.5 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 9: Calculus 6</strong><br/><p>Basic concepts of integration; indefinite and definite integrals; integration by parts; integration by substitution.</p>\n<p><strong>Readings:</strong> Ch 9.1-9.6 (Sydsæter et al., 2016) <strong>or</strong> Ch 10.1-10.6 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Workshop 9: Calculus 6</strong>",
+            "topic_description": "Workshop 9: Calculus 6 Basic concepts of integration; indefinite and definite integrals; integration by parts; integration by substitution. Readings: Ch 9.1-9.6 (Sydsæter et al., 2016) or Ch 10.1-10.6 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break(23 Sep - 29 Sep)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No workshop, no tutorials, and no consultations this week.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No workshop, no tutorials, and no consultations this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9</strong><br/><p>Calculus 6</p>\n<p><strong>Readings:</strong> Ch 9.1-9.6 (Sydsæter et al., 2016) <strong>or</strong> Ch 10.1-10.6 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Tutorial 9</strong>",
+            "topic_description": "Tutorial 9 Calculus 6 Readings: Ch 9.1-9.6 (Sydsæter et al., 2016) or Ch 10.1-10.6 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 10: Matrix Algebra 1 and 2</strong><br/><p>Introduction to linear algebra: matrix notation; matrix and vector operations.</p>\n<p>Simultaneous equations; Gaussian elimination; determinants; minors and cofactors.</p>\n<p><strong>Readings:</strong> Ch 15-16 (Sydsæter et al., 2016) <strong>or</strong> Ch 12-13 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 10: Matrix Algebra 1 and 2</strong>",
+            "topic_description": "Workshop 10: Matrix Algebra 1 and 2 Introduction to linear algebra: matrix notation; matrix and vector operations. Simultaneous equations; Gaussian elimination; determinants; minors and cofactors. Readings: Ch 15-16 (Sydsæter et al., 2016) or Ch 12-13 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public Holiday: King's Birthday</strong><br/><p><strong>Monday 7/10/2024</strong></p>\n<p>No workshop and no tutorials this week due to the King's Birthday public holiday.</p></p></div></td>",
+            "topic_title": "<strong>Public Holiday: King's Birthday</strong>",
+            "topic_description": "Public Holiday: King's Birthday Monday 7/10/2024 No workshop and no tutorials this week due to the King's Birthday public holiday.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10</strong><br/><p>Matrix Algebra 1 &amp; 2</p>\n<p><strong>Readings:</strong> Ch 15-16 (Sydsæter et al., 2016) <strong>or</strong> Ch 12-13 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10</strong>",
+            "topic_description": "Tutorial 10 Matrix Algebra 1 & 2 Readings: Ch 15-16 (Sydsæter et al., 2016) or Ch 12-13 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 11: Matrix Algebra 3</strong><br/><p>Cramer's rule; solving simultaneous equations; adjoint method for finding an inverse.</p>\n<p><strong>Readings:</strong> Ch 15-16 (Sydsæter et al., 2016) <strong>or</strong> Ch 12-13 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 11: Matrix Algebra 3</strong>",
+            "topic_description": "Workshop 11: Matrix Algebra 3 Cramer's rule; solving simultaneous equations; adjoint method for finding an inverse. Readings: Ch 15-16 (Sydsæter et al., 2016) or Ch 12-13 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11</strong><br/><p>Matrix Algebra 3</p>\n<p><strong>Readings:</strong> Ch 15-16 (Sydsæter et al., 2016) <strong>or</strong> Ch 12-13 (Sydsæter et al., 2021)</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 11</strong>",
+            "topic_description": "Tutorial 11 Matrix Algebra 3 Readings: Ch 15-16 (Sydsæter et al., 2016) or Ch 12-13 (Sydsæter et al., 2021)",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 12: Review</strong><br/><p>Exam preparation and a review of the course content.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshop 12: Review</strong>",
+            "topic_description": "Workshop 12: Review Exam preparation and a review of the course content.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
