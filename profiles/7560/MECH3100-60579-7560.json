@@ -1,0 +1,205 @@
+{
+    "course_title": "Mechanical Systems Design",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH3100-60579-7560",
+    "full_course_code": "MECH3100-60579-7560",
+    "course_code": "MECH3100",
+    "class_code": "60579",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify and describe the key lifecycle steps in system engineering methodology"
+        },
+        {
+            "number": "LO2.",
+            "description": "Employ system engineering principles to plan and execute an engineering project"
+        },
+        {
+            "number": "LO3.",
+            "description": "Employ system engineering tools and best practice in the appropriate sequence and lifecycle step"
+        },
+        {
+            "number": "LO4.",
+            "description": "Put in place appropriate review and reporting milestones for your engineering project and understand milestone requirements"
+        },
+        {
+            "number": "LO5.",
+            "description": "Use system engineering and concurrent engineering principles to coordinate multi-team members working one project"
+        },
+        {
+            "number": "LO6.",
+            "description": "Optimise the resources in an engineering team to design an innovative mechanical engineering product to a strict timeline and budget conditions"
+        },
+        {
+            "number": "LO7.",
+            "description": "Plan, monitor and control a mechanical system engineering project"
+        },
+        {
+            "number": "LO8.",
+            "description": "Work in teams to design, build and test a mechanical engineering system"
+        },
+        {
+            "number": "LO9.",
+            "description": "Employ engineering principles and science to evaluate design options and perform detailed design"
+        },
+        {
+            "number": "LO10.",
+            "description": "Proficiently employ state-of-the-art computer aided engineering tools (CAX) to design, build and validate complex engineering systems"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Conceptual Design Review",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 22/08/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L09, L10",
+            "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Participation/ Student contribution, Portfolio, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an individual assessment item. Each student to work independently and perform the following tasks for their allocated sub-system: functional requirement analysis, concept ideation and evaluation, final conceptual solution development and visualisation (CAD modelling), specification of materials and manufacturing processes, estimation of cost, weight and size.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission instructions provided on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Detailed Design Review",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 5/09/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L05, L06, L08, L09, L10",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Portfolio, Product/ Design, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The team must develop a full set of requirements for the entire system and a verification plan for each requirement. A detailed design of the system must be furnished, this includes a full system breakdown and CAD models and engineering drawings of all assemblies, subassemblies, and components. An interface control document must provide details of all mechanical and electrical interfaces between and within subsystems. All design calculations, including force and moment analysis, efficiency calculations, power transmission calculations, and stress analysis of load bearing components must be presented. All data must be appropriately curated in a product lifecycle manager (PLM) environment.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Only one submission per team. Submission instructions provided on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Verification and Performance Prediction",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 7/10/2025 - 8/10/2025</p>\n<p>\n</p><p>Oral presentations will be scheduled during regular classroom contact hours in Week 10.</p>\n<p>Presentation slides are due by 17:00 on the day of the presentation.</p></dd>",
+            "learning_objectives": "L03, L04, L05, L06, L07, L08",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Oral presentation format. Teams to present outcomes of verification activities related to key system performance parameters: clamping/traction, driveline efficiency, safety features. Teams must also predict the final weight, maximum achievable pulling force, and net efficiency of their system.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>A copy of the oral presentation slides to be uploaded to Blackboard - one submission per team. Submission instructions provided on Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "System Performance and Build Quality",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>Performance Testing (25%) Week 10 Mon - Week 12 Fri</p>\n<p>Build Quality Assessment (20%) Week 13 Fri - Week 13 Fri</p>\n<p>System Disassembly Workshop (5%) Exam week 1 Mon - Exam week 2 Fri</p></dd>",
+            "learning_objectives": "L04, L05, L06, L07, L08, L09, L10",
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+            "category": "Performance, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>System Performance - 25%</strong></p>\n<p>The performance criteria are specified in the project brief document. Several testing days are scheduled in Week 10-12 for teams to demonstrate system performance against the scoring method outlined in the project brief document. A detailed testing schedule will be communicated to students via Blackboard.</p>\n<p>NOTE: Teams can compare the performance of their prototype system against other teams in a tournament format during Revision week. Participation in the tournament is optional, and a maximum of 3% bonus marks will be available to the winning team.</p>\n<p><strong>Build Quality - 20%</strong></p>\n<p>Teams must hand over their prototype system to the teaching staff upon achieving their final performance score. Teams must hand over the system as-is after testing, i.e. without modifications. Teams are not permitted to take away any part of the system. The build quality will be assessed by a panel of experts in Week 13. Further details are provided in the project brief document.</p>\n<p><strong>Disassembly Workshop - 5%</strong></p>\n<p>During the examination period, a disassembly workshop will be organised in which teams will use basic hand tools to disassemble their prototype system. A panel of experts will evaluate the ease of system disassembly and the reusability of sub-systems, components, and parts. Further details will be provided in the project brief document.</p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Physical products are submitted to the teaching team after performance testing (by end of Week 12). Panel of experts to assess build quality in Week 13. Teams to return in examination period to disassemble their prototype system under supervision and leave behind all disassembled materials.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Design Workshop</strong><br><p>Workshops on key system engineering principles and their use in your project. During the workshop you also have time to meet with your mentors and team members.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Design Workshop</strong>",
+            "topic_description": "Design Workshop Workshops on key system engineering principles and their use in your project. During the workshop you also have time to meet with your mentors and team members.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>System prototyping</strong><br/><p>As a team, you will fabricate and assemble a physical prototype of your designed system using the resources in UQ Innovate.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L06, L07, L08, L10</p></div></td>",
+            "topic_title": "<strong>System prototyping</strong>",
+            "topic_description": "System prototyping As a team, you will fabricate and assemble a physical prototype of your designed system using the resources in UQ Innovate.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L06",
+                "L07",
+                "L08",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 13(06 Oct - 02 Nov)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance testing</strong><br><p>You will perform testing to validate your physical system against the requirements provided in the project brief.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Performance testing</strong>",
+            "topic_description": "Performance testing You will perform testing to validate your physical system against the requirements provided in the project brief.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
