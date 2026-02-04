@@ -1,0 +1,185 @@
+{
+    "course_title": "Statistical Genomics",
+    "study_period": "Sem 2 2024",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7611-64741-7460",
+    "full_course_code": "STAT7611-64741-7460",
+    "course_code": "STAT7611",
+    "class_code": "64741",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe core mechanisms and central dogma of genetics"
+        },
+        {
+            "number": "LO2.",
+            "description": "Perform sequence analysis using hidden Markov models"
+        },
+        {
+            "number": "LO3.",
+            "description": "Access genomic data from public databases"
+        },
+        {
+            "number": "LO4.",
+            "description": "Perform a genetic association analysis, including the assessment of possible confounding"
+        },
+        {
+            "number": "LO5.",
+            "description": "Explain the concept of heritability and its estimation"
+        },
+        {
+            "number": "LO6.",
+            "description": "Use genome-wide SNP data to develop prediction models"
+        },
+        {
+            "number": "LO7.",
+            "description": "Explain key features of data, statistical models and methods used in the fields of transcriptomics, epigenetics and single-cell omics"
+        },
+        {
+            "number": "LO8.",
+            "description": "Effectively communicate results of statistical analyses in genomics and related areas."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 23/08/2024 11:59 pm</p>\n<p>\n</p><p>refer to Study Guide.  </p></dd>",
+            "learning_objectives": "L01, L04, L08",
+            "mode": "Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Modules 1 &amp; 2, refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 13/09/2024 11:59 pm</p>\n<p>\n</p><p>refer to Study Guide</p></dd>",
+            "learning_objectives": "L01, L02, L05, L06, L08",
+            "mode": "Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Modules 3 &amp; 4, refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 18/10/2024 11:59 pm</p>\n<p>\n</p><p>refer to Study Guide</p></dd>",
+            "learning_objectives": "L01, L07, L08",
+            "mode": "Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Modules 5 &amp; 6, refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Take Home Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 1/11/2024 - 5/11/2024</p>\n<p>\n</p><p>To be completed over 4 days, from 1 to 5 November 2024, due at  5pm on 5 November 2024, refer to Study Guide</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Modules, 1 - 8, refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2 Genetic Association Analysis include GWAS</strong><br/><p>Introduction to Population Genetics </p>\n<p>Introduction to Genetic Association Analysis </p>\n<p>Imputation in GWAS</p>\n<p>Intro to GWAS replication and meta analysis </p></p><p><strong>Learning outcomes:</strong> L01, L04, L08</p></div></td>",
+            "topic_title": "<strong>Module 2 Genetic Association Analysis include GWAS</strong>",
+            "topic_description": "Module 2 Genetic Association Analysis include GWAS Introduction to Population Genetics Introduction to Genetic Association Analysis Imputation in GWAS Intro to GWAS replication and meta analysis",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4 Sequence analysis using hidden Markov models</strong><br/><p>Intro to hidden Markov models </p>\n<p>Modelling protein families using HMM</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06, L08</p></div></td>",
+            "topic_title": "<strong>Module 4 Sequence analysis using hidden Markov models</strong>",
+            "topic_description": "Module 4 Sequence analysis using hidden Markov models Intro to hidden Markov models Modelling protein families using HMM",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 5 Introduction to transcriptomics data</strong><br/><p>Intro to next-gen sequencing technology </p>\n<p>Models and methods for transcriptomics data analysis </p>\n<p>Challenges in transcriptomics data analysis </p></p><p><strong>Learning outcomes:</strong> L01, L07, L08</p></div></td>",
+            "topic_title": "<strong>Module 5 Introduction to transcriptomics data</strong>",
+            "topic_description": "Module 5 Introduction to transcriptomics data Intro to next-gen sequencing technology Models and methods for transcriptomics data analysis Challenges in transcriptomics data analysis",
+            "learning_outcomes": [
+                "L01",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 7 Introduction to single-cell Omics Data</strong><br/><p>Intro to single-cell transcriptomics </p>\n<p>Models and methods for analysis of single-cell transcriptomics data </p>\n<p>Challenges in analysis of single-cell transcriptomics data</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Module 7 Introduction to single-cell Omics Data</strong>",
+            "topic_description": "Module 7 Introduction to single-cell Omics Data Intro to single-cell transcriptomics Models and methods for analysis of single-cell transcriptomics data Challenges in analysis of single-cell transcriptomics data",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
