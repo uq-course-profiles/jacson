@@ -1,0 +1,400 @@
+{
+    "course_title": "Machine Learning for Analysis",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7217-20279-7520",
+    "full_course_code": "BISM7217-20279-7520",
+    "course_code": "BISM7217",
+    "class_code": "20279",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Enhance knowledge and skills in the current trends in the management and use of machine learning (ML)."
+        },
+        {
+            "number": "LO2.",
+            "description": "Build your ML capabilities to use data for innovative business solutions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Differentiate, design, and assess various ML models."
+        },
+        {
+            "number": "LO4.",
+            "description": "Implement efficient ML strategies to solve current business problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify and translate real-world business problems into ML models."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "ML Mastery Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 3/03/2025 - 18/04/2025</p>\n<p>\n</p><p>During Tutorials</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Seven quizzes will be given during tutorials in weeks 2-8 of the semester. Attendance in your tutorial class is mandatory for quiz participation. A missed quiz will result in a score of zero. Your final quiz grade will be based on your five highest quiz scores. This allows for two missed quizzes without affecting your final grade. </p>\n<p>Important Note: If you are in a Friday tutorial, an alternative assessment will be provided for Week 8's quiz (Quiz 7) due to the April 18th public holiday.</p>\n<p>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In Semester Exam - Essential ML",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>29/03/2025 - 12/04/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Essential ML Exam thoroughly assesses your knowledge and skills in modules 1 and 2, encompassing theoretical foundations and practical implementation of machine learning (ML) techniques. </p>\n<p>Comprising two parts, the first involves multiple-choice questions gauging your adeptness in handling data within Jupyter Notebooks, a crucial skill for robust ML model construction. It specifically evaluates your capability to import raw datasets and utilize libraries like Pandas to effectively clean and pre-process data. </p>\n<p>The second part evaluates your comprehension of fundamental concepts, including classification, clustering, and their evaluation. Proficiency in model evaluation, hyperparameter tuning, and problem-solving is expected to be demonstrated.</p>\n<p>The In-Semester Exam takes place during the Saturday In-Semester Exam Period.</p>\n<p>The exam date will be confirmed when the Saturday In-Semester Exam timetable is released.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Jupyter Lifecycle Mastery in ML Project",
+            "special_indicators": [],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>Progress Check 1 (10% of mark) During Tutorial Week 9,</p>\n<p>Progress Check 2 (10% of mark) During Tutorial Week 12,</p>\n<p>Final Submission (90% of mark) 30/05/2025 3:00 pm</p>\n<p>\n</p><p>Progress Checks are during your tutorial in the allocated weeks.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This individual assignment provides a comprehensive opportunity for hands-on engagement with the entire lifecycle of an ML project. The primary objective is to gain practical experience in the sequential processes of conceptualizing, constructing, evaluating, refining, and ultimately presenting an ML model. The assignment is designed to enhance your proficiency in utilizing Jupyter Notebook as the exclusive platform for model development.</p>\n<p>Throughout this project, you will delve into the intricacies of data pre-processing, model selection, and hyperparameter tuning to craft robust and effective ML models. Emphasis will be placed on understanding the iterative nature of model refinement, as you work to enhance the model's performance based on evaluation metrics.</p>\n<p>The deliverable for this assignment is the Jupyter Notebook containing your entire workflow. This serves as a testament to your skills in model development and showcases your understanding of the practical applications of ML in a business context. This assignment aims to equip you with practical insights and skills that can be directly applied in real-world scenarios, fostering a holistic understanding of the ML project lifecycle.</p>\n<p><strong>Progress Checks:</strong> To receive full marks in the assignment, you are required to successfully complete two progress checks during your enrolled tutorial sessions. There is no alternative for the progress checks.</p>\n<p>If you successfully complete the progress checks, you can earn full marks for the assignment. However, if you miss one or both progress checks, you will lose the opportunity to earn full marks.</p>\n<p>For example, to earn full marks for the data exploration part of the assignment, your work must be deemed \"very good,\" and you must have completed Progress Check 1. If your data exploration work meets the \"very good\" criteria but you have not completed Progress Check 1, you will only receive 90% of the total marks allocated for data exploration. Conversely, if you have completed Progress Check 1, you will receive 100% of the allocated marks.</p>\n<p><strong>AI Statement:</strong></p>\n<p><em>Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.</em></p>\n<p><em>Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be submitted electronically through the Blackboard Assessment link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to ML and Python</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to ML and Python</strong>",
+            "topic_description": "Introduction to ML and Python",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Python coding for ML </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Python coding for ML </strong>",
+            "topic_description": "Python coding for ML",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Types, Loops, and Conditionals in Python + Quiz 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Data Types, Loops, and Conditionals in Python + Quiz 1</strong>",
+            "topic_description": "Data Types, Loops, and Conditionals in Python + Quiz 1",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cluster analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Cluster analysis</strong>",
+            "topic_description": "Cluster analysis",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>k-Means in Python + Quiz 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>k-Means in Python + Quiz 2</strong>",
+            "topic_description": "k-Means in Python + Quiz 2",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Classification</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Classification</strong>",
+            "topic_description": "Classification",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Basic classifiers in Python + Quiz 3</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Basic classifiers in Python + Quiz 3</strong>",
+            "topic_description": "Basic classifiers in Python + Quiz 3",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Classification evaluation</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Classification evaluation</strong>",
+            "topic_description": "Classification evaluation",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cross Validation in Python + Quiz 4</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Cross Validation in Python + Quiz 4</strong>",
+            "topic_description": "Cross Validation in Python + Quiz 4",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Other classification techniques</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Other classification techniques</strong>",
+            "topic_description": "Other classification techniques",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>SVM, NB and KNN in Python + Quiz 5</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>SVM, NB and KNN in Python + Quiz 5</strong>",
+            "topic_description": "SVM, NB and KNN in Python + Quiz 5",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Text preparation for ML</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Text preparation for ML</strong>",
+            "topic_description": "Text preparation for ML",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Text processing in Python + Quiz 6</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Text processing in Python + Quiz 6</strong>",
+            "topic_description": "Text processing in Python + Quiz 6",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Text-Driven ML</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Text-Driven ML</strong>",
+            "topic_description": "Text-Driven ML",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ML using text in Python + Quiz 7</strong><br/><p><strong>Good Friday Public Holiday - Friday 18 April 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>ML using text in Python + Quiz 7</strong>",
+            "topic_description": "ML using text in Python + Quiz 7 Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Recommender Systems</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Recommender Systems</strong>",
+            "topic_description": "Recommender Systems",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Progress Check 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Assignment Progress Check 1</strong>",
+            "topic_description": "Assignment Progress Check 1",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Artificial Neural Networks</strong><br/><p><strong>Labour Day Public Holiday - Monday 5 May 2025</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Artificial Neural Networks</strong>",
+            "topic_description": "Artificial Neural Networks Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Backpropagation in Python</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Backpropagation in Python</strong>",
+            "topic_description": "Backpropagation in Python",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deep Learning (DL)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Deep Learning (DL)</strong>",
+            "topic_description": "Deep Learning (DL)",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>DL implementation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>DL implementation</strong>",
+            "topic_description": "DL implementation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to LLMs</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to LLMs</strong>",
+            "topic_description": "Introduction to LLMs",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Progress Check 2</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Assignment Progress Check 2</strong>",
+            "topic_description": "Assignment Progress Check 2",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>LLMs' applications</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>LLMs' applications</strong>",
+            "topic_description": "LLMs' applications",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>LLM implementation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>LLM implementation</strong>",
+            "topic_description": "LLM implementation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
