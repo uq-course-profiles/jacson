@@ -1,0 +1,68 @@
+{
+    "course_title": "MR-PET Hardware & Software Integration",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MOLI7107-64422-7460",
+    "full_course_code": "MOLI7107-64422-7460",
+    "course_code": "MOLI7107",
+    "class_code": "64422",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Have a general understanding of the hardware and software used in hybrid MR-PET systems (A1, A4, B2, B5, C2, D1, D3)"
+        },
+        {
+            "number": "LO2.",
+            "description": "Be aware of the importance and procedure of correct system calibration (A4, B2, B3, B5, C1,D1, D2, D5)"
+        },
+        {
+            "number": "LO3.",
+            "description": "Have a general understanding of appropriate work flow of an MR-PET system (A1, A4, B1, B2, B3, B4, B5, C1, C2, C3, D1, D2, D3)"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 18/10/2024 1:00 pm</p>\n<p>\n</p><p>End of Week 12</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will allow students to investigate the application of MR-PET for clinical investigation. Topic will be annouced early in the semester.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submited through Turnitin</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Online Final Examination",
+            "special_indicators": [],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>All, internal and external students will complete the final exam online via Blackboard. Answers are required to be written or copied directly into field for each question in the blackboard exam. The examination is a non-invigilated online exam. It will be centrally timetabled. You will be advised of the date and time in which to complete the examination once the examination timetable has been determined. Note that late penalties will be strictly applied as per university policy. </p>\n<p>Students must receive at least 50% in the examination in order to pass the course. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>1. Why MR-PET?</strong><br/></p></div></td>",
+            "topic_title": "<strong>1. Why MR-PET?</strong>",
+            "topic_description": "1. Why MR-PET?",
+            "learning_outcomes": []
+        }
+    ]
+}
