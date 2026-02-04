@@ -1,0 +1,343 @@
+{
+    "course_title": "Introduction to Software Engineering",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE7030-61136-7460",
+    "full_course_code": "CSSE7030-61136-7460",
+    "course_code": "CSSE7030",
+    "class_code": "61136",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "apply program constructs such as variables, selection, iteration and sub-routines,"
+        },
+        {
+            "number": "LO2.",
+            "description": "apply basic object-oriented concepts such as classes, instances and methods,"
+        },
+        {
+            "number": "LO3.",
+            "description": "read and analyse code written by others,"
+        },
+        {
+            "number": "LO4.",
+            "description": "analyse a problem and design an algorithmic solution to the problem,"
+        },
+        {
+            "number": "LO5.",
+            "description": "read and analyse a design and be able to translate the design into a working program,"
+        },
+        {
+            "number": "LO6.",
+            "description": "apply techniques for testing and debugging,"
+        },
+        {
+            "number": "LO7.",
+            "description": "design and implement simple GUIs"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Computer exercise (Assignment 1)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 23/08/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05, L06",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will implement a small program based on a specification.</p>\n<p>This assessment covers topics from teaching week one through four. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>31/08/2024 - 14/09/2024</p>\n<p>\n</p><p>An In-Semester Exam will be scheduled on one of the following Saturdays: 31 August (week 6) or 7 September (week 7) or 14 September (week 8) </p>\n<p>The exact date and time of the In-Semester Exam will be announced via email and on the course Blackboard site later during the semester.</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam will test understanding of the concepts covered over the first 5 or 6 weeks (depending to the scheduled date of the exam). </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Computer exercise 2 (Assignment 2 and Shifoo)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25% (Assignment 2 15% and Shifoo exercises 10%) </dd>",
+            "due_date": "<dd><p>Assignment 2 25/10/2024 3:00 pm</p>\n<p>Shifoo Exercise 1 29/07/2024 3:00 pm</p>\n<p>Shifoo Exercise 2 5/08/2024 3:00 pm</p>\n<p>Shifoo Exercise 3 12/08/2024 3:00 pm</p>\n<p>Shifoo Exercise 4 19/08/2024 3:00 pm</p>\n<p>Shifoo Exercise 5 26/08/2024 3:00 pm</p>\n<p>Shifoo Exercise 6 2/09/2024 3:00 pm</p>\n<p>Shifoo Exercise 7 9/09/2024 3:00 pm</p>\n<p>Shifoo Exercise 8 16/09/2024 3:00 pm</p>\n<p>Shifoo Exercise 9 30/09/2024 3:00 pm</p>\n<p>Shifoo Exercise 10 8/10/2024 3:00 pm</p>\n<p>Shifoo Exercise 11 14/10/2024 3:00 pm</p>\n<p>Shifoo Exercise 12 21/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This task has two main components as following:</p>\n<ol>\n<li>Assignment 2: This component will pull together what you have learnt throughout the semester. You will create a more sophisticated program that makes use of a graphical user interface to enable a more flexible model of interaction with the user.</li>\n<li>Shifoo programming exercises: There are weekly sets of programming exercises to practice content of the week and to prepare yourself for Assignment 2. Best 10 out of 12 will be counted (1% each).</li>\n</ol>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a <strong>closed book</strong> and <strong>identity verified</strong> examination that is written on campus.</p>\n<p>The final exam is compulsory and covers the entire course. </p>\n<p>The final exam will be scheduled at a fixed time for all students.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact Sessions</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Contact Sessions</strong>",
+            "topic_description": "Contact Sessions",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1</strong><br/><p>Course introduction.<br/>\nArithmetic, types and variables in programming.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Week 1</strong>",
+            "topic_description": "Week 1 Course introduction. Arithmetic, types and variables in programming.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(29 Jul - 27 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2</strong><br><p>Functions and Control Structures.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 2</strong>",
+            "topic_description": "Week 2 Functions and Control Structures.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3</strong><br/><p>Loops and Strings</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 3</strong>",
+            "topic_description": "Week 3 Loops and Strings",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4</strong><br/><p>Tuples, Lists, and Dictionaries</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Week 4</strong>",
+            "topic_description": "Week 4 Tuples, Lists, and Dictionaries",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5</strong><br/><p>File IO and Testing</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 5</strong>",
+            "topic_description": "Week 5 File IO and Testing",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6</strong><br/><p>Scope and Intro to Object Oriented Programming</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 6</strong>",
+            "topic_description": "Week 6 Scope and Intro to Object Oriented Programming",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7</strong><br/><p>Exceptions, Inheritance and Polymorphism</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 7</strong>",
+            "topic_description": "Week 7 Exceptions, Inheritance and Polymorphism",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8</strong><br/><p>Graphical User Interfaces 1: Basic Widgets</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Week 8</strong>",
+            "topic_description": "Week 8 Graphical User Interfaces 1: Basic Widgets",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9</strong><br/><p>Graphical User Interface 2: Frames, Events and Canvas</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Week 9</strong>",
+            "topic_description": "Week 9 Graphical User Interface 2: Frames, Events and Canvas",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10</strong><br/><p>Graphical User Interface 3: Menus and File Dialog</p>\n<p>Introduction to Functional Programming</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Week 10</strong>",
+            "topic_description": "Week 10 Graphical User Interface 3: Menus and File Dialog Introduction to Functional Programming",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12</strong><br/><p>Functional Programming and Recursion</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 12</strong>",
+            "topic_description": "Week 12 Functional Programming and Recursion",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13</strong><br/><p>Revision.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Week 13</strong>",
+            "topic_description": "Week 13 Revision.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
