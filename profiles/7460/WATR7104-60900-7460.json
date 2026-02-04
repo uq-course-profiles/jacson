@@ -1,0 +1,133 @@
+{
+    "course_title": "Sewer Networks - Design, Operation and Maintenance",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/WATR7104-60900-7460",
+    "full_course_code": "WATR7104-60900-7460",
+    "course_code": "WATR7104",
+    "class_code": "60900",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the purpose of different components of a sewer system and rationale behind their design"
+        },
+        {
+            "number": "LO2.",
+            "description": "Estimate sewer flow taking into account the various contributing factors"
+        },
+        {
+            "number": "LO3.",
+            "description": "Differentiate between different types of sewers (separate versus combined, pressure main versus gravity)"
+        },
+        {
+            "number": "LO4.",
+            "description": "Perform necessary calculations for the design of sewer pipes, pump stations and other sewer structures"
+        },
+        {
+            "number": "LO5.",
+            "description": "Explain biological, physical and chemical processes relevant to a sewer system and their modelling approaches"
+        },
+        {
+            "number": "LO6.",
+            "description": "Identify key operational issues of sewer systems including sewer overflows; solids sedimentation; gaseous emissions and odour and concrete corrosion"
+        },
+        {
+            "number": "LO7.",
+            "description": "Apply the knowledge gained in this course to effectively operate and manage a sewer system"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "A series of short quizzes in Weeks 3, 5 and 8 during Tutorials",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 5/08/2024 - 9/09/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be closed book quizzes on week 3, week 5, and week 8 during Tutorials. 5/8/2024, 26/8/2024, 9/9/2024 12 pm.</p>\n<p>Reading: 10 minutes</p>\n<p>Duration: 20 minutes</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment#1: Hydraulic modelling of sewer network",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 2/09/2024 12:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L07",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be provided a GIS map of a catchment and will be asked to work out the following (individual submission):</p>\n<p>1. Develop a layout of the sewer system based on the data collected from the map showing all the components of the sewer network</p>\n<p>2. Plot a longitudinal profile for the main sewer line</p>\n<p>3. Calculated wastewater flow for the sewer network based on the information provided</p>\n<p>4. Develop a hydraulic model for the sewer network</p>\n<p>Students are required to submit a report as well as a copy of the hydraulic model they have developed. </p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Turnitin</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Exam In-Semester During Class",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 30/09/2024 12:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Multiple choice questions, fill in the blanks, short answer questions and problem solving. Closed book/Invigilated.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Assignment#2: Development of sewer management plan",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 21/10/2024 10:00 am</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Separate case studies (in terms of published report/paper/article) and problem statements will be given to each student. Students are expected to investigate the asset management issues for their case study, and prepare a critical review of the problems and management plan. Alternative management options should be explored and presented. The findings should be presented in a form of a report. Each student will also be required to make a presentation of his/her work. Marking will be done based on the evaluation of both submitted report (40%) and the presentation (60%).</p>\n<p>This assessment task is to be completed in-person. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Turnitin</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": []
+}
