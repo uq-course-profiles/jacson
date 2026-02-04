@@ -1,0 +1,47 @@
+{
+    "course_title": "Minor Project A",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7014-64486-7460",
+    "full_course_code": "STAT7014-64486-7460",
+    "course_code": "STAT7014",
+    "class_code": "64486",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate knowledge in the specific topic area"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Independent Study",
+            "special_indicators": [],
+            "weighting": "<dd>100%</dd>",
+            "due_date": "<dd><p> 4/11/2024 4:00 pm</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Thesis",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assessment procedures will be specified by the supervising faculty member in the first week of semester. </p>\n<p>Assessment items may include one or more of the following: assignments, literature surveys, seminars, exams, etc.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The submission should be prepared in electronic version, preferably in PDF format. The file should be submitted to the Blackboard system, or saved by the supervisor for one year.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Directed Study</strong><br><p>Directed reading under the supervision of a faculty member.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Directed Study</strong>",
+            "topic_description": "Directed Study Directed reading under the supervision of a faculty member.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        }
+    ]
+}
