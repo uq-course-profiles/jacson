@@ -1,0 +1,186 @@
+{
+    "course_title": "Control System Implementation",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/METR3100-21329-7520",
+    "full_course_code": "METR3100-21329-7520",
+    "course_code": "METR3100",
+    "class_code": "21329",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply risk-based engineering frameworks to design and implement control systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply systems-based engineering frameworks to design and implement control systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design and implement control system sensing elements."
+        },
+        {
+            "number": "LO4.",
+            "description": "Design and implement control system decision making elements."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design and implement control system actuation elements."
+        },
+        {
+            "number": "LO6.",
+            "description": "Work within an engineering team towards the design and implementation of control systems."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Five Laboratory Practicals with Pre-work",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Pre-work 1 &amp; Practical 1  31/03/2025 1:00 pm</p>\n<p>Pre-work 2 &amp; Practical 2  14/04/2025 1:00 pm</p>\n<p>Pre-work 3 &amp; Practical 3  28/04/2025 1:00 pm</p>\n<p>Pre-work 4 &amp; Practical 4  12/05/2025 1:00 pm</p>\n<p>Pre-work 5 &amp; Practical 5  19/05/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Activity/ Performance, Written",
+            "category": "Practical/ Demonstration, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This course has a set of five (5) laboratory practical sessions where students will put Learning Outcomes into practice. The total of this assessment sequence is 30%. Which comprises of 4% for each of the 5 pre-works and a 10% component calculated from the best 4 out of 5 practical marks.</p>\n<p>Each practical includes a pre-work component to ensure that students are familiar with the experiments/equipment on arrival. The assessments are scheduled to allow adequate time for students to receive and incorporate feedback on the pre-work prior to attending the practical session.</p>\n<p>The five practicals are as follows:</p>\n<p><strong>Prac 1: Strain Gauges </strong></p>\n<p><strong>Prac 2: LiDAR Perception </strong></p>\n<p><strong>Prac 3: GNSS Sensors </strong></p>\n<p><strong>Prac 4: Bio-inspired Control Systems</strong></p>\n<p><strong>Prac 5: PLC Sequencing </strong></p>\n<p>Prac 1, 2, 4, and 5 are in room #50-C403. This room has 6 work stations at which students will work in small groups of 2-4 to complete the prac.</p>\n<p>Prac 3 requires line of sight to the sky and will be conducted in the courtyard behind the Andrew N. Liveris Building (#46).</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Pre-work is to be submitted using the TurnItIn link on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Engineering Framework Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 6/05/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will apply a system theoretic process analysis (STPA) towards the identification of loss scenarios in a described control system.</p>\n<p>Students will then use the ideas contained within the functional safety framework to design a safety system that reduces an identified hazard’s risk to a tolerable level.</p>\n<p>The grading criteria of this assessment item will be focused towards the application of engineering frameworks for the identification of hazards and the reduction of risk that hazards impose. The criteria will not focus on the elegance or detail of the proposed system.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please refer to Blackboard for a detailed marking criteria</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This assignment will be submitted through TurnItIn via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Actuator Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 26/05/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L05",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The actuators module is the final module of the course. It does not have an associated practical or report attached to it.</p>\n<p>This assessment item will consist of 'tutorial-like' questions that relate to the modelling of AC and DC motors.</p>\n<p>This assessment item serves as a way to provide students with feedback against the actuator Learning Objectives prior to the Final Examination.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please refer to Blackboard for a detailed marking criteria</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignments will be submitted through TurnItIn via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p>\n<p>\n</p><p>Please refer to your personal exam timetable on my.UQ.</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The examination covers the contents learnt in both classroom teaching and practicals.</p>\n<p>Students will have received feedback for all examinable Learning Objectives prior to the Final Exam.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>Each week will include two 1 hour lectures. </p>\n<p>Lectures will be recorded via ECHO360 which will be accessible from Blackboard. </p>\n<p>Lectures will introduce material to the class. These ideas will be reinforced through the weekly tutorial and contact sessions.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Each week will include two 1 hour lectures. Lectures will be recorded via ECHO360 which will be accessible from Blackboard. Lectures will introduce material to the class. These ideas will be reinforced through the weekly tutorial and contact sessions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(03 Mar - 01 Jun)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials</strong><br><p>There are six tutorial sheets that we will work through over the semester (1A, 1B, 2A, 2B, 3, 4). The solutions to these tutorials will be provided after you have had a chance to complete them. The questions are designed to provide an opportunity for students to test their understanding of the course content and ask questions where gaps may appear.</p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorials</strong>",
+            "topic_description": "Tutorials There are six tutorial sheets that we will work through over the semester (1A, 1B, 2A, 2B, 3, 4). The solutions to these tutorials will be provided after you have had a chance to complete them. The questions are designed to provide an opportunity for students to test their understanding of the course content and ask questions where gaps may appear.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(03 Mar - 01 Jun)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact</strong><br><p>We will have a 1 hour contact session in Weeks 2-13. These sessions are an opportunity for students to ask for additional help/explanation on any of the course content.</p>\n<p>These sessions will often be used to discuss the assessment items that are approaching.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Contact</strong>",
+            "topic_description": "Contact We will have a 1 hour contact session in Weeks 2-13. These sessions are an opportunity for students to ask for additional help/explanation on any of the course content. These sessions will often be used to discuss the assessment items that are approaching.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 13(31 Mar - 01 Jun)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>Students will complete five practical sessions.</p>\n<p>The practical sessions allow students to see theoretical content in practice.</p>\n<p>Please see the Sequenced assessment item for further information about the practical content.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals Students will complete five practical sessions. The practical sessions allow students to see theoretical content in practice. Please see the Sequenced assessment item for further information about the practical content.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L06"
+            ]
+        }
+    ]
+}
