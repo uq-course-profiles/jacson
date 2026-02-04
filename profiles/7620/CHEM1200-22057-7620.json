@@ -1,0 +1,178 @@
+{
+    "course_title": "Chemistry 2",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEM1200-22057-7620",
+    "full_course_code": "CHEM1200-22057-7620",
+    "course_code": "CHEM1200",
+    "class_code": "22057",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply the kinetics of non-reversible reactions to determine orders of reaction, reaction rates, rate constants and relate simple reaction mechanisms to rate laws."
+        },
+        {
+            "number": "LO2.",
+            "description": "Represent selected reaction pathways using accepted organic chemistry conventions. Describe the shapes and bonding of organic molecules and use these to predict the reactivity of various functional groups and outcomes of selected reactions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply concepts related to weak acids and bases to aqueous solutions and buffers."
+        },
+        {
+            "number": "LO4.",
+            "description": "Determine simple chemical structures by Mass Spectrometry (MS) and Nuclear Magnetic Resonance (NMR) Spectroscopy."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply crystal field theory to the bonding and visible spectroscopy of transition metal compounds."
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate practical competencies in a basic set of laboratory techniques."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Laboratory practicals",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>Assessment completed after the respective laboratory session</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Completion of 5 experiments is required to obtain a passing grade (4 or higher). The laboratory classes are performed in scheduled practical sessions throughout semester. It is your responsibility to attend all 5 laboratory sessions at your scheduled times. If you miss a laboratory session, it is your responsibility to inform the laboratory coordinator and arrange a catch-up session.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The pre-lab and post-lab quizzes are accessed and submitted through Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Workshop assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p>Specific due dates for each assessment piece apply and will be provided at the start of the course</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment will be due at the end of each of your workshop. </p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In-Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>28/03/2026 - 2/05/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An in-semester examination is based on work covered in the first four weeks of the semester only. The in-semester exam will be an invigilated, on-campus, closed-book examination (1 hour exam + 10 minutes planning time) and will consist of a mixture of multiple choice and short answer questions.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A two hour (+ 10 minutes planning time) examination (<strong>invigilated, on-campus, closed-book examination</strong>) containing both multiple choice questions and short answer questions.</p>\n<p>Marks are NOT deducted for an incorrect answer. Marks are NOT awarded for a blank answer. Marks are only given for a correct answer. Part marks are possible for short answer questions.</p>\n<p>The end of semester examination will cover lecture material from Week 5 of semester onwards (Acids and Bases, Organic Chemistry II and Transition Metal Chemistry). Lecture material examined in the in-semester exam will not be included explicitly, although the material assessed on the end of semester examination builds on earlier material in the course.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshops</strong><br/><p>There will be one 2-hour workshop every 2 weeks beginning in week 2.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Workshops</strong>",
+            "topic_description": "Workshops There will be one 2-hour workshop every 2 weeks beginning in week 2.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laboratory</strong><br/><p>There will be one 3-hour laboratory practical every two weeks beginning in week 2. </p></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong>Laboratory</strong>",
+            "topic_description": "Laboratory There will be one 3-hour laboratory practical every two weeks beginning in week 2.",
+            "learning_outcomes": [
+                "L06"
+            ]
+        }
+    ]
+}
