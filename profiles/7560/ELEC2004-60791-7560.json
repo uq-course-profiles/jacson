@@ -1,0 +1,314 @@
+{
+    "course_title": "Circuits, Signals & Systems",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC2004-60791-7560",
+    "full_course_code": "ELEC2004-60791-7560",
+    "course_code": "ELEC2004",
+    "class_code": "60791",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain and be able to apply linear circuit theorems and circuit analysis methods such as mesh current and node voltage"
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain operating principle of operational amplifiers and be able to build and analyse the circuits containing operational amplifiers"
+        },
+        {
+            "number": "LO3.",
+            "description": "To be able to evaluate and analyse the time responses of switching circuits containing a resistor, a single capacitor and/or an inductor"
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse the response of a resistor / inductor /capacitor circuits to an AC excitation of a single frequency"
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse the power in resistor / inductor /capacitor circuits excited by a single frequency of AC"
+        },
+        {
+            "number": "LO6.",
+            "description": "Intuitively generate the frequency response (Bode plot) of a known circuit and be able to interpret the frequency response (Bode plot) of an unknown circuit"
+        },
+        {
+            "number": "LO7.",
+            "description": "Build and analyse electronic circuits with resistors, capacitors and inductors"
+        },
+        {
+            "number": "LO8.",
+            "description": "Be able to effectively use Laplace and Fourier transforms in circuit analysis"
+        },
+        {
+            "number": "LO9.",
+            "description": "Explain the concept of transfer functions and be able to use them in circuit analysis"
+        },
+        {
+            "number": "LO10.",
+            "description": "Design circuits to generate transfer functions"
+        },
+        {
+            "number": "LO11.",
+            "description": "Build and verify electronic circuits to implement transfer functions"
+        },
+        {
+            "number": "LO12.",
+            "description": "Be able to collaboratively work for design and implement filters"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Design Challenge Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>24%</dd>",
+            "due_date": "<dd><p> 30/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A 15 page report jointly written with a lab partner on the solution to the Design Challenge, including theoretical grounding, design basis, experimental results and discussion. Details of the report format are available for download from the course Blackboard page. To be submitted on Thursday of week 13, by 4 pm. <strong>Due date: October 30, 4pm via Blackboard.</strong></p>\n<p>Only electronic submission is required. Electronic submission is to be made through Blackboard Turnitin. Hardcopy submission is not required. Only one submission per group is required.</p>\n<p><em>The Design Challenge Report has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission of Design Challenge report will be through Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Homework Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>16%</dd>",
+            "due_date": "<dd><p>Homework 1 15/08/2025 4:00 pm</p>\n<p>Homework 2 29/08/2025 4:00 pm</p>\n<p>Homework 3 10/10/2025 4:00 pm</p>\n<p>Homework 4 24/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be 4 Homework Assignments to be completed individually by each student. The Homework <em>problem sheets</em> will be available on Blackboard as per the following schedule. The due dates are also listed. The completed handwritten solutions to the Homework Assignments are to be scanned and uploaded through Blackboard:</p>\n<p><em>Homework 1:</em> available on Blackboard on Friday, August 8; Submission due date: August 15, 4 pm.</p>\n<p><em>Homework 2:</em> available on Blackboard on Friday, August 22; Submission due date: August 29, 4pm.</p>\n<p><em>Homework 3:</em> available on Blackboard on Friday, September 26; Submission due date: October 10, 4pm.</p>\n<p><em>Homework 4:</em> available on Blackboard on Friday, October 17; Submission due date: October 24, 4pm.</p>\n<p>Each Homework Assignment will contain 2-3 problems. Problems will be based on the lectures, practicals, and applied class/workshop exercises.</p>\n<p><br/></p>\n<p><em>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Homework submission through Blackboard assignment links. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In-Semester Theory Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 8/09/2025 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam will comprise of 3-4 problems based on the circuits part of the course. This exam will be timed, on-campus, invigilated and closed-book. All students will attempt the exam at the same time. The exam venue will be advised closer to the exam date.  </p>\n<p><br/></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam will comprise of multi-part system design problems covering material from the signals and systems portion of the course, and will also incorporate concepts from the circuits part of the course.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction, Network Analysis, dependent sources</strong><br/></p></div></td>",
+            "topic_title": "<strong>Introduction, Network Analysis, dependent sources</strong>",
+            "topic_description": "Introduction, Network Analysis, dependent sources",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 3",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Operational Amplifiers</strong><br/></p></div></td>",
+            "topic_title": "<strong>Operational Amplifiers</strong>",
+            "topic_description": "Operational Amplifiers",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Operational Amplifiers</strong><br/></p></div></td>",
+            "topic_title": "<strong>Operational Amplifiers</strong>",
+            "topic_description": "Operational Amplifiers",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Circuit Theorems</strong><br/></p></div></td>",
+            "topic_title": "<strong>Linear Circuit Theorems</strong>",
+            "topic_description": "Linear Circuit Theorems",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capacitors and Inductors, RL and RC Circuits</strong><br/><p>Lecture will discuss Capacitors, Inductors, RL and RC Circuits.</p></p></div></td>",
+            "topic_title": "<strong>Capacitors and Inductors, RL and RC Circuits</strong>",
+            "topic_description": "Capacitors and Inductors, RL and RC Circuits Lecture will discuss Capacitors, Inductors, RL and RC Circuits.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capacitors and Inductors, RL and RC Circuits</strong><br/></p></div></td>",
+            "topic_title": "<strong>Capacitors and Inductors, RL and RC Circuits</strong>",
+            "topic_description": "Capacitors and Inductors, RL and RC Circuits",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 5",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>RLC Circuits Lab</strong><br/></p></div></td>",
+            "topic_title": "<strong>RLC Circuits Lab</strong>",
+            "topic_description": "RLC Circuits Lab",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>RLC Circuits</strong><br/></p></div></td>",
+            "topic_title": "<strong>RLC Circuits</strong>",
+            "topic_description": "RLC Circuits",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>RLC Circuits Applied Class</strong><br/></p></div></td>",
+            "topic_title": "<strong>RLC Circuits Applied Class</strong>",
+            "topic_description": "RLC Circuits Applied Class",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>AC Steady State Analysis</strong><br/></p></div></td>",
+            "topic_title": "<strong>AC Steady State Analysis</strong>",
+            "topic_description": "AC Steady State Analysis",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 11",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Design Challenge (weeks 1 and 2)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Design Challenge (weeks 1 and 2)</strong>",
+            "topic_description": "Design Challenge (weeks 1 and 2)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>AC Power, Frequency Response</strong><br/></p></div></td>",
+            "topic_title": "<strong>AC Power, Frequency Response</strong>",
+            "topic_description": "AC Power, Frequency Response",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to signals and systems</strong><br/></p></div></td>",
+            "topic_title": "<strong>Introduction to signals and systems</strong>",
+            "topic_description": "Introduction to signals and systems",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laplace Transform</strong><br/></p></div></td>",
+            "topic_title": "<strong>Laplace Transform</strong>",
+            "topic_description": "Laplace Transform",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 9",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laplace Transform</strong><br/></p></div></td>",
+            "topic_title": "<strong>Laplace Transform</strong>",
+            "topic_description": "Laplace Transform",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fourier Series and Transform</strong><br/></p></div></td>",
+            "topic_title": "<strong>Fourier Series and Transform</strong>",
+            "topic_description": "Fourier Series and Transform",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 11",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fourier Transform Design Question</strong><br/></p></div></td>",
+            "topic_title": "<strong>Fourier Transform Design Question</strong>",
+            "topic_description": "Fourier Transform Design Question",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 12 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Filter Circuits</strong><br/></p></div></td>",
+            "topic_title": "<strong>Filter Circuits</strong>",
+            "topic_description": "Filter Circuits",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 12 To Week 13",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Filter Circuits Applied Class</strong><br/></p></div></td>",
+            "topic_title": "<strong>Filter Circuits Applied Class</strong>",
+            "topic_description": "Filter Circuits Applied Class",
+            "learning_outcomes": []
+        }
+    ]
+}
