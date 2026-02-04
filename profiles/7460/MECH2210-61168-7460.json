@@ -1,0 +1,166 @@
+{
+    "course_title": "Intermediate Mechanical & Space Dynamics",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2210-61168-7460",
+    "full_course_code": "MECH2210-61168-7460",
+    "course_code": "MECH2210",
+    "class_code": "61168",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Formulate and apply the principles of 2D dynamics and single degree of freedom vibrations - Explain fundamental concepts of particle dynamics using Newtonian mechanics and derive and analyse equations of motion of engineering systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Formulate and apply the principles of 2D dynamics and single degree of freedom vibrations - Describe the work energy principle including equivalent mass and inertia and apply it to obtain and analyse the motion of rigid body systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Formulate and apply the principles of 2D dynamics and single degree of freedom vibrations - Understand the balancing of rotating masses and use it to analyse the balancing of reciprocating engines."
+        },
+        {
+            "number": "LO4.",
+            "description": "Formulate and apply the principles of 2D dynamics and single degree of freedom vibrations - Explain and describe free and forced, undamped and damped vibration of one degree of freedom systems and solve engineering vibration problems including vibration transmissibility."
+        },
+        {
+            "number": "LO5.",
+            "description": "Derive solutions for fundamental orbital mechanics problems - Describe Kepler's Laws and use Newton's Laws to derive them."
+        },
+        {
+            "number": "LO6.",
+            "description": "Derive solutions for fundamental orbital mechanics problems - Derive and explain the Orbit Equations and how they relate to Conic sections."
+        },
+        {
+            "number": "LO7.",
+            "description": "Derive solutions for fundamental orbital mechanics problems - Explain principles of Angular Momentum and Energy conservation in orbital mechanics and apply them to solve orbit problems including Hohmann and interplanetary transfers."
+        },
+        {
+            "number": "LO8.",
+            "description": "Formulate and evaluate governing equations of 3D rigid body dynamics systems - Explain principles of Angular Momentum and Kinetic Energy in 3D rigid body dynamics and derive and solve equations of motion of 3D dynamic engineering systems."
+        },
+        {
+            "number": "LO9.",
+            "description": "Formulate and evaluate governing equations of 3D rigid body dynamics systems - Describe the equations of 3D rigid body rotation and solve for gyroscopic forces and motion in 3D."
+        },
+        {
+            "number": "LO10.",
+            "description": "Formulate and evaluate governing equations of 3D rigid body dynamics systems - Explain free and forced precession and stability of 3D motion of engineering and space applications."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Section A and B Assignments (5)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25% 5% each </dd>",
+            "due_date": "<dd><p>A1 Particle Dynamics 19/08/2024 3:00 pm</p>\n<p>A2 Rigid Body Dynamics 2/09/2024 3:00 pm</p>\n<p>A3 Single Degree of Freedom Vibrations 16/09/2024 3:00 pm</p>\n<p>B1 Orbital Mechanics 8/10/2024 3:00 pm</p>\n<p>B2 3D Dynamics 21/10/2024 3:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignments</p>\n<ul>\n<li>A1 Particle Dynamics</li>\n<li>A2 Rigid Body Dynamics</li>\n<li>A3 Single Degree of Freedom Vibrations</li>\n<li>B1 Orbital Mechanics</li>\n<li>B2 3D Dynamics</li>\n</ul>\n<p>Individual submission or submission from small group of maximum three (3) students.</p>\n<p>Only submit one report per group. The names and student numbers of all group members have to be included on the first page of the Assignment. </p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted to Turnitin via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Laboratory Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p>Two (2) teaching weeks after experiment performed, 15:00.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>One (1) formal laboratory report of your choice of practical 1 or 2 or 4. </p>\n<p><strong>Individual</strong> submission <strong>or</strong> submission from <strong>small group</strong> of maximum four (4) students.</p>\n<p>The reports are to be submitted to Turnitin via Blackboard, two (2) teaching weeks after the experiment is performed.</p>\n<p>If it is a group submission, only submit <strong>one report per group</strong>. The names and student numbers of all group members have to be included on the first page of the report.</p>\n<p>The due date is extended to the end of week 12 for the 3D dynamics practical 4 for those who perform the practical early, i.e. Friday, 18 October 2024 is the earliest due date for anyone to submit their report for practical 4. The reason for this extension is to account for the time when the necessary content is introduced in the lectures.</p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Reports are to be submitted to Turnitin via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Online Quiz of Particle Dynamics",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 16/08/2024 3:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An internet-based quiz on particle dynamics will be run in the first few weeks. You may attempt the questions as many times as you like before the due date. </p>\n<p>You need to obtain a minimum of 75% for each module to pass the quiz.</p>\n<p><strong>You must pass the quiz to pass the course.</strong></p>\n<p>If you do not meet the 75% pass requirement by the due date, you will have a chance to get targeted assistance and reattempt the quiz later in semester. </p>\n<p>Feedback on assessment is online and immediate.</p>\n<p>The main purpose of the quiz is for you to identify potential weaknesses in your knowledge of the initial course materials which are foundation for all other parts of the course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exam Period.</p>\n<p>This is a Closed Book examination - specified materials permitted. </p>\n<p>One A4 sheet of notes double sided is permitted. </p>\n<p>Calculator: Students are only permitted to use Casio FX82 series or UQ approved (labelled) calculators in this examination.</p>\n<p> </p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>Introduction of fundamental theories and concepts and demonstration of basic problem solving methods and techniques for the three sections of the course,</p>\n<p>·        Section A: 2D dynamics and single degree of freedom vibrations</p>\n<p>·        Section B1: Orbital mechanics</p>\n<p>·        Seciton B2: 3D dynamics</p>\n<p><br/></p></br></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Introduction of fundamental theories and concepts and demonstration of basic problem solving methods and techniques for the three sections of the course, ·        Section A: 2D dynamics and single degree of freedom vibrations ·        Section B1: Orbital mechanics ·        Seciton B2: 3D dynamics",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(22 Jul - 27 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials and Assignments</strong><br><p>All sections of the course have tutorials and assignments with set problems.</p>\n<p>The tutorial sessions provide opportunities to apply the techniques demonstrated in the lectures to solve problems under the guidance of teaching staff. At the tutorial sessions students are encouraged to discuss any questions which arise from lectures and practicals and to ask questions regarding the solutions of the tutorial problems. The primary purpose of the tutorial sessions is to give individual attention to specific student queries.</p>\n<p>In the assignments the students apply their theoretical and practical skills from the lectures and tutorials to independently solve problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Tutorials and Assignments</strong>",
+            "topic_description": "Tutorials and Assignments All sections of the course have tutorials and assignments with set problems. The tutorial sessions provide opportunities to apply the techniques demonstrated in the lectures to solve problems under the guidance of teaching staff. At the tutorial sessions students are encouraged to discuss any questions which arise from lectures and practicals and to ask questions regarding the solutions of the tutorial problems. The primary purpose of the tutorial sessions is to give individual attention to specific student queries. In the assignments the students apply their theoretical and practical skills from the lectures and tutorials to independently solve problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 11(05 Aug - 13 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>In the practical classes experimental investigations of cousework material is undertaken. The purpose of the practicals is to demonstrate how the course material relates to measurable physical quantities, and to provide experience in experimental techniques. </p>\n<p>Students must follow the laboratory safety guidelines outlined in the risk assessment relevant to the practicals</p>\n<p>·        6395: Practical 1 – Acceleration of a geared system experiment</p>\n<p>·        6363: Practical 2 – Balancing of rotating masses experiment</p>\n<p>·        6362: Practical 3 – Rectilinear plant experiment</p>\n<p>·        6135: Practical 4 – Gyroscopic dynamics experiment</p>\n<p><br/></p></br></p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals In the practical classes experimental investigations of cousework material is undertaken. The purpose of the practicals is to demonstrate how the course material relates to measurable physical quantities, and to provide experience in experimental techniques. Students must follow the laboratory safety guidelines outlined in the risk assessment relevant to the practicals ·        6395: Practical 1 – Acceleration of a geared system experiment ·        6363: Practical 2 – Balancing of rotating masses experiment ·        6362: Practical 3 – Rectilinear plant experiment ·        6135: Practical 4 – Gyroscopic dynamics experiment",
+            "learning_outcomes": []
+        }
+    ]
+}
