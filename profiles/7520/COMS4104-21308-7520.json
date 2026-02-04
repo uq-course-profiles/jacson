@@ -1,0 +1,319 @@
+{
+    "course_title": "Microwave Engineering",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMS4104-21308-7520",
+    "full_course_code": "COMS4104-21308-7520",
+    "course_code": "COMS4104",
+    "class_code": "21308",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate principles of operation, analysis and design of microwave passive and active sub-systems and antennas which are part of modern communication equipment."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the role of microwave subsystems and antennas in wireless communications and radar."
+        },
+        {
+            "number": "LO3.",
+            "description": "Perform a theoretical analysis of basic microwave passive and active circuits, and antennas"
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply critical reasoning to microwave and antenna analysis and design problems  to obtain meaningful solutions"
+        },
+        {
+            "number": "LO5.",
+            "description": "Creatively and efficiently use microwave and antenna Computer Aided Design packages."
+        },
+        {
+            "number": "LO6.",
+            "description": "Work as an effective member of a team to analyse and design microwave circuits and antennas with the use of Computer Aided Design tools"
+        },
+        {
+            "number": "LO7.",
+            "description": "Write clear and concise engineering reports at professional level."
+        },
+        {
+            "number": "LO8.",
+            "description": "Demonstrate an ample knowledge of social and professional responsibilities"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Practicals",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Short quiz at the end of the introductory session 14/03/2025 4:00 pm</p>\n<p>Practical 1 report 8/04/2025 4:00 pm</p>\n<p>Practical 2 report 6/05/2025 4:00 pm</p>\n<p>Practical 3 report 27/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>The Practical part of the course will include the following components:</p>\n<p><strong>0) Introductory Session to Microwave CAD</strong></p>\n<p>In this introductory session, the students will receive information about the microwave CAD tools that will be used in the practicals.</p>\n<p>(Weight: 3%)</p>\n<p><strong>1) Practical 1: TLs &amp; Impedance Transformers</strong></p>\n<p>This part of the lab project aims to test your knowledge and design skills of microwave transmission lines and impedance transformers. You will be asked to design different types of TLs and transformers with the use of a microwave CAD package. A report providing the basis for assessment of your performance should include the computed results (including prints of the computer screen) and discussion.</p>\n<p>(Weight: 9%)</p>\n<p><strong>2) Practical 2: Hybrid Circuits</strong></p>\n<p>This part of the lab project aims to test your knowledge and design skills concerning microwave hybrid circuits and PIN diode phase shifters. You will be asked to design various types of hybrids and PIN diode phase shifters, and asses their performance with the use of a microwave CAD package. A report, forming the basis for the assessment of your performance, should include the computed results (including prints of the computer screen) and discussion.</p>\n<p>(Weight: 9%)</p>\n<p><strong>3) Practical 3: Analysis and Design of Antennas</strong></p>\n<p>This part of the lab project will test your knowledge and analysis and design skills concerning antennas. You will be asked to design and assess the performances of individual antennas using microwave CAD tools. A report, forming the basis for the assessment of your performance, should include the computed results (including prints of the computer screen) and discussion.</p>\n<p>(Weight: 9%)</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The short quiz will be in paper form at the end of the introductory session.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Introductory Session Quiz: </strong>100% Late Penalty. </p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 31/03/2025</p>\n<p>\n</p><p>The in-class exam will test Modules 1, 2, 3, 4 and 5 and associated tutorials.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester exam will test the understanding of the course material covered in the first critical Lecture Modules. An example of the exam will be provided in advance to the students.</p>\n<p><strong>Delivery:</strong> invigilated on-campus written closed--book exam.</p>\n<p><strong>Timing:</strong> The in-semester exam is scheduled at 3 pm Monday, 31/03/2025.</p>\n<p>All students will complete the exam simultaneously.</p>\n<p><strong>Permitted materials:</strong> Closed-book exam, UQ approved calculator permitted.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Papers will be collected at the end of the in-class exam time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Delivery: </strong>invigilated on-campus written exam.</p>\n<p><strong>Timing: </strong>The final exam will be scheduled at a fixed time, i.e. students will complete the exam simultaneously.</p>\n<p><strong>Permitted materials: </strong> One single-sided A4 hand-written page, and UQ approved calculator. </p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1</strong><br/><p>Planar Microwave Waveguides and Transmission Lines</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 1</strong>",
+            "topic_description": "Module 1 Planar Microwave Waveguides and Transmission Lines",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2</strong><br/><p>Characterization of Microwave Passive Reciprocal and Non-reciprocal Devices</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 2</strong>",
+            "topic_description": "Module 2 Characterization of Microwave Passive Reciprocal and Non-reciprocal Devices",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 7(10 Mar - 13 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 1</strong><br><p>Review of CAD tools &amp; Transmission Lines &amp; Impedance Transformers</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Practical 1</strong>",
+            "topic_description": "Practical 1 Review of CAD tools & Transmission Lines & Impedance Transformers",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3</strong><br/><p>Impedance Transformation and Matching</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 3</strong>",
+            "topic_description": "Module 3 Impedance Transformation and Matching",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introductory Session to Microwave CAD</strong><br/><p>Familiarization with microwave CAD tools</p></p><p><strong>Learning outcomes:</strong> L05, L06, L08</p></div></td>",
+            "topic_title": "<strong>Introductory Session to Microwave CAD</strong>",
+            "topic_description": "Introductory Session to Microwave CAD Familiarization with microwave CAD tools",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4</strong><br/><p>Passive Reciprocal Components I</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 4</strong>",
+            "topic_description": "Module 4 Passive Reciprocal Components I",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 5</strong><br/><p>Passive Reciprocal Components II</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 5</strong>",
+            "topic_description": "Module 5 Passive Reciprocal Components II",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 6</strong><br/><p>Microwave Detectors and Mixers</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 6</strong>",
+            "topic_description": "Module 6 Microwave Detectors and Mixers",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 10(07 Apr - 11 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 2</strong><br><p>Hybrid Microwave Circuits</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Practical 2</strong>",
+            "topic_description": "Practical 2 Hybrid Microwave Circuits",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 7</strong><br/><p>Transistor, Amplifiers</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 7</strong>",
+            "topic_description": "Module 7 Transistor, Amplifiers",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 8</strong><br/><p>Fundamental of Antennas - Wire Antennas</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 8</strong>",
+            "topic_description": "Module 8 Fundamental of Antennas - Wire Antennas",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 9</strong><br/><p>Antenna arrays</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 9</strong>",
+            "topic_description": "Module 9 Antenna arrays",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 13(05 May - 01 Jun)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 3</strong><br><p>Analysis and Design of Antennas</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Practical 3</strong>",
+            "topic_description": "Practical 3 Analysis and Design of Antennas",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 10</strong><br/><p>Microstrip Antennas</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 10</strong>",
+            "topic_description": "Module 10 Microstrip Antennas",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 11</strong><br/><p>Microwave Communications Systems</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Module 11</strong>",
+            "topic_description": "Module 11 Microwave Communications Systems",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
