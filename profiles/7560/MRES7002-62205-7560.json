@@ -1,0 +1,157 @@
+{
+    "course_title": "Magnetic Resonance Instrumentation",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MRES7002-62205-7560",
+    "full_course_code": "MRES7002-62205-7560",
+    "course_code": "MRES7002",
+    "class_code": "62205",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Different imaging modalities - Explain in general the medical imaging modalities used for diagnosis and treatment planning of patients."
+        },
+        {
+            "number": "LO2.",
+            "description": "Different imaging modalities - Outline the different types of medical images obtained using various imaging modalities, such as CT, X-ray, PET, Ultra Sound, SPECT, Optical and MRI."
+        },
+        {
+            "number": "LO3.",
+            "description": "Hardware requirements - Outline the primary components of an MRI static magnet."
+        },
+        {
+            "number": "LO4.",
+            "description": "Hardware requirements - Define the x-, y- and z-gradient coils in an MRI scanner and their functionality."
+        },
+        {
+            "number": "LO5.",
+            "description": "Hardware requirements - Describe the construction of various types of MRI RF coils and the manner in which these operate."
+        },
+        {
+            "number": "LO6.",
+            "description": "Hardware requirements - State the physical limitations of each primary MRI hardware component."
+        },
+        {
+            "number": "LO7.",
+            "description": "Hardware requirements - Understand the need for safety limits posed on MRI hardware."
+        },
+        {
+            "number": "LO8.",
+            "description": "Hardware problems - Link different types of image artefacts to possible hardware causes."
+        },
+        {
+            "number": "LO9.",
+            "description": "Hardware problems - State the image artefacts caused by impurities in the magnet, gradient coils and RF coil magnetic fields."
+        },
+        {
+            "number": "LO10.",
+            "description": "Effect of magnetic fields - Describe the issues with magnetic fields and clinicians and how these affect their day to day work."
+        },
+        {
+            "number": "LO11.",
+            "description": "Effect of magnetic fields - Describe the issues with magnetic fields and how these cause problems for patients."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment (Part 1): Specify your topic choices",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>2%</dd>",
+            "due_date": "<dd><p> 14/08/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Type: Topic choice (<em>word document</em>)</p>\n<p><strong>Task Description:</strong> For the assignment, the student has the opportunity to choose their project from a supplied list. The first assessment task for MRES7002 is to choose three topics and justify your selection. Based on your preference, each student will be assigned <strong>one</strong> topic only for Part 2 of the assignment (see 'Assignment (Part 2): Your topic').</p>\n<p>The assignment (Part 1) has the following structure</p>\n<ol>\n<li>Selection of <strong>three topics</strong> from the list provided to indicate your preference for the major assignment.</li>\n<li>Provide a maximum of 100 word statement per chosen topic outlining the reason why you decided on the above three topics.</li>\n</ol>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All written assignments eg. essays, reports, proposals, literature reviews etc must be submitted through Turnitin.  Students are permitted to submit a draft prior to final submission.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "3x Tutorial Questions",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>18%</dd>",
+            "due_date": "<dd><p> 27/08/2025 5:00 pm</p>\n<p> 17/09/2025 5:00 pm</p>\n<p> 15/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L05, L06, L07, L08, L09, L10, L11",
+            "mode": "Activity/ Performance, Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There are three independent MRES7002 question sets which are assessable. Each set has questions which will cover material from about three weeks of tutorials. In the week following the submission you will be provided with feedback. Your answers will be marked and in total are worth 18% of your course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All written assignments eg. essays, reports, proposals, literature reviews etc must be submitted through Turnitin.  Students are permitted to submit a draft prior to final submission.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment (Part 2): Your topic",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 29/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L05, L06, L07, L08, L09",
+            "mode": "Activity/ Performance, Oral, Written",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Overview: The purpose of the assignment is for students to research and present (MS PowerPoint) a topic in MR instrumentation highlighting current state-of-the-art technological and capability in the area. Library catalogues, scientific journal databases and internet sites are expected to be searched to locate appropriate overviews and cutting-edge information. Take care to ascertain that the information obtained has been rigorously reviewed and is not simply of a promotional nature. This is particularly important when using information downloaded from the Internet.</p>\n<p>Presentation information: Your presentation must have the following structure (numbered headings as shown below):</p>\n<p><em>Title page</em> (<strong>1 slide</strong>): Chosen topic, name and student number</p>\n<ol>\n<li><em>Outline</em> (6%, <strong>1 or 2 slides</strong>): Detailing the structure of the presentation. This should be presented like the CONTENTS of a textbook, and the rest of the presentation should follow this content exactly.</li>\n<li><em>Introduction</em> (20%, <strong>6 to 8 slides</strong>): Presenting topic key concepts and provide background information leading into the topic.</li>\n<li><em>Topic key concepts</em> (20%, <strong>6 to 8 slides</strong>): Provide detailed topic information, ensuring the main concepts are explained clearly and concisely.</li>\n<li><em>Advantages and disadvantages, limitations and drawbacks</em> (20%, <strong>4 to 7 slides</strong>): Point out how the key technique fits within the broader MRI or medical imaging field. How useful is the topic of choice in practice? What are the applications?</li>\n<li><em>Directions</em> (10%, <strong>1 to 3 slides</strong>): What kind of research and developments were outcomes of the findings within the area of your chosen topic?</li>\n<li><em>Summary (10%, </em><strong>1 to 2 slides</strong><em>)</em>: List the key topic points of your findings</li>\n<li><em>References (4%, slides as needed)</em>: All material used from the internet, photos, books, and journal papers etc. require proper referencing. Reference style can be chosen freely but must be consistent (see Learning resources chapter 3.5 for more details). These slides are not counted in the total slide count.</li>\n</ol>\n<p><br/></p>\n<p><strong>Notes:</strong></p>\n<ul>\n<li>The indicated marks per section given above are a guide only and thus may vary slightly depending upon your presentation and the topic.</li>\n<li>The number of slides or text length does not lead automatically to a higher/better mark. Marks depend on how clearly and concisely key concepts and topics are described. For example, the choice of using text over figures, and vice versa may result in more or less slides to describe the same thing.</li>\n<li><em>Figures, illustrations and diagrams (as appropriate)</em>: Supporting the presentation and should come with figure captions. Captions should generally not be just a copy of the original, but written to provide clear information on what the figure shows, and linked to the material of the presentation.</li>\n<li><em>Text:</em> The topic is a (MS power-point or similar) presentation; therefore, text should be concise but sufficiently detailed for a reader to understand the key concepts presented. To keep the slides clear use 1 concept per 1 bullet point, with 3 concepts maximum per slide as a general rule. Additional notes under the slides are NOT permitted.</li>\n<li><em>Equations</em>: Used to support your concepts if necessary and keep equation numbers to a minimum. For each equation, the variables and terms used must be explained and their relevance highlighted.</li>\n<li>Do not exceed the maximum number of slides per section</li>\n</ul>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All written assignments eg. essays, reports, proposals, literature reviews etc must be submitted through Turnitin.  Students are permitted to submit a draft prior to final submission.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will be an in-person, paper-based exam. Students enrolled <strong>externally</strong>, please refer to the course profile for External students for in-person examination arrangements.   </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>RF coils</strong><br><p>RF coils and shimming in MR system: hardware and applications. Module 5: Radiofrequency coils</p></br></p><p><strong>Learning outcomes:</strong> L05, L09</p></div></td>",
+            "topic_title": "<strong>RF coils</strong>",
+            "topic_description": "RF coils RF coils and shimming in MR system: hardware and applications. Module 5: Radiofrequency coils",
+            "learning_outcomes": [
+                "L05",
+                "L09"
+            ]
+        }
+    ]
+}
