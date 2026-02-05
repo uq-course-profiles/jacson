@@ -1,0 +1,206 @@
+{
+    "course_title": "Special Topics A",
+    "study_period": "Summer 2025",
+    "location": "St Lucia",
+    "attendance": "Intensive",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE4003-80157-7580",
+    "full_course_code": "CHEE4003-80157-7580",
+    "course_code": "CHEE4003",
+    "class_code": "80157",
+    "semester_code": "7580",
+    "semester_details": "Summer Semester, 2025 (01/12/2025 - 14/02/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the basis of machine learning and AI systems and the types of problems that are suited to address in chemical engineering."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify potential risks associated with the use of machine learning and AI in chemical process systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Collect, clean, and prepare real-world chemical engineering data for machine learning applications."
+        },
+        {
+            "number": "LO4.",
+            "description": "Implement and evaluate supervised learning algorithms for regression and classification of process and material property data."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply unsupervised learning techniques for anomaly detection and clustering of process operation data."
+        },
+        {
+            "number": "LO6.",
+            "description": "Implement and deploy neural networks for time series prediction of process variables."
+        },
+        {
+            "number": "LO7.",
+            "description": "Build, test, and demonstrate an intelligent chatbot prototype for supporting distillation plant operators."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment-1: Data Generation and Regression Modelling with the Temperature Control Lab (TCLab)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 15/12/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, you will use the Temperature Control Laboratory (TCLab) kit to generate, process, and model real-world temperature control data. Begin by designing and executing data collection experiments using the TCLab hardware, capturing temperature readings and heater inputs under various operating conditions (e.g., step changes, ramps, disturbances) across multiple trials.</p>\n<p>Next, clean and preprocess your collected data using pandas and NumPy, addressing missing values, outliers, and noise reduction appropriate for time-series data.</p>\n<p>Using the cleaned dataset, develop and evaluate regression models to predict temperature responses based on heater inputs and system dynamics. Implement both linear and polynomial regression models in scikit-learn, compare their performance, and identify which best represents the TCLab’s thermal behaviour.</p>\n<p>Document your experimental setup, data processing, modelling methodology, and engineering insights in a well-organised Jupyter notebook, and update your GitHub repository with the complete workflow, results, and model comparison.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission is through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment-2: Anomaly Detection in TCLab Systems",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 5/01/2026 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, you will explore anomaly detection techniques by intentionally introducing faulty signals and abnormal operating conditions into your TCLab system to simulate real-world industrial scenarios where equipment malfunctions or sensor failures occur. Design and execute experiments to collect both normal operating data and anomalous data by creating various fault conditions such as sensor drift, heater malfunctions, or intermittent connectivity issues, ensuring you have a diverse dataset of both healthy and faulty system behaviours. Apply unsupervised anomaly detection methods including Principal Component Analysis (PCA) for dimensionality reduction. Document your fault generation methodology, model implementation, and safety analysis in a Jupyter notebook, update your GitHub repository with all anomaly detection code and datasets, and submit your complete analysis through Blackboard.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission is through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment -3: LSTM Neural Network Development and Deployment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 19/01/2026 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L06",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Develop and train an LSTM neural network to predict dynamic system behaviour using provided time-series data. Build your model using TensorFlow/Keras with proper preprocessing, hyperparameter tuning, and performance evaluation. Deploy your trained model as an interactive web application using Streamlit that allows users to input data and visualize real-time predictions. Submit your Jupyter notebook with model development, Streamlit app code, deployed application URL, and update your GitHub repository.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission is through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Project: RAG-Based Chatbot for Pilot Plant Distillation Column (Written Component and Oral Presentation)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Written Component 30/01/2026 5:00 pm</p>\n<p>Presentation Run During Exam Period 7-14 Feb 2026 </p></dd>",
+            "learning_objectives": "L01, L02, L07",
+            "mode": "Oral, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Written Component - 30/01/2026 5:00 pm</strong></p>\n<p>Develop a Retrieval-Augmented Generation (RAG) chatbot specialised for pilot plant distillation column operations, troubleshooting, and knowledge management. The chatbot must incorporate relevant technical documentation, operating procedures, safety protocols, and troubleshooting guides for distillation processes, using vector databases and embedding models to retrieve contextually relevant information before generating responses. Implement the RAG pipeline using appropriate frameworks and a suitable language model to ensure the chatbot can answer questions about the column, operating parameters, common failures, safety procedures. The written report should describe the system architecture, implementation, evaluation, and provide supporting documentation and source citations.</p>\n<p><br/></p>\n<p><strong>Oral Presentation - School-based exam during examination period 7-14 Feb 2026</strong></p>\n<p>This oral presentation is part of the hurdle assessment and will be evaluated alongside the written report. Students are required to deliver a 15–20 minute in-person presentation that includes a live demonstration of their RAG chatbot. The presentation should clearly showcase the chatbot’s capabilities through real-time interactions, demonstrating how it assists operators with technical queries related to distillation column operations, troubleshooting, and safety management. It should also provide an overview of the system architecture, explain the RAG implementation, present model performance results, and discuss both limitations and potential industrial applications.</p>\n<p>Closed-book, no written materials or calculators are permitted.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(01 Dec - 07 Dec)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1: Data Analysis &amp; Preparation</strong><br><h3>Monday <strong>Session (1-4 PM):</strong></h3>\n<p><strong>Hour 1: Python Basics for Data Science</strong></p>\n<p><strong>Hour 2: NumPy Fundamentals</strong></p>\n<p><strong>Hour 3: Data Visualization with Matplotlib</strong></p></br></p></div></td>",
+            "topic_title": "<strong>Week 1: Data Analysis &amp; Preparation</strong>",
+            "topic_description": "Week 1: Data Analysis & Preparation Monday Session (1-4 PM): Hour 1: Python Basics for Data Science Hour 2: NumPy Fundamentals Hour 3: Data Visualization with Matplotlib",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1(01 Dec - 07 Dec)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1: Data Analysis &amp; Preparation</strong><br/><h3>Tuesday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Pandas Deep Dive</strong></p>\n<p><strong>Hour 2: Advanced Visualization with Seaborn</strong></p>\n<p><strong>Hour 3: Data Preparation Pipeline</strong></p>\n<p><br/></p></p></div></td>",
+            "topic_title": "<strong>Week 1: Data Analysis &amp; Preparation</strong>",
+            "topic_description": "Week 1: Data Analysis & Preparation Tuesday Session (1-4 PM): Hour 1: Pandas Deep Dive Hour 2: Advanced Visualization with Seaborn Hour 3: Data Preparation Pipeline",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(08 Dec - 14 Dec)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2: Supervised Learning - Regression</strong><br><h3>Monday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Linear Regression Fundamentals</strong></p>\n<p><strong>Hour 2: Advanced Regression Techniques</strong></p>\n<p><strong>Hour 3: Regularization Methods</strong></p>\n<p><br/></p></br></p></div></td>",
+            "topic_title": "<strong>Week 2: Supervised Learning - Regression</strong>",
+            "topic_description": "Week 2: Supervised Learning - Regression Monday Session (1-4 PM): Hour 1: Linear Regression Fundamentals Hour 2: Advanced Regression Techniques Hour 3: Regularization Methods",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(08 Dec - 14 Dec)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2: Supervised Learning - Regression</strong><br><h3>Tuesday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Non-linear Regression Methods</strong></p>\n<p><strong>Hour 2: Hands-on Regression Project</strong></p>\n<p><strong>Hour 3: Model Interpretation &amp; Results</strong></p>\n<p><br/></p></br></p></div></td>",
+            "topic_title": "<strong>Week 2: Supervised Learning - Regression</strong>",
+            "topic_description": "Week 2: Supervised Learning - Regression Tuesday Session (1-4 PM): Hour 1: Non-linear Regression Methods Hour 2: Hands-on Regression Project Hour 3: Model Interpretation & Results",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(15 Dec - 21 Dec)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3: Supervised Learning - Classification</strong><br><h3>Monday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Classification Fundamentals</strong></p>\n<p><strong>Hour 2: Model Evaluation Metrics</strong></p>\n<p><strong>Hour 3: Advanced Classification Methods</strong></p>\n<h3>Tuesday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Multi-class and Multi-label Classification</strong></p>\n<p><strong>Hour 2: Material Dataset Project</strong></p>\n<p><strong>Hour 3: Model Selection and Optimization</strong></p></br></p></div></td>",
+            "topic_title": "<strong>Week 3: Supervised Learning - Classification</strong>",
+            "topic_description": "Week 3: Supervised Learning - Classification Monday Session (1-4 PM): Hour 1: Classification Fundamentals Hour 2: Model Evaluation Metrics Hour 3: Advanced Classification Methods Tuesday Session (1-4 PM): Hour 1: Multi-class and Multi-label Classification Hour 2: Material Dataset Project Hour 3: Model Selection and Optimization",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(22 Dec - 28 Dec)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4: Unsupervised Learning</strong><br/><h3>Monday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Clustering Algorithms</strong></p>\n<p><strong>Hour 2: Dimensionality Reduction</strong></p>\n<p><strong>Hour 3: Anomaly Detection Methods</strong></p>\n<h3>Tuesday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Hands-on Anomaly Detection</strong></p>\n<p><strong>Hour 2: Model Evaluation for Unsupervised Learning</strong></p>\n<p><strong>Hour 3: Industrial Applications Discussion</strong></p>\n<p><br/></p></p></div></td>",
+            "topic_title": "<strong>Week 4: Unsupervised Learning</strong>",
+            "topic_description": "Week 4: Unsupervised Learning Monday Session (1-4 PM): Hour 1: Clustering Algorithms Hour 2: Dimensionality Reduction Hour 3: Anomaly Detection Methods Tuesday Session (1-4 PM): Hour 1: Hands-on Anomaly Detection Hour 2: Model Evaluation for Unsupervised Learning Hour 3: Industrial Applications Discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(29 Dec - 04 Jan)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5: Mid-Semester Break</strong><br><p>Starts 25/12/2025 until 04/01/2026</p></br></p></div></td>",
+            "topic_title": "<strong>Week 5: Mid-Semester Break</strong>",
+            "topic_description": "Week 5: Mid-Semester Break Starts 25/12/2025 until 04/01/2026",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(05 Jan - 11 Jan)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6: Neural Networks &amp; Deep Learning</strong><br/><h3>Monday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Neural Network Fundamentals</strong></p>\n<p><strong>Hour 2: Time Series and LSTM Networks</strong></p>\n<p><strong>Hour 3: LSTM Implementation</strong></p>\n<h3>Tuesday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Model Training and Optimization</strong></p>\n<p><strong>Hour 2: Model Deployment with Streamlit</strong></p>\n<p><strong>Hour 3: Hands-on LSTM Project</strong></p>\n<p><br/></p></p></div></td>",
+            "topic_title": "<strong>Week 6: Neural Networks &amp; Deep Learning</strong>",
+            "topic_description": "Week 6: Neural Networks & Deep Learning Monday Session (1-4 PM): Hour 1: Neural Network Fundamentals Hour 2: Time Series and LSTM Networks Hour 3: LSTM Implementation Tuesday Session (1-4 PM): Hour 1: Model Training and Optimization Hour 2: Model Deployment with Streamlit Hour 3: Hands-on LSTM Project",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(12 Jan - 18 Jan)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7: Large Language Models &amp; Final Project</strong><br><h3>Monday Session (1-4 PM):</h3>\n<p><strong>Hour 1: Introduction to Large Language Models</strong></p>\n<p><strong>Hour 2: RAG Implementation</strong></p>\n<p><strong>Hour 3: Chatbot Development</strong></p>\n<h3>Tuesday Session (1-4 PM):</h3>\n<p><strong>Hour 1-3: Final Project Work Session</strong></p>\n<p><br/></p></br></p></div></td>",
+            "topic_title": "<strong>Week 7: Large Language Models &amp; Final Project</strong>",
+            "topic_description": "Week 7: Large Language Models & Final Project Monday Session (1-4 PM): Hour 1: Introduction to Large Language Models Hour 2: RAG Implementation Hour 3: Chatbot Development Tuesday Session (1-4 PM): Hour 1-3: Final Project Work Session",
+            "learning_outcomes": []
+        }
+    ]
+}
