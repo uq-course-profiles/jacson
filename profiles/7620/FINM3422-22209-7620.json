@@ -1,0 +1,276 @@
+{
+    "course_title": "Financial Modelling",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3422-22209-7620",
+    "full_course_code": "FINM3422-22209-7620",
+    "course_code": "FINM3422",
+    "class_code": "22209",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate how to extract and translate raw financial data into useful information."
+        },
+        {
+            "number": "LO2.",
+            "description": "Design and implement robust financial models."
+        },
+        {
+            "number": "LO3.",
+            "description": "Audit, validate and interpret financial models."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop competencies needed to function well in a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Turnaround Case Study",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 1/04/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will be a team based assignment (4 members per team). You will take on the role of a turn-around consultant tasked with creating a research report analysing a fictional case study for an in-distress business that covers:</p>\n<ul>\n<li>Identification of key issues</li>\n<li>Development of key interview questions</li>\n<li>Proposal of strategic options</li>\n<li>Proposal of recommendations to the company board</li>\n</ul>\n<p>You will also be tasked with building a quantitative model in Excel to support your analysis.</p>\n<p><strong>AI Statement:</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>One designated team member will submit both your report and Excel model via the submission link on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Coding Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 1/05/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will be a team-based assignment (4 members per team). You will download an existing codebase written in Python by forking a GitHub repo and then modify that code to meet a set of objectives. This assignment draws on the material from Lecture 7 on Equity Research.</p>\n<p><strong>AI Statement:</strong></p>\n<p>The use of Artificial Intelligence (AI) <em>is permitted</em> as a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>One designated team member will upload a folder containing the repo of their code through the submission link in Blackboard, and will also provide a link to their repo on GitHub.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Coding and Presentation Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 29/05/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Practical/ Demonstration, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a team-based assignment (teams of four). Your task is to develop Python code to meet a set of specified objectives, drawing on material covered in Lectures 8–10 (Portfolio Management through Option Pricing). In Week 13, each team will deliver a formal presentation, with each member presenting the component they completed and explaining the underlying logic, approach, and key coding decisions.</p>\n<p><strong>AI Statement:</strong></p>\n<p>The use of Artificial Intelligence (AI) <em>is permitted</em> as a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>One designated team member must upload a folder containing the team’s code repository and presentation slides via the Blackboard submission link, and include a link to the corresponding GitHub repository.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Course &amp; Modelling</strong><br><p>General overview of course structure, logistics and assessment. Introduction of external resources. Introduction to Python.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Course &amp; Modelling</strong>",
+            "topic_description": "Introduction to Course & Modelling General overview of course structure, logistics and assessment. Introduction of external resources. Introduction to Python.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Turnaround (Self-Directed)</strong><br/><p>Self-directed study on distressed business turnaround - see Blackboard Learning Pathway. Excel modelling assignment released.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Turnaround (Self-Directed)</strong>",
+            "topic_description": "Turnaround (Self-Directed) Self-directed study on distressed business turnaround - see Blackboard Learning Pathway. Excel modelling assignment released.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials</strong><br/><p>In each tutorial you will practice the material covered in the previous lecture. See Blackboard for details on tutorial content and timeline.</p>\n<p><strong>Good Friday Public Holiday - Friday 3rd April 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Tutorials</strong>",
+            "topic_description": "Tutorials In each tutorial you will practice the material covered in the previous lecture. See Blackboard for details on tutorial content and timeline. Good Friday Public Holiday - Friday 3rd April 2026 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Turnaround (Vantage Seminar)</strong><br/><p>Vantage Guest Lecture. Recap of Learning Pathway. Principles of Turnaround advice and Case Study Examples</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Turnaround (Vantage Seminar)</strong>",
+            "topic_description": "Turnaround (Vantage Seminar) Vantage Guest Lecture. Recap of Learning Pathway. Principles of Turnaround advice and Case Study Examples",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Excel Modelling</strong><br/><p>Cover best tips and practices in the use of Excel in financial modelling. Preparation for the Excel modelling assignment.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Excel Modelling</strong>",
+            "topic_description": "Excel Modelling Cover best tips and practices in the use of Excel in financial modelling. Preparation for the Excel modelling assignment.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Python Coding and GitHub for Finance Professionals I</strong><br/><p>Learn Python coding and how to use GitHub for version control and collaboration in a finance setting (part I)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Python Coding and GitHub for Finance Professionals I</strong>",
+            "topic_description": "Python Coding and GitHub for Finance Professionals I Learn Python coding and how to use GitHub for version control and collaboration in a finance setting (part I)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Python Coding and GitHub for Finance Professionals II</strong><br/><p>Learn Python coding and how to use GitHub for version control and collaboration in a finance setting (part II)</p></p></div></td>",
+            "topic_title": "<strong>Python Coding and GitHub for Finance Professionals II</strong>",
+            "topic_description": "Python Coding and GitHub for Finance Professionals II Learn Python coding and how to use GitHub for version control and collaboration in a finance setting (part II)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/><p>No classes during In-Semester break.</p></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break No classes during In-Semester break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Equity Research</strong><br/><p>Use programming tools to create an equity analyst research report with financials, ratios, and commentary. Part 1 of coding assignment released.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Equity Research</strong>",
+            "topic_description": "Equity Research Use programming tools to create an equity analyst research report with financials, ratios, and commentary. Part 1 of coding assignment released.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Portfolio Management</strong><br/><p>Use programming tools to undertake a Markowitz portfolio optimisation.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Portfolio Management</strong>",
+            "topic_description": "Portfolio Management Use programming tools to undertake a Markowitz portfolio optimisation.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Yield Curves</strong><br/><p>Use programming tools to bootstrap a fixed income yield curve.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Yield Curves</strong>",
+            "topic_description": "Yield Curves Use programming tools to bootstrap a fixed income yield curve.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Option Pricing</strong><br/><p>Use programming tools to implement numerical methods for option pricing, including binomial pricing models and the Monte-Carlo method.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Option Pricing</strong>",
+            "topic_description": "Option Pricing Use programming tools to implement numerical methods for option pricing, including binomial pricing models and the Monte-Carlo method.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quant Funds Management</strong><br/><p>Use programming tools to implement, back-test and monitor a momentum trading strategy.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Quant Funds Management</strong>",
+            "topic_description": "Quant Funds Management Use programming tools to implement, back-test and monitor a momentum trading strategy.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>AI as Coding Partner</strong><br/><p>Showcase of Claude MCP creating GitHub pull requests.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>AI as Coding Partner</strong>",
+            "topic_description": "AI as Coding Partner Showcase of Claude MCP creating GitHub pull requests.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Presentation</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Presentation</strong>",
+            "topic_description": "Presentation",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
