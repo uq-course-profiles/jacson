@@ -1,0 +1,379 @@
+{
+    "course_title": "Information Analysis and System Design",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BISM3222-20307-7620",
+    "full_course_code": "BISM3222-20307-7620",
+    "course_code": "BISM3222",
+    "class_code": "20307",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe the major alternative methodologies used in developing information systems and the considerations involved in choosing which methodology to use."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse a business need within a complex environment and develop an appropriate strategy to meet the need, and provide the required information service."
+        },
+        {
+            "number": "LO3.",
+            "description": "Prepare and use various information gathering techniques for eliciting user information requirements and system expectations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Construct a variety of system description documents, following agile methodology, including a working prototype."
+        },
+        {
+            "number": "LO5.",
+            "description": "Explain, collaborate, and innovate through information systems development to address business challenges as an individual and as part of a team."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Semester examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>28/03/2026 - 2/05/2026</p>\n<p>\n</p><p>This exam is centrally scheduled which means the exam date depends on when the university schedules this exam. Possible dates are: 28 Mar, 18 Apr, and 2 May 2026.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester Exam tests students' knowledge about the course. It will be short answer questions and MCQs.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the UQ Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Inspera software.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Analysis and Design UML Modelling with Enterprise Architect Assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> Week 9 Mon - Fri</p>\n<p>\n</p><p>The assessment takes place during the tutorial time in Week 9.  Student can only take the assessment during their enrolled tutorial times. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Examination, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, you will be presented with scenarios, and you will need to utilize Enterprise Architecture to create specific UML models for each scenario as requested.</p>\n<p>The assessment will take place in Week 9 during the enrolled tutorial time.  Alternative arrangements will be announced in the lecture. </p>\n<p>You are welcome to bring handwritten notes and printed materials. You are not allowed to use any other materials, esp. not to browse the Internet or use Artificial Intelligence solutions to create the models for you.</p>\n<p>The assignment details are given on the course's Blackboard site (i.e., the course's Learn.UQ site). </p>\n<p>This assessment addresses at least one PRME Sustainable Development Goal and is an opportunity to add an innovative solution to your ePortfolio.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted an Enterprise Architect File via Blackboard assessment link at the end of the assessment period while you are still sitting in the classroom. For details please refer to the assignment specification on the Blackboard site for the course.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Analysis and Design Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>Written Project Report (word file and slides) Week 11, Fri 2:00 pm</p>\n<p>Presentation during Tutorials Week 12, Mon 9:00 am</p>\n<p>\n</p><p>The assessment focus is a team pressentation on the design, analysis and development of an information system (i.e., an app). To support the presentation, project report (Word file and the slides) must be submitted via the available Blackboard link. The presentation is in Week 12 (and if required, Week 13) during the tutorial time. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Creative Production/ Exhibition, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During the semester, students learn how to analyse, design, and develop information systems. The assessment tests students' skills related to these tasks with a focus on effective implementation of the formative feedback and an authentic presentation. Details about the assessment are on Blackboard in week 2.</p>\n<p>This assessment is based on group work: Each group can have a maximum of 5 students, all of whom must come from the same tutorial.</p>\n<p>Students will be asked to submit an early report for this project (after Week 3) and receive formative in-person feedback. By this time, the group members have to be known and submitted.</p>\n<p>The presentations will be scheduled for week 12 (and, if necessary, in Week 13). The schedule will be created once enrolments are finalised. All students must be present at their group presentation; otherwise, the student will receive a failing grade. Students' grades are also determined based on peer assessment.</p>\n<p><strong>Please note:</strong> The presentation will be recorded to aid teaching staff with marking in accordance with UQ Policy.</p>\n<p><strong>AI Statement:</strong></p>\n<p>This assessment task evaluates students' abilities, skills, and knowledge in analysing and designing information systems. As taught in the course, these activities can be supported by AI. Thus, students are free to use generative Artificial Intelligence (AI) in this assessment; however, the report and presentation must clearly explain how (i.e., which software and which features) it was used and where it was applied. Failure to do so will impact the marks.  Use of AI when declared will not result in reduced marks.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The report (including a Word file and a PowerPoint presentation) will be submitted as a zip.file via the links provided on Blackboard, and the project (app and ppt) is to be presented during the presentation. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Information Analysis and System Design</strong><br/><p>Materials for the week:  From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 1.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Introduction to Information Analysis and System Design</strong>",
+            "topic_description": "Introduction to Information Analysis and System Design Materials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 1.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Management</strong><br/><p>Materials for the week:  From the course textbook \"<strong>Information Systems Project Management: A Process Approach\"</strong> by authors Schneider at al.; 2nd. edition:  Chapters 1-2 and </p>\n<p> From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 11.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Project Management</strong>",
+            "topic_description": "Project Management Materials for the week:  From the course textbook \" Information Systems Project Management: A Process Approach\" by authors Schneider at al.; 2nd. edition:  Chapters 1-2 and From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 11.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 1: Introduction and Project Management 1</strong><br/><p>For materials, see the Blackboard site for the course.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Practical 1: Introduction and Project Management 1</strong>",
+            "topic_description": "Practical 1: Introduction and Project Management 1 For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>User Requirements for Systems Design</strong><br/><p>Materials for the week: From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition: Chapter 4 and </p>\n<p>From the course textbook \"Systems Analysis and Design: An Object-Oriented Approach with UML\" by authors Dennis et al., 6th ed. Chapter 3. </p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>User Requirements for Systems Design</strong>",
+            "topic_description": "User Requirements for Systems Design Materials for the week: From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition: Chapter 4 and From the course textbook \"Systems Analysis and Design: An Object-Oriented Approach with UML\" by authors Dennis et al., 6th ed. Chapter 3.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 2: Capturing Requirements</strong><br><p>For materials, see the Blackboard site for the course.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Practical 2: Capturing Requirements</strong>",
+            "topic_description": "Practical 2: Capturing Requirements For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Development Methods - Selection and Application</strong><br/><p>Materials for the week:  From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapters 10 and 12.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Development Methods - Selection and Application</strong>",
+            "topic_description": "Development Methods - Selection and Application Materials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapters 10 and 12.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 3: UML modelling – Use Case</strong><br/><p>For materials, see the Blackboard site for the course.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Practical 3: UML modelling – Use Case</strong>",
+            "topic_description": "Practical 3: UML modelling – Use Case For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sourcing and Costing of Information Systems</strong><br/><p>Materials for the week:  From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapters 7 - 9.  </p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Sourcing and Costing of Information Systems</strong>",
+            "topic_description": "Sourcing and Costing of Information Systems Materials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapters 7 - 9.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 4: UML modelling – Activity diagram</strong><br/><p>For materials, see the Blackboard site for the course.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Practical 4: UML modelling – Activity diagram</strong>",
+            "topic_description": "Practical 4: UML modelling – Activity diagram For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Public Holiday </strong><br/><p>You are given a case study and related videos for this week.</p></p></div></td>",
+            "topic_title": "<strong>Public Holiday </strong>",
+            "topic_description": "Public Holiday You are given a case study and related videos for this week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 5: UML modelling – Sequence diagram</strong><br/><p>For materials, see the Blackboard site for the course.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Practical 5: UML modelling – Sequence diagram</strong>",
+            "topic_description": "Practical 5: UML modelling – Sequence diagram For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Agile Information Systems Development Techniques</strong><br/><p>Materials for the week:  From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 15 and other materials on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Agile Information Systems Development Techniques</strong>",
+            "topic_description": "Agile Information Systems Development Techniques Materials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 15 and other materials on Blackboard.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 6: UML modelling – Class diagram</strong><br/><p>For materials, see the Blackboard site for the course.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Practical 6: UML modelling – Class diagram</strong>",
+            "topic_description": "Practical 6: UML modelling – Class diagram For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>DevOps Foundations: Integrating Development and Operations in Information Systems</strong><br/><p>Materials for the week:  From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Pages 462-471;  Deeper Dive chapters 16.5 Deeper Dives: DevOps Deployment in an Age of Options and other materials on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>DevOps Foundations: Integrating Development and Operations in Information Systems</strong>",
+            "topic_description": "DevOps Foundations: Integrating Development and Operations in Information Systems Materials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Pages 462-471;  Deeper Dive chapters 16.5 Deeper Dives: DevOps Deployment in an Age of Options and other materials on Blackboard.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 7: UML modelling – State machine</strong><br/><p>For materials, see the Blackboard site for the course.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Practical 7: UML modelling – State machine</strong>",
+            "topic_description": "Practical 7: UML modelling – State machine For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>User Interface Design</strong><br/><p>Materials for the week:  From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 4 and 6.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>User Interface Design</strong>",
+            "topic_description": "User Interface Design Materials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 4 and 6.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 9: In-Tutorial -- UML Design Assessment</strong><br/><p>For materials, see the Blackboard site for the course.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Practical 9: In-Tutorial -- UML Design Assessment</strong>",
+            "topic_description": "Practical 9: In-Tutorial -- UML Design Assessment For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Testing of Systems</strong><br/><p>Materials for the week:  From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 5. </p>\n<p>And from textbook \"Systems Analysis and Design in a Changing World\",  7th Edition by <strong>John W. Satzinger, Robert B. Jackson and Stephen D. Burd</strong>. Chapter 7.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Testing of Systems</strong>",
+            "topic_description": "Testing of Systems Materials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 5. And from textbook \"Systems Analysis and Design in a Changing World\",  7th Edition by John W. Satzinger, Robert B. Jackson and Stephen D. Burd . Chapter 7.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 10: App Development</strong><br/><p>For materials, see the Blackboard site for the course.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Practical 10: App Development</strong>",
+            "topic_description": "Practical 10: App Development For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Effective people leadership in Information Systems Development</strong><br/><p>Materials for the week:  From the course textbook \"<strong>Information Systems Project Management: A Process Approach\"</strong> by authors Schneider at al.; 2nd. edition:  Chapter 3.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Effective people leadership in Information Systems Development</strong>",
+            "topic_description": "Effective people leadership in Information Systems Development Materials for the week:  From the course textbook \" Information Systems Project Management: A Process Approach\" by authors Schneider at al.; 2nd. edition:  Chapter 3.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 11: App Development</strong><br/><p>For materials, see the Blackboard site for the course.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Practical 11: App Development</strong>",
+            "topic_description": "Practical 11: App Development For materials, see the Blackboard site for the course.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deployment of Systems, Production Readiness and Change Management</strong><br/><p>Materials for the week:  From the course textbook \"Systems Analysis &amp; Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 16.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Deployment of Systems, Production Readiness and Change Management</strong>",
+            "topic_description": "Deployment of Systems, Production Readiness and Change Management Materials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 16.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 12: Presentation</strong><br/><p>Students, in teams, present their semester-long project.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Practical 12: Presentation</strong>",
+            "topic_description": "Practical 12: Presentation Students, in teams, present their semester-long project.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Summary Lecture and Semester Reflection</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Summary Lecture and Semester Reflection</strong>",
+            "topic_description": "Summary Lecture and Semester Reflection",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        }
+    ]
+}
