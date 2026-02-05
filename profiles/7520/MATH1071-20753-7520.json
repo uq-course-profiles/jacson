@@ -1,0 +1,110 @@
+{
+    "course_title": "Advanced Calculus & Linear Algebra I",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH1071-20753-7520",
+    "full_course_code": "MATH1071-20753-7520",
+    "course_code": "MATH1071",
+    "class_code": "20753",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Evaluate limits, derivatives, and integrals, explain the underlying mathematical basis, interpret the results geometrically, and perform calculations associated with a number of applications"
+        },
+        {
+            "number": "LO2.",
+            "description": "Calculate the limits of sequences and series, and use them to approximate functions"
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand linear transformations using matrices"
+        },
+        {
+            "number": "LO4.",
+            "description": "Work with matrices and vectors including a complete understanding of the behaviour of an m by n linear system"
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand the concept of invertibility for matrices, know many criteria for invertibility and be able to find inverses"
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand abstract concepts, construct proofs related to fields, limits and continuity"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination in this course will be held during the end-of-semester examination period. It will be a two-hour, in-person, closed book exam held on campus.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Assignment 1 - 17 March 2025, 5pm.</p>\n<p>Assignment 2 - 31 March 2025, 5pm.</p>\n<p>Assignment 3 - 14 April 2025, 5pm.</p>\n<p>Assignment 4 - 2 May 2025, 5pm.</p>\n<p>Assignment 5 - 16 May 2025, 5pm.</p>\n<p>Assignment 6 - 30 May 2025, 5pm.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be six assignments. Each will comprise of questions on recently covered course material recently. All assignments will be made available on Blackboard.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignment should be submitted through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Independent Study</strong><br><p>During the semester students are expected to work on MATH1071 outside of class time to consolidate the information given during lectures, work on tutorial problem sheets and assignments, complete extra practice problems and study for examinations.</p></br></p></div></td>",
+            "topic_title": "<strong>Independent Study</strong>",
+            "topic_description": "Independent Study During the semester students are expected to work on MATH1071 outside of class time to consolidate the information given during lectures, work on tutorial problem sheets and assignments, complete extra practice problems and study for examinations.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br><p>Students will be provided with theoretical material and examples.</p></br></p></div></td>",
+            "topic_title": "<strong>Lecture</strong>",
+            "topic_description": "Lecture Students will be provided with theoretical material and examples.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(03 Mar - 01 Jun)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>Students will receive help on the current assignment;<br/>be able to ask questions on the current problem set;<br/>be able to ask general questions related to course work.</p></br></p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals Students will receive help on the current assignment; be able to ask questions on the current problem set; be able to ask general questions related to course work.",
+            "learning_outcomes": []
+        }
+    ]
+}
