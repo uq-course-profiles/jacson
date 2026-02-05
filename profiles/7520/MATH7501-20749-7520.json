@@ -1,0 +1,138 @@
+{
+    "course_title": "Mathematics for Data Science 1",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7501-20749-7520",
+    "full_course_code": "MATH7501-20749-7520",
+    "course_code": "MATH7501",
+    "class_code": "20749",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand how to apply logic to formulate a valid argument and to construct a simple proof;"
+        },
+        {
+            "number": "LO2.",
+            "description": "Use an understanding of lists and sets to count probabilities and know how these apply to functions;"
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand functions and relations and how associated concepts apply to mathematics and computing;"
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate limits, derivatives, explain the underlying mathematical basis, interpret the results geometrically, and calculate the limits of sequences and series, and use them to approximate functions;"
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand matrix/vector arithmetic and be competent in extracting information from data sets by indexing and using mathematical software, understand the concept of invertibility for matrices, know many criteria for invertibility and be able to find inverses, and how matrices are used in solving systems of equations;"
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand basic numerical concepts such as using the Intermediate value theorem, optimisation of functions, solving a simple differential equation, calculating and using partial derivatives, and using the Taylor series;"
+        },
+        {
+            "number": "LO7.",
+            "description": "Calculate single and double integrals using a number of both symbolic and numerical methods;"
+        },
+        {
+            "number": "LO8.",
+            "description": "Use mathematical software to collect, analyse, interpret and present data."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 28/03/2025 4:00 pm</p>\n<p> 9/05/2025 4:00 pm</p>\n<p> 30/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignments require you to complete a set of theoretical and practical exercises, and to submit your written solutions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignments must be submitted electronically through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 8/04/2025 5:00 pm</p>\n<p>\n</p><p>In-class examination</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester exam will cover the first five chapters of the course workbook. This exam is an important opportunity for obtaining feedback on your progress in the course.</p>\n<p>Students are permitted to bring one double-sided A4 sheet of handwritten notes. Scanned / Photocopied / Printed notes are not permitted.</p>\n<p>You are permitted to use an approved calculator in the exam. It should either be a Casio fx-82 or have an official \"Approved\" label attached. Visit <a href=\"https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculators\">here</a> for a list of approved calculators and procedures for obtaining the official label.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L03, L04, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. This exam has specified materials permitted. </p>\n<p>Students are permitted to bring one A4 sheet of handwritten notes single sided. Scanned / Photocopied / Printed notes are not permitted.</p>\n<p>You are permitted to use an approved calculator in the exam. It should either be a Casio fx-82 (series) or have an official \"UQ Approved\" label attached. Visit <a href=\"https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculators\">here</a> for a list of approved calculators and procedures for obtaining the official label.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical</strong><br><p>Problem sheets will be available on Blackboard. Help with the problem sheets is available at the practical. Solutions will be available on Blackboard to assist with independent study. Some problem sheets will include a programming activity.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Practical</strong>",
+            "topic_description": "Practical Problem sheets will be available on Blackboard. Help with the problem sheets is available at the practical. Solutions will be available on Blackboard to assist with independent study. Some problem sheets will include a programming activity.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br><p>We will work through the examples in the course notes during the lectures. You are strongly encouraged to print out the course notes and bring these to class. Completed course notes will be posted on Blackboard after each lecture.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lecture</strong>",
+            "topic_description": "Lecture We will work through the examples in the course notes during the lectures. You are strongly encouraged to print out the course notes and bring these to class. Completed course notes will be posted on Blackboard after each lecture.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
