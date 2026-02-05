@@ -1,0 +1,574 @@
+{
+    "course_title": "Foundations of Medicine",
+    "study_period": "Sem 1 2026",
+    "location": "Rockhampton",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MEDI7100-22176-7620",
+    "full_course_code": "MEDI7100-22176-7620",
+    "course_code": "MEDI7100",
+    "class_code": "22176",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (02/02/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identifies the socio-economic, political, cultural and physical environmental factors that contribute to health outcomes for individuals and communities. (AHI01)"
+        },
+        {
+            "number": "LO2.",
+            "description": "Cares for individuals from diverse populations and is committed to achieving equity in healthcare outcomes. (AHI02)"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explains, identifies, and applies public health methods including health screening and prevention approaches and incorporates prevention and early detection equitably into clinical practice. (AHI03)"
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrates commitment to healthcare sustainability and advocacy for climate change mitigation and adaptation . (AHI04)"
+        },
+        {
+            "number": "LO5.",
+            "description": "Describes the factors that contribute to the health and wellbeing of specific populations including Indigenous Australians and other culturally and linguistically diverse groups and approaches to helping to address these factors. (AHI05)"
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrates ability to be a steward for the healthcare system through the efficient and equitable allocation of healthcare resources to meet individual community and national health needs, while enhancing quality and safety. (AHI06)"
+        },
+        {
+            "number": "LO7.",
+            "description": "Describes global health issues and their relevance to healthcare delivery. (AHI07)"
+        },
+        {
+            "number": "LO8.",
+            "description": "Explains and demonstrates how health informatics and health technology can be used in clinical practice to improve patient outcomes and experiences. (AHI08)"
+        },
+        {
+            "number": "LO9.",
+            "description": "Describes the challenges and opportunities in health and healthcare in rural and remote areas. (AHI09)"
+        },
+        {
+            "number": "LO10.",
+            "description": "Applies biological, clinical, social, and behavioural sciences in healthcare. (CTSS01)"
+        },
+        {
+            "number": "LO11.",
+            "description": "Accesses, critically appraises and applies health data and evidence from medical and scientific literature. (CTSS02)"
+        },
+        {
+            "number": "LO12.",
+            "description": "Applies scientific methods to generate and translate knowledge that improves the quality and safety of healthcare. (CTSS03)"
+        },
+        {
+            "number": "LO13.",
+            "description": "Describes Aboriginal and Torres Strait Islander knowledges of wellbeing and models of health care, including community and sociocultural strengths, as well as best practice approaches that lead to positive health and wellbeing outcomes for Aboriginal and Torres Strait Islander communities. (CTSS04)"
+        },
+        {
+            "number": "LO14.",
+            "description": "Demonstrates professional and ethical scholarship, considering alternative perspectives and respectfully challenging beliefs and assumptions. (CTSS05)"
+        },
+        {
+            "number": "LO15.",
+            "description": "Demonstrates agility, adaptability and openness to change. (DLE01)"
+        },
+        {
+            "number": "LO16.",
+            "description": "Supports and contributes to the learning of others. (DLE02)"
+        },
+        {
+            "number": "LO17.",
+            "description": "Is a self-regulated learner that reflects on their own professional practice seeks input from others and implements actions as part of continuous learning. (DLE03)"
+        },
+        {
+            "number": "LO18.",
+            "description": "Manages time and prioritises workload. (DLE04)"
+        },
+        {
+            "number": "LO19.",
+            "description": "Communicates with clarity and sensitivity in all interactions. (KCP01)"
+        },
+        {
+            "number": "LO20.",
+            "description": "Demonstrates kindness and compassion to others. (KCP02)"
+        },
+        {
+            "number": "LO21.",
+            "description": "Takes a whole of person, compassionate approach to clinical care across the life course and in a range of settings. (KCP03)"
+        },
+        {
+            "number": "LO22.",
+            "description": "Recognises and safeguards vulnerable patients . (KCP04)"
+        },
+        {
+            "number": "LO23.",
+            "description": "Acts in accordance with the fundamental ethical and legal requirements of health professional. (KCP05)"
+        },
+        {
+            "number": "LO24.",
+            "description": "Demonstrates professionalism and leadership in healthcare. (KCP06)"
+        },
+        {
+            "number": "LO25.",
+            "description": "Empowers patients to manage their own health and wellbeing according to individual preferences and capabilities. (KCP07)"
+        },
+        {
+            "number": "LO26.",
+            "description": "Collaborates effectively as a member of the health care team in the provision of whole person care, health-related education and research. (PTP01)"
+        },
+        {
+            "number": "LO27.",
+            "description": "Works effectively as a member of learning, scholarly and research groups, and healthcare teams (PTP02)"
+        },
+        {
+            "number": "LO28.",
+            "description": "Partners effectively with a diverse range of people to achieve a healthcare system which accomplishes whole person care (PTP03)"
+        },
+        {
+            "number": "LO29.",
+            "description": "Relates respectfully to patients, colleagues, healthcare team members and others, is mindful of sociocultural diversity and open to different views and perspectives. (PTP04)"
+        },
+        {
+            "number": "LO30.",
+            "description": "Maintains appropriate student, academic, professional and therapeutic relationships. (PTP05)"
+        },
+        {
+            "number": "LO31.",
+            "description": "Contributes to a positive, supportive and collegiate workplace and team culture. (PTP06)"
+        },
+        {
+            "number": "LO32.",
+            "description": "Communicates effectively and with cultural safety. (SEC01)"
+        },
+        {
+            "number": "LO33.",
+            "description": "Integrates information from multiple sources, including a patient history, clinical examination, and the results of appropriately selected investigations. (SEC02)"
+        },
+        {
+            "number": "LO34.",
+            "description": "Demonstrates safe and effective clinical judgement based on the available evidence and recognises one’s own limitations of practice and seek support. (SEC03)"
+        },
+        {
+            "number": "LO35.",
+            "description": "Performs a range of procedural skills appropriate to the level of a graduating doctor. (SEC04)"
+        },
+        {
+            "number": "LO36.",
+            "description": "Demonstrates ability to prescribe medications and administer other therapeutic agents safely effectively and economically using up to date evidence. (SEC05)"
+        },
+        {
+            "number": "LO37.",
+            "description": "Devises a management plan in collaboration with the patient and their family/carers that prioritises the patient’s goals of care. (SEC06)"
+        },
+        {
+            "number": "LO38.",
+            "description": "Recognises and assesses deteriorating and critically unwell patients who require immediate care. Implements immediate emergency and life supporting care. (SEC07)"
+        },
+        {
+            "number": "LO39.",
+            "description": "Effectively manages patients with multiple comorbidities. (SEC08)"
+        },
+        {
+            "number": "LO40.",
+            "description": "Demonstrates understanding of the principles of care for patients preparing for their future care or at the end of their lives with consideration of physical comfort, psychosocial support for the patient and their family/carers including when not to intervene. (SEC09)"
+        },
+        {
+            "number": "LO41.",
+            "description": "Contributes to clinical care across patients’ life course. (SEC10)"
+        },
+        {
+            "number": "LO42.",
+            "description": "Is clear, accurate and appropriate with respect to written and / or electronic documentation. (SEC11)"
+        },
+        {
+            "number": "LO43.",
+            "description": "Actively monitors and addresses personal wellbeing, fatigue, health and safety to support self-care and patient care. (SEC12)"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Cumulative Achievement Test (CAT)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd> Knowledge Assessment Component </dd>",
+            "due_date": "<dd><p>Week 5 (CAT 0 - Familiarisation Test), Week 8 (CAT 1), Week 17 (CAT 2), Week 27 (CAT 3), End of year examination period (CAT 4).</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The CAT sequence is made up of four progressive knowledge-based, computer-delivered, invigilated multiple choice questions (MCQ) examinations, plus one familiarisation test (CAT 0). For each test (CAT 1-CAT 4), following the main sitting of the examination, a deferred sitting will be offered for students with an approved deferral application.</p>\n<p>Questions in each CAT will cover course material <strong>up to the date of the main test</strong>, including content previously covered in the Course. <strong>From CAT 2 onwards, approximately 10-30% of questions will relate to prior content. </strong>This cumulative approach reinforces long-term learning by encouraging regular review of past material and integration of new concepts. </p>\n<p>Each question, unless otherwise indicated, will require you to select the <strong>single best answer from a list of five (5) options provided</strong>. No negative marking is applied for questions answered incorrectly. </p>\n<p>The percentage contribution of each CAT to the sequence cumulative total score is as follows:</p>\n<ul>\n<li>CAT 0 (week 5) contributes 0% of the total CAT score - it is a familiarisation test.</li>\n<li>CAT 1 (week 8) contributes 16.7% of the total CAT score, and is 60 minutes duration</li>\n<li>CAT 2 (week 17) contributes 25% of the total CAT score, and is 90 minutes duration,</li>\n<li>CAT 3 (week 27) contributes 25% of the total CAT score, and is 90 minutes duration,</li>\n<li>CAT 4 (end of year examination period) contributes 33.3% of the total CAT score, and is 120 minutes duration.</li>\n</ul>\n<p><br/></p>\n<p><strong>All students are expected to complete all four tests (CAT 1-4).</strong> If you are unable to sit any CAT, you must apply to defer that CAT, with appropriate documentation, within the timeframe prescribed by the <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam\">UQ Deferred Examination process</a>. If approved, you will receive information on the time and date of the deferred sitting, which will generally take place within two weeks of the main test. If you do not attend a CAT and do not have an approved deferral, you will receive a score of zero (0) for that CAT. It is not possible to defer a deferred examination; if you do not attend a deferred examination following your approved application, you will receive a score of zero (0) for that CAT.</p>\n<p>There is no standard set for individual CAT tests, and no requirement for your performance in any single test within the CAT sequence to be above any particular score. A standard score for the CAT sequence is calculated at the completion of the sequence, using appropriate standard setting methodology. Following each CAT test, students are provided with individual performance feedback in the form of a Strengths and Opportunities report. This includes feedback on the number of questions correctly answered, both overall and according to learning categories, as well as brief descriptors of questions to encourage revision and understanding of expected knowledge. </p>\n<p>Further information is provided in the Course Guide, available in the MEDI7100 Blackboard Course site.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All CAT examinations, except for CAT 0, are scheduled either during timetabled sessions or during university examination periods and may be held on a Saturday.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>In exceptional circumstances, appropriately documented, preventing you from sitting both a main test and its deferred sitting, the following will apply:</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Integrated Group Projects (IGP1 and IGP2)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Knowledge Assessment Component, Professionalism and Leadership Assessment Component </dd>",
+            "due_date": "<dd><p><strong>IGP-1 </strong></p>\n<p>Group presentations will be scheduled in weeks 12 and 13; the Project report and peer evaluation record is due at 1.00pm on Friday of the week following the Group presentation (week 13 and week 14).</p>\n<p><strong>IGP-2 </strong></p>\n<p>Group presentations will be scheduled in weeks 23 and 24; the Project report and peer evaluation record is due at 1.00pm on Friday of the week following the Group presentation (week 24 and week 25).</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Participation/ Student contribution, Presentation, Project, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Integrated Group Projects, IGP-1 and IGP-2, are groupwork projects that provide data towards progression decisions the <strong>Knowledge</strong> and the <strong>Professionalism and Leadership</strong> assessment components of MEDI7100. These assessment tasks are designed for you to explore aspects of Medicine that enhance your learning across the six program themes, allowing you to select a topic of choice from a list of provided options for each Project. Each IGP involves a period of collaborative learning and reflective development of teamwork skills, culminating in a <strong>group presentation</strong>, a <strong>Project report</strong>, and the completion of a <strong>peer evaluation record</strong> via Buddycheck.</p>\n<p>Each IGP has two sets of learning outcomes: <strong>generic</strong> and <strong>focus learning outcomes</strong>. Generic learning outcomes are outcomes that are common to all IGP projects.</p>\n<p>For IGP1, the generic learning outcomes are: CTSS02, CTSS05, DLE02, PTP02.</p>\n<p>For IGP2, the generic learning outcomes are: CTSS03, CTSS05, DLE02, PTP02.</p>\n<p>In addition to these, each IGP1 and IGP2 topic includes additional learning outcomes related to two of the six program themes. These form the <strong>task-specific learning outcomes</strong> for each project and are detailed in the project topic outline on <a href=\"https://learn.uq.edu.au/ultra/course\">Learn.UQ (Blackboard)</a>. The variety of topics are designed to allow you to choose topics of interest or areas in which you want to strengthen your development.</p>\n<p>Further information is provided in the Course Guide, available in the MEDI7100 Blackboard Course site.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>Group presentations </strong>will be organised during scheduled teaching and learning sessions. Feedback by faculty member(s) will be provided to students via email.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Rural Health Group Project (RHGP)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Knowledge Assessment Component, Professionalism and Leadership Assessment Component </dd>",
+            "due_date": "<dd><p> 2/10/2026 1:00 pm</p>\n<p>\n</p><p>1.00pm, Friday 2nd October (Week 31)</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Participation/ Student contribution, Project, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Rural Health Group Project (RHGP) is a groupwork project that provides data towards the Knowledge and the Professionalism and Leadership assessment components of MEDI7100. This assessment allows you to engage with a rural or remote community, and explore policy, population health data, and scholarly sources to enhance your understanding of health and wellbeing in Queensland. The RHGP involves a period of collaborative learning and reflective development of teamwork skills, culminating in the submission of a <strong>Project report</strong> and the completion of a <strong>peer evaluation record </strong>via Buddycheck.</p>\n<p>Working within your group, you will engage in a structured Rural Community Immersion, either in person or virtually, interacting with rural health practitioners and community members. You will additionally engage in scholarly inquiry to explore the health and wellbeing of a rural or remote community in Queensland, analysing and synthesising information to prepare and refine a community profile that integrates demographic, geographic, cultural, social, and health system factors, with a particular emphasis on community assets and strengths. Additionally, your group will develop an authentic rural health research question informed by community context, strengths, and needs. </p>\n<p>The RHGP contributes to the assessment of the following learning outcomes: AHI01, AHI05, AHI09, CTSS02, DLE02, PTP02</p>\n<p>Further information is provided in the Course Guide, available in the MEDI7100 Blackboard Course site.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>RHGP reports</strong> are submitted by one student (the Team Leader) per group, who will have access to the Turnitin submission link. They are responsible for completing the submission, receiving the Project feedback, and sharing the feedback to the other members of the group. For projects that result in posters or other education materials or resources, one additional file may be submitted as supporting evidence e.g., a poster, leaflet, video, or audio file.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Mini-Clinical Evaluation Exercises (Mini-CEX)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Clinical Skills Assessment Component and Professionalism and Leadership Assessment Component </dd>",
+            "due_date": "<dd><p>Mini-CEX assessments will be conducted in the context of scheduled History and Examination tutorials. If you are absent from a Mini-CEX assessment session, <strong>you must notify the Medical School and provide appropriate justification</strong>, in accordance with the Participation, Attendance, and Engagement Guidelines. </p>\n<p>Further information is available in the Course Guide, available in the MEDI7100 Blackboard Course site. </p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Performance, Practical/ Demonstration, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Mini-CEX assessments occur throughout the year, in the context of your History and Examination (H&amp;E) tutorials. The Mini-CEX allows you to demonstrate a clinical skill while being observed by your tutor and engage in a feedback conversation to support your learning. </p>\n<p>The focus of each Mini-CEX assessment reflects the learning of the preceding weeks. Clinical skills assessed through Mini-CEX include <strong>gathering a clinical history</strong> or <strong>performing a physical examination</strong>, with the assistance of a peer volunteering as simulated patient<strong>. Each student will have approximately 8 minutes to undertake the Mini-CEX</strong>, of which 6 minutes are allocated to demonstration of the skill, and 2 minutes are allocated to the feedback conversation. The details of both the observed performance and the feedback conversation are captured to support reflection and ongoing development.<strong> </strong>Where feasible, students observe peers completing the assessment to support shared learning. Time permitting, the tutor will facilitate a discussion on overall group performance, supporting students in providing feedback to each other based on peer observations.</p>\n<p>To be considered Ready to Progress in the Clinical Skills progression component, <strong>you must complete all 7 different Mini-CEX assessments</strong> by the end of the year. Your performance in the Mini-CEX assessments will be marked according to the following domains: </p>\n<ul>\n<li>Communication with patients and families</li>\n<li>Patient Assessment - History (History Mini-CEX only)</li>\n<li>Patient Assessment - Examination (Examination Mini-CEX only)</li>\n<li>Patient-centred Care</li>\n<li>Professional responsibilities and personal accountability </li>\n</ul>\n<p>Each domain will be marked on a 4-point scale: <strong>Well Below Standard, Below Standard, At/Above Standard, Well Above Standard.</strong> Descriptors for each point of the scale will be provided via Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>In consultation with your tutor, you must submit a record of both your performance during the observation and of the subsequent feedback conversation. You must complete and submit a mini-CEX form in the MyProgress ePad app to finalise the assessment. Your tutor will use your mobile device during the demonstration of the skill to input relevant information; however, the <strong>student is responsible for the correct completion of the Mini-CEX form, the prompt submission of the form, and the successful synchronisation</strong> of the device. Draft forms are not considered submitted and do not count towards the progression component. We encourage you to verify the initial sections of the form prior to submitting, to regularly check that all your forms are correct and successfully submitted to the ePortfolio, and to communicate promptly with the Medical School (SAA) in case of any errors.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Direct Observations of Procedural Skills (DOPS)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Clinical Skills Assessment Component </dd>",
+            "due_date": "<dd><p>DOPS assessments will be conducted in the context of scheduled Procedural Skills Workshops. If you are absent from a Procedural Skills Workshop, <strong>you must notify the Medical School and provide appropriate justification</strong>, in accordance with the Participation, Attendance, and Engagement guidelines. </p>\n<p>Further information is available in the Course Guide, available in the MEDI7100 Blackboard Course site. </p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Performance, Practical/ Demonstration, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>DOPS assessments take place throughout the year in the context of your Procedural Skills Workshops. The DOPS allows you to demonstrate a <strong>procedural skill</strong> while being observed by your tutor, and to engage in a feedback conversation to support your continuous improvement.</p>\n<p>The focus of each DOPS assessment reflects the practical skills addressed in the relevant workshop. Clinical skills assessed through DOPS include the performance of foundational procedural tasks, conducted in accordance with principles of <strong>patient safety, infection control, communication, and professionalism</strong>. Each student will have dedicated time within the Workshop to undertake the DOPS, which includes direct observation of the procedure followed by a feedback conversation. The details of both the observed performance and the feedback conversation are captured to support reflection and ongoing development. The group of students is involved in the observation of performances, supporting shared learning through observation. Time permitting, the tutor will facilitate a discussion on overall group performance, supporting students in providing feedback to each other based on peer observations.</p>\n<p>To be considered Ready to Progress in the Clinical Skills progression component, <strong>you must complete all 7 different DOPS assessments by the end of the year.</strong> Your performance in the DOPS assessments will be marked according to the following domains: </p>\n<ul>\n<li>Procedural skills</li>\n<li>Communication with patients and families</li>\n<li>Patient-centred Care</li>\n<li>Professional responsibilities and personal accountability</li>\n</ul>\n<p><br/></p>\n<p>Your DOPS assessment will be marked using an assessment rubric, aligned to relevant program domains. Each domain will be marked on a 4-point scale: <strong>Well Below Standard, Below Standard, At/Above Standard, Well Above Standard</strong>;<strong> </strong>or a 2-point scale<strong>: Below Standard, At/Above Standard. </strong>Descriptors for each point of the scale will be provided via Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>In consultation with your tutor, you must submit a record of both your performance during the observation and of the subsequent feedback conversation. You must complete and submit a DOPS form in the MyProgress ePad app to finalise the assessment. Your tutor will use your mobile device during the demonstration of the skill to input relevant information; however, the <strong>student is responsible for the correct completion of the DOPS form, the prompt submission of the form, and the successful synchronisation</strong> of the device. Draft forms are not considered submitted and do not count towards the progression component. You should verify the initial sections of the form prior to submitting, to regularly check that all your forms are correct and successfully submitted to the ePortfolio, and to communicate promptly with the Medical School (SAA) in case of any errors.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-5",
+            "assessment_title": "Objective Structured Clinical Examination (OSCE)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Clinical Skills Assessment Component </dd>",
+            "due_date": "<dd><p><strong>OSCE Part 1</strong> - Week 25</p>\n<p><strong>OSCE Part 2 </strong>- End of year examination period</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The OSCE (Objective Structured Clinical Examination) is an assessment of clinical skills conducted across a series of structured stations. In each station, you will be observed performing a focused clinical task within a simulated clinical environment. The MEDI7100 OSCE consists of six stations in total:</p>\n<ul>\n<li>Three stations assessing history-taking skill,</li>\n<li>Three stations assess physical examination skills,</li>\n</ul>\n<p>Across all stations, communication and professionalism are also assessed as integral components of these clinical skills.</p>\n<p><strong>OSCE Structure</strong></p>\n<p>The OSCE will be delivered in two parts. <strong>Part 1 comprises four stations</strong>, two focused on history-taking and two focused on clinical examination. <strong>Part 2 comprises two stations</strong>: one history-taking station and one clinical examination station. Students who meet the specified performance criteria in Part 1 of the OSCE will be exempt from sitting Part 2; for these students Part 1 results will inform the Progression decision.</p>\n<p>The OSCE will assess clinical skills covered up to the date of each assessment (Part 1 and Part 2). Simulated patients in the station will reproduce the diversity of society in terms of age, gender, and ethnicity; students are encouraged to engage authentically in the simulated environment. Each OSCE station is based on a clinical scenario and is <strong>10 minutes in duration</strong>. This includes <strong>2 minutes of reading time</strong>, prior to entering the room, followed by <strong>8 minutes for skills demonstration under observation</strong>. The reading time is provided for you to read the station instruction (including the scenario and specific clinical tasks required for you to demonstrate) and prepare for the station. You will then enter the room and complete the tasks within the allocated time, while being observed by an assessor.</p>\n<p>Each OSCE station marking template covers OSCE-specific domains (such as history taking, examination, communication and professionalism) with 4 to 5 scenario/station specific indicators that outline what assessors are looking for. Your score is not based solely on the completion or non-completion, mention or non-mention, of specific aspects of the clinical task you are performing. Rather, your score is based on the level of clinical proficiency you demonstrate globally within the encounter. Further details about the OSCE-specific domains and marking process are available on Blackboard.</p>\n<p>For each individual station, a score equivalent to the performance requirement (station standard score) will be calculated using an appropriate standard-setting methodology. This methodology reflects differences in station’s difficulty and is based on multiple judgments. Students achieving a score equal to or higher than the station standard score in <strong>at least three stations in the OSCE Part 1</strong> will be considered to have demonstrated a satisfactory performance in the OSCE and will be exempt from sitting Part 2 of this assessment.</p>\n<p>Students who are not exempt from sitting Part 2 of the OSCE will be considered to have demonstrated a satisfactory performance in the OSCE (comprising Parts 1 and 2) if they meet the following criteria:</p>\n<p>Achieve a score equal or higher than the station standard score in:</p>\n<ol>\n<li>At least <strong>one station focused on history taking</strong>; AND</li>\n<li>At least <strong>one station focused on physical examination</strong>; AND</li>\n<li>At least <strong>three stations</strong>.</li>\n</ol>\n<p><strong>AND</strong></p>\n<p>Achieve a <strong>total score from all six stations that is at or above the sum of all station standard scores</strong>.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Your OSCE timetable will be sent via email to your student email account. The OSCE will take place at facilities in Greater Brisbane Clinical School, Rural Clinical School and at the St Lucia Campus. Note: the OSCE may be held on a Saturday.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-6",
+            "assessment_title": "Development Coaching",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> Professionalism and Leadership Assessment Component </dd>",
+            "due_date": "<dd><p><strong>Development Coaching Meeting 1 - </strong>Week 12 to Week 15</p>\n<p><strong>Development Coaching Meeting 2 - </strong>Week 23 to Week 26</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Notebook/ Logbook, Participation/ Student contribution, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Development Coaching activity is designed to support the development of <strong>self-regulated learning skills</strong>, including goal-setting, reflection, feedback-seeking, and adaptive learning strategies. Development Coaching will provide you with structured opportunities to pause, review progress, and plan intentionally for ongoing learning and development. </p>\n<p>In MEDI7100, you will be assigned a Development Coach. Following the allocation of the Coaches, you are required to schedule and<strong> participate in two meetings</strong>: the first meeting is to be scheduled from <strong>Week 12 to Week 15</strong>, and the second meeting between <strong>Week 23 and Week 26</strong>. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You are required to maintain appropriate records of this activity, by timely completing and submitting these forms in the MyProgress ePad app for both meetings:</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-7",
+            "assessment_title": "Peer Mentoring",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd> Professionalism and Leadership Assessment Component </dd>",
+            "due_date": "<dd><p>Peer Mentoring records must be submitted via the platform <strong>no later than</strong> <strong>7 days after the date of the meeting</strong>. </p>\n<p><strong>First meeting: </strong>Weeks 4 to 5 | <strong>Second meeting:</strong> Weeks 14 to 15 | <strong>Third meeting:</strong> Weeks 20 to 21 | <strong>Fourth meeting:</strong> Weeks 30 to 31</p>\n<p><br/></p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Notebook/ Logbook, Participation/ Student contribution, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Peer Mentoring activity provides you with structured opportunities to learn with and from a peer mentor enrolled in the UQ Doctor of Medicine Program. Peer mentoring encourages shared sense-making, normalisation of challenges, and the exchange of effective learning strategies across the year.</p>\n<p>In MEDI7100, you will be assigned a Peer Mentor, most commonly a second-year medical student. During the course of the year, you are required to schedule, participate in, and maintain adequate records of <strong>four peer mentoring meetings</strong>, organised within the following timeframes:</p>\n<ol>\n<li>First meeting: Weeks 4 to 5</li>\n<li>Second meeting: Weeks 14 to 15</li>\n<li>Third meeting: Weeks 20 to 21</li>\n<li>Fourth meeting: Weeks 30 to 31</li>\n</ol>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The Peer Mentoring activity is conducted via the platform Chronus, and relevant records must be submitted via the platform <strong>no later than</strong> <strong>7 days after the date of the meeting</strong>. You are responsible for the correct completion and timely submission of all the records related to Peer Mentoring. We encourage you to regularly check that all your forms are correct and successfully submitted to the ePortfolio, and to communicate promptly with the Medical School (SAA) in case of any errors.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-8",
+            "assessment_title": "Continuing Professional Development Review",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> Professionalism and Leadership Assessment Component </dd>",
+            "due_date": "<dd><p> 25/09/2026 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Notebook/ Logbook, Participation/ Student contribution, Portfolio, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Continuing Professional Development Review (CPD Review) is <strong>a written reflection on your personal and professional growth during MEDI7100</strong>. </p>\n<p>The CPD Review consists of two parts: a narrative Reflective Account and an Appendix.</p>\n<p><strong>Reflective Account</strong></p>\n<p>The Reflective Account should provide a balanced, integrated review of your development, including specific alignment with <strong>at least two of the six UQ MD Program Themes</strong>, of your choice. You are encouraged to discuss your strengths and areas for improvement, with consideration of their relevance towards your future development and practice. This part has a specified word limit of 1000 (+/- 10%), which does not include appendices, tables, figures and quoted text. The Reflective Account will only be marked up to this word limit.</p>\n<p><strong>Appendix</strong></p>\n<p>The Appendix should provide documentation and evidence that demonstrate your purposeful engagement in personal and professional development, including development of self-regulated learning skills. To this end, you are required to include a series of documents listed in the MEDI7100 Course Guide.</p>\n<p>Satisfactory completion of the assignment requires demonstration of purposeful and intentional reflective practice and development of self-regulated learning skills, including goal-setting, reflection, feedback-seeking, and adaptive learning strategies. Your submission will be marked using an assessment rubric, which includes an overall rating and criterion-specific rating. Each rating will be marked on a 4-point scale: <strong>Well Below Standard, Below Standard, At/Above Standard, Well Above Standard.</strong> Descriptors for each point of the scale, both for criterion-specific and overall ratings will be provided via Blackboard. If your initial submission is assessed as Clearly Not Satisfactory, you will be provided with feedback and offered opportunity for resubmission. You must provide your resubmission no later than one week following the provision of feedback. Your resubmission must use tracked changes to clearly demonstrate how the feedback has been addressed. Further resubmission will occur if required to complete the task at/above standard. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-9",
+            "assessment_title": "TBL Facilitator Feedback",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Professionalism and Leadership Assessment Component </dd>",
+            "due_date": "<dd><p>Feedback will be provided by TBL Facilitator</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Your TBL Facilitator will assess your Collaborative Practice by completing a feedback form after each period of study, submitted through the MyProgress ePad app. These forms capture how you engage within your learning team over time, focusing on your participation within the team-based learning process and demonstrated ability to contribute effectively, respectfully, and proactively within the sessions. Each criterion will be marked on a 4-point scale: <strong>Well Below Standard, Below Standard, At/Above Standard, Well Above Standard</strong>. Descriptors for each point of the scale will be provided via Blackboard. To meet the expected standard of Collaborative Practice within this assessment, demonstrating your readiness to progress, you will need to achieve At/Above Standard or Well Above Standard in all criteria in each period of study.</p>\n<p>If you receive a rating of Below Standard or Well Below Standard, you must prepare an explanation of the circumstances and a reflection on your collaborative skills, and include this as an appendix in your Continuing Professional Development Review.  Multiple ratings of Below Standard or Well Below Standard in one or multiple periods of study may result in failure to demonstrate readiness to progress.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-10",
+            "assessment_title": "Mental Health First Aid Accreditation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Professionalism and Leadership Assessment Component </dd>",
+            "due_date": "<dd><p> 22/05/2026 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution, Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>All students are required to complete Mental Health First Aid (MHFA) accreditation, through Mental Health First Aid International ®. This includes completion of the required online learning modules <strong>prior to the scheduled face-to-face training session</strong>, as well as active participation in the face-to-face component organised as part of MEDI7100 scheduled teaching and learning. If you are unable to attend your scheduled face-to-face training session, <strong>you must notify the Medical School and provide appropriate justification</strong>, in accordance with the Participation, Attendance, and Engagement Guidelines. An additional opportunity to complete the training will be offered pending feasibility considerations at your Learning Community or Clinical School Hub. Following the face-to-face component, you are required to complete the the final assessment within the MHFA eLearning platform, and timely submit your <strong>MHFA Accreditation Certificate via the MEDI7100 Blackboard site</strong>. Completion of all components of the MHFA accreditation course and submission of the Accreditation Certificate contributes to demonstrating the expected standard of Professional Responsibilities and Personal Accountability. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit your <strong>MHFA Accreditation Certificate</strong> via Blackboard. Other certificates, such as \"Certificate of Completion of eLearning\" or \"Certificate of Attendance\" do not meet the requirement of this assessment item.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Refer to the MEDI7100 Course Guide for detailed information about late submissions in the MD program.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-11",
+            "assessment_title": "Individual Readiness Assurance Testing (iRAT)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd> Professionalism and Leadership Assessment Component </dd>",
+            "due_date": "<dd><p>Each iRAT is completed within a specified timeframes prior to scheduled TBL sessions.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>iRATs are brief tests completed in preparation for each Team-based Learning (TBL) activity. The content of the test aligns to the learning activities.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>In the event of recurrent lapses in engagement with iRATs you will be required to prepare an explanation of the circumstances and a reflection on your Professional Responsibilities and Personal Accountability, and include this as an appendix in your <strong>Continuing Professional Development Review</strong>. </p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team-based Learning (TBL)</strong><br><p>Structured collaborative pedagogical strategy featuring pre-session independent learning and team-based application to develop clinical reasoning, communication and teamwork</p>\n<p>You must prepare for each session using the resources provided. Before the session, you are required complete an ‘individual Readiness Assurance Test’ (iRAT) within the specified timeframe. You will then take the same test with your team in the session (Team Readiness Assurance Test – tRAT).</p></br></p></div></td>",
+            "topic_title": "<strong>Team-based Learning (TBL)</strong>",
+            "topic_description": "Team-based Learning (TBL) Structured collaborative pedagogical strategy featuring pre-session independent learning and team-based application to develop clinical reasoning, communication and teamwork You must prepare for each session using the resources provided. Before the session, you are required complete an ‘individual Readiness Assurance Test’ (iRAT) within the specified timeframe. You will then take the same test with your team in the session (Team Readiness Assurance Test – tRAT).",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>Facilitated learning session involving explanations, discussions, case analysis and application of knowledge.</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Facilitated learning session involving explanations, discussions, case analysis and application of knowledge.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Clinical Plenaries</strong><br><p>  Expert-led session designed to explore core clinical concepts, conditions, or patient journeys to build understanding of foundational clinical practice.</p></br></p></div></td>",
+            "topic_title": "<strong>Clinical Plenaries</strong>",
+            "topic_description": "Clinical Plenaries Expert-led session designed to explore core clinical concepts, conditions, or patient journeys to build understanding of foundational clinical practice.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Symposium",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Integrated Symposia</strong><br><p>  Interactive learning session featuring experts from multiple disciplines collaborating to explore a theme from complementary perspectives.</p></br></p></div></td>",
+            "topic_title": "<strong>Integrated Symposia</strong>",
+            "topic_description": "Integrated Symposia Interactive learning session featuring experts from multiple disciplines collaborating to explore a theme from complementary perspectives.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshops</strong><br><p>Applied learning session for development of competence, where students work collaboratively to test their understanding and refine their skills.</p></br></p></div></td>",
+            "topic_title": "<strong>Workshops</strong>",
+            "topic_description": "Workshops Applied learning session for development of competence, where students work collaboratively to test their understanding and refine their skills.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Clinical Skills Sessions</strong><br/><p><strong>Clinical Communication Skills Tutorials,  History and Examination Tutorials, and  Procedural Skills Workshops</strong></p>\n<p>Interactive, hands-on learning session where students actively practise the fundamental techniques of patient  consultation and examination, and interventions required for safe and effective care.</p></p></div></td>",
+            "topic_title": "<strong>Clinical Skills Sessions</strong>",
+            "topic_description": "Clinical Skills Sessions Clinical Communication Skills Tutorials,  History and Examination Tutorials, and  Procedural Skills Workshops Interactive, hands-on learning session where students actively practise the fundamental techniques of patient  consultation and examination, and interventions required for safe and effective care.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical Sessions</strong><br/><p>  Interactive, hands-on learning experience in which students explore scientific, clinical, or technical concepts through direct experimentation, observation, and skill practice.</p></p></div></td>",
+            "topic_title": "<strong>Practical Sessions</strong>",
+            "topic_description": "Practical Sessions Interactive, hands-on learning experience in which students explore scientific, clinical, or technical concepts through direct experimentation, observation, and skill practice.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Q&amp;A Sessions</strong><br/><p>  Interactive forum designed to support the students’ learning and experience in the Course, where students can clarify content, seek guidance, and reflect on learning in the context of the UQMD.</p></p></div></td>",
+            "topic_title": "<strong>Q&amp;A Sessions</strong>",
+            "topic_description": "Q&A Sessions Interactive forum designed to support the students’ learning and experience in the Course, where students can clarify content, seek guidance, and reflect on learning in the context of the UQMD.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Guided Self-study</strong><br/><p>In addition to preparing for scheduled sessions, you will engage in Guided Self-study to consolidate and extend your learning. This includes examining signposted resources, such as readings, videos, and practice activities, which will be provided to you via the MEDI7100 Blackboard site or clearly indicated to you via the site. Guided Self-study also involves undertaking self-directed review and practice to deepen your understanding of weekly concepts, in combination with regular evaluation and monitoring of your progression. This component is essential to your success in MEDI7100 and supports your development as an active, independent learner and future clinician.</p></p></div></td>",
+            "topic_title": "<strong>Guided Self-study</strong>",
+            "topic_description": "Guided Self-study In addition to preparing for scheduled sessions, you will engage in Guided Self-study to consolidate and extend your learning. This includes examining signposted resources, such as readings, videos, and practice activities, which will be provided to you via the MEDI7100 Blackboard site or clearly indicated to you via the site. Guided Self-study also involves undertaking self-directed review and practice to deepen your understanding of weekly concepts, in combination with regular evaluation and monitoring of your progression. This component is essential to your success in MEDI7100 and supports your development as an active, independent learner and future clinician.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-regulated development activities</strong><br/><p>Within MEDI7100, multiple self-regulated development activities support your growth as a reflective, responsible, and confident learner. These activities include <strong>Development Coaching</strong>, <strong>Mentoring</strong>, <strong>Reflection</strong>, and <strong>Teamwork</strong> in group projects. Within these activities, you will be supported to refine your skills, establish goals and action plans, seek and provide feedback, and develop the professional habits expected of medical practitioners, preparing you to contribute meaningfully to the academic and professional environments.</p></p></div></td>",
+            "topic_title": "<strong>Self-regulated development activities</strong>",
+            "topic_description": "Self-regulated development activities Within MEDI7100, multiple self-regulated development activities support your growth as a reflective, responsible, and confident learner. These activities include Development Coaching , Mentoring , Reflection , and Teamwork in group projects. Within these activities, you will be supported to refine your skills, establish goals and action plans, seek and provide feedback, and develop the professional habits expected of medical practitioners, preparing you to contribute meaningfully to the academic and professional environments.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Placement",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experiential opportunities</strong><br/><p>Throughout Year 1, you will have access to a range of experiential opportunities that extend your learning within and beyond the Course. Students in the Rural Clinical School, as well as a small number of students in Greater Brisbane Clinical School, will participate in a Rural Immersion, allowing you to experience life and healthcare in rural and remote contexts. At your site of enrolment, locally-organised activities will support your professional development and connection with peers, near-peers, healthcare professionals and the community. </p></p></div></td>",
+            "topic_title": "<strong>Experiential opportunities</strong>",
+            "topic_description": "Experiential opportunities Throughout Year 1, you will have access to a range of experiential opportunities that extend your learning within and beyond the Course. Students in the Rural Clinical School, as well as a small number of students in Greater Brisbane Clinical School, will participate in a Rural Immersion, allowing you to experience life and healthcare in rural and remote contexts. At your site of enrolment, locally-organised activities will support your professional development and connection with peers, near-peers, healthcare professionals and the community.",
+            "learning_outcomes": []
+        }
+    ]
+}
