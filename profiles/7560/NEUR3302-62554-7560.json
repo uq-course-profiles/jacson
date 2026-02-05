@@ -1,0 +1,411 @@
+{
+    "course_title": "Cognitive Neuroscience",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/NEUR3302-62554-7560",
+    "full_course_code": "NEUR3302-62554-7560",
+    "course_code": "NEUR3302",
+    "class_code": "62554",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the principles of the neuroanatomical basis of cognitive functions"
+        },
+        {
+            "number": "LO2.",
+            "description": "apply the principles of cognitive neuroscience to child, adolescent and adult populations"
+        },
+        {
+            "number": "LO3.",
+            "description": "understand how to operationalise cognitive mechanisms to enable their measurement and study"
+        },
+        {
+            "number": "LO4.",
+            "description": "Communicate research findings from an independently-conducted project"
+        },
+        {
+            "number": "LO5.",
+            "description": "demonstration of basic Matlab programming"
+        },
+        {
+            "number": "LO6.",
+            "description": "code basic experiments in Matlab"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Data collection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 5/09/2025 3:00 pm</p>\n<p>\n</p><p>students are responsible for recruiting and collecting data from 3 participants other than themselves</p></dd>",
+            "learning_objectives": "L06",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be allocated this tutorial time to collect data from three participants. It is expected that students should recruit friends/colleagues to come in to the lab and participate in the experiment, under the supervision of the tutor. Data collected will be collated and analysed for the report.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Matlab programme and experiment's hypotheses",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 29/08/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Notebook/ Logbook",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will formulate hypotheses and construct a programme to test face processing abilities. In the course of four tutorials, students will learn to use Matlab to display stimuli and collect response time data. The hypotheses and programme will be marked and corrected prior to data collection for the lab report.</p>\n<p>NOTE: students will use the programme to test 3 participants, and describe the results, as part of their Report.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via drop box directly to tutor.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Quiz 1 18/08/2025 - 22/08/2025</p>\n<p>Quiz 2 8/09/2025 - 12/09/2025</p>\n<p>Quiz 3 27/10/2025 - 31/10/2025</p>\n<p>\n</p><p>In your assigned tutorial</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>On-line, in tutorial class time</p>\n<p>Quiz 1 (10%): in-class open book, 20 multiple choice questions, lectures 1-3</p>\n<p>Quiz 2 (10%): in-class open book, 20 multiple choice questions, lecture 4-6 </p>\n<p>Quiz 3 (20%): in-class open book 40 questions multiple choice</p>\n<p><br/></p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Lab report - Gaze cueing",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 24/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Using the Matlab programme constructed in the first half of the course, the hypotheses generated, and the background literature provided, students will collect, process and analyse behavioural data (reaction times) from 3 participants. They will describe the background literature, method and results, and focus on the Discussion section.</p>\n<p>3,000 words total</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>via Turnitin</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mechanisms of Attention; Matlab resources</strong><br><p>No class<br/>\nMechanisms of Attention; basic Matlab resources: Pre-recorded material to be made available and should be worked through prior to commencement of tutorials from next week.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Mechanisms of Attention; Matlab resources</strong>",
+            "topic_description": "Mechanisms of Attention; Matlab resources No class Mechanisms of Attention; basic Matlab resources: Pre-recorded material to be made available and should be worked through prior to commencement of tutorials from next week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Developmental Neuroanatomy I</strong><br><p>Developmental Neurobiology I: Embryonic development of the nervous system<br/>\nDr Rodrigo Suarez</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Developmental Neuroanatomy I</strong>",
+            "topic_description": "Developmental Neuroanatomy I Developmental Neurobiology I: Embryonic development of the nervous system Dr Rodrigo Suarez",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Matlab programming</strong><br><p>self-guided Matlab programming, under tutor supervision</p></br></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Matlab programming</strong>",
+            "topic_description": "Matlab programming self-guided Matlab programming, under tutor supervision",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Developmental Neuroanatomy II</strong><br/><p>Developmental Neurobiology II: Postnatal brain development and environmental cues<br/>\nDr Rodrigo Suarez</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Developmental Neuroanatomy II</strong>",
+            "topic_description": "Developmental Neuroanatomy II Developmental Neurobiology II: Postnatal brain development and environmental cues Dr Rodrigo Suarez",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Matlab  programming</strong><br><p>self-guided Matlab programming, under tutor supervision</p></br></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Matlab  programming</strong>",
+            "topic_description": "Matlab  programming self-guided Matlab programming, under tutor supervision",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Genetics of Behaviour</strong><br/><p>Genetic basis of cognitive processes Dr Natasha Matthews</p>\n<p>The lecture on Ekka will be delivered as a pre-recording</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Genetics of Behaviour</strong>",
+            "topic_description": "Genetics of Behaviour Genetic basis of cognitive processes Dr Natasha Matthews The lecture on Ekka will be delivered as a pre-recording",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 1 and Matlab programming </strong><br/><p>1) Quiz 1 (in-class open book, 20 multiple choice questions, lectures 1-3)   </p>\n<p>2) self-guided Matlab programming, under tutor supervision</p></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Quiz 1 and Matlab programming </strong>",
+            "topic_description": "Quiz 1 and Matlab programming 1) Quiz 1 (in-class open book, 20 multiple choice questions, lectures 1-3) 2) self-guided Matlab programming, under tutor supervision",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Space and Action I</strong><br/><p>Interacting with the physical environment; Body representation, action reference frames.<br/>\nAssoc Prof Ada Kritikos</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Space and Action I</strong>",
+            "topic_description": "Space and Action I Interacting with the physical environment; Body representation, action reference frames. Assoc Prof Ada Kritikos",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Matlab programming</strong><br><p>self-guided Matlab programming, under tutor supervision</p></br></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Matlab programming</strong>",
+            "topic_description": "Matlab programming self-guided Matlab programming, under tutor supervision",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Space and Action II</strong><br/><p>Action observation, action interpretation, joint action and the mirror neurone system<br/>\nAssoc Prof Ada Kritikos</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Space and Action II</strong>",
+            "topic_description": "Space and Action II Action observation, action interpretation, joint action and the mirror neurone system Assoc Prof Ada Kritikos",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data collection with Matlab programme</strong><br><p>Arrangements (pre-bookings) will be made to test 3 participants on the Matlab task in class</p></br></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Data collection with Matlab programme</strong>",
+            "topic_description": "Data collection with Matlab programme Arrangements (pre-bookings) will be made to test 3 participants on the Matlab task in class",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Neuroscience of the self and others</strong><br/><p>The mechanisms of building a representation of the self; how the self interacts with the environment<br/>\nAssoc Prof Ada Kritikos</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Neuroscience of the self and others</strong>",
+            "topic_description": "Neuroscience of the self and others The mechanisms of building a representation of the self; how the self interacts with the environment Assoc Prof Ada Kritikos",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Face processing</strong><br><p>Are faces special? How we process faces and emotions<br/>\nAssoc Prof Alan Pegna</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Face processing</strong>",
+            "topic_description": "Face processing Are faces special? How we process faces and emotions Assoc Prof Alan Pegna",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 2 and Data collation, processing and analysis for report </strong><br><p>1)      Quiz 2: (in-class open book, 20 multiple choice questions, lecture 4-6)</p>\n<p>2)      Data collation, processing and analysis for report </p>\n<p>How to train your dragon I: transforming your data from logfiles to bar graphs</p></br></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Quiz 2 and Data collation, processing and analysis for report </strong>",
+            "topic_description": "Quiz 2 and Data collation, processing and analysis for report 1)      Quiz 2: (in-class open book, 20 multiple choice questions, lecture 4-6) 2)      Data collation, processing and analysis for report How to train your dragon I: transforming your data from logfiles to bar graphs",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Continue data collation, processing and analysis for report</strong><br/><p>How to train your dragon I: transforming your data from logfiles to bar graphs</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Continue data collation, processing and analysis for report</strong>",
+            "topic_description": "Continue data collation, processing and analysis for report How to train your dragon I: transforming your data from logfiles to bar graphs",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Attention</strong><br/><p>non-visual attention; cross-modal attention; hemi-neglect<br/>\nReward and value learning<br/>\nProf Jason Mattingley</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Attention</strong>",
+            "topic_description": "Attention non-visual attention; cross-modal attention; hemi-neglect Reward and value learning Prof Jason Mattingley",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Continue data collation, processing and analysis for report</strong><br><p>How to train your dragon II: analysing your data</p></br></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Continue data collation, processing and analysis for report</strong>",
+            "topic_description": "Continue data collation, processing and analysis for report How to train your dragon II: analysing your data",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Reward and value learning</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Reward and value learning</strong>",
+            "topic_description": "Reward and value learning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break(29 Sep - 05 Oct)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>MID-SEMESTER BREAK</strong><br/></p></div></td>",
+            "topic_title": "<strong>MID-SEMESTER BREAK</strong>",
+            "topic_description": "MID-SEMESTER BREAK",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Analysis 1</strong><br/><p>Data Analysis - Discussion of findings for report 2. </p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Data Analysis 1</strong>",
+            "topic_description": "Data Analysis 1 Data Analysis - Discussion of findings for report 2.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Neuroprosthetics</strong><br/><p>The union of biology and technology<br/>\nProf Jason Mattingley</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Neuroprosthetics</strong>",
+            "topic_description": "Neuroprosthetics The union of biology and technology Prof Jason Mattingley",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data Analysis 2 - Discussion</strong><br><p>Data Analysis -<br/>\nDiscussion of findings for report 2. Pre-recorded writing skills workshop will be made available on Blackboard</p></br></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Data Analysis 2 - Discussion</strong>",
+            "topic_description": "Data Analysis 2 - Discussion Data Analysis - Discussion of findings for report 2. Pre-recorded writing skills workshop will be made available on Blackboard",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Consciousness &amp; Attention</strong><br><p>Can we process our environment without really trying?<br/>\nProf Paul Dux</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Consciousness &amp; Attention</strong>",
+            "topic_description": "Consciousness & Attention Can we process our environment without really trying? Prof Paul Dux",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Brain-driven machines and EEG practicum /  report consult</strong><br><p>Fun time / report Consult: Brain-driven machines and EEG practicum - Neuroprosthetics; using your brain waves to drive machines</p></br></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Brain-driven machines and EEG practicum /  report consult</strong>",
+            "topic_description": "Brain-driven machines and EEG practicum /  report consult Fun time / report Consult: Brain-driven machines and EEG practicum - Neuroprosthetics; using your brain waves to drive machines",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Brain training</strong><br/><p>Can we 're-wire' our brain to improve our performance?<br/>\nProf Paul Dux</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Brain training</strong>",
+            "topic_description": "Brain training Can we 're-wire' our brain to improve our performance? Prof Paul Dux",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 3</strong><br><p>Quiz 3: in class open book 40 multiple choice questions</p></br></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Quiz 3</strong>",
+            "topic_description": "Quiz 3 Quiz 3: in class open book 40 multiple choice questions",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
