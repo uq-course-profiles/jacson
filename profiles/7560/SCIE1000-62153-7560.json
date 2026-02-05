@@ -1,0 +1,182 @@
+{
+    "course_title": "Theory & Practice in Science",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/SCIE1000-62153-7560",
+    "full_course_code": "SCIE1000-62153-7560",
+    "course_code": "SCIE1000",
+    "class_code": "62153",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise the interdisciplinary nature of modern science, including some of the similarities and differences across a range of discipline areas."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the importance of modelling in science by demonstrating the skills required to produce and analyse such models."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply fundamental mathematical techniques that are important to problems across a range of scientific discipline areas."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain key introductory concepts in computer science, design and write simple computer programs in the language Python, and interpret the output of these programs."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe and discuss some philosophical accounts of scientific reasoning."
+        },
+        {
+            "number": "LO6.",
+            "description": "Communicate responses to quantitative and science-based problems in a correct, logical and scientifically appropriate style."
+        },
+        {
+            "number": "LO7.",
+            "description": "Develop an awareness of the importance of Australian Aboriginal and Torres Strait Islander and global Indigenous Peoples’ values, cultures and knowledges and how this relates to being a contemporary scientist."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Practical exercises",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> Week 1 - Week 13</p>\n<p>\n</p><p>Due each week at the time of your practical.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You must attend your practicals in-person. For each practical, you will be provided with a task sheet containing relevant tasks, many of which are in the style of SCIE1000 exam questions. Some tasks will involve writing Python code. You will be encouraged to engage in discussion with your fellow classmates during practicals.</p>\n<p>If you are unwell then DO NOT attend your in-person practical. Please email scie1000supertutor@uq.edu.au to arrange to attend a different practical that week. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Philosophy assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 22/09/2025 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>\n</p>\n\nThis assignment will assess the degree to which students have reached the learning objectives in the philosophy component of SCIE1000, by requiring them to write an essay discussing aspects of the scientific method.\n    <button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assignments must be submitted electronically through Blackboard by the due date and time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Python & communication assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 27/10/2025 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will assess the degree to which students have reached the learning objectives in the Python and scientific communication components of SCIE1000.  Students will develop and demonstrate their skills in writing a Python program, and also demonstrate their ability to communicate science in a way which is appropriate for a prescribed target audience.  The assignment will be given within a specific scientifc context, and students will use scientific information and mathematical models within their Python program.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assignments must be submitted electronically through Blackboard by the due date and time. Plagiarism detection software will be used to check the originality of your code and other written material.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Final is cumulative, covering the entire course, and will focus on conceptual questions and problem-solving. It will not require you to write computer programs, but may require you to read, modify and interpret computer programs. There will be a formula sheet provided (this is available on Blackboard, under Learning Resources). There will be a reference page provided, explaining what you need to know about the scientific context of the questions - see past final examinations as examples (available on Blackboard, under Learning Resources).</p>\n<p>The final examination in this course will be held during the end-of-semester examination period. It will be an in-person, invigilated exam held on campus.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly lectures</strong><br><p>One 2-hour lecture each week which will be spent working through the workbook, answering questions and discussing content.</p>\n<p>During lectures we will discuss issues, challenge your answers, and solve problems together. During discussion times you will be asked to engage and give input into the discussions in various ways. A recording of these lectures will be available on Blackboard shortly after each class. However, we encourage you to attend live (either on campus or online) to obtain the best experience from the interactive nature of the classes. Lectures commence in Week 1.</p></br></p></div></td>",
+            "topic_title": "<strong>Weekly lectures</strong>",
+            "topic_description": "Weekly lectures One 2-hour lecture each week which will be spent working through the workbook, answering questions and discussing content. During lectures we will discuss issues, challenge your answers, and solve problems together. During discussion times you will be asked to engage and give input into the discussions in various ways. A recording of these lectures will be available on Blackboard shortly after each class. However, we encourage you to attend live (either on campus or online) to obtain the best experience from the interactive nature of the classes. Lectures commence in Week 1.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly practicals</strong><br/><p>Held as two hour sessions covering problem-solving, communication in science and Python programming.</p>\n<p>You must attend one practical each week. Each practical runs for two hours, in a computer laboratory (including BYOD labs), and you must attend both hours. You will enrol in a practical at the start of the semester and should attend the same practical each week if possible (in the case of illness or classes falling on public holidays, alternative arrangements will be made available). The practicals are a great place to ask questions, get help and engage in peer-to-peer learning. One practical will be dedicated to the philosophy of science.  Practicals commence in Week 1.</p></p></div></td>",
+            "topic_title": "<strong>Weekly practicals</strong>",
+            "topic_description": "Weekly practicals Held as two hour sessions covering problem-solving, communication in science and Python programming. You must attend one practical each week. Each practical runs for two hours, in a computer laboratory (including BYOD labs), and you must attend both hours. You will enrol in a practical at the start of the semester and should attend the same practical each week if possible (in the case of illness or classes falling on public holidays, alternative arrangements will be made available). The practicals are a great place to ask questions, get help and engage in peer-to-peer learning. One practical will be dedicated to the philosophy of science.  Practicals commence in Week 1.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Additional Python lecture</strong><br/><p>Optional (but highly recommended) weekly class for additional Python help.</p>\n<p>There will be 1-hour lectures to cover the Python programming concepts you will be expected to learn in this course. A recording of these classes will be made available on Blackboard shortly after the session. These classes are highly recommended if you are new to computer programming. We recommend attending this class prior to attending your practical each week. A schedule will be provided on the course Blackboard page. Python lectures commence in Week 1.</p></p></div></td>",
+            "topic_title": "<strong>Additional Python lecture</strong>",
+            "topic_description": "Additional Python lecture Optional (but highly recommended) weekly class for additional Python help. There will be 1-hour lectures to cover the Python programming concepts you will be expected to learn in this course. A recording of these classes will be made available on Blackboard shortly after the session. These classes are highly recommended if you are new to computer programming. We recommend attending this class prior to attending your practical each week. A schedule will be provided on the course Blackboard page. Python lectures commence in Week 1.",
+            "learning_outcomes": []
+        }
+    ]
+}
