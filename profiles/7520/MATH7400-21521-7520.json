@@ -1,0 +1,126 @@
+{
+    "course_title": "Mathematical Analysis",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7400-21521-7520",
+    "full_course_code": "MATH7400-21521-7520",
+    "course_code": "MATH7400",
+    "class_code": "21521",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the precise mathematical meaning of limits, derivatives, and integrals, as well as, continuous and differentiable functions"
+        },
+        {
+            "number": "LO2.",
+            "description": "Formulate proofs of results similar to those covered in class, with an appropriate level of detail and rigour."
+        },
+        {
+            "number": "LO3.",
+            "description": "Summarise important ideas from mathematical analysis and communicate these ideas clearly using appropriate mathematical terminology."
+        },
+        {
+            "number": "LO4.",
+            "description": "Examine how ideas from this course arise in other areas of mathematics."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>40% There will be four assignments, each worth 10%. </dd>",
+            "due_date": "<dd><p> 21/03/2025 4:00 pm</p>\n<p> 11/04/2025 4:00 pm</p>\n<p> 9/05/2025 4:00 pm</p>\n<p> 30/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be four assignments:</p>\n<p><br/></p>\n<p>The first will be due on Friday at 4pm in week 3 - 14/03/2025</p>\n<p>The second will be due on Thursday at 4pm in week 6 - 4/04/2025</p>\n<p>The third will be due on Friday at 4pm in week 9 - 2/05/2025</p>\n<p>The fourth will be due on Friday at 4pm in week 12 - 23/05/2025</p>\n<p> </p>\n<p><br/></p>\n<p><br/></p>\n<p>Assignments will be similar to those in MATH2400, with additional questions addressing learning objectives 3 and 4.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your assignment through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>42%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus.</p>\n<p>The final exam will be comprehensive, with all material covered in the lectures and tutorials from the whole semester being examinable, unless explicitly noted in the lectures (some more advanced topics and extension material will be excluded).</p>\n<p>The final exam will be closed book and no calculators or other aids are allowed. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>18%</dd>",
+            "due_date": "<dd><p>The In-Semester exam in this course will be held between weeks 8 and 10.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester exam in this course will be held between weeks 8 and 10. It will be an in-person exam held on campus.</p>\n<p>The In-Semester exam will be comprehensive, with all material covered in the lectures and tutorials up to week 7 being examinable, unless explicitly noted in the lectures (some more advanced topics and extension material will be excluded).</p>\n<p>The In-Semester exam will be closed book and no calculators or other aids are allowed.</p>\n<p>The marks each student earns from their In-Semester Exam will be the higher of:</p>\n<ul>\n<li>their score on the In-Semester exam</li>\n<li>their score on the Final exam</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>In the practicals students will:</p>\n<p>receive help on the current assignment;</p>\n<p>receive feedback on assignments;</p>\n<p>be able to ask questions on the current problem set;</p>\n<p>be able to ask general questions related to course work.</p></br></p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals In the practicals students will: receive help on the current assignment; receive feedback on assignments; be able to ask questions on the current problem set; be able to ask general questions related to course work.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course lectures</strong><br><p>Each week there will be three hours of lectures during which you will discuss important concepts, work through examples, and answer questions.</p></br></p></div></td>",
+            "topic_title": "<strong>Course lectures</strong>",
+            "topic_description": "Course lectures Each week there will be three hours of lectures during which you will discuss important concepts, work through examples, and answer questions.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Complementary material readings</strong><br><p>Most weeks there is one complementary material that students should read, that will not be covered in contact lectures.</p></br></p></div></td>",
+            "topic_title": "<strong>Complementary material readings</strong>",
+            "topic_description": "Complementary material readings Most weeks there is one complementary material that students should read, that will not be covered in contact lectures.",
+            "learning_outcomes": []
+        }
+    ]
+}
