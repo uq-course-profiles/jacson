@@ -1,0 +1,202 @@
+{
+    "course_title": "Regression Modelling for Biostatistics 1",
+    "study_period": "Sem 2 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7618-61457-7560",
+    "full_course_code": "STAT7618-61457-7560",
+    "course_code": "STAT7618",
+    "class_code": "61457",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the motivations for different regression analyses and be able to select and apply a suitable modelling approach based on the research aim"
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse data using normal linear models, and be able to assess model fit and diagnostics"
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse data using logistic regression models for binary data, and be able to assess model fit and diagnostics"
+        },
+        {
+            "number": "LO4.",
+            "description": "Accurately interpret and manipulate mathematical equations that relate to regression analysis"
+        },
+        {
+            "number": "LO5.",
+            "description": "Effectively communicate the outcomes and justification of a regression analysis"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Written report - Weeks 1 - 4",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 1/09/2025 11:59 pm</p>\n<p>\n</p><p>Refer to Study Guide</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Refer to Study Guide</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Please refer to 10. Policies &amp; Guidelines</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Written Report - Weeks 1 - 8",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 26/09/2025 11:59 pm</p>\n<p>\n</p><p>Refer to Study Guide</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Refer to Study Guide</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Please see 10. Policies &amp; Guidelines</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Written Report - Weeks 1 - 12",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 31/10/2025 11:59 pm</p>\n<p>\n</p><p>Refer to Study Guide</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Refer to Study Guide</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 1 Simple linear regression</strong><br><p>Refer to Study Guide</p></br></p></div></td>",
+            "topic_title": "<strong>Module Week 1 Simple linear regression</strong>",
+            "topic_description": "Module Week 1 Simple linear regression Refer to Study Guide",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 2 Checking assumptions in linear regression</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 2 Checking assumptions in linear regression</strong>",
+            "topic_description": "Module Week 2 Checking assumptions in linear regression",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 3 Binary covariates, outliers and influential observations</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 3 Binary covariates, outliers and influential observations</strong>",
+            "topic_description": "Module Week 3 Binary covariates, outliers and influential observations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 4 Multiple linear regression application</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 4 Multiple linear regression application</strong>",
+            "topic_description": "Module Week 4 Multiple linear regression application",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 5 Multiple linear regression theory</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 5 Multiple linear regression theory</strong>",
+            "topic_description": "Module Week 5 Multiple linear regression theory",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 6 Interaction and multicollinearity</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 6 Interaction and multicollinearity</strong>",
+            "topic_description": "Module Week 6 Interaction and multicollinearity",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 7 Assumption violations </strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 7 Assumption violations </strong>",
+            "topic_description": "Module Week 7 Assumption violations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 8 Linear regression model building</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 8 Linear regression model building</strong>",
+            "topic_description": "Module Week 8 Linear regression model building",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 9 Logistic regression</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 9 Logistic regression</strong>",
+            "topic_description": "Module Week 9 Logistic regression",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 10 Confounding and interaction in logistic regression</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 10 Confounding and interaction in logistic regression</strong>",
+            "topic_description": "Module Week 10 Confounding and interaction in logistic regression",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 11 Checking assumptions in logistic regression</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 11 Checking assumptions in logistic regression</strong>",
+            "topic_description": "Module Week 11 Checking assumptions in logistic regression",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module Week 12 Logistic regression model building</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module Week 12 Logistic regression model building</strong>",
+            "topic_description": "Module Week 12 Logistic regression model building",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13 Q &amp; A</strong><br/></p></div></td>",
+            "topic_title": "<strong>Week 13 Q &amp; A</strong>",
+            "topic_description": "Week 13 Q & A",
+            "learning_outcomes": []
+        }
+    ]
+}
