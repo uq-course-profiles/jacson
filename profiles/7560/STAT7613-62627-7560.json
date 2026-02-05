@@ -1,0 +1,106 @@
+{
+    "course_title": "Bayesian Statistical Methods",
+    "study_period": "Sem 2 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7613-62627-7560",
+    "full_course_code": "STAT7613-62627-7560",
+    "course_code": "STAT7613",
+    "class_code": "62627",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the difference between Bayesian and frequentist concepts of statistical inference."
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrate how to specify and fit simple Bayesian models with appropriate attention to the role of the prior distribution and the data model."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain how these generative models can be used for inference, prediction and model criticism."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate proficiency in using statistical software packages (R) to specify and fit models, assess model fit, detect and remediate non-convergence, and compare models."
+        },
+        {
+            "number": "LO5.",
+            "description": "Engage in specifying, checking and interpreting Bayesian statistical analyses in practical problems using effective communication with health and medical investigators."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 5/09/2025 11:59 pm</p>\n<p>\n</p><p>refer to Study Guide</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>refer to Study Guide</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Please see 10. Policies &amp; Guidelines</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 6/10/2025 11:59 pm</p>\n<p>\n</p><p>refer to Study Guide</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>refer to Study Guide</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Please see 10. Policies &amp; Guidelines</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Selected Practical Exercises",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 7/11/2025 11:59 pm</p>\n<p>\n</p><p>refer to Study Guide</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>refer to BCA Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>refer to Study Guide</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Please see 10. Policies &amp; Guidelines</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Study Guide</strong><br><p>simple one-parameter models with conjugate prior distributions; standard models containing two or more parameters, including specifics for the normal location-scale model; the role of noninformative prior distributions; the relationship between Bayesian methods and standard classical' approaches to statistics, especially those based on likelihood methods; computational techniques for use in Bayesian analysis, especially the use of simulation from posterior distributions, with emphasis on the WinBUGS package as a practical tool; application of Bayesian methods for fitting hierarchical models to complex data structures.</p></br></p></div></td>",
+            "topic_title": "<strong>Study Guide</strong>",
+            "topic_description": "Study Guide simple one-parameter models with conjugate prior distributions; standard models containing two or more parameters, including specifics for the normal location-scale model; the role of noninformative prior distributions; the relationship between Bayesian methods and standard classical' approaches to statistics, especially those based on likelihood methods; computational techniques for use in Bayesian analysis, especially the use of simulation from posterior distributions, with emphasis on the WinBUGS package as a practical tool; application of Bayesian methods for fitting hierarchical models to complex data structures.",
+            "learning_outcomes": []
+        }
+    ]
+}
