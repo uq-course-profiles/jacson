@@ -1,0 +1,556 @@
+{
+    "course_title": "Introductory Macroeconomics",
+    "study_period": "Summer 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON1020-80047-7580",
+    "full_course_code": "ECON1020-80047-7580",
+    "course_code": "ECON1020",
+    "class_code": "80047",
+    "semester_code": "7580",
+    "semester_details": "Summer Semester, 2025 (01/12/2025 - 14/02/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply macroeconomic terminology correctly."
+        },
+        {
+            "number": "LO2.",
+            "description": "Appraise the roles and functions of macroeconomic institutions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Use diagrams, simple equations and words to explain key causal relationships in macroeconomics."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse contemporary macroeconomic policy issues and their impacts on business and on society."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify, compile and interpret macroeconomic data."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Country Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 12/01/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this report, you will be assigned a country based on your student number. You are required to discuss and evaluate the macroeconomic performance of your assigned country for a specified period based on the macroeconomic indicators covered in this course.</p>\n<p>The detail instruction will be provided on Blackboard &gt; Assessment &gt; Country Report.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit report electronically via Turnitin on Blackboard by the deadline date and time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Impact Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 30/01/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You are required to use economic models and theories covered in this course to explain how external shocks has impacted the macroeconomy of a country assigned to you, taking into consideration the key policy responses by the government and central bank.</p>\n<p>The detail instruction will be provided on Blackboard &gt; Assessment &gt; Impact Report.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit report electronically via Turnitin on Blackboard by the deadline date and time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/02/2026 - 14/02/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will consist of problem solving and short-answer questions.</p>\n<p>The final exam is designed to cover all learning objectives and to test both depth and breadth of students' knowledge of material covered throughout the course.</p>\n<p>Further details and guidelines regarding the final exam will be provided by the lecturer during class. Additionally, such information will also be posted on our course Blackboard site, ensuring accessibility to all relevant details.</p>\n<p>Problem solving questions: marks given for the accuracy of the calculations and the interpretation of the results.</p>\n<p>Short-answer questions: part marks may be given where some relevant knowledge is clearly demonstrated.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(01 Dec - 07 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1: GDP. Pre-recorded online learning via UQ Extend. </strong><br><p>Reference: Shapiro, Chapter 6.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic 1: GDP. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic 1: GDP. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 6.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1(01 Dec - 07 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1 - GDP</strong><br><p>Reference: Shapiro, Chapter 6</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 1 - GDP</strong>",
+            "topic_description": "Lecture 1 - GDP Reference: Shapiro, Chapter 6",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1(01 Dec - 07 Dec)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1 - GDP</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 1 - GDP</strong>",
+            "topic_description": "Tutorial 1 - GDP",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1(01 Dec - 07 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic  2: Economic Growth. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 7</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic  2: Economic Growth. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic  2: Economic Growth. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 7",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 1(01 Dec - 07 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2 - Economic Growth</strong><br/><p>Reference: Shapiro, Chapter 7</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 2 - Economic Growth</strong>",
+            "topic_description": "Lecture 2 - Economic Growth Reference: Shapiro, Chapter 7",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2(08 Dec - 14 Dec)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2 - Economic Growth</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 2 - Economic Growth</strong>",
+            "topic_description": "Tutorial 2 - Economic Growth",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2(08 Dec - 14 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 3 - Unemployment. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 8</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic 3 - Unemployment. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic 3 - Unemployment. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 8",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2(08 Dec - 14 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3 - Unemployment</strong><br/><p>Reference: Shapiro, Chapter 8</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 3 - Unemployment</strong>",
+            "topic_description": "Lecture 3 - Unemployment Reference: Shapiro, Chapter 8",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2(08 Dec - 14 Dec)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3 - Unemployment</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 3 - Unemployment</strong>",
+            "topic_description": "Tutorial 3 - Unemployment",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2(08 Dec - 14 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 4 - Inflation. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 9</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic 4 - Inflation. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic 4 - Inflation. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 9",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2(08 Dec - 14 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4 -Inflation</strong><br/><p>Reference: Shapiro, Chapter 9</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 4 -Inflation</strong>",
+            "topic_description": "Lecture 4 -Inflation Reference: Shapiro, Chapter 9",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(15 Dec - 21 Dec)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4 - Inflation. </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 4 - Inflation. </strong>",
+            "topic_description": "Tutorial 4 - Inflation.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(15 Dec - 21 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 5 - Aggregate Demand-Supply. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 11</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic 5 - Aggregate Demand-Supply. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic 5 - Aggregate Demand-Supply. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 11",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(15 Dec - 21 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5 - Aggregate Demand-Supply. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 11</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 5 - Aggregate Demand-Supply. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Lecture 5 - Aggregate Demand-Supply. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 11",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(15 Dec - 21 Dec)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5 - Aggregate Demand-Supply</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 5 - Aggregate Demand-Supply</strong>",
+            "topic_description": "Tutorial 5 - Aggregate Demand-Supply",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(15 Dec - 21 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 6 - Fiscal Policy. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 17</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic 6 - Fiscal Policy. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic 6 - Fiscal Policy. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 17",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(15 Dec - 21 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6- Fiscal Policy</strong><br/><p>Reference: Shapiro, Chapter 17</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 6- Fiscal Policy</strong>",
+            "topic_description": "Lecture 6- Fiscal Policy Reference: Shapiro, Chapter 17",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(22 Dec - 28 Dec)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6 - Fiscal Policy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 6 - Fiscal Policy</strong>",
+            "topic_description": "Tutorial 6 - Fiscal Policy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(22 Dec - 28 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 7 - Money and Banking. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 14</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic 7 - Money and Banking. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic 7 - Money and Banking. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 14",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(22 Dec - 28 Dec)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7 - Money and Banking</strong><br/><p>Reference: Shapiro, Chapter 14</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 7 - Money and Banking</strong>",
+            "topic_description": "Lecture 7 - Money and Banking Reference: Shapiro, Chapter 14",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(22 Dec - 28 Dec)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No classes Thursday 25 December. Public Holiday.</strong><br/></p></div></td>",
+            "topic_title": "<strong>No classes Thursday 25 December. Public Holiday.</strong>",
+            "topic_description": "No classes Thursday 25 December. Public Holiday.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid Sem break(29 Dec - 04 Jan)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid-Semester Break</strong>",
+            "topic_description": "Mid-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(05 Jan - 11 Jan)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No classes in Week 5 (extended mid-semester break)</strong><br/><p>No classes in Week 5</p></p></div></td>",
+            "topic_title": "<strong>No classes in Week 5 (extended mid-semester break)</strong>",
+            "topic_description": "No classes in Week 5 (extended mid-semester break) No classes in Week 5",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(12 Jan - 18 Jan)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7 - Money and Banking</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 7 - Money and Banking</strong>",
+            "topic_description": "Tutorial 7 - Money and Banking",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(12 Jan - 18 Jan)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 8 - Monetary Policy. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 15</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic 8 - Monetary Policy. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic 8 - Monetary Policy. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 15",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(12 Jan - 18 Jan)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8 - Monetary Policy </strong><br/><p>Reference: Shapiro, Chapter 15</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 8 - Monetary Policy </strong>",
+            "topic_description": "Lecture 8 - Monetary Policy Reference: Shapiro, Chapter 15",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(12 Jan - 18 Jan)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8 - Monetary Policy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8 - Monetary Policy</strong>",
+            "topic_description": "Tutorial 8 - Monetary Policy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(12 Jan - 18 Jan)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9- Open Macroeconomy. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 10</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic 9- Open Macroeconomy. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic 9- Open Macroeconomy. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 10",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(12 Jan - 18 Jan)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9 - Open Macroeconomy</strong><br/><p>Reference: Shapiro, Chapter 10</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 9 - Open Macroeconomy</strong>",
+            "topic_description": "Lecture 9 - Open Macroeconomy Reference: Shapiro, Chapter 10",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(19 Jan - 25 Jan)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9 - Open Macroeconomy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9 - Open Macroeconomy</strong>",
+            "topic_description": "Tutorial 9 - Open Macroeconomy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(19 Jan - 25 Jan)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic  10 - International Finance. Pre-recorded online learning via UQ Extend. </strong><br/><p>Reference: Shapiro, Chapter 10</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Topic  10 - International Finance. Pre-recorded online learning via UQ Extend. </strong>",
+            "topic_description": "Topic  10 - International Finance. Pre-recorded online learning via UQ Extend. Reference: Shapiro, Chapter 10",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(19 Jan - 25 Jan)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10- International Finance</strong><br/><p>Reference: Shapiro, Chapter 10</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 10- International Finance</strong>",
+            "topic_description": "Lecture 10- International Finance Reference: Shapiro, Chapter 10",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(19 Jan - 25 Jan)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10 - International Finance</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10 - International Finance</strong>",
+            "topic_description": "Tutorial 10 - International Finance",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(19 Jan - 25 Jan)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review Lecture</strong><br/><p>Reference: Lecture notes</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Review Lecture</strong>",
+            "topic_description": "Review Lecture Reference: Lecture notes",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
