@@ -1,0 +1,438 @@
+{
+    "course_title": "Introducing Quantitative Research",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/SOCY7339-61602-7560",
+    "full_course_code": "SOCY7339-61602-7560",
+    "course_code": "SOCY7339",
+    "class_code": "61602",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the stages of quantitative research"
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand how social theories are related to social scientific concepts"
+        },
+        {
+            "number": "LO3.",
+            "description": "Be able to calculate and interpret basic univariate descriptive statistics"
+        },
+        {
+            "number": "LO4.",
+            "description": "Be able to construct and interpret two and three-way cross-tabulations"
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand the logic of classical statistical inference"
+        },
+        {
+            "number": "LO6.",
+            "description": "Be able to make statistical inferences based on a sample mean/proportion or comparison of means/proportions"
+        },
+        {
+            "number": "LO7.",
+            "description": "Be able to carry out a chi-squared test of statistical independence for tabular data"
+        },
+        {
+            "number": "LO8.",
+            "description": "Be able to construct and interpret a correlation coefficient"
+        },
+        {
+            "number": "LO9.",
+            "description": "Appreciate the logic of bivariate linear regression"
+        },
+        {
+            "number": "LO10.",
+            "description": "Be able to use Jamovi statistical software to access and manipulate survey data in preparation for quantitative analysis"
+        },
+        {
+            "number": "LO11.",
+            "description": "Be able to use Jamovi statistical software to carry out simple descriptive and inferential statistical procedures."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Mid-Semester Exam (central)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>6/09/2025 - 20/09/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a multi-choice and short response exam that contains 40 questions assessing students' knowledge of statistical concepts learnt in the lectures and tutorials. The questions will assess both knowledge and capacity to interpret statistical information.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2 - Applying Inferential Statistics",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 28/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L05, L06, L07, L08, L09, L10, L11",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment item consists of a mix of statistics/data analysis problems that must be completed using Jamovi software for analysis. The computer exercises will be posted to UQ Ultra in Week 8.</p>\n<p>You must upload your assignment as one file that contains three parts to a Blackboard link. Part A includes a section on hand calculations. Part B includes a section on Jamovi software based exercises. Part C is a statement of transferable skills. </p>\n<p>Part A focuses on manual calculations (3 questions total)</p>\n<p>Part B focuses on Jamovi calculations (7 questions total)</p>\n<p>Part C focuses on real world applications and definitions (3 questions total)</p>\n<p><strong>Marking criteria</strong> and/or marking rubrics are available in the ‘Assessment’ folder in Blackboard for this course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>You must submit your assignment electronically by the due time, on the due date. </strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Review Tests",
+            "special_indicators": [],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p>Quiz 1 (week 3) 12/08/2025 - 14/08/2025</p>\n<p>Quiz 2 (week 6) 2/09/2025 - 4/09/2025</p>\n<p>Quiz 3 (week 11) 14/10/2025 - 16/10/2025</p>\n<p>\n</p><p>Each review quiz will be due 48 hours after it is assigned.</p>\n<p>Quiz 1 (week 3) will be open Tuesday 12th August 2pm, due date 14th August 2pm.</p>\n<p>Quiz 2 (week 6) will be open Tuesday 2nd September 2pm, due date 4th September August 2pm.</p>\n<p>Quiz 3 (week 11) will be open Tuesday 14th October 2pm, due date 16th October 2pm.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L09",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In weeks 3, 6 and 11 there will be review tests that are designed to help you a) practice for the mid-semester exam, and b) make progress on your assignments. There are 3 tests to complete over the semester.</p>\n<p>The tests can be found on the course site under the Assessment tab. They are to be submitted online within 48 hours from when the date and time the test opens. Tests are set up as online quizzes. Solutions will be made available on the blackboard site after the due date, and no late submissions will be accepted without <strong>prior approval </strong>from the course coordinator. If you are unable to complete the tests within the given period you will need to apply for a deferred exam no later than 5 calendar days after the due date. </p>\n<p>Tests are not graded by the course coordinator or the tutors - they are graded automatically through blackboard. It is your responsibility to look at the answers provided. Tests are graded out of a total of questions across the semester answered correctly. These must be completed by the due dates. Each week, the number of questions will vary - some weeks might have 10 questions, others might have only 4 questions. This reflects the time needed to complete each set of questions.</p>\n<p>Further details about tests will be provided in week 1 of the semester.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submissions are made online.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Course</strong><br/><p>This introduces the course and describes the stages of social research, with an emphasis on quantitative research design.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Course</strong>",
+            "topic_description": "Introduction to Course This introduces the course and describes the stages of social research, with an emphasis on quantitative research design.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 1 - NO PRACTICAL</strong><br/><p>Computer practicals will start in Week 2</p></p></div></td>",
+            "topic_title": "<strong>WEEK 1 - NO PRACTICAL</strong>",
+            "topic_description": "WEEK 1 - NO PRACTICAL Computer practicals will start in Week 2",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamentals of Quantitative Research</strong><br/><p>Introduces the basics of measurement and the purpose of analysis.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Fundamentals of Quantitative Research</strong>",
+            "topic_description": "Fundamentals of Quantitative Research Introduces the basics of measurement and the purpose of analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 2 - Survey Materials, Codebooks and Raw Data</strong><br/><p>Computer orientation - Understanding data sets</p></p><p><strong>Learning outcomes:</strong> L03, L10, L11</p></div></td>",
+            "topic_title": "<strong>WEEK 2 - Survey Materials, Codebooks and Raw Data</strong>",
+            "topic_description": "WEEK 2 - Survey Materials, Codebooks and Raw Data Computer orientation - Understanding data sets",
+            "learning_outcomes": [
+                "L03",
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Descriptive Statistics</strong><br/><p>Descriptive statistics: mean, median, mode and measures of central tendency.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Descriptive Statistics</strong>",
+            "topic_description": "Descriptive Statistics Descriptive statistics: mean, median, mode and measures of central tendency.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 3 - NO PRACTICALS</strong><br/><p>Ekka holiday this week</p></p></div></td>",
+            "topic_title": "<strong>WEEK 3 - NO PRACTICALS</strong>",
+            "topic_description": "WEEK 3 - NO PRACTICALS Ekka holiday this week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Graphical Representations of Data</strong><br/><p>This lecture describes graphical ways of describing data.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Graphical Representations of Data</strong>",
+            "topic_description": "Graphical Representations of Data This lecture describes graphical ways of describing data.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 4 - JAMOVI BASICS</strong><br/><p>Orientation to Jamovi</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>WEEK 4 - JAMOVI BASICS</strong>",
+            "topic_description": "WEEK 4 - JAMOVI BASICS Orientation to Jamovi",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Measures of Association</strong><br/><p>This lecture introduces the concept of statistical measures of association including contigency tables and correlations</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L06, L08</p></div></td>",
+            "topic_title": "<strong>Measures of Association</strong>",
+            "topic_description": "Measures of Association This lecture introduces the concept of statistical measures of association including contigency tables and correlations",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 5 - Describing Data</strong><br/><p>Creating graphs and summary statistics in Jamovi with real world data</p></p><p><strong>Learning outcomes:</strong> L03, L10, L11</p></div></td>",
+            "topic_title": "<strong>WEEK 5 - Describing Data</strong>",
+            "topic_description": "WEEK 5 - Describing Data Creating graphs and summary statistics in Jamovi with real world data",
+            "learning_outcomes": [
+                "L03",
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Probability Theory</strong><br/><p>This lecture will provide students with a a good foundation for statistics thorough basic probability theory. Essential for moving forward in the course!</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Probability Theory</strong>",
+            "topic_description": "Probability Theory This lecture will provide students with a a good foundation for statistics thorough basic probability theory. Essential for moving forward in the course!",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 6 - Measures of Association</strong><br/><p>Cross tabs and correlations in Jamovi</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>WEEK 6 - Measures of Association</strong>",
+            "topic_description": "WEEK 6 - Measures of Association Cross tabs and correlations in Jamovi",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Population and Sampling Distributions</strong><br/><p>Lecture will continue the probability discussion to describe how probability is used in statistics.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06</p></div></td>",
+            "topic_title": "<strong>Population and Sampling Distributions</strong>",
+            "topic_description": "Population and Sampling Distributions Lecture will continue the probability discussion to describe how probability is used in statistics.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 7 - Recoding variables</strong><br/><p>Create and recode existing variables into new ones. Examine missing variables and learn more about interpreting tables.</p></p><p><strong>Learning outcomes:</strong> L10, L11</p></div></td>",
+            "topic_title": "<strong>WEEK 7 - Recoding variables</strong>",
+            "topic_description": "WEEK 7 - Recoding variables Create and recode existing variables into new ones. Examine missing variables and learn more about interpreting tables.",
+            "learning_outcomes": [
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inferential Statistics: Confidence Intervals</strong><br/><p>This lecture describes how information gathered from a sample can be inferred to the population. Includes the use of confidence intervals.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Inferential Statistics: Confidence Intervals</strong>",
+            "topic_description": "Inferential Statistics: Confidence Intervals This lecture describes how information gathered from a sample can be inferred to the population. Includes the use of confidence intervals.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 8 - Confidence Intervals</strong><br/><p>Calculate and interpret confidence intervals using Jamovi</p></p><p><strong>Learning outcomes:</strong> L10, L11</p></div></td>",
+            "topic_title": "<strong>WEEK 8 - Confidence Intervals</strong>",
+            "topic_description": "WEEK 8 - Confidence Intervals Calculate and interpret confidence intervals using Jamovi",
+            "learning_outcomes": [
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inferential Statistics: Hypothesis Tests</strong><br/><p>This lecture describes how information gathered from a sample can be inferred to the population using hypothesis testing.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Inferential Statistics: Hypothesis Tests</strong>",
+            "topic_description": "Inferential Statistics: Hypothesis Tests This lecture describes how information gathered from a sample can be inferred to the population using hypothesis testing.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 9 - Hypothesis Testing</strong><br/><p>Learn how to carry out and interpret a hypothesis test in Jamovi - single sample means and proportions.</p></p><p><strong>Learning outcomes:</strong> L10, L11</p></div></td>",
+            "topic_title": "<strong>WEEK 9 - Hypothesis Testing</strong>",
+            "topic_description": "WEEK 9 - Hypothesis Testing Learn how to carry out and interpret a hypothesis test in Jamovi - single sample means and proportions.",
+            "learning_outcomes": [
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break(29 Sep - 05 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>MID SEMESTER BREAK</strong><br/></p></div></td>",
+            "topic_title": "<strong>MID SEMESTER BREAK</strong>",
+            "topic_description": "MID SEMESTER BREAK",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inferential Statistics: Large v Small Samples</strong><br/><p>This lecture expands on the concepts of confidence intervals and hypothesis testing to include small samples and comparisons between groups.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Inferential Statistics: Large v Small Samples</strong>",
+            "topic_description": "Inferential Statistics: Large v Small Samples This lecture expands on the concepts of confidence intervals and hypothesis testing to include small samples and comparisons between groups.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 10 - Hypothesis Tests for two groups</strong><br/><p>Learn how to carry out hypothesis tests when you want to compare two groups in Jamovi</p></p><p><strong>Learning outcomes:</strong> L10, L11</p></div></td>",
+            "topic_title": "<strong>WEEK 10 - Hypothesis Tests for two groups</strong>",
+            "topic_description": "WEEK 10 - Hypothesis Tests for two groups Learn how to carry out hypothesis tests when you want to compare two groups in Jamovi",
+            "learning_outcomes": [
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Chi Square Test</strong><br/><p>This lecture reviews the material on measures of association and expands hypothesis test in order to test hypothesis between categorial variables.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>The Chi Square Test</strong>",
+            "topic_description": "The Chi Square Test This lecture reviews the material on measures of association and expands hypothesis test in order to test hypothesis between categorial variables.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 11 - Chi Square</strong><br/><p>Learning how to find associations between categorial variables in Jamovi.</p></p><p><strong>Learning outcomes:</strong> L10, L11</p></div></td>",
+            "topic_title": "<strong>WEEK 11 - Chi Square</strong>",
+            "topic_description": "WEEK 11 - Chi Square Learning how to find associations between categorial variables in Jamovi.",
+            "learning_outcomes": [
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bivariate Regression</strong><br/><p>This lecture is dedicated to introducing the concept of regression analysis.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Bivariate Regression</strong>",
+            "topic_description": "Bivariate Regression This lecture is dedicated to introducing the concept of regression analysis.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 12 - Bivariate regression</strong><br/><p>Basic bi-variate regression using Jamovi software.</p></p><p><strong>Learning outcomes:</strong> L10, L11</p></div></td>",
+            "topic_title": "<strong>WEEK 12 - Bivariate regression</strong>",
+            "topic_description": "WEEK 12 - Bivariate regression Basic bi-variate regression using Jamovi software.",
+            "learning_outcomes": [
+                "L10",
+                "L11"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Using Statistics in the Real World</strong><br/><p>Exploring where this knowledge can take you.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L08, L09</p></div></td>",
+            "topic_title": "<strong>Using Statistics in the Real World</strong>",
+            "topic_description": "Using Statistics in the Real World Exploring where this knowledge can take you.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>WEEK 13 - NO PRACTICALS</strong><br/></p></div></td>",
+            "topic_title": "<strong>WEEK 13 - NO PRACTICALS</strong>",
+            "topic_description": "WEEK 13 - NO PRACTICALS",
+            "learning_outcomes": []
+        }
+    ]
+}
