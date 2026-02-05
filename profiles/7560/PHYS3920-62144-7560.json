@@ -1,0 +1,153 @@
+{
+    "course_title": "Advanced Statistical Mechanics",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS3920-62144-7560",
+    "full_course_code": "PHYS3920-62144-7560",
+    "course_code": "PHYS3920",
+    "class_code": "62144",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe and interpret the principles of statistical physics, and analyse its connection to other areas of physics and to real-world problems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply and manipulate the mathematical principles and methods of statistical mechanics to solve quantitative problems, and critically analyse the results."
+        },
+        {
+            "number": "LO3.",
+            "description": "Plan and execute experimental investigations in stastical physics and thermodynamics, and critically analyse and communicate the results."
+        },
+        {
+            "number": "LO4.",
+            "description": "Utilise technical communication to support scientific arguments in the area of statistical mechanics and thermodynamics."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Laboratory written reports (x 2)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20% (2 x 10%) </dd>",
+            "due_date": "<dd><p>Due at 2:00 pm on days noted on lecture schedule available on Blackboard.</p></dd>",
+            "learning_objectives": "L01, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Guidelines for the preparation of laboratory reports will be discussed in the introductory lab session and will be provided in Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The laboratory component is assessed based on the written reports submitted by the laboratory group on the two experiments carried out. The final reports must be submitted within two weeks of the second afternoon scheduled for each experiment. Submission is via the Blackboard submission portal as a single PDF file. Document must be uploaded by 2:00 pm on the indicated day. The written reports will be marked for correctness and each report will receive a grade that carries 10% weight of the final grade. Submission guidelines will be made available on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Tests on applied class problem solving",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>\n</p><p>Weeks 2-13 during your allocated Applied Class contact hour.</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Written",
+            "category": "Quiz, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be required to answer quick (often multiple choice) quiz-like test questions related to your applied class problems from previous week. This will occur in Weeks 2-13, during your allocated Applied Class contact hour. Your answers to the test questions must be handed in to the casual academic in hard copy, on supplied A4 papers, during the Applied Class. They will be marked for correctness. Out of 12 such tests, only 6 are required to attain the maximum 10% weight for this assessment component. If you complete more than 6 tests, only 6 best marks will be counted.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The answers to the test questions must be handed in to the casual academic in hard copy, on supplied A4 papers, during the Applied Class.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Computational Project and Report",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>\n</p><p>Due at 2:00 pm on date noted on lecture schedule available on Blackboard.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A computational project related to statistical mechanics and a written report detailing your results. Details will be provided on Blackboard and during information session.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>A single PDF document will be uploaded to the submission portal on Blackboard by 2:00 pm on the indicated day.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination in this course will be held during the end-of-semester examination period.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Solving problems</strong><br><p>By solving problems in statistical mechanics you will develop an understanding of how to apply the theoretical methods to a broad rangle of situations.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Solving problems</strong>",
+            "topic_description": "Solving problems By solving problems in statistical mechanics you will develop an understanding of how to apply the theoretical methods to a broad rangle of situations.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Attending lectures</strong><br/><p>The lectures will focus on presenting and processing the knowledge obtained from the assigned readings. We will make use of concept questions and peer discussion to ensure students gain a deep conceptual understanding of statistical mechanics.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Attending lectures</strong>",
+            "topic_description": "Attending lectures The lectures will focus on presenting and processing the knowledge obtained from the assigned readings. We will make use of concept questions and peer discussion to ensure students gain a deep conceptual understanding of statistical mechanics.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laboratory sessions</strong><br/><p>There will be 5-6 lab sessions during semester. During the first introductory session (Week 3), students will be rostered in pairs or small groups to work on 2 assigned experiments. Students attend lab sessions on only one day of the week. Students will complete 2 labs over the course of semester (2 x 2 afternoons).<br/>\nReports on each experiment will be due one week after the laboratory session, and will be assessed individually.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Laboratory sessions</strong>",
+            "topic_description": "Laboratory sessions There will be 5-6 lab sessions during semester. During the first introductory session (Week 3), students will be rostered in pairs or small groups to work on 2 assigned experiments. Students attend lab sessions on only one day of the week. Students will complete 2 labs over the course of semester (2 x 2 afternoons). Reports on each experiment will be due one week after the laboratory session, and will be assessed individually.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
