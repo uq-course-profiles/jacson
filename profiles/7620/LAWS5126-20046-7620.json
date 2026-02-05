@@ -1,0 +1,77 @@
+{
+    "course_title": "Medical Law",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/LAWS5126-20046-7620",
+    "full_course_code": "LAWS5126-20046-7620",
+    "course_code": "LAWS5126",
+    "class_code": "20046",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe some of the current controversies in medicine and the law; and"
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse the legal consequences arising out of a doctor-patient interaction."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Online Quiz - Invigilated",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 13/03/2026 8:00 am</p></dd>",
+            "learning_objectives": "L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The examination is a closed book examination.</p>\n<p>The examination will consist of a number of multiple choice questions totalling 40 marks.</p>\n<p>Students will need to bring with them an electronic device - iPad, Surface Pro or laptop computer which is set up and able to connect to the University's wi-fi network.</p>\n<p>Please ensure that prior to entering the examination venue, you log onto the University network (using double factor authentication) and that your device is fully charged.</p>\n<p>Students may only access the exam questions during the exam - not notes, websites or any external materials of any type.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The quiz will be conducted via Learn.UQ.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p> 2/04/2026 8:00 am</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will have 90 minutes in which to complete the exam.</p>\n<p>Some details of the exam will be discussed during the first lecture.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 2(23 Feb - 08 Mar)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminars</strong><br><p>The seminar topics are:</p>\n<ol>\n<li>Medicine as Contract </li>\n<li>Medicine as Battery</li>\n<li>Medicine as Negligence</li>\n<li>Negligence Post Civil Liability Act </li>\n<li>Competency</li>\n<li>Information and Medical Practice</li>\n<li>Bioethical Principles</li>\n<li>Constitutional Limitations </li>\n<li>Current Controversies</li>\n</ol></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Seminars</strong>",
+            "topic_description": "Seminars The seminar topics are: Medicine as Contract Medicine as Battery Medicine as Negligence Negligence Post Civil Liability Act Competency Information and Medical Practice Bioethical Principles Constitutional Limitations Current Controversies",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        }
+    ]
+}
