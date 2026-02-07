@@ -1,0 +1,154 @@
+{
+    "course_title": "Programming of Simulation, Analysis, & Learning Systems",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH2504-62116-7560",
+    "full_course_code": "MATH2504-62116-7560",
+    "course_code": "MATH2504",
+    "class_code": "62116",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use software development tools including Git, Unix command line, Markdown, Julia IDEs and Debugging."
+        },
+        {
+            "number": "LO2.",
+            "description": "Develop (design, program, and test) multi-module software programs in a programming language such as Julia or similar."
+        },
+        {
+            "number": "LO3.",
+            "description": "Use language extensions for scientific programming."
+        },
+        {
+            "number": "LO4.",
+            "description": "Work with data files and formats including CSV, JSON, XML, and data frames. For this, understand the structure of such data objects."
+        },
+        {
+            "number": "LO5.",
+            "description": "Implement and interpret basic numerical methods including the solution of ordinary differential equations, root finding, and problems from linear algebra. In addition, be able to apply these to concrete real world applications"
+        },
+        {
+            "number": "LO6.",
+            "description": "Implement and interpret basic Monte Carlo simulation techniques in the context of more complex simulation systems such as discrete event simulation systems."
+        },
+        {
+            "number": "LO7.",
+            "description": "Implement and interpret discrete and graph based algorithms for sorting, searching, and path finding.  In addition, analyse (mathematically) the performance of simple data structures such as linked-lists, heaps, and hash-tables. Further, gain an understanding on how some of these structures are implemented."
+        },
+        {
+            "number": "LO8.",
+            "description": "Implement, train, use, and interpret basic machine learning techniques from supervised and unsupervised learning."
+        },
+        {
+            "number": "LO9.",
+            "description": "Describe the software organization, design-rationale, and implementation for all of the above use cases, all in the context of projects spanning multiple modules and following organized software development practices."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "BigHW (pairs)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>16%</dd>",
+            "due_date": "<dd><p> 5/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Creative Production/ Exhibition, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This BigHW is a \"big home-work\". It includes multiple programming and algorithmic exercises covering the first few units of the course. The submission is in pairs. This is a single assignment. See <a href=\"https://courses.smp.uq.edu.au/MATH2504/2025/assessment_html/bighw.html\">BIGHW</a>  for the assignment, submission details, and grading criteria.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>See <a href=\"https://courses.smp.uq.edu.au/MATH2504/2025/assessment_html/bighw.html\">https://courses.smp.uq.edu.au/MATH2504/2025/assessment_html/bighw.html</a> .</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 9/09/2025 7:00 pm</p>\n<p>\n</p><p>Submit in class at the end of the quiz.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The quiz tests basic understanding and competency of the content from the first few units of the course. The quiz takes place during the Tuesday evening lecture. See <a href=\"https://courses.smp.uq.edu.au/MATH2504/2025/quiz/\">https://courses.smp.uq.edu.au/MATH2504/2025/quiz/</a> . </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>See <a href=\"https://courses.smp.uq.edu.au/MATH2504/2025/quiz/\">https://courses.smp.uq.edu.au/MATH2504/2025/quiz/</a> .</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Projects",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>54%</dd>",
+            "due_date": "<dd><p> 7/10/2025 4:00 pm</p>\n<p> 24/10/2025 4:00 pm</p>\n<p> 20/11/2025 4:00 pm</p>\n<p>\n</p><p>The due date for Project 3 is a hard deadline also for medical and other extensions. This is because the due date is at the end of the exam period</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Creative Production/ Exhibition, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Project #1 deals with symbolic computation. It involves taking an existing (supplied) code-base and improving it.</p>\n<p>Project #2 deals with discrete event simulation and is a project to be worked on in pairs. Unlike project #1 that is based on supplied code, the structure of the code base for this</p>\n<p>project is to be designed in pairs.</p>\n<p>Project #3 deals with data science. It is due towards the end of the exam block.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>See <a href=\"https://courses.smp.uq.edu.au/MATH2504/2025/\">course website</a> .</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Standard practical (PRA1)</strong><br><p>Weekly standard practical sessions as a guide towards assignments, projects, and quiz prep.</p></br></p></div></td>",
+            "topic_title": "<strong>Standard practical (PRA1)</strong>",
+            "topic_description": "Standard practical (PRA1) Weekly standard practical sessions as a guide towards assignments, projects, and quiz prep.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Support practical (PRA2)</strong><br/><p>Weekly support practical sessions are optional for students needing extra help.</p></p></div></td>",
+            "topic_title": "<strong>Support practical (PRA2)</strong>",
+            "topic_description": "Support practical (PRA2) Weekly support practical sessions are optional for students needing extra help.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Lectures (3 hrs per week)</strong><br/><p>Lecture</p></p></div></td>",
+            "topic_title": "<strong>Weekly Lectures (3 hrs per week)</strong>",
+            "topic_description": "Weekly Lectures (3 hrs per week) Lecture",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Perspective Seminar</strong><br/><p>Periodic seminars by industry professionals.</p></p></div></td>",
+            "topic_title": "<strong>Perspective Seminar</strong>",
+            "topic_description": "Perspective Seminar Periodic seminars by industry professionals.",
+            "learning_outcomes": []
+        }
+    ]
+}
