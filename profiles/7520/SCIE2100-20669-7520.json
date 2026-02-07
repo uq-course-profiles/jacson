@@ -1,0 +1,242 @@
+{
+    "course_title": "Bioinformatics 1: Introduction",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/SCIE2100-20669-7520",
+    "full_course_code": "SCIE2100-20669-7520",
+    "course_code": "SCIE2100",
+    "class_code": "20669",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand key concepts of molecular biology and sequences, and how bioinformatics and publicly available data contribute to biological discovery."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse DNA, RNA, and protein sequences, identify patterns, and compare them to generate biological insights."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand the principles of phylogenetics and its application to study evolutionary changes in sequences."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain key technologies for generating biological data and understand the different types and formats of these data."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use bioinformatic tools including Python programming to solve biological problems, including working with biological databases and/or developing/refining methods."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand key computing concepts in bioinformatics and the challenges involved in analysing complex biological data."
+        },
+        {
+            "number": "LO7.",
+            "description": "Identify research areas and career opportunities in bioinformatics across academia and industry."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Computer Practicals",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>18% 6 submissions (3% each) </dd>",
+            "due_date": "<dd><p> 18/03/2025 - 20/05/2025</p>\n<p>\n</p><p>Each prac submission is due 2pm on the day prior to the following prac unless advised otherwise.</p></dd>",
+            "learning_objectives": "L02, L03, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exercises and problems in the form of worksheets will be distributed for each of the six Computer Practicals (Prac 1 through Prac 6). Each submission is due within a week after the practical unless advised otherwise. More detail will be available on Blackboard.</p>\n<p>The skills developed here will be assessed separately (see In-Class Practical Assessments).</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via the designated online submission system (CoderQuiz)</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Class Practical Assessment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>21% ICPA0 is a Pass/Fail. ICPA1 has a 21% weighting of overall course marks. </dd>",
+            "due_date": "<dd><p>ICPA0 (Pass/Fail) 26/03/2025 11:00 am</p>\n<p>ICPA1 (21%) 16/04/2025 11:00 am</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This Assessment consists of two components: <strong>(a)</strong> In-Class Practical Assessment 0 (ICPA0), and <strong>(b)</strong> In-Class Practical Assessment 1 (ICPA1). </p>\n<p>For both ICPA0 and ICPA1, students will be given a worksheet that contains a number of problems based on the material covered in practicals held prior to each assessment. Students are expected to complete each of these assessments <strong>in class</strong> during the designated practical session. The students are required to (a) complete and answer a series of open-book questions on CoderQuiz (90 minutes), and (b) do a brief 10-minute exit interview with a tutor, which assesses high-level understanding of the relevant practical content. Students MUST complete this assessment during the allotted time slot.</p>\n<p><strong>ICPA0</strong> will be held during the scheduled practical session of <strong>Week 5</strong>, focusing on content covered in Computer Practicals 1 and 2. This is a pass/fail assessment item, to help prepare students for ICPA1. A successful in-class attempt of ICPA0 is considered \"pass\". </p>\n<p><strong>ICPA1</strong> will be held during the scheduled practical session of <strong>Week 8</strong>, focusing on content covered in Computer Practicals 3 and 4. ICPA1 has a overall course mark weighting of 21%.</p>\n<p>More detailed information will be provided.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via the designated online submission system CoderQuiz</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "In-Class Practical Assessment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>21%</dd>",
+            "due_date": "<dd><p> 21/05/2025 11:00 am</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In-Class Practical Assessment 2 (<strong>ICPA2</strong>) focuses on the material covered in Computer Practicals 5 and 6. Given a worksheet that contains a number of problems, students are expected to complete this assessments <strong>in class</strong> during the scheduled practical session in <strong>Week 12</strong>. The students are required to (a) complete and answer a series of open-book questions on CoderQuiz (90 minutes), and (b) do a brief 10-minute exit interview with a tutor, which assesses high-level understanding of the relevant practical content. Students MUST complete this assessment during the allotted time slot.</p>\n<p>More detailed information will be provided.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via the designated online submission systems CoderQuiz</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End-of-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L03, L04, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment aims to test the breadth of the student's knowledge in bioinformatics. Particular emphasis is put on knowledge that is not explicitly assessed by means of assignments and practicals. The student will be given a set of short-answer questions and problems, covering the major topics discussed in the lectorials. Further details will be provided on Blackboard.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 2(24 Feb - 09 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to molecular biology</strong><br><p>Introduction to the course and molecular biology</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to molecular biology</strong>",
+            "topic_description": "Introduction to molecular biology Introduction to the course and molecular biology",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(24 Feb - 25 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Computer lab exercise</strong><br><p>12 weekly practical sessions including the Introduction to computing and programming in Python (Prac 0; Weeks 1-2) and three in-class assessments (Weeks 5, 8 and 12), in topics aligned with the lecture content.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Computer lab exercise</strong>",
+            "topic_description": "Computer lab exercise 12 weekly practical sessions including the Introduction to computing and programming in Python (Prac 0; Weeks 1-2) and three in-class assessments (Weeks 5, 8 and 12), in topics aligned with the lecture content.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 5(10 Mar - 30 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sequence analysis</strong><br><p>Sequence analysis in bioinformatics (conservation, sequence alignment, high-throughput sequences, profiles, motifs)</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Sequence analysis</strong>",
+            "topic_description": "Sequence analysis Sequence analysis in bioinformatics (conservation, sequence alignment, high-throughput sequences, profiles, motifs)",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 7(31 Mar - 13 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Phylogenetics</strong><br><p>Phylogenetic methods in bioinformatics</p></br></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Phylogenetics</strong>",
+            "topic_description": "Phylogenetics Phylogenetic methods in bioinformatics",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Gene expression analysis</strong><br/><p>Bioinformatic analysis of gene expression and transcriptome data</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Gene expression analysis</strong>",
+            "topic_description": "Gene expression analysis Bioinformatic analysis of gene expression and transcriptome data",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Databases</strong><br/><p>Biological datatypes, databases, and ontology</p></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Databases</strong>",
+            "topic_description": "Databases Biological datatypes, databases, and ontology",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Protein bioinformatics</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Protein bioinformatics</strong>",
+            "topic_description": "Protein bioinformatics",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Career Panel Forum</strong><br/><p>Open discussion forum about career prospects in bioinformatics</p></p><p><strong>Learning outcomes:</strong> L07</p></div></td>",
+            "topic_title": "<strong>Career Panel Forum</strong>",
+            "topic_description": "Career Panel Forum Open discussion forum about career prospects in bioinformatics",
+            "learning_outcomes": [
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 May - 01 Jun)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review</strong><br/><p>Review of course content and preparation for the End-of-Semester Exam</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Review</strong>",
+            "topic_description": "Review Review of course content and preparation for the End-of-Semester Exam",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L06"
+            ]
+        }
+    ]
+}
