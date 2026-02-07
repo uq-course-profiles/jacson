@@ -1,0 +1,161 @@
+{
+    "course_title": "Advanced Genome Informatics",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BINF7001-62075-7560",
+    "full_course_code": "BINF7001-62075-7560",
+    "course_code": "BINF7001",
+    "class_code": "62075",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Appraise the theory and practice of genome informatics and be prepared to apply these methods to address current problems in the field."
+        },
+        {
+            "number": "LO2.",
+            "description": "Compare the different types of available genomic and transcriptomic data and critique the general approaches used to analyse these."
+        },
+        {
+            "number": "LO3.",
+            "description": "Examine the principles of sequence alignment to the practical problem of mapping reads to a reference sequence."
+        },
+        {
+            "number": "LO4.",
+            "description": "Judge the approaches required for the analysis of metagenomic data."
+        },
+        {
+            "number": "LO5.",
+            "description": "Appraise the principles underpinning common de novo assembly approaches."
+        },
+        {
+            "number": "LO6.",
+            "description": "Explain the approaches required for phylogenomic analysis of sequence data."
+        },
+        {
+            "number": "LO7.",
+            "description": "Describe the approaches required for genomic analysis and functional annotation of human genomic sequence data."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "ASSESSMENT 1: Read mapping and the command-line",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 2/09/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will submit a short project report about read-mapping analyses with real high-throughput sequencing data. The report includes A) a working script that includes unix commands used to undertake the read-mapping analysis; B) short-answers to assessment questions based on Module 1 practical exercises using student-specific datasets; and C) a critical analysis of common read-mapping methodologies and benchmarking studies.</p>\n<p>Feedback on the script and other command-line specific tasks within the assessment is designed to help students assess their competency in practical aspects of using the command-line environment to manipulate high-throughput sequence data and perform read-mapping experiments. The practical skills developed in Module 1 and Assessment 1 are important for successfully completing the remainder of the coursework and assessment items. Working on the command-line has a steep learning curve, similar to learning a new language, and the relative weighting of tasks within this assessment ensures that students are not penalised if they are relatively new to the command-line environment.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "ASSESSMENT 2: Human genomics and mutation",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 23/09/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Laboratory report assessing your ability to detect and analyse germline and somatic mutations from human cancer genome datasets and synthesise information around their potential impact and implications for disease. Students will prepare a laboratory report using simulated genome data and bioinformatics tools provided on the binf-training high performance computer, including:</p>\n<p>A) a summary description of the data using bioinformatics methods; </p>\n<p>B) an analysis of the germline variants within the genome data and interpretation of these findings; and</p>\n<p>C) an analysis of the somatic point mutations and rearrangements present in the tumour sample and interpretation of these findings.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "ASSESSMENT 3: De novo assembly and phylogenomics",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 21/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L05, L06",
+            "mode": "Oral, Written",
+            "category": "Paper/ Report/ Annotation, Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Task Description:</p>\n<p>Students will be given a real set of high-throughput sequencing data and will be required to undertake 1) <em>de novo</em> assembly, 2) assessment of assembly quality, 3)<em> ab initio</em> gene prediction, and 4) phylogenomic analyses. </p>\n<p>The assessment will consist of two components:</p>\n<p>(A) a <strong>short video</strong> (oral) presentation (5 minutes with identifiable speaker video embedded)</p>\n<p>(B) a brief <strong>technical report</strong> with recommendation(s)</p>\n<p>Complete guidelines for preparing and submitting the video presentation and the technical report will be given on Learn.UQ.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your video and report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "ASSESSMENT 4: Metagenome analysis",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 31/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will analyse and interpret metagenomic sequence data in the context of real-world scenarios. Analysis will include sequence simulation, sequence quality control, taxonomic assignment, and annotation using both web-based and command-line tools. Students will prepare answers to a problem as well as a report detailing the bioinformatic analyses of a viral metagenome and a description of the viral community. Full guidelines for the project report requirements will be given on Learn.UQ.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1Submission via Turnitin portal on Blackboard @ Learn.UQ</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 4(28 Jul - 24 Aug)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1: Read mapping and the command-line [SB]</strong><br><p>Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of read-mapping. Includes in-depth introduction to unix command-line.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 1: Read mapping and the command-line [SB]</strong>",
+            "topic_description": "Module 1: Read mapping and the command-line [SB] Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of read-mapping. Includes in-depth introduction to unix command-line.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 7(25 Aug - 14 Sep)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2: Human genomics and mutation  [AE]</strong><br><p>Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of human genomics and mutation.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L07</p></div></td>",
+            "topic_title": "<strong>Module 2: Human genomics and mutation  [AE]</strong>",
+            "topic_description": "Module 2: Human genomics and mutation  [AE] Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of human genomics and mutation.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 10(15 Sep - 12 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3: De novo genome assembly and phylogenomics [CC]</strong><br><p>Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of <em>de novo </em>assembly and phylogenomics.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06</p></div></td>",
+            "topic_title": "<strong>Module 3: De novo genome assembly and phylogenomics [CC]</strong>",
+            "topic_description": "Module 3: De novo genome assembly and phylogenomics [CC] Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of de novo assembly and phylogenomics.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 11 To Week 13(13 Oct - 02 Nov)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 4: Metagenome analysis [PH]</strong><br><p>Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of metagenomics.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Module 4: Metagenome analysis [PH]</strong>",
+            "topic_description": "Module 4: Metagenome analysis [PH] Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of metagenomics.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        }
+    ]
+}
