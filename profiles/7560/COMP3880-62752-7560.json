@@ -1,0 +1,154 @@
+{
+    "course_title": "International Software Development 1",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3880-62752-7560",
+    "full_course_code": "COMP3880-62752-7560",
+    "course_code": "COMP3880",
+    "class_code": "62752",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (23/06/2025 - 23/07/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Communicate goals and expectations in a cross-cultural environment to negotiate project outcomes."
+        },
+        {
+            "number": "LO2.",
+            "description": "Develop IT systems that deliver solutions that are suitable for a global audience."
+        },
+        {
+            "number": "LO3.",
+            "description": "Work in a cross-cultural team to deliver an IT system."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Initial Prototype Demonstration",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Pass / Fail </dd>",
+            "due_date": "<dd><p> 3/07/2025 - 9/07/2025</p>\n<p>\n</p><p>The demonstration will be conducted in-person during class time. Your entire team should be at the presentation. Only one or two people are required to make the presentation, but any team member may be asked questions related to the project.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Practical/ Demonstration, Presentation, Product/ Design, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Teams will present the current state of their prototype at the end of the first development sprint. The presentation will include a demonstration of the prototype's current functionality. The presentation should highlight the value delivered at this stage and what you plan to deliver by the end of the next sprint. All project artefacts that make up the prototype need to be committed and pushed to your repository. The commit of the work demonstrated is to be tagged as \"prototype\" in your repository.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst you may use AI and MT technologies in developing your prototype, successful completion of assessment in this course will require you to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. You must include in your repository a file AI.md that indicates the AI and MT tools that you used and the extent of their use. (e.g. All code was written by providing copilot with class descriptions and then revising the generated code. Classes A and B were produced by the following prompts to ChatGPT and were then adapted to work in the assignment's context.)</p>\n<p>To pass this assessment you will be required to demonstrate detailed comprehension of your submitted project artefacts, independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission of prototype artefacts is through the project source repository created for your team. You must have given the course coordinator access to your repository.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Retrospective",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Pass / Fail </dd>",
+            "due_date": "<dd><p> 7/07/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L03",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will conduct a retrospective with your project team. You are to identify issues in your current development process and practices. You should determine which of the processes or practices need to be changed during the next sprint in order to successfully deliver your intended prototype. You need to decide on concrete, practical actions you will do during the next sprint to deliver the improvements.</p>\n<p>You should not be overly ambitious in what you decide to change in your process or practices. You are expected to identify more issues than you can resolve in the next sprint. You should focus on those changes that will provide the greatest improvement to how your team works together.</p>\n<p>Machine Translation (MT) may support students in completing this assessment task. Students may appropriately use MT in completing this assessment task. Students must clearly reference any use of MT in each instance.</p>\n<p>Use of generative Artificial Intelligence (AI) in this task is prohibited.</p>\n<p>A failure to reference MT use and / or the use of generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via the link provided on BlackBoard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Demonstration and Business Case",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Pass / Fail </dd>",
+            "due_date": "<dd><p> 18/07/2025</p>\n<p>\n</p><p>The presentation will take place in a formal scheduled presentation session at DNUI.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Presentation, Product/ Design, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Teams will give a formal presentation of the business case for their enterprise. The business case is to be presented as a pitch to potential angel investors. The presentation should include a demonstration of your product prototype, with an emphasis on convincing investors of its value. You do not have time to provide an extended demonstration of your prototype or a detailed explanation of all its features. You need to make the demonstration a story that demonstrates the key value delivered by the product and why your target audience would want to use it.</p>\n<p>In accordance with UQ assessment policy, your presentation will be recorded.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst you may use AI and MT technologies, successful completion of assessment in this course will require you to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. You must include in your repository a file AI.md that indicates the AI and MT tools that you used and the extent of their use. (e.g. All code was written by providing copilot with class descriptions and then revising the generated code. Classes A and B were produced by the following prompts to ChatGPT and were then adapted to work in the assignment's context.)</p>\n<p>To pass this assessment you will be required to demonstrate detailed comprehension of your project and its business case, independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The presentation will be made to an assessment panel and other students. The presentation may be lived streamed.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Team Collaboration",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Pass / Fail </dd>",
+            "due_date": "<dd><p> 23/06/2025 - 18/07/2025</p>\n<p>\n</p><p>Assessed throughout the project.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The learning outcomes for this course are developed and demonstrated through your team's project work. Your effectiveness as a team member will have a direct impact on what you learn and achieve in this course. Your individual contribution to the teamwork and processes will be assessed to determine if you have achieved the course outcomes of communicating and working effectively in a cross-cultural environment to deliver an innovative IT system.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You will be assessed by observation of the teaching team.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 5",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Program Orientation</strong><br/><p><strong>Start-up China Program</strong></p>\n<p>This is an intensive program to develop your ability to work in a multi-cultural team to deliver an innovative software product. Program activities and their times are indicated in the provided program schedule.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Program Orientation</strong>",
+            "topic_description": "Program Orientation Start-up China Program This is an intensive program to develop your ability to work in a multi-cultural team to deliver an innovative software product. Program activities and their times are indicated in the provided program schedule.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
