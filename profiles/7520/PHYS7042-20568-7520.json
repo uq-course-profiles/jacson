@@ -1,0 +1,122 @@
+{
+    "course_title": "Quantum Mechanics II",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS7042-20568-7520",
+    "full_course_code": "PHYS7042-20568-7520",
+    "course_code": "PHYS7042",
+    "class_code": "20568",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Interpret the principles of quantum physics, and analyse its connection to other areas of physics and to real-world problems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply and manipulate the mathematical principles and methods of quantum physics to solve quantitative problems, and critically analyse the results."
+        },
+        {
+            "number": "LO3.",
+            "description": "Collaboratively plan and execute experimental investigations in quantum physics, and critically analyse and communicate the results."
+        },
+        {
+            "number": "LO4.",
+            "description": "Utilise technical communication to support scientific arguments in the area of quantum physics."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus.</p>\n<p>Permitted Materials: UQ-approved (and labelled) calculator; 1 double-sided A4 sheet of notes (typed or handwritten).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item a penalty of 10% of the maximum possible mark allocated for the assessment item (or equivalent penalty for other grading schemes) will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Experiment 2: Logbook and summary of analysis",
+            "special_indicators": [],
+            "weighting": "<dd>10% 10% or 15% (Experiment with the higher grade receives the higher weight) </dd>",
+            "due_date": "<dd><p>Logbook snapshots at end of each session, with final summary due 5pm two weeks after the second session.</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p> After an introductory session, you will work collaboratively in small groups (2 to 4 people) to complete two experiments, in consultation with your laboratory tutor. Each experiment is to be completed over two three-hour lab sessions, as per your laboratory timetable. Laboratory notes and short videos provide guidance on the experimental apparatus and the nature of measurements – please review these prior to starting the experiment.</p>\n<p><br/></p>\n<p><strong>Logbooks (group work):</strong></p>\n<p><br/></p>\n<p>It is vital that you document your observations, ideas, experimentation, results and preliminary analysis during the course of your experimental investigations. Each group is required to maintain a collaborative \"logbook\" for each experiment, that will need to be shown to and discussed with your tutor in the last hour of each session. As part of the discussion, your tutor may ask questions to ascertain that each member of the group understands the experimental approach you have taken and relevant concepts. In the discussion your tutor will also aid you in developing your plans for the next session or for completing your analysis. For record keeping, one member of each group should upload a copy of the current 'snapshot' the logbook as a pdf to Blackboard prior to leaving the session.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard.  You may be required to submit your written summary via TurnItIn.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item a penalty of 10% of the maximum possible mark allocated for the assessment item (or equivalent penalty for other grading schemes) will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Homework Problems",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>Due Fridays 5:00 pm. HW1: 7/3, HW2: 21/3, HW3: 4/4, HW4: 2/5, HW5: 16/5, HW6: 30/5</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p> Selected problems from the tutorial problem sheets will be due for marking and feedback approximately every two weeks (6 homework submissions in total). Your best 5 homework problem grades will be used to calculate the overall homework grade.  </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments may be hand-written and scanned or typed using a computer. The files should be submitted electronically via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item a penalty of 10% of the maximum possible mark allocated for the assessment item (or equivalent penalty for other grading schemes) will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Experiment 1: Logbook and summary of analysis",
+            "special_indicators": [],
+            "weighting": "<dd>15% 10% or 15% (Experiment with the higher grade receives the higher weight) </dd>",
+            "due_date": "<dd><p>Logbook snapshots at end of each session, with final summary due 5pm two weeks after the second session.</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p> After an introductory session, you will work collaboratively in small groups (2 to 4 people) to complete two experiments, in consultation with your laboratory tutor. Each experiment is to be completed over two three-hour lab sessions, as per your laboratory timetable. Laboratory notes and short videos provide guidance on the experimental apparatus and the nature of measurements – please review these prior to starting the experiment.</p>\n<p><br/></p>\n<p><strong>Logbooks (group work):</strong></p>\n<p><br/></p>\n<p>It is vital that you document your observations, ideas, experimentation, results and preliminary analysis during the course of your experimental investigations. Each group is required to maintain a collaborative \"logbook\" for each experiment, that will need to be shown to and discussed with your tutor in the last hour of each session. As part of the discussion, your tutor may ask questions to ascertain that each member of the group understands the experimental approach you have taken and relevant concepts. In the discussion your tutor will also aid you in developing your plans for the next session or for completing your analysis. For record keeping, one member of each group should upload a copy of the current 'snapshot' the logbook as a pdf to Blackboard prior to leaving the session.</p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard.  You may be required to submit your written summary via TurnItIn.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item a penalty of 10% of the maximum possible mark allocated for the assessment item (or equivalent penalty for other grading schemes) will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshops</strong><br><p>The two-hour weekly workshops consist of summary of new material, discussions and problem solving.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Workshops</strong>",
+            "topic_description": "Workshops The two-hour weekly workshops consist of summary of new material, discussions and problem solving.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laboratories</strong><br><p>The laboratories are designed to gain experience in advanced laboratory physics by carrying out a variety of experiments, to learn special techniques of experimental physics and to further develop skills in scientific analysis, record keeping and communication</p></br></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Laboratories</strong>",
+            "topic_description": "Laboratories The laboratories are designed to gain experience in advanced laboratory physics by carrying out a variety of experiments, to learn special techniques of experimental physics and to further develop skills in scientific analysis, record keeping and communication",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
