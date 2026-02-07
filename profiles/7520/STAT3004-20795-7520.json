@@ -1,0 +1,72 @@
+{
+    "course_title": "Probability Models & Stochastic Processes",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT3004-20795-7520",
+    "full_course_code": "STAT3004-20795-7520",
+    "course_code": "STAT3004",
+    "class_code": "20795",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Formulate and solve probabilistic problems in the framework of rigourous probability theory"
+        },
+        {
+            "number": "LO2.",
+            "description": "Recognize and analyze stochastic models."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [],
+            "weighting": "<dd>40% Each assignment is worth 10% </dd>",
+            "due_date": "<dd><p>Assignment 1 28/03/2025 3:00 pm</p>\n<p>Assignment 2 11/04/2025 3:00 pm</p>\n<p>Assignment 3 9/05/2025 3:00 pm</p>\n<p>Assignment 4 30/05/2025 3:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be solving problems and justifying your solutions to those problems.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission is via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item a penalty of 10% of the maximum possible mark allocated for the assessment item (or equivalent penalty for other grading schemes) will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final examination",
+            "special_indicators": [],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Two-hour invigilated exam (specified material permitted)</p>\n<p>Type: Exam – during Exam Period (Central)</p>\n<p>Reading time: 10 minutes</p>\n<p>Duration: 120 minutes</p>\n<p>Description: The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus.</p>\n<p>Materials Permitted: UQ Approved calculator, One double-sided A4 sheed of notes (handwritten or typed), bilingual dictionary</p>\n<p>Criteria and marking: The exam is assessed on the accuracy and completeness of the results (are the answers correct, and is sufficient explanation given?). Additional assessment criteria may include the amount of innovative and mathematically elegant reasoning, and the clarity of exposition.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals",
+            "learning_outcomes": []
+        }
+    ]
+}
