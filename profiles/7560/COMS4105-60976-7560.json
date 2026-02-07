@@ -1,0 +1,337 @@
+{
+    "course_title": "Communication Systems",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMS4105-60976-7560",
+    "full_course_code": "COMS4105-60976-7560",
+    "course_code": "COMS4105",
+    "class_code": "60976",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "relate the role of mathematical signals & systems theory to advanced communication systems"
+        },
+        {
+            "number": "LO2.",
+            "description": "evaluate and critique common communication systems in terms of their properties, advantages and disadvantages"
+        },
+        {
+            "number": "LO3.",
+            "description": "simulate the operation of communication systems to predict their performance"
+        },
+        {
+            "number": "LO4.",
+            "description": "design a communication system according to a given specification by using design calculations"
+        },
+        {
+            "number": "LO5.",
+            "description": "develop synchronisation algorithms which work on over the air (OTA) transmitted signals"
+        },
+        {
+            "number": "LO6.",
+            "description": "measure and collect OTA signals for the purposes of successful decoding of transmitted data"
+        },
+        {
+            "number": "LO7.",
+            "description": "develop an appreciation of the benefits and problems associated with team-based engineering work"
+        },
+        {
+            "number": "LO8.",
+            "description": "develop and appreciate a communication system according to an existing standard which is made to operate in the presence of other systems"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Practical Milestones",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>24%</dd>",
+            "due_date": "<dd><p>Prac 0 11/08/2025 - 25/08/2025</p>\n<p>Prac 1 1/09/2025 - 8/09/2025</p>\n<p>Prac 2 15/09/2025 - 22/09/2025</p>\n<p>Prac 3 7/10/2025 - 13/10/2025</p>\n<p>Wildcard Prac 20/10/2025 - 31/10/2025</p>\n<p>\n</p><p>In allocated practical session</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L08",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Practical work for this course will take place in the GP South laboratories (78-212). You should note that this laboratory is classified as an Engineering laboratory and workplace health and safety regulations require that covered footwear be worn in the laboratory. You should read the sections entitled \"EAIT Computer Laboratories\" and \"Usage Conditions for Computing Laboratories and Facilities\" in the <a href=\"https://student.eait.uq.edu.au/\">EECS Student Help Pages</a>. You will also be required to read and understand the <a href=\"https://eecs.uq.edu.au/current-students/eecs-school-guidelines-students\">\"Occupational Health and Safety in the Laboratory\" guidelines</a> and fill out the declaration. Failure to sign the declaration and/or abide by the guidelines will result in your exclusion from the laboratories. In particular, if you fail to wear covered footwear, you will be excluded from your prac session. </p>\n<p>Access to the laboratories will <strong><em>not</em></strong> be available outside scheduled practical sessions.</p>\n<p>Students will have access to general computing resources, e.g., PCs, in the School of EECS. These resources may be used to access course electronic resources, e.g., the course website, and to undertake research and writing for assignments.</p>\n<p><strong>Generative AI and Machine Translation in Assessment</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Four (4) scheduled practicals will run over the semester, with two weeks being reserved for each practical. Students will be evaluated DURING the practical by the teaching staff on both their preparation and method. Marks will be awarded for answers to the preparation questions (which MUST be attempted BEFORE the laboratory session) and the student's level of understanding and completeness of the scheduled laboratory tasks.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 22/09/2025 2:00 pm</p>\n<p>\n</p><p>During Lecture Time slot</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester exam will be based on material presented/covered in weeks 1 to 7. The questions will be short answer and problem solving.</p>\n<p><strong>Generative AI and Machine Translation in Assessment</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>16%</dd>",
+            "due_date": "<dd><p> 10/11/2025 3:00 pm</p>\n<p>\n</p><p>The course coordinator reserves the right to vary group marks for each group member in the event of varied contributions to the team effort.</p></dd>",
+            "learning_objectives": "L02, L03, L04, L07, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This semester, students will complete a project based on the work contained in the laboratory work of the course. The final work on the project will be performed in pairs, with a single project report.</p>\n<p>More details on the project/assignment will be made available before the end of Week 4. Students need to nominate their partner before the end of Week 4 by notifying the teaching staff.</p>\n<p><strong>Generative AI and Machine Translation in Assessment</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit one report per team to Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester exam will examine the material presented/covered during the semester. The questions will involve problem solving and may contain short-answer, essay and problem solving questions.</p>\n<p>Broadly speaking, the criteria used for marking the final exam are, according to the type of question asked, as follows:</p>\n<ul>\n<li>knowledge of basic definitions of terms used in digital communication engineering,</li>\n<li>conceptual understanding of properties and phenomena observed in digital communication systems,</li>\n<li>clear explanation of the operation of digital communication systems,</li>\n<li>correct calculation and correct procedure for calculation of design parameters.</li>\n</ul>\n<p><br/></p>\n<p><strong>Generative AI and Machine Translation in Assessment</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 2(28 Jul - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Signals, spectra and Random Processes</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Signals, spectra and Random Processes</strong>",
+            "topic_description": "Signals, spectra and Random Processes",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course introduction</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Course introduction</strong>",
+            "topic_description": "Course introduction",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12(04 Aug - 26 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Class Exercises</strong><br><p>Class exercises on communication system theory and practice.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L08</p></div></td>",
+            "topic_title": "<strong>Class Exercises</strong>",
+            "topic_description": "Class Exercises Class exercises on communication system theory and practice.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Baseband Modulation and demodulation</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Baseband Modulation and demodulation</strong>",
+            "topic_description": "Baseband Modulation and demodulation",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 0</strong><br/><p>Preparation for Future Lab Based Practicals</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Practical 0</strong>",
+            "topic_description": "Practical 0 Preparation for Future Lab Based Practicals",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 6(18 Aug - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bandpass modulation and demodulation</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Bandpass modulation and demodulation</strong>",
+            "topic_description": "Bandpass modulation and demodulation",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 8(01 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Link Budgets, Channel coding</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Link Budgets, Channel coding</strong>",
+            "topic_description": "Link Budgets, Channel coding",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prac 1</strong><br/><p>Signal Detection, Modulation and Demodulation</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Prac 1</strong>",
+            "topic_description": "Prac 1 Signal Detection, Modulation and Demodulation",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 9 To Week 10(22 Sep - 12 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced Channel Coding, Multiple Access Systems</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Advanced Channel Coding, Multiple Access Systems</strong>",
+            "topic_description": "Advanced Channel Coding, Multiple Access Systems",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prac 2</strong><br/><p>Channel Coding, Bit Error Rates</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Prac 2</strong>",
+            "topic_description": "Prac 2 Channel Coding, Bit Error Rates",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>OFDM, Framing, Synchronization</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L08</p></div></td>",
+            "topic_title": "<strong>OFDM, Framing, Synchronization</strong>",
+            "topic_description": "OFDM, Framing, Synchronization",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Prac 3</strong><br/><p>OFDM, DAB</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Prac 3</strong>",
+            "topic_description": "Prac 3 OFDM, DAB",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 12 To Week 13(20 Oct - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communication System Case Studies</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L08</p></div></td>",
+            "topic_title": "<strong>Communication System Case Studies</strong>",
+            "topic_description": "Communication System Case Studies",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Channel Models, Spread Spectrum Technologies</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L06, L08</p></div></td>",
+            "topic_title": "<strong>Channel Models, Spread Spectrum Technologies</strong>",
+            "topic_description": "Channel Models, Spread Spectrum Technologies",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L06",
+                "L08"
+            ]
+        }
+    ]
+}
