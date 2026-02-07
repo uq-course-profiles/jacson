@@ -1,0 +1,171 @@
+{
+    "course_title": "Medical Imaging",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE6601-60626-7560",
+    "full_course_code": "BIOE6601-60626-7560",
+    "course_code": "BIOE6601",
+    "class_code": "60626",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Evaluate the underlying principles of medical imaging systems"
+        },
+        {
+            "number": "LO2.",
+            "description": "Formulate numerical algorithms to generate medical images based on these principles."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design and implement algorithms using programming tools like MATLAB"
+        },
+        {
+            "number": "LO4.",
+            "description": "Critique the utility of standard imaging techniques"
+        },
+        {
+            "number": "LO5.",
+            "description": "Assess the risks and side effects of techniques and materials used."
+        },
+        {
+            "number": "LO6.",
+            "description": "Determine appropriate imaging techniques for various simple clinical scenarios."
+        },
+        {
+            "number": "LO7.",
+            "description": "Analyse the opportunities and technical challenges of the covered imaging systems."
+        },
+        {
+            "number": "LO8.",
+            "description": "Synthesize information independently from diverse resources."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Nuclear Medicine Imaging",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 5/09/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L04, L05, L07",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an individual assessment and students are expected to work independently. There will be 10 short multiple choice questions online related to nuclear medicine imaging. These questions weigh 10% of the final grade. Students can attempt as many times as they like to learn the content.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Computerised Tomography Reconstruction",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 19/09/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L08",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will submit a project report (as an MS Word file) and functional Matlab code for assessment. The Matlab code should be written in a way that the lecturer should be able to run it without modifications or entering any parameters. If the Matlab code does not produce the results shown in the report, students will not receive any credit for the corresponding section(s) of the report. This is an individual assessment and students are expected to work independently.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Magnetic Resonance Imaging Reconstruction",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 24/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L08",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will submit a project report (as an MS Word file) and functional Matlab code for assessment. The Matlab code should be written in a way that the lecturer should be able to run it without modifications or entering any parameters. If the Matlab code does not produce the results shown in the report, students will not receive any credit for the corresponding section(s) of the report.</p>\n<p>This is an individual assessment and students are expected to work independently.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures - Medical Imaging</strong><br/><p>Radiographic Imaging (Week 1 - Week 3)</p>\n<p>Nuclear Medicine Imaging (Week 4 - Week 5)</p>\n<p>Ultrasound Imaging (Week 6 - Week 7)</p>\n<p>Magnetic Resonance Imaging (Week 8 - Week 13)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lectures - Medical Imaging</strong>",
+            "topic_description": "Lectures - Medical Imaging Radiographic Imaging (Week 1 - Week 3) Nuclear Medicine Imaging (Week 4 - Week 5) Ultrasound Imaging (Week 6 - Week 7) Magnetic Resonance Imaging (Week 8 - Week 13)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class - Medical Imaging</strong><br/><p>Applied classes will provide students with an opportunity to receive feedback from teaching staff.</p>\n<p>Radiographic Imaging (Week 1 - Week 3)</p>\n<p>Nuclear Medicine Imaging (Week 4 - Week 5)</p>\n<p>Ultrasound Imaging (Week 6 - Week 7)</p>\n<p>Magnetic Resonance Imaging (Week 8 - Week 13)</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06, L08</p></div></td>",
+            "topic_title": "<strong>Applied Class - Medical Imaging</strong>",
+            "topic_description": "Applied Class - Medical Imaging Applied classes will provide students with an opportunity to receive feedback from teaching staff. Radiographic Imaging (Week 1 - Week 3) Nuclear Medicine Imaging (Week 4 - Week 5) Ultrasound Imaging (Week 6 - Week 7) Magnetic Resonance Imaging (Week 8 - Week 13)",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L08"
+            ]
+        }
+    ]
+}
