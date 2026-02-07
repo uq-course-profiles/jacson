@@ -1,0 +1,411 @@
+{
+    "course_title": "Biomaterials: Materials in Medicine",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE4305-60618-7560",
+    "full_course_code": "BIOE4305-60618-7560",
+    "course_code": "BIOE4305",
+    "class_code": "60618",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate a knowledge of biomaterial requirements in medical devices, understand the properties of biomaterials used in medical devices, and be able to engineer solutions for the use of biomaterials in medical devices."
+        },
+        {
+            "number": "LO2.",
+            "description": "Conduct a detailed scientific literature search and critique the literature to generate a report of the historical and current state of play of research."
+        },
+        {
+            "number": "LO3.",
+            "description": "Conduct a comprehensive IP search and generate an insightful report of IP relating to a biomaterial or medical device."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate effective spoken and written communication to a non-scientifically literate audience, or an audience with diverse backgrounds."
+        },
+        {
+            "number": "LO5.",
+            "description": "Manage personal independent research and learning through pro-active and responsible use of resources such as online course material, library databases and internet."
+        },
+        {
+            "number": "LO6.",
+            "description": "Analyse scenarios and develop solutions to multidisciplinary biomaterials problems."
+        },
+        {
+            "number": "LO7.",
+            "description": "Work and cooperate effectively in a team consisting of students from a range of academic disciplines and personality types."
+        },
+        {
+            "number": "LO8.",
+            "description": "Demonstrate an understanding of the social and ethical context of biomaterials in society that set medical related biomaterials apart from other material engineering disciplines."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Quizzes 1, 2 & 3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50% Individual (Hurdle*) </dd>",
+            "due_date": "<dd><p>Quiz 1 - Biocompatibility 21/08/2025 8:00 am</p>\n<p>Quiz 2 - Mechanical Properties 25/09/2025 8:00 am</p>\n<p>Quiz 3 - Families of Biomaterials (Examination Period) </p>\n<p>\n</p><p>Quizzes 1 &amp; 2: 1st half of normal tutorial timeslot.</p>\n<p>Quiz 3: Run in the Exam Period. Date and time tba.</p></dd>",
+            "learning_objectives": "L01, L06, L08",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Quiz 1 - 15%: Biocompatibility</strong> is a core module, with lecture and tutorial material from weeks 2 and 3 to be tested with a Quiz in Week 4. This is an open book, invigilated in-class Quiz. There will be 5 minutes reading time, followed by a 60 minute Quiz.</p>\n<p><strong>Quiz 2 - 15%: Biomaterials mechanical properties </strong>is a core module to be tested with a Quiz in Week 9. This includes the Week 6 lecture and tut, plus the Week 5, 6, 7 or 8 practical demonstrations. This practical demonstration will be performed in-person. This is an open book, invigilated in-class Quiz. There will be 5 minutes reading time, followed by a 60 minute Quiz.</p>\n<p><strong>Quiz 3 - 20%: Families of biomaterials (Polymers, Composites, Metals and Ceramics)</strong> is a core module, with lecture and tutorial material from weeks 7-12 to be tested with a final School-administered Quiz run during the Exam Period. This is an open book, invigilated Quiz. There will be 10 mins reading time, followed by a 90 minute Quiz.</p>\n<p>These 3 assessment tasks are to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Quizzes 1 &amp; 2 will be run on paper in the classroom.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Prac Reports",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20% Individual </dd>",
+            "due_date": "<dd><p>Biocompatibility Prac Reports due 5/09/2025 2:00 pm</p>\n<p>Mechanical Properties of Biomaterials Prac Reports due 26/09/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L05, L06",
+            "mode": "Activity/ Performance, Written",
+            "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>After attending the two (2) prac demonstrations (Biocompatibility (Weeks 2-5) and Mechanical Testing of Biomaterials (Weeks 5-8), you will be required to submit two separate reports answering several questions pertaining to the practical sessions and the raw data provided.</p>\n<p><strong>Use of AI (Artificial Intelligence)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted electronically through Turn-it-in using the Blackboard link.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Major Literature Review (MLR)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30% Group </dd>",
+            "due_date": "<dd><p>MLR: Non-assessable Team Charter 22/08/2025 2:00 pm</p>\n<p>MLR: Non-assessable Team Check-In 10/10/2025 2:00 pm</p>\n<p>MLR: Team Presentations &amp; Interviews held on Tues and Thu this Week 13 28/10/2025 10:00 am</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Oral, Written",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Task Summary: </strong>Key Focus – A factual, detailed \"deep-dive\" review and analysis of <strong><em>Biomaterials Development</em></strong> for a current medical device product that is on the market today.</p>\n<p>Based on the topic provided, a Major Literature Review (MLR) must be delegated and compiled into a professional group presentation and interview. The group must immerse themselves in the following key facets:</p>\n<p>Science, IP &amp; Regulatory, People and Organisation, Timeline, Competitors and Presentation/Interview Quality. The associated full Task Description and Marking Rubric clearly breaks down these sections of the presentation/interview with the associated allocation of marks.</p>\n<p>A non-assessable Team Charter activity (Week 3), an Interim Report (Week 10) plus BuddyCheck Peer Assessment will be implemented to ensure Teams delegate and balance workload equitably across the abovementioned key elements of the MLR throughout semester.</p>\n<p><strong>Use of AI (Artificial Intelligence)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their MLR assessment components, independent of AI and MT tools.</p>\n<p><strong>Criteria &amp; Marking</strong></p>\n<p>A more detailed assessment criteria and marking sheet can be found on Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Team Charter, Interim Report and Final Presentation PowerPoint slides submitted electronically through Turn-it-in using the Blackboard links.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to biomaterials</strong><br/><p>(Part A) Course introduction, structure, concepts, learning objectives, group conduct and expectations, (Part B) Biomaterials history (Prof Darren Martin).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Introduction to biomaterials</strong>",
+            "topic_description": "Introduction to biomaterials (Part A) Course introduction, structure, concepts, learning objectives, group conduct and expectations, (Part B) Biomaterials history (Prof Darren Martin).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced literature search skills</strong><br/><p>Tute 1: Advanced literature research skills. Major Literature Review team allocation.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L07</p></div></td>",
+            "topic_title": "<strong>Advanced literature search skills</strong>",
+            "topic_description": "Advanced literature search skills Tute 1: Advanced literature research skills. Major Literature Review team allocation.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 5(04 Aug - 31 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biocompatibility practical</strong><br><p>This practical session is designed to support the Biocompatibility#1 and Biocompatibiity#2 lecture content (Dr Vignesh Selvaprithiviraj).</p></br></p><p><strong>Learning outcomes:</strong> L01, L05, L06, L08</p></div></td>",
+            "topic_title": "<strong>Biocompatibility practical</strong>",
+            "topic_description": "Biocompatibility practical This practical session is designed to support the Biocompatibility#1 and Biocompatibiity#2 lecture content (Dr Vignesh Selvaprithiviraj).",
+            "learning_outcomes": [
+                "L01",
+                "L05",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biocompatibility #1</strong><br/><p>Overview of biocompatibility, key definitions and concepts, inflammation, wound healing, foreign body response. Biocompatibility is a core module to be tested with a Quiz in Week 4 (Dr Vignesh Selvaprithiviraj).</p></p><p><strong>Learning outcomes:</strong> L01, L06, L08</p></div></td>",
+            "topic_title": "<strong>Biocompatibility #1</strong>",
+            "topic_description": "Biocompatibility #1 Overview of biocompatibility, key definitions and concepts, inflammation, wound healing, foreign body response. Biocompatibility is a core module to be tested with a Quiz in Week 4 (Dr Vignesh Selvaprithiviraj).",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biocompatibility #1</strong><br/><p>Tute 2: (A) Biocompatibility #1, (B) MLR Team Charter support.</p></p><p><strong>Learning outcomes:</strong> L01, L06, L08</p></div></td>",
+            "topic_title": "<strong>Biocompatibility #1</strong>",
+            "topic_description": "Biocompatibility #1 Tute 2: (A) Biocompatibility #1, (B) MLR Team Charter support.",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biocompatibility #2</strong><br/><p>Introduction to the immune system (host response), biocompatibility testing, introduction to toxicity. Biocompatibility is a core module to be tested with a Quiz in Week 4 (Dr Vignesh Selvaprithiviraj).</p></p><p><strong>Learning outcomes:</strong> L01, L06, L08</p></div></td>",
+            "topic_title": "<strong>Biocompatibility #2</strong>",
+            "topic_description": "Biocompatibility #2 Introduction to the immune system (host response), biocompatibility testing, introduction to toxicity. Biocompatibility is a core module to be tested with a Quiz in Week 4 (Dr Vignesh Selvaprithiviraj).",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biocompatibility #2</strong><br/><p>Tute 3: (A) Biocompatibility #2, (B) MLR Team Charter support.</p></p><p><strong>Learning outcomes:</strong> L01, L06, L08</p></div></td>",
+            "topic_title": "<strong>Biocompatibility #2</strong>",
+            "topic_description": "Biocompatibility #2 Tute 3: (A) Biocompatibility #2, (B) MLR Team Charter support.",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biomaterials case study #1</strong><br/><p>Haemostatic wound dressings (These real biomaterials project case studies are designed to give depth and meaning to the Biocompatibility module as well as the Major Literature Review assessment) (Dr Amanda Kijas).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06, L08</p></div></td>",
+            "topic_title": "<strong>Biomaterials case study #1</strong>",
+            "topic_description": "Biomaterials case study #1 Haemostatic wound dressings (These real biomaterials project case studies are designed to give depth and meaning to the Biocompatibility module as well as the Major Literature Review assessment) (Dr Amanda Kijas).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 8(25 Aug - 21 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mechanical testing of biomaterials practical</strong><br><p>Mechanical Testing of (1) TPU pacemaker lead insulation and (2) injectable dermal filler hydrogel. (Dr Nasim Amiralian)</p></br></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Mechanical testing of biomaterials practical</strong>",
+            "topic_description": "Mechanical testing of biomaterials practical Mechanical Testing of (1) TPU pacemaker lead insulation and (2) injectable dermal filler hydrogel. (Dr Nasim Amiralian)",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biomaterials discovery, design &amp; development and commercialisation</strong><br/><p>An introduction to the complex full process of developing a new biomaterial - a global view (Prof Darren Martin).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L06</p></div></td>",
+            "topic_title": "<strong>Biomaterials discovery, design &amp; development and commercialisation</strong>",
+            "topic_description": "Biomaterials discovery, design & development and commercialisation An introduction to the complex full process of developing a new biomaterial - a global view (Prof Darren Martin).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Medical device hands-on demonstration session</strong><br/><p>Tute 5: Hands-on real medical device “show-and-tell” session.</p></p><p><strong>Learning outcomes:</strong> L01, L06, L08</p></div></td>",
+            "topic_title": "<strong>Medical device hands-on demonstration session</strong>",
+            "topic_description": "Medical device hands-on demonstration session Tute 5: Hands-on real medical device “show-and-tell” session.",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mechanical properties of biomaterials</strong><br/><p>Biomaterials mechanical properties is a core module to be tested with a Quiz in Week 9 (Prof Darren Martin).</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Mechanical properties of biomaterials</strong>",
+            "topic_description": "Mechanical properties of biomaterials Biomaterials mechanical properties is a core module to be tested with a Quiz in Week 9 (Prof Darren Martin).",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mechanical properties of biomaterials</strong><br/><p>Tute 6: Mechanical properties of biomaterials.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Mechanical properties of biomaterials</strong>",
+            "topic_description": "Mechanical properties of biomaterials Tute 6: Mechanical properties of biomaterials.",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Polymeric biomaterials</strong><br/><p>Polymers - Arguably the class of biomaterials which has undergone the most sophisticated transformation during the last 30 years (Prof Darren Martin). Will be tested in the final Quiz in the Exam period.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Polymeric biomaterials</strong>",
+            "topic_description": "Polymeric biomaterials Polymers - Arguably the class of biomaterials which has undergone the most sophisticated transformation during the last 30 years (Prof Darren Martin). Will be tested in the final Quiz in the Exam period.",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Polymeric biomaterials</strong><br/><p>Tute 7: Covering this week's lecture content on polymers.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Polymeric biomaterials</strong>",
+            "topic_description": "Polymeric biomaterials Tute 7: Covering this week's lecture content on polymers.",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Composite biomaterials &amp; anisotropic tissues</strong><br/><p>Composite and nano-composite biomaterials are becoming increasingly-important. Our bodies are also made of composites (Dr Nasim Amiralian). Will be tested in the final Quiz in the Exam period.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Composite biomaterials &amp; anisotropic tissues</strong>",
+            "topic_description": "Composite biomaterials & anisotropic tissues Composite and nano-composite biomaterials are becoming increasingly-important. Our bodies are also made of composites (Dr Nasim Amiralian). Will be tested in the final Quiz in the Exam period.",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Composite biomaterials &amp; anisotropic tissues</strong><br/><p>Tute 8: (A) Covering this week's lecture content on composites and tissues.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Composite biomaterials &amp; anisotropic tissues</strong>",
+            "topic_description": "Composite biomaterials & anisotropic tissues Tute 8: (A) Covering this week's lecture content on composites and tissues.",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biomaterials case study #2</strong><br/><p>Biostable TPU pacemaker lead insulation now implanted in more than 90 million patients worldwide (These real biomaterials project case studies are designed to give depth and meaning to the Major Literature Review assessment) (Prof Darren Martin).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06, L08</p></div></td>",
+            "topic_title": "<strong>Biomaterials case study #2</strong>",
+            "topic_description": "Biomaterials case study #2 Biostable TPU pacemaker lead insulation now implanted in more than 90 million patients worldwide (These real biomaterials project case studies are designed to give depth and meaning to the Major Literature Review assessment) (Prof Darren Martin).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Metallic biomaterials</strong><br/><p>Metallic biomaterials is a core module (Dr Jeffrey Venezuela). Will be tested in the final Quiz in the Exam period.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Metallic biomaterials</strong>",
+            "topic_description": "Metallic biomaterials Metallic biomaterials is a core module (Dr Jeffrey Venezuela). Will be tested in the final Quiz in the Exam period.",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Metallic biomaterials</strong><br/><p>Tute 10: (A) Covering this week's lecture content on metallic biomaterials. (B) MLR interim report support.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Metallic biomaterials</strong>",
+            "topic_description": "Metallic biomaterials Tute 10: (A) Covering this week's lecture content on metallic biomaterials. (B) MLR interim report support.",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ceramic biomaterials + Biomaterials case study #3</strong><br/><p>(A) Ceramic biomaterials, (B) Case study #3, CeramTec alumina composite (Prof Darren Martin). Will be tested in the final Quiz in the Exam period.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06, L08</p></div></td>",
+            "topic_title": "<strong>Ceramic biomaterials + Biomaterials case study #3</strong>",
+            "topic_description": "Ceramic biomaterials + Biomaterials case study #3 (A) Ceramic biomaterials, (B) Case study #3, CeramTec alumina composite (Prof Darren Martin). Will be tested in the final Quiz in the Exam period.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ceramic biomaterials</strong><br/><p>Tute11: (A) Covering this week's lecture content on bioceramics. (B) Support to prepare for final Quiz.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic_title": "<strong>Ceramic biomaterials</strong>",
+            "topic_description": "Ceramic biomaterials Tute11: (A) Covering this week's lecture content on bioceramics. (B) Support to prepare for final Quiz.",
+            "learning_outcomes": [
+                "L01",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Biomaterials case study #4</strong><br/><p>Experiences building several successful medical device companies (Tim Case, CEO Trioda Wilingi).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06, L08</p></div></td>",
+            "topic_title": "<strong>Biomaterials case study #4</strong>",
+            "topic_description": "Biomaterials case study #4 Experiences building several successful medical device companies (Tim Case, CEO Trioda Wilingi).",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>IP protection and \"patent-paper-pairs\"</strong><br/><p>What are patents and why do we need them? We will workshop the important activity and relationship between \"scientific\" (eg university or clinical academic) and \"technological\" (eg private company, investor) networks, then how to best measure &amp; communicate this in the Major Literature Review (Prof Darren Martin).</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>IP protection and \"patent-paper-pairs\"</strong>",
+            "topic_description": "IP protection and \"patent-paper-pairs\" What are patents and why do we need them? We will workshop the important activity and relationship between \"scientific\" (eg university or clinical academic) and \"technological\" (eg private company, investor) networks, then how to best measure & communicate this in the Major Literature Review (Prof Darren Martin).",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
