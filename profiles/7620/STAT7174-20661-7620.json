@@ -1,0 +1,419 @@
+{
+    "course_title": "Applications of Computational Statistics",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7174-20661-7620",
+    "full_course_code": "STAT7174-20661-7620",
+    "course_code": "STAT7174",
+    "class_code": "20661",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use statistical methodology to draw conclusions in a range of applied settings"
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrate proficiency in statistical programming"
+        },
+        {
+            "number": "LO3.",
+            "description": "Use computational methods to deal with large data sets"
+        },
+        {
+            "number": "LO4.",
+            "description": "Effectively and appropriately communicate insights from data"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Online Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 13/03/2026 3:00 pm</p>\n<p> 27/03/2026 3:00 pm</p>\n<p> 17/04/2026 3:00 pm</p>\n<p> 1/05/2026 3:00 pm</p>\n<p> 15/05/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L02",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During semester there will be five online quizzes to test your skills in using R. Each of the quizzes is worth 2% of your overall grade. </p>\n<p>You can attempt the online quiz questions as many times as you like while the quiz is open. Your mark for each quiz will be the maximum mark you obtain from your attempts by the time the quiz closes. </p>\n<p>Quiz 1 will open at 15:00 on Friday, February 27th, with the remaining quizzes opening when the preceding quiz closes.</p>\n<p>You are encouraged to discuss the quiz questions with other students using the Ed Discussion Board on Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Complete the quiz through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 2/04/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Activity/ Performance, Written",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignment 1 will assess R skills and the interpretation of statistical tests.</p>\n<p>This assignment will be broken into different exercises covering the content of Weeks 1 - 5.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 22/05/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignment 2 will assess the statistical analysis of a biological data set.</p>\n<p>This assignment will be broken into different exercises, following the sequence of topics from the course.</p>\n<p>You will create a technical report of your analysis, along with a recorded video presentation summarising your results and insights.</p>\n<p>Assignment 2 can be completed individually or in a group of two students. If working in a group, you will submit a single group submission and both members of the group will receive the same grade for the assignment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your report and video presentation via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Practical Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Activity/ Performance, Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Practical Exam will cover the skills and understandings developed through the course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploratory data analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Exploratory data analysis</strong>",
+            "topic_description": "Exploratory data analysis",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Getting started with R</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Getting started with R</strong>",
+            "topic_description": "Getting started with R",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis testing and inference</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Hypothesis testing and inference</strong>",
+            "topic_description": "Hypothesis testing and inference",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Data structures in R</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Data structures in R</strong>",
+            "topic_description": "Data structures in R",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Comparing two independent groups</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Comparing two independent groups</strong>",
+            "topic_description": "Comparing two independent groups",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Visualisation</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Visualisation</strong>",
+            "topic_description": "Visualisation",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Comparing multiple independent groups</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Comparing multiple independent groups</strong>",
+            "topic_description": "Comparing multiple independent groups",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis testing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Hypothesis testing</strong>",
+            "topic_description": "Hypothesis testing",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Correlation and simple linear regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Correlation and simple linear regression</strong>",
+            "topic_description": "Correlation and simple linear regression",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Correlation and simple linear regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Correlation and simple linear regression</strong>",
+            "topic_description": "Correlation and simple linear regression",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multiple and generalised linear regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Multiple and generalised linear regression</strong>",
+            "topic_description": "Multiple and generalised linear regression",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multiple and generalised linear regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Multiple and generalised linear regression</strong>",
+            "topic_description": "Multiple and generalised linear regression",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intro to Gene Expression Data</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Intro to Gene Expression Data</strong>",
+            "topic_description": "Intro to Gene Expression Data",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>RNA-seq Data: Quality Control and Normalization </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>RNA-seq Data: Quality Control and Normalization </strong>",
+            "topic_description": "RNA-seq Data: Quality Control and Normalization",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Differential Expression Testing</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Differential Expression Testing</strong>",
+            "topic_description": "Differential Expression Testing",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Differential Expression Testing with edgeR</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Differential Expression Testing with edgeR</strong>",
+            "topic_description": "Differential Expression Testing with edgeR",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multivariate Analysis of Gene Expression Data </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Multivariate Analysis of Gene Expression Data </strong>",
+            "topic_description": "Multivariate Analysis of Gene Expression Data",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dimension Reduction and Visualization</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Dimension Reduction and Visualization</strong>",
+            "topic_description": "Dimension Reduction and Visualization",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>From Gene Lists to Biological Insights</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>From Gene Lists to Biological Insights</strong>",
+            "topic_description": "From Gene Lists to Biological Insights",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Methods for Pathway Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Statistical Methods for Pathway Analysis</strong>",
+            "topic_description": "Statistical Methods for Pathway Analysis",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discovering Patterns in Expression Data</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Discovering Patterns in Expression Data</strong>",
+            "topic_description": "Discovering Patterns in Expression Data",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Clustering and Classification Methods</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Clustering and Classification Methods</strong>",
+            "topic_description": "Clustering and Classification Methods",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experimental design</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Experimental design</strong>",
+            "topic_description": "Experimental design",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Putting it All Together!</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Putting it All Together!</strong>",
+            "topic_description": "Putting it All Together!",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Review</strong>",
+            "topic_description": "Review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mock Practical Exam</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Mock Practical Exam</strong>",
+            "topic_description": "Mock Practical Exam",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
