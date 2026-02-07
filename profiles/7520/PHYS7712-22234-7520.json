@@ -1,0 +1,107 @@
+{
+    "course_title": "Project A",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS7712-22234-7520",
+    "full_course_code": "PHYS7712-22234-7520",
+    "course_code": "PHYS7712",
+    "class_code": "22234",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Be able to plan, develop and carry out an independent research project."
+        },
+        {
+            "number": "LO2.",
+            "description": "Obtain an in-depth knowledge of the specific topic area through a thorough literature review."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop research skills and be able to locate and use information sources."
+        },
+        {
+            "number": "LO4.",
+            "description": "Present results of research in a written thesis."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Outline of research",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> pass/resubmit/fail (100% penalty for fail/non-completion) </dd>",
+            "due_date": "<dd><p> 7/03/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Write a research proposal of up to, but not more than, one page, describing the background and aims of your project. Make sure you include the project title, your name, and that of your supervisor. Please show this to your supervisor for feedback before you submit it.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via email to the course coordinator.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Research report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>100%</dd>",
+            "due_date": "<dd><p> Exam week 1, Mon 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The student will write a formal, referenced report on their work for the semester. It will be examined by the supervisor and by one examiner allocated by the course coordinator. The supervisor and examiner mark contribute 50% each towards the final mark.</p>\n<p>This is a #2 unit course. The report is expected to a 7-10 single column industry-style report. Guidelines on the report formatting are provided on Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via email to course coordinator.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Interview",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> Helps examiners determine thesis grade (100% penalty for fail/non-submission) </dd>",
+            "due_date": "<dd><p> Exam week 1 Mon - Exam week 2 Fri</p>\n<p>\n</p><p>The interview should occur during the exam period. Failure to attend the interview will result in a 100% penalty and failure for the course. If you have circumstances (documented), please email the course coordinator within 5 days to seek rescheduling the interview.</p></dd>",
+            "learning_objectives": "L02, L04",
+            "mode": "Oral",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During the exam period after you hand in your report you will attend (either in person or online via Zoom or similar video conferencing technology) an oral examination with the examiners and your project supervisor. The course coordinator may also attend. You will need to discuss a suitable date and venue with your project supervisor, examiners, and course coordinator.</p>\n<p>The expert examiner shall lead the examination, with the supervisor (and course coordinator, if they attend) as observers. The purpose of the oral examination is to clarify any aspects of the report for the examiners.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Project: Independent study leading to a report.</strong><br><p>Independent study leading to a report.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Research Project: Independent study leading to a report.</strong>",
+            "topic_description": "Research Project: Independent study leading to a report. Independent study leading to a report.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
