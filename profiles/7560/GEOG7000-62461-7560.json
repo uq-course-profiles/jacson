@@ -1,0 +1,331 @@
+{
+    "course_title": "Applied Demography",
+    "study_period": "Sem 2 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/GEOG7000-62461-7560",
+    "full_course_code": "GEOG7000-62461-7560",
+    "course_code": "GEOG7000",
+    "class_code": "62461",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the drivers and patterns of population change"
+        },
+        {
+            "number": "LO2.",
+            "description": "Access appropriate data sources and analyse those data with suitable methods and measures"
+        },
+        {
+            "number": "LO3.",
+            "description": "Present demographic data, theory and methods in a clear and well-structured manner"
+        },
+        {
+            "number": "LO4.",
+            "description": "Make population and household projections for a local area"
+        },
+        {
+            "number": "LO5.",
+            "description": "Interpret demographic data and projections and understand their socio-economic implications"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assessment 1 Creating a demographic dashboard",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 11/09/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Demographic data is widely used to inform decision-making and monitor change in small areas over time. For this assessment item, you are asked to develop a demographic dashboard in Microsoft Excel to summarise changing socioeconomic characteristics linked to a local planning issue. The audience is a planning practitioner or other non-specialist professional.</p>\n<p>This task requires you to complete several steps:</p>\n<ol>\n<li>Select a planning issue that can be effectively monitored using demographic data.</li>\n<li>Identify a geographic region (or regions) to focus your analysis on. This should be a Statistical Area Level 2 (SA2) to maximise data availability.</li>\n<li>Create a concept map of the types of demographic data that would be useful to address your topic including the variables to include, whether to use raw or derived measures (e.g. ratios, proportions, percentages?), whether to benchmark the data and the time period to analyse. <strong>The course coordinator is happy to provide feedback on single-page concept maps.</strong></li>\n<li>Locate, access, clean relevant data and calculate appropriate metrics using data from the Australian Bureau of Statistics. This will include the creation of new variable categories and the calculation of derived measures.</li>\n<li>Create a dashboard in Excel (an example will be made available on Blackboard). Pay attention to the choice of visuals/graphs you include as well as the overall look of the dashboard. The objective is to communicate effectively. Note the source of data used in each graphical element.</li>\n<li>Write a short introduction to your dashboard ( ~200 words)</li>\n<li>Write a short section (~200 words) on key findings from your analysis. This can be bullet points.</li>\n<li>Include a statement describing your use of Generative AI in this assessment task.</li>\n</ol>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students are required to send a copy of their Excel dashboard via email to e.charles-edwards@uq.edu.au. You are also required to submit the dashboard via turn-it-in on the course Blackboard site. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2 Demographic projections report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 23/10/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Your task is to produce population and household projections for Greater Brisbane GCCSA from 2021 to 2051 using the <strong>POPART Software </strong>and produce a short report on the methods, assumptions and results. You will be instructed in the use of POPART in class practicals. The report should include: </p>\n<ul>\n<li>A short introduction setting out the context and aims of the report,</li>\n<li>A clear non-technical description of the specific projection methods used.</li>\n<li>A summary of chosen projection data and assumptions, including a comprehensive justification of those assumptions,</li>\n<li>Key features of your population and household projections, including an explanation of the demographic drivers of future population and household change.</li>\n<li>A short conclusion discussing the key findings and their implications.</li>\n<li>An evaluation of your projections against those produced by the Queensland Government Statisticians Office https://www.qgso.qld.gov.au/statistics/theme/population/population-projections/regions</li>\n<li>A statement on the use of generative AI in this work.</li>\n</ul>\n<p>The report should include graphs and other visuals where appropriate. The word limit is 2200 words.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End of Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final example will include a mix of multiple choice and short answer questions.  </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1</strong><br/><p>Introduction to demography</p>\n<p>In this introductory lecture, we cover the basics of demography, the study of populations. We learn about key concepts such as how populations change through fertility, mortality, and migration. We differentiate between stocks (the population at a specific time) and flows (changes in population over time). We also examine age, period, and cohort effects to understand how different factors influence populations. We explore various population data sources, including censuses and surveys, and introduce important metrics used to measure population change over time. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 1</strong>",
+            "topic_description": "Week 1 Introduction to demography In this introductory lecture, we cover the basics of demography, the study of populations. We learn about key concepts such as how populations change through fertility, mortality, and migration. We differentiate between stocks (the population at a specific time) and flows (changes in population over time). We also examine age, period, and cohort effects to understand how different factors influence populations. We explore various population data sources, including censuses and surveys, and introduce important metrics used to measure population change over time.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1</strong><br/><p>Demographic basics</p>\n<p><em>Preparation: please complete </em><strong><em>one</em></strong><em> of </em><strong><em>two</em></strong><em> set readings prior to the class (see course reading list for details). </em></p>\n<p>In our first computer lab session, we will develop essential skills in demographic analysis. This includes calculating growth rates, accessing demographic data, and visualizing population age/sex structures using population pyramids. These foundational techniques will help you understand and analyze population dynamics effectively.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 1</strong>",
+            "topic_description": "Week 1 Demographic basics Preparation: please complete one of two set readings prior to the class (see course reading list for details). In our first computer lab session, we will develop essential skills in demographic analysis. This includes calculating growth rates, accessing demographic data, and visualizing population age/sex structures using population pyramids. These foundational techniques will help you understand and analyze population dynamics effectively.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2</strong><br/><p>Spatial heterogeneity in populations</p>\n<p>In this week's lecture, we will incorporate geography into our understanding of populations. We will examine the spatial heterogeneity of key population characteristics and explore the reasons behind these variations. Additionally, we will delve into data sources available in Australia and learn about metrics that capture spatial differences. This will enhance our comprehension of how populations vary across space.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Week 2</strong>",
+            "topic_description": "Week 2 Spatial heterogeneity in populations In this week's lecture, we will incorporate geography into our understanding of populations. We will examine the spatial heterogeneity of key population characteristics and explore the reasons behind these variations. Additionally, we will delve into data sources available in Australia and learn about metrics that capture spatial differences. This will enhance our comprehension of how populations vary across space.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2</strong><br/><p>Accessing Census data</p>\n<p><em>Preparation: please complete </em><strong><em>one</em></strong><em> of </em><strong><em>two</em></strong><em> set readings prior to the class (see course reading list for details).</em></p>\n<p>In this week's computer session, we will learn how Census data is applied in urban planning, consumer marketing, social service allocation, and the functioning of electoral systems, among other uses. We will explore the Australian Statistical Geography Standard and gain skills in accessing and presenting Census data. This knowledge is essential preparation for your first assessment task.</p>\n<p>This week's lab session will also provide essential guidance for completing your first assessment item. You'll have the opportunity to explore exemplary demographic dashboards. Additionally, you'll receive instruction on visualising demographic variables, including selecting appropriate graphs and utilising mapping tools in ArcGIS Online.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 2</strong>",
+            "topic_description": "Week 2 Accessing Census data Preparation: please complete one of two set readings prior to the class (see course reading list for details). In this week's computer session, we will learn how Census data is applied in urban planning, consumer marketing, social service allocation, and the functioning of electoral systems, among other uses. We will explore the Australian Statistical Geography Standard and gain skills in accessing and presenting Census data. This knowledge is essential preparation for your first assessment task. This week's lab session will also provide essential guidance for completing your first assessment item. You'll have the opportunity to explore exemplary demographic dashboards. Additionally, you'll receive instruction on visualising demographic variables, including selecting appropriate graphs and utilising mapping tools in ArcGIS Online.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3</strong><br/><p>Royal Queensland Show Holiday (The Ekka)</p></p></div></td>",
+            "topic_title": "<strong>Week 3</strong>",
+            "topic_description": "Week 3 Royal Queensland Show Holiday (The Ekka)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3</strong><br/><p>Royal Queensland Show Holiday (The Ekka)</p></p></div></td>",
+            "topic_title": "<strong>Week 3</strong>",
+            "topic_description": "Week 3 Royal Queensland Show Holiday (The Ekka)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4</strong><br/><p>Fertility</p>\n<p>Birth rates are rapidly declining in many parts of the world but remain persistently high in others. This week's lecture investigates fertility, including definitions, measurement, and trends across space and over time.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 4</strong>",
+            "topic_description": "Week 4 Fertility Birth rates are rapidly declining in many parts of the world but remain persistently high in others. This week's lecture investigates fertility, including definitions, measurement, and trends across space and over time.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4</strong><br/><p><em>Preparation: please complete </em><strong><em>one</em></strong><em> of </em><strong><em>two</em></strong><em> set readings prior to the class (see course reading list for details).</em></p>\n<p>Measuring fertility</p>\n<p>This week, we'll crunch the numbers to understand the number of babies being born in Australia and how it's been changing over time. We'll discuss how COVID-19 might have influenced recent trends and make some forecasts about what's next for fertility. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 4</strong>",
+            "topic_description": "Week 4 Preparation: please complete one of two set readings prior to the class (see course reading list for details). Measuring fertility This week, we'll crunch the numbers to understand the number of babies being born in Australia and how it's been changing over time. We'll discuss how COVID-19 might have influenced recent trends and make some forecasts about what's next for fertility.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5</strong><br/><p>Mortality</p>\n<p>Mortality studies contribute to our understanding of demographic trends and population dynamics. By analysing mortality rates and life expectancy, demographers can make projections about population growth, ageing, and future healthcare needs and understand existing patterns of inequality. This week, we will learn about key metrics and models applied to mortality, including the life table and explore patterns and trends across space and over time.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 5</strong>",
+            "topic_description": "Week 5 Mortality Mortality studies contribute to our understanding of demographic trends and population dynamics. By analysing mortality rates and life expectancy, demographers can make projections about population growth, ageing, and future healthcare needs and understand existing patterns of inequality. This week, we will learn about key metrics and models applied to mortality, including the life table and explore patterns and trends across space and over time.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5</strong><br/><p>Measuring mortality</p>\n<p><em>Preparation: please complete </em><strong><em>one</em></strong><em> of </em><strong><em>two</em></strong><em> set readings prior to the class (see course reading list for details).</em></p>\n<p>In this week's workshop, you'll calculate a range of mortality metrics to explore shifts in Australian mortality over time. Additionally, you'll construct a life table to deepen your understanding of its structure and function.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 5</strong>",
+            "topic_description": "Week 5 Measuring mortality Preparation: please complete one of two set readings prior to the class (see course reading list for details). In this week's workshop, you'll calculate a range of mortality metrics to explore shifts in Australian mortality over time. Additionally, you'll construct a life table to deepen your understanding of its structure and function.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6</strong><br/><p>Understanding migration</p>\n<p>Migration has a profound impact on both individuals and the populations of nations and regions. However, it is also the most complex component of demographic change to measure. In this week's lecture, we will explore the concept of migration, its measurement, its spatial patterns and its links to individual life courses.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 6</strong>",
+            "topic_description": "Week 6 Understanding migration Migration has a profound impact on both individuals and the populations of nations and regions. However, it is also the most complex component of demographic change to measure. In this week's lecture, we will explore the concept of migration, its measurement, its spatial patterns and its links to individual life courses.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6</strong><br/><p>Measuring migration</p>\n<p><em>Preparation: please complete </em><strong><em>one</em></strong><em> of </em><strong><em>two</em></strong><em> set readings prior to the class (see course reading list for details).</em></p>\n<p>In this week's workshop, you will analyse migration data for Australia. You will learn how to calculate key summary migration metrics from origin-destination matrices and understand how to interpret them effectively.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 6</strong>",
+            "topic_description": "Week 6 Measuring migration Preparation: please complete one of two set readings prior to the class (see course reading list for details). In this week's workshop, you will analyse migration data for Australia. You will learn how to calculate key summary migration metrics from origin-destination matrices and understand how to interpret them effectively.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7</strong><br/><p>The demography of a housing crisis</p>\n<p><em>Preparation: please complete </em><strong><em>one</em></strong><em> of </em><strong><em>two</em></strong><em> set readings prior to the class (see course reading list for details).</em></p>\n<p>Population growth has often been cited as a primary driver of the current housing crisis, but the reality is more nuanced. This week, we delve into the field of housing demography to gain insights into the current state of the Australian housing system.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 7</strong>",
+            "topic_description": "Week 7 The demography of a housing crisis Preparation: please complete one of two set readings prior to the class (see course reading list for details). Population growth has often been cited as a primary driver of the current housing crisis, but the reality is more nuanced. This week, we delve into the field of housing demography to gain insights into the current state of the Australian housing system.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7</strong><br/><p>Understanding household statistics from the census</p>\n<p><em>Preparation: please complete </em><strong><em>one</em></strong><em> of </em><strong><em>two</em></strong><em> set readings prior to the class (see course reading list for details).</em></p>\n<p>In this week's workshop, you'll explore spatial variations in Average Household Size using census data. Additionally, you'll analyse differences in the rate at which young people head households. We'll discuss the factors driving these trends and their implications for the current housing crisis.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 7</strong>",
+            "topic_description": "Week 7 Understanding household statistics from the census Preparation: please complete one of two set readings prior to the class (see course reading list for details). In this week's workshop, you'll explore spatial variations in Average Household Size using census data. Additionally, you'll analyse differences in the rate at which young people head households. We'll discuss the factors driving these trends and their implications for the current housing crisis.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 11(15 Sep - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8 - Week 11</strong><br><p>Population projections</p>\n<p>Population projections are vital for policy, economic, and social planning. They inform resource allocation, policy development, and service provision in areas such as healthcare, education, and infrastructure. Businesses use projections to guide investment decisions and market strategies. Urban planners rely on them to anticipate spatial growth and plan infrastructure. Additionally, projections aid in natural resource management and environmental planning. By forecasting future demographic trends, societies can prepare for changing needs and challenges, ensuring sustainable development and effective allocation of resources. Over the next few weeks, we will develop our understanding of the projections process and use this to project the population of Greater Brisbane out to 2051.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 8 - Week 11</strong>",
+            "topic_description": "Week 8 - Week 11 Population projections Population projections are vital for policy, economic, and social planning. They inform resource allocation, policy development, and service provision in areas such as healthcare, education, and infrastructure. Businesses use projections to guide investment decisions and market strategies. Urban planners rely on them to anticipate spatial growth and plan infrastructure. Additionally, projections aid in natural resource management and environmental planning. By forecasting future demographic trends, societies can prepare for changing needs and challenges, ensuring sustainable development and effective allocation of resources. Over the next few weeks, we will develop our understanding of the projections process and use this to project the population of Greater Brisbane out to 2051.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 11(15 Sep - 19 Oct)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8 - Week 11</strong><br/><p><em>Preparation: please complete </em><strong><em>one</em></strong><em> of </em><strong><em>two</em></strong><em> set readings before each class (see course reading list for details).</em></p>\n<p>This module of work guides you through the production of small-area population projections for Greater Brisbane using the POPART model. This work forms the core of the second assessment task.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 8 - Week 11</strong>",
+            "topic_description": "Week 8 - Week 11 Preparation: please complete one of two set readings before each class (see course reading list for details). This module of work guides you through the production of small-area population projections for Greater Brisbane using the POPART model. This work forms the core of the second assessment task.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12</strong><br><p>Indigenous and Ethnic Populations</p>\n<p>This lecture explores their Indigenous and ethnic demographies, highlighting challenges such as health disparities and socioeconomic inequality. We delve into the complexities of Indigenous identity and sovereignty, emphasizing the importance of Indigenous perspectives in research and policymaking. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 12</strong>",
+            "topic_description": "Week 12 Indigenous and Ethnic Populations This lecture explores their Indigenous and ethnic demographies, highlighting challenges such as health disparities and socioeconomic inequality. We delve into the complexities of Indigenous identity and sovereignty, emphasizing the importance of Indigenous perspectives in research and policymaking.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12</strong><br/><p>The deficit model and Indigenous statistics</p>\n<p><em>Preparation: please complete </em><strong><em>one</em></strong><em> of </em><strong><em>two</em></strong><em> set readings prior to the class (see course reading list for details).</em></p>\n<p>In this week's workshop, we'll explore the deficit model of Indigenous statistics, which wrongly portrayed Indigenous peoples as deficient and in need of external fixing. Using data from the Australian Bureau of Statistics, we'll generate various statistics on Indigenous populations. Through reflection, we'll assess whether our approach perpetuates the deficit model, aiming to shift towards more respectful and empowering methods of representing Indigenous communities.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 12</strong>",
+            "topic_description": "Week 12 The deficit model and Indigenous statistics Preparation: please complete one of two set readings prior to the class (see course reading list for details). In this week's workshop, we'll explore the deficit model of Indigenous statistics, which wrongly portrayed Indigenous peoples as deficient and in need of external fixing. Using data from the Australian Bureau of Statistics, we'll generate various statistics on Indigenous populations. Through reflection, we'll assess whether our approach perpetuates the deficit model, aiming to shift towards more respectful and empowering methods of representing Indigenous communities.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13</strong><br/><p>In this week's session we will review the course material and begin exam preparation.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 13</strong>",
+            "topic_description": "Week 13 In this week's session we will review the course material and begin exam preparation.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
