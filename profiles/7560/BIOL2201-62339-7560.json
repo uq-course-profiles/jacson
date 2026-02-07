@@ -1,0 +1,766 @@
+{
+    "course_title": "Evolution",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOL2201-62339-7560",
+    "full_course_code": "BIOL2201-62339-7560",
+    "course_code": "BIOL2201",
+    "class_code": "62339",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand how and why evolution is an organising principle in the biological sciences."
+        },
+        {
+            "number": "LO2.",
+            "description": "Know the major evolutionary transitions that have taken place in the history of life, since the evolution of the prokaryotic cell until the present."
+        },
+        {
+            "number": "LO3.",
+            "description": "Appreciate how the environment is crucial to sustaining life and forcing evolutionary change."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the various processes that contribute to evolutionary change, and how they operate."
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand the evolutionary history of modern humans, their languages and diseases."
+        },
+        {
+            "number": "LO6.",
+            "description": "Appreciate the role of the primary literature in developing an understanding of evolutionary biology, and learn how to synthesise ideas from different sources."
+        },
+        {
+            "number": "LO7.",
+            "description": "Appreciate the nature of the scientific evidence that informs scientific interpretation, and how evidence is gathered and analysed"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Selection experiment",
+            "special_indicators": [],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 4/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04, L06, L07",
+            "mode": "Activity/ Performance, Written",
+            "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>  600 word 'perspectives' style piece discussing the results of the experimental work carried out during practical classes.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 22/09/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester exam will comprise multiple choice and short answer questions, and cover material from Weeks 1–7. This exam is worth 25% of your final grade.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Book Club Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 15/09/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L06, L07",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Book Club assessment task will be based on material covered in practical classes 6 and 7, and additionally require students to read the Book Club book. </p>\n<p>The assessment item consists of a 10 minute in-class group presentation with 5 minutes of Q&amp;A during Week 8, which is worth 15%. (10% on the presentation &amp; 5% on Peer Assessment.)</p>\n<p>This assessment will exercise your ability to work in groups, to share responsibilities equitably, and to present publicly your understanding of complex concepts.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester exam will comprise multiple choice and short answer questions, along with questions relating to data obtained during the final two practical classes (Morphometrics and the species problem; Human evolution), and covers material from Weeks 8–13.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course welcome and overview</strong><br><p>Topic: Introduction to Evolution (Ortiz-Barrientos)</p></br></p><p><strong>Learning outcomes:</strong> L01, L06, L07</p></div></td>",
+            "topic_title": "<strong>Course welcome and overview</strong>",
+            "topic_description": "Course welcome and overview Topic: Introduction to Evolution (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to evolutionary biology</strong><br><p>Topic: Introduction to Evolution (Salisbury)</p></br></p><p><strong>Learning outcomes:</strong> L01, L06, L07</p></div></td>",
+            "topic_title": "<strong>Introduction to evolutionary biology</strong>",
+            "topic_description": "Introduction to evolutionary biology Topic: Introduction to Evolution (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: natural selection and adaptation</strong><br><p>Topic: Natural selection and adaptation (Cortesi)</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: natural selection and adaptation</strong>",
+            "topic_description": "Self-Guided Learning: natural selection and adaptation Topic: Natural selection and adaptation (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Phylogenetics, taxonomy and fossils</strong><br/><p>Topic: Phylogenetics, taxonomy, and fossils (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Phylogenetics, taxonomy and fossils</strong>",
+            "topic_description": "Phylogenetics, taxonomy and fossils Topic: Phylogenetics, taxonomy, and fossils (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>From pre-Darwinian developments to Darwin's insights</strong><br/><p>Topic: Natural selection and adaptation (Cortesi)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>From pre-Darwinian developments to Darwin's insights</strong>",
+            "topic_description": "From pre-Darwinian developments to Darwin's insights Topic: Natural selection and adaptation (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Natural selection in lab and field</strong><br/><p>Topic: Natural selection and adaptation (Cortesi)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Natural selection in lab and field</strong>",
+            "topic_description": "Natural selection in lab and field Topic: Natural selection and adaptation (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: The evolution of life histories</strong><br/><p>Topic: Natural selection and adaptation (Cortesi)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: The evolution of life histories</strong>",
+            "topic_description": "Self-Guided Learning: The evolution of life histories Topic: Natural selection and adaptation (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tree thinking</strong><br/><p>Topic: Introduction to Evolutionary Biology (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Tree thinking</strong>",
+            "topic_description": "Tree thinking Topic: Introduction to Evolutionary Biology (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What constrains adaptation?</strong><br/><p>Topic: Natural selection and adaptation (Cortesi)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>What constrains adaptation?</strong>",
+            "topic_description": "What constrains adaptation? Topic: Natural selection and adaptation (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Trade-offs and the evolution of life histories</strong><br/><p>Topic: Natural selection and adaptation (Cortesi)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Trade-offs and the evolution of life histories</strong>",
+            "topic_description": "Trade-offs and the evolution of life histories Topic: Natural selection and adaptation (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: Sex and sexual selection</strong><br/><p>Topic: Sex and sexual selection (Cortesi)</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: Sex and sexual selection</strong>",
+            "topic_description": "Self-Guided Learning: Sex and sexual selection Topic: Sex and sexual selection (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Selection Experiment part 1</strong><br/><p>Selection Experiment part 1 (Cortesi &amp; Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Selection Experiment part 1</strong>",
+            "topic_description": "Selection Experiment part 1 Selection Experiment part 1 (Cortesi & Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Evolution of Sex, and sexual selection</strong><br/><p>Topic: Sex and sexual selection (Cortesi)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Evolution of Sex, and sexual selection</strong>",
+            "topic_description": "Evolution of Sex, and sexual selection Topic: Sex and sexual selection (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sexual selection: Why do individuals care who they mate with?</strong><br/><p>Topic: Sex, and sexual selection (Cortesi)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Sexual selection: Why do individuals care who they mate with?</strong>",
+            "topic_description": "Sexual selection: Why do individuals care who they mate with? Topic: Sex, and sexual selection (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: The evolution of sociality</strong><br/><p>Topic: The evolution of sociality (Cortesi)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: The evolution of sociality</strong>",
+            "topic_description": "Self-Guided Learning: The evolution of sociality Topic: The evolution of sociality (Cortesi)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Selection Experiment part 2</strong><br/><p>Selection Experiment part 2 (Cortesi &amp; Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Selection Experiment part 2</strong>",
+            "topic_description": "Selection Experiment part 2 Selection Experiment part 2 (Cortesi & Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Evolutionary stable strategies and Game Theory</strong><br/><p>Topic: Game theory (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Evolutionary stable strategies and Game Theory</strong>",
+            "topic_description": "Evolutionary stable strategies and Game Theory Topic: Game theory (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Resolving evolutionary conflicts</strong><br/><p>Topic:  Evolutionary conflicts (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Resolving evolutionary conflicts</strong>",
+            "topic_description": "Resolving evolutionary conflicts Topic:  Evolutionary conflicts (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: Coevolution</strong><br/><p>Topic: Coevolution (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: Coevolution</strong>",
+            "topic_description": "Self-Guided Learning: Coevolution Topic: Coevolution (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Selection Experiment part 3</strong><br/><p>Peer review of draft 'Perspectives' reports (Cortesi &amp; Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Selection Experiment part 3</strong>",
+            "topic_description": "Selection Experiment part 3 Peer review of draft 'Perspectives' reports (Cortesi & Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Coevolution, mutualism, and antagonistic coevolution</strong><br/><p>Topic: Coevolution (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Coevolution, mutualism, and antagonistic coevolution</strong>",
+            "topic_description": "Coevolution, mutualism, and antagonistic coevolution Topic: Coevolution (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Antagonistic coevolution</strong><br/><p>Topic: Coevolution (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Antagonistic coevolution</strong>",
+            "topic_description": "Antagonistic coevolution Topic: Coevolution (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: Species and speciation</strong><br/><p>Topic: Species and speciation (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: Species and speciation</strong>",
+            "topic_description": "Self-Guided Learning: Species and speciation Topic: Species and speciation (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Book Club 1</strong><br/><p>Book Club 1 (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Book Club 1</strong>",
+            "topic_description": "Book Club 1 Book Club 1 (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Species problem, Modes of speciation</strong><br/><p>Topic: Species and speciation (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Species problem, Modes of speciation</strong>",
+            "topic_description": "Species problem, Modes of speciation Topic: Species and speciation (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Micro to macroevolution</strong><br/><p>Topic: Species and speciation (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Micro to macroevolution</strong>",
+            "topic_description": "Micro to macroevolution Topic: Species and speciation (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: Species and speciation </strong><br/><p>Topic: Species and speciation (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: Species and speciation </strong>",
+            "topic_description": "Self-Guided Learning: Species and speciation Topic: Species and speciation (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Book Club Part 2</strong><br/><p>Book Club Part 2 (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Book Club Part 2</strong>",
+            "topic_description": "Book Club Part 2 Book Club Part 2 (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Constructing and using phylogenies I</strong><br/><p>Topic: Phylogenetics (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Constructing and using phylogenies I</strong>",
+            "topic_description": "Constructing and using phylogenies I Topic: Phylogenetics (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Constructing and using phylogenies II</strong><br/><p>Topic: Phylogenetics (Blomberg)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Constructing and using phylogenies II</strong>",
+            "topic_description": "Constructing and using phylogenies II Topic: Phylogenetics (Blomberg)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: The origins of life</strong><br/><p>Topic: The origins of life (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: The origins of life</strong>",
+            "topic_description": "Self-Guided Learning: The origins of life Topic: The origins of life (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Origin of life and Multicellularity</strong><br/><p>Topic: Origin of life (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Origin of life and Multicellularity</strong>",
+            "topic_description": "Origin of life and Multicellularity Topic: Origin of life (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Common themes in plant and animal diversification</strong><br/><p>Topic: Diversification (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Common themes in plant and animal diversification</strong>",
+            "topic_description": "Common themes in plant and animal diversification Topic: Diversification (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: Evolutionary Systems Biology</strong><br/><p>Topic: Transmission in populations and species (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: Evolutionary Systems Biology</strong>",
+            "topic_description": "Self-Guided Learning: Evolutionary Systems Biology Topic: Transmission in populations and species (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Regulation, expression, and switches (Recorded)</strong><br/><p>Topic: Systems Biology and Evolution (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Regulation, expression, and switches (Recorded)</strong>",
+            "topic_description": "Regulation, expression, and switches (Recorded) Topic: Systems Biology and Evolution (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Forces Driving Regulatory Evolution</strong><br/><p>Topic: Systems Biology and Evolution (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>The Forces Driving Regulatory Evolution</strong>",
+            "topic_description": "The Forces Driving Regulatory Evolution Topic: Systems Biology and Evolution (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: Genetic Networks and Evolution</strong><br/><p>Topic: Systems Biology and Evolution (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: Genetic Networks and Evolution</strong>",
+            "topic_description": "Self-Guided Learning: Genetic Networks and Evolution Topic: Systems Biology and Evolution (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The archecology of genes</strong><br/><p>Topic: Anthropological Genetics (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>The archecology of genes</strong>",
+            "topic_description": "The archecology of genes Topic: Anthropological Genetics (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Origin of Birds</strong><br/><p>Topic: Evolution and the fossil record (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L04, L07</p></div></td>",
+            "topic_title": "<strong>Origin of Birds</strong>",
+            "topic_description": "Origin of Birds Topic: Evolution and the fossil record (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Morphometrics and the species concept</strong><br/><p>Morphometrics and the species concept (Ortiz-Barrientos)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Morphometrics and the species concept</strong>",
+            "topic_description": "Morphometrics and the species concept Morphometrics and the species concept (Ortiz-Barrientos)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: The origin of birds; scaly beginnings</strong><br/><p>Topic: Evolution and the Fossil Record (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: The origin of birds; scaly beginnings</strong>",
+            "topic_description": "Self-Guided Learning: The origin of birds; scaly beginnings Topic: Evolution and the Fossil Record (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mass extinctions and contingency in evolution</strong><br/><p>Topic: Evolution and the Fossil Record (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L07</p></div></td>",
+            "topic_title": "<strong>Mass extinctions and contingency in evolution</strong>",
+            "topic_description": "Mass extinctions and contingency in evolution Topic: Evolution and the Fossil Record (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hominin origins; out of the trees</strong><br/><p>Topic: Human evolution (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Hominin origins; out of the trees</strong>",
+            "topic_description": "Hominin origins; out of the trees Topic: Human evolution (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: Navigating Hominini with Lucy and Ardi</strong><br/><p>Topic: Human evolution (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: Navigating Hominini with Lucy and Ardi</strong>",
+            "topic_description": "Self-Guided Learning: Navigating Hominini with Lucy and Ardi Topic: Human evolution (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Human evolution </strong><br/><p>Practical on Human Evolution (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>Human evolution </strong>",
+            "topic_description": "Human evolution Practical on Human Evolution (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The origin and early diversification of Homo — what makes us human?</strong><br/><p>Topic: Human Evolution (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L07</p></div></td>",
+            "topic_title": "<strong>The origin and early diversification of Homo — what makes us human?</strong>",
+            "topic_description": "The origin and early diversification of Homo — what makes us human? Topic: Human Evolution (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The rise and dispersal of Homo sapiens</strong><br/><p>Topic: Human evolution (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L07</p></div></td>",
+            "topic_title": "<strong>The rise and dispersal of Homo sapiens</strong>",
+            "topic_description": "The rise and dispersal of Homo sapiens Topic: Human evolution (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-Guided Learning: Recent relatives — early Homo, Neanderthals, Hobbits and Denisovans</strong><br/><p>Topic: Human evolution (Salisbury)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L07</p></div></td>",
+            "topic_title": "<strong>Self-Guided Learning: Recent relatives — early Homo, Neanderthals, Hobbits and Denisovans</strong>",
+            "topic_description": "Self-Guided Learning: Recent relatives — early Homo, Neanderthals, Hobbits and Denisovans Topic: Human evolution (Salisbury)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L07"
+            ]
+        }
+    ]
+}
