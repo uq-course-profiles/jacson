@@ -1,0 +1,214 @@
+{
+    "course_title": "Robotics & Automation",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/METR4202-60783-7560",
+    "full_course_code": "METR4202-60783-7560",
+    "course_code": "METR4202",
+    "class_code": "60783",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the see-think-act cycle in robotic systems"
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse and model sensing and actuation noise in robotic systems"
+        },
+        {
+            "number": "LO3.",
+            "description": "Derive and implement recursive state estimation and filters for robot navigation"
+        },
+        {
+            "number": "LO4.",
+            "description": "Design and implement global, local and reactive motion planning algorithms"
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply forward and inverse kinematics to control multi-linked robots"
+        },
+        {
+            "number": "LO6.",
+            "description": "Evaluate and explain different sensing modalities used in robotic perception"
+        },
+        {
+            "number": "LO7.",
+            "description": "Design and implement sensing, planning and control algorithms on a practical robotic system"
+        },
+        {
+            "number": "LO8.",
+            "description": "Apply a systematic approach to the design process for robotic systems"
+        },
+        {
+            "number": "LO9.",
+            "description": "Discuss the practical application of robotic systems to intelligent mechatronics applications"
+        },
+        {
+            "number": "LO10.",
+            "description": "Work as an effective member of a team, demonstrating respect for others' ideas, work styles and backgrounds"
+        },
+        {
+            "number": "LO11.",
+            "description": "Think creatively, independently and in teams, about engineering problems of complex systems"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Team Project First Checkpoint",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> pass/fail </dd>",
+            "due_date": "<dd><p> 26/08/2025 - 26/08/2025</p>\n<p>\n</p><p>All team members must be in attendance and contribute to the demonstration and Q&amp;A session.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Oral",
+            "category": "Computer Code, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Team Project First Checkpoint will be held in class during the practical (PRA1) sessions in Week 5. Teams must demonstrate that they have successfully implemented the exercises from Practicals 1-4 by successfully deploying autonomous waypoint commands to a simulated TurtleBot3 Waffle Pi robot in Gazebo. A short Q&amp;A will follow each demo to evaluate the team's understanding of how the tools developed in the first four practicals will be used to approach the Team Project. Teams will receive feedback on their progress during this checkpoint.</p>\n<p>The team project will consist of a robotics challenge to be solved by a group of four students (or three or five depending on number of enrolments). The project brief will be released in Week 1 so you can start getting familiar with the requirements. The objective of the project is for students to learn practical robotics skills, practice applying robotics concepts to solve problems, and gain experience working in teams. Teams will be assessed on the performance of their solution. Specific details of the task requirements and guidelines are provided in the project brief document.</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Team demonstrations will occur in class during the practical (PRA1) sessions of Week 5.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Team Project Interim Assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> pass/fail </dd>",
+            "due_date": "<dd><p> 16/09/2025 - 29/10/2025</p>\n<p>\n</p><p>Team members must be in attendance and contribute to the presentation in order to attempt the individual oral assessment component. Teams that attempt their Interim Assessment after Week 12 will be subject to the code freeze applied to all teams at 12 noon on Monday Week 13.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The team project will consist of a robotics challenge to be solved by a group of four students (or three or five depending on number of enrolments). The project brief will be released in Week 1 so you can start getting familiar with the requirements. The objective of the project is for students to learn practical robotics skills, practice applying robotics concepts to solve problems, and gain experience working in teams. Teams will be assessed on the performance of their solution. Specific details of the task requirements and guidelines are provided in the project brief document.</p>\n<p>From week 8, teams can undertake the Team Project Interim Assessment. This assessment is a pass/fail hurdle, students and teams may make multiple attempts to pass the interim assessment until the end of semester. The purpose of the Interim Assessment is for teams to receive detailed feedback and support on the progress of their team project in preparation for the Final Demo.</p>\n<p>The interim assessment involves the following elements:</p>\n<ol>\n<li><strong>System Demonstration (team):</strong> Live demonstration by the team of their robot in simulation accomplishing the first stage of the project brief during the in-class practical (PRA1) session.</li>\n<li><strong>Oral Assessment (individual):</strong> Students will be asked technical questions about their individual technical contributions, the system implementation, and design choices during the in-class practical (PRA1) session.</li>\n<li><strong>Report Submission (team):</strong> Written documentation describing all modules within the system and how they interact to achieve the target task. The report should clearly state which components were custom designed by the team and which were integrated from existing libraries.</li>\n<li><strong>Code Submission (team):</strong> Complete git repository required to run the demo including relevant code comments and README instructions for installation and operation.</li>\n</ol>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Teams that wish to conduct their in-class system demonstration and oral assessment must submit their code and report 24 hours prior to their practical (PRA1) session.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Team Project Final Demo",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 27/10/2025 - 31/10/2025</p>\n<p>\n</p><p>All team members must be in attendance and contribute to the presentation. Demonstrations will be scheduled during Week 13's class sessions. A code freeze is applied at 12 noon on Monday Week 13.</p>\n<p>A Peer Assessment Factor must be submitted for the Team Project Final Demo.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The team project will consist of a robotics challenge to be solved by a group of four students (or three or five depending on number of enrolments). The project brief will be released in Week 1 so you can start getting familiar with the requirements. The objective of the project is for students to learn practical robotics skills, practice applying robotics concepts to solve problems, and gain experience working in teams. Teams will be assessed on the performance of their solution. Specific details of the task requirements and guidelines are provided in the project brief document.</p>\n<p>The Final Project Demo will be in Week 13, during scheduled class sessions.</p>\n<p>To be fair with all teams, a code freeze will be applied at 12 noon on Monday Week 13. All teams must submit their git repository containing all necessary code to run the demo at this time.</p>\n<p>While marks will be given for working subsystems, the assessment scheme is biased towards completeness; marking criteria will reflect minimum expected functionality. If the hardware system does not completely function at testing, a demonstration in simulation will be assessed according to the marking criteria. Anything not submitted or shown at the demonstration session will not be assessed. Late projects will not be assessed. Penalties will be applied for failing to meet specific requirements or exceeding design restrictions or limitations. Penalties will also apply for missing or inaccurate files/documentation submitted with the robot system.</p>\n<p><br/></p>\n<p>At the Team Project Final Demo, you will be asked to evaluate each member of your team. The peer assessment factors (PAFs) will modify your project mark to reflect your relative contribution to the assessment, as judged by your teammates.</p>\n<p>The evaluations will be performed by having each team member assessed by the other team members using a peer assessment form. Team members are to use the following criteria:</p>\n<ul>\n<li><strong>Team Player:</strong> Did this person work as a member of a team? Did they wait to be told what to do? Alternatively, did they attempt to control the whole project?</li>\n<li><strong>Creative Input:</strong> The extent to which this team member contributed to generating new ideas in the project, and general problem-solving ability.</li>\n<li><strong>Technical Contribution:</strong> The technical skills that this team member brought to the project in areas such as navigation, planning, perception and control, as well as the overall software architecture design.</li>\n<li><strong>Reliability:</strong> Did this person perform their assignments effectively and on time? Did this person respond to emails, etc.?</li>\n<li><strong>Hard Work:</strong> The extent to which this person slogged away at their appointed tasks, regardless of their success in achieving good outcomes.</li>\n<li><strong>Communication:</strong> Was this person easy to communicate with? Did you have difficulties understanding their issues? Did they have difficulties understanding yours?</li>\n<li><strong>Meeting Attendance:</strong> Did this person attend meetings on time and every week?</li>\n</ul>\n<p>The peer assessment factor will be calculated by: (4 * Your Peer Mark / Total of Peer Marks Assigned in Your Team) ^0.6.</p>\n<p>This formula also normalises for team sizes other than 4. A three-member team will typically have peer assessment factors greater than 1 (meaning they don't have to implement as much functionality to get the same overall product mark as a four-member team). A five-member team will typically have peer assessment factors less than 1 (meaning they will have to implement more functionality to get the same mark as a four-member team).</p>\n<p>As an example, if all members of a four-person team receive equal peer marks, your peer assessment factor will be 1. If you are in a three-person team and all members of the team receive equal peer marks, your peer assessment factor will be 1.188. If you are in a five-person team and all members of the team receive equal peer marks, your peer assessment factor will be 0.875.</p>\n<p>If a student does not submit a PAF form, their contribution to the PAF will be accounted as a score of zero awarded to each student, making the resultant scores determined entirely by the team members who did submit a PAF form. The course coordinator and teaching staff will moderate the peer assessments to ensure that marks are indicative of a student's achievement in the course; PAFs which mischaracterise contributions or unfairly penalize or reward team members will be set to null.</p>\n<p>The PAF will be accompanied by a Tutor Assessment Factor (TAF); the two will be multiplied together for the final scaling factor of the final project demo. The TAF will be based on in-class observations of the student interactions and contributions by the teaching staff.</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The PAF will be conducted via Blackboard and must be completed by Week 13 Friday 31/10/2025 16:00.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam (Individual)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT </p>\n<p>may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(28 Jul - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Live Lectures</strong><br><p>Lectures develop a scaffold to help you understand the course content by providing a continuous development of the material. Key concepts will be introduced and discussed. There will be one lecture per week. Students are encouraged to attend the lecture live, on-campus, to be able to ask direct questions to the lecturer. </p>\n<p>Students will be also be pointed to recommended book chapters, exercises and online material that are relevant to the course's learning objectives. It is expected that students dedicate time to studying the recommended material.</p></br></p></div></td>",
+            "topic_title": "<strong>Live Lectures</strong>",
+            "topic_description": "Live Lectures Lectures develop a scaffold to help you understand the course content by providing a continuous development of the material. Key concepts will be introduced and discussed. There will be one lecture per week. Students are encouraged to attend the lecture live, on-campus, to be able to ask direct questions to the lecturer. Students will be also be pointed to recommended book chapters, exercises and online material that are relevant to the course's learning objectives. It is expected that students dedicate time to studying the recommended material.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-study</strong><br><p>This is a demanding course in terms of time, effort and self-discipline. Since most things we learn come from insight built through personal investigation and exploration, self study is a crucial part of this course. The expected total time commitment for the course is approximately 10 hours per week of productive effort. You should be looking to invest five hours per week in self or group study outside of the applied classes, lectures and practicals. Experience suggests that the students who make this investment achieve superior results. Students will be pointed to recommended book chapters, exercises and online material that are relevant to the course's learning objectives. This material will be published progressively throughout the semester on the course Blackboard page. Having efficient and effective independent learning processes is the key to doing well in this course. This includes working steadily throughout the semester; it is not possible to leave it all to the end of semester.</p></br></p></div></td>",
+            "topic_title": "<strong>Self-study</strong>",
+            "topic_description": "Self-study This is a demanding course in terms of time, effort and self-discipline. Since most things we learn come from insight built through personal investigation and exploration, self study is a crucial part of this course. The expected total time commitment for the course is approximately 10 hours per week of productive effort. You should be looking to invest five hours per week in self or group study outside of the applied classes, lectures and practicals. Experience suggests that the students who make this investment achieve superior results. Students will be pointed to recommended book chapters, exercises and online material that are relevant to the course's learning objectives. This material will be published progressively throughout the semester on the course Blackboard page. Having efficient and effective independent learning processes is the key to doing well in this course. This includes working steadily throughout the semester; it is not possible to leave it all to the end of semester.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(04 Aug - 02 Nov)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>A two hour practical (PRA1) session will be held each week. During these sessions, students will learn practical robotics skills using ROS2 and robot simulators. Students will be given the opportunity to deploy their work on robot hardware and work on the team project. Engagement with these activities, combined with student's self-review of the practical exercises, will be a significant contributor to the student learning process.</p></br></p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals A two hour practical (PRA1) session will be held each week. During these sessions, students will learn practical robotics skills using ROS2 and robot simulators. Students will be given the opportunity to deploy their work on robot hardware and work on the team project. Engagement with these activities, combined with student's self-review of the practical exercises, will be a significant contributor to the student learning process.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(04 Aug - 02 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied classes</strong><br><p>A one hour applied class (APP1) session will be held each week. During these sessions, students will apply the concepts and techniques presented in lectures to solve problems/exercises under the guidance of tutors. This provides students with the opportunity to discuss any theoretical questions which arise from the lectures. On select weeks, guest lecturers will be invited to present during the applied class sessions to provide students with perspectives from industry and research on state-of-the-art developments in robotics.</p></br></p></div></td>",
+            "topic_title": "<strong>Applied classes</strong>",
+            "topic_description": "Applied classes A one hour applied class (APP1) session will be held each week. During these sessions, students will apply the concepts and techniques presented in lectures to solve problems/exercises under the guidance of tutors. This provides students with the opportunity to discuss any theoretical questions which arise from the lectures. On select weeks, guest lecturers will be invited to present during the applied class sessions to provide students with perspectives from industry and research on state-of-the-art developments in robotics.",
+            "learning_outcomes": []
+        }
+    ]
+}
