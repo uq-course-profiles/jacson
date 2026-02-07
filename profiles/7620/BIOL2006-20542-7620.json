@@ -1,0 +1,213 @@
+{
+    "course_title": "Biostatistics & Experimental Design",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOL2006-20542-7620",
+    "full_course_code": "BIOL2006-20542-7620",
+    "course_code": "BIOL2006",
+    "class_code": "20542",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Quantify uncertainty and make statistical statements about nature"
+        },
+        {
+            "number": "LO2.",
+            "description": "Construct, test and evaluate scientific hypotheses"
+        },
+        {
+            "number": "LO3.",
+            "description": "Critically evaluate the use of statistics in research"
+        },
+        {
+            "number": "LO4.",
+            "description": "Design experiments and observational studies to rigorous scientific standards"
+        },
+        {
+            "number": "LO5.",
+            "description": "Present data, analyses, hypotheses and results"
+        },
+        {
+            "number": "LO6.",
+            "description": "Use R as a tool to perform statistical analyses"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Quiz 1: 9/03/2026 - 13/03/2026</p>\n<p>Quiz 2: 16/03/2026 - 20/03/2026</p>\n<p>Quiz 3: 23/03/2026 - 27/03/2026</p>\n<p>Quiz 4: 13/04/2026 - 17/04/2026</p>\n<p>Quiz 5: 20/04/2026 - 24/04/2026</p>\n<p>Quiz 6: 27/04/2026 - 1/05/2026</p>\n<p>Quiz 7: 11/05/2026 - 15/05/2026</p>\n<p>Quiz 8: 18/05/2026 - 22/05/2026</p>\n<p>Quiz 9: 25/05/2026 - 29/05/2026</p>\n<p>\n</p><p><strong>QUIZZES ARE IN CLASS DURING YOUR TIMETABLED PBL (WORKSHOP) SESSION IN EACH OF THE WEEKS INDICATED</strong></p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During your Problem Based Learning (PBL) class you will complete a short quiz. Quizzes are taken under exam conditions, in class (i.e., you must attend class to take the quiz).</p>\n<p>The course is divided into 3 modules, 1 for each of your lecturers:</p>\n<ul>\n<li>Weeks 2, 4 &amp; 5 [Anthony Richardson]: <strong>Quiz in weeks 3, 4 &amp; 5</strong></li>\n<li>Weeks 6, 7, 8 &amp; 9 [Simon Hart]: <strong>Quiz in weeks 7, 8 &amp; 9</strong></li>\n<li>Weeks 10, 11, 12 &amp; 13 [Katrina McGuigan]: <strong>Quiz in weeks 11, 12 &amp; 13</strong></li>\n</ul>\n<p>That 30% is allocated equally to the 3 modules (10% for each)</p>\n<p>In each Module, you will sit 3 quizzes (9 in total) - one per week excluding the 1st week of the module.</p>\n<p><strong>To calculate your overall grade for these PBL quizzes, we will take your best 2 of the 3 quizzes for each module.</strong></p>\n<p>Quizzes cannot be deferred - if you are unable to attend in a week, we will take the marks from the other two quizzes of the module.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Analysis of Data & Presentation of Results",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 29/04/2026 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Utilising knowledge and skills you have gained in Lectures, PBLs and Pracs, you will undertake data analysis in R, and submit a <strong><em>written</em></strong> <strong><em>report</em></strong> presenting the results.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End of semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam will consist of questions covering all content taught throughout the whole semester (Weeks 2 - 13, inclusive). You will have two hours (120 minutes) writing time .</p>\n<p>This will be a paper-based in person exam during the exam period. You will not be required to use R or write code for R but may be asked to interpret R output.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to the Course - Katrina McGuigan</strong><br><p>Learn what to expect in the course - and how to set yourself up for success</p></br></p></div></td>",
+            "topic_title": "<strong>Introduction to the Course - Katrina McGuigan</strong>",
+            "topic_description": "Introduction to the Course - Katrina McGuigan Learn what to expect in the course - and how to set yourself up for success",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to PBL sessions - Katrina McGuigan</strong><br><p>Refresh your statistical knowledge and find out more about how you will learn in this course</p></br></p></div></td>",
+            "topic_title": "<strong>Introduction to PBL sessions - Katrina McGuigan</strong>",
+            "topic_description": "Introduction to PBL sessions - Katrina McGuigan Refresh your statistical knowledge and find out more about how you will learn in this course",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Getting Started with R</strong><br/><p>In this session, you will set yourself up for a successful semester of learning with an R project. Learn how to write, save and execute code in RStudio.</p></p></div></td>",
+            "topic_title": "<strong>Getting Started with R</strong>",
+            "topic_description": "Getting Started with R In this session, you will set yourself up for a successful semester of learning with an R project. Learn how to write, save and execute code in RStudio.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 5(02 Mar - 29 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Foundations - Anthony Richardson</strong><br><p>In this Foundations module, you will refamiliarise yourself with data and statistical principals, and begin to hone your expertise in using R to explore and present data. You will be introduced to the powerful, general tool for modeling data and hypothesis testing - the linear model. You will continue to build your understanding of linear models in the next module</p>\n<p><br/></p>\n<p><strong>Each week - in Lecture, PBL and Prac - you will focus on particular statistical principals, and continue to build each week on your knowledge gained in earlier weeks.</strong></p></br></p></div></td>",
+            "topic_title": "<strong>Statistical Foundations - Anthony Richardson</strong>",
+            "topic_description": "Statistical Foundations - Anthony Richardson In this Foundations module, you will refamiliarise yourself with data and statistical principals, and begin to hone your expertise in using R to explore and present data. You will be introduced to the powerful, general tool for modeling data and hypothesis testing - the linear model. You will continue to build your understanding of linear models in the next module Each week - in Lecture, PBL and Prac - you will focus on particular statistical principals, and continue to build each week on your knowledge gained in earlier weeks.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 5(02 Mar - 29 Mar)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Foundations - Anthony Richardson</strong><br><p>In this Foundations module, you will refamiliarise yourself with data and statistical principals, and begin to hone your expertise in using R to explore and present data. You will be introduced to the powerful, general tool for modeling data and hypothesis testing - the linear model. You will continue to build your understanding of linear models in the next module</p>\n<p><br/></p>\n<p><strong>Each week - in Lecture, PBL and Prac - you will focus on particular statistical principals, and continue to build each week on your knowledge gained in earlier weeks.</strong></p></br></p></div></td>",
+            "topic_title": "<strong>Statistical Foundations - Anthony Richardson</strong>",
+            "topic_description": "Statistical Foundations - Anthony Richardson In this Foundations module, you will refamiliarise yourself with data and statistical principals, and begin to hone your expertise in using R to explore and present data. You will be introduced to the powerful, general tool for modeling data and hypothesis testing - the linear model. You will continue to build your understanding of linear models in the next module Each week - in Lecture, PBL and Prac - you will focus on particular statistical principals, and continue to build each week on your knowledge gained in earlier weeks.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 5(02 Mar - 29 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Foundations - Anthony Richardson</strong><br><p>In this Foundations module, you will refamiliarise yourself with data and statistical principals, and begin to hone your expertise in using R to explore and present data. You will be introduced to the powerful, general tool for modeling data and hypothesis testing - the linear model. You will continue to build your understanding of linear models in the next module</p>\n<p><br/></p>\n<p><strong>Each week - in Lecture, PBL and Prac - you will focus on particular statistical principals, and continue to build each week on your knowledge gained in earlier weeks.</strong></p></br></p></div></td>",
+            "topic_title": "<strong>Statistical Foundations - Anthony Richardson</strong>",
+            "topic_description": "Statistical Foundations - Anthony Richardson In this Foundations module, you will refamiliarise yourself with data and statistical principals, and begin to hone your expertise in using R to explore and present data. You will be introduced to the powerful, general tool for modeling data and hypothesis testing - the linear model. You will continue to build your understanding of linear models in the next module Each week - in Lecture, PBL and Prac - you will focus on particular statistical principals, and continue to build each week on your knowledge gained in earlier weeks.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 9(30 Mar - 03 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Analysis and Experimental Designs - Simon Hart</strong><br><p>Having developed your expertise in `statistical thinking` in the first weeks of the course, you will now build on that to further develop your expertise in experimental design and data analysis. You will learn how to apply the linear model framework to different types of research questions and different types of data. Focusing on situations with a single continuously distributed response variable of interest, you will learn how to fit and interpret models with different types of predictor variables.</p>\n<p><br/></p>\n<p><strong>You will again focus on one topic per week - in Lecture, PBL and Prac</strong></p>\n<p><br/></p>\n<p>Week 6 – Multiple Regression (multiple continuous predictors)</p>\n<p>Week 7 – Comparing Groups (or Treatments) – Analysis of Variance (categorical predictors)</p>\n<p>Week 8 – Analysis of Covariance (continuous AND categorical predictors)</p>\n<p>Week 9 – Advanced linear models</p></br></p></div></td>",
+            "topic_title": "<strong>Statistical Analysis and Experimental Designs - Simon Hart</strong>",
+            "topic_description": "Statistical Analysis and Experimental Designs - Simon Hart Having developed your expertise in `statistical thinking` in the first weeks of the course, you will now build on that to further develop your expertise in experimental design and data analysis. You will learn how to apply the linear model framework to different types of research questions and different types of data. Focusing on situations with a single continuously distributed response variable of interest, you will learn how to fit and interpret models with different types of predictor variables. You will again focus on one topic per week - in Lecture, PBL and Prac Week 6 – Multiple Regression (multiple continuous predictors) Week 7 – Comparing Groups (or Treatments) – Analysis of Variance (categorical predictors) Week 8 – Analysis of Covariance (continuous AND categorical predictors) Week 9 – Advanced linear models",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 9(30 Mar - 03 May)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Analysis and Experimental Designs - Simon Hart</strong><br><p>Week 6 – Multiple Regression (multiple continuous predictors)</p>\n<p>Week 7 – Comparing Groups (or Treatments) – Analysis of Variance (categorical predictors)</p>\n<p>Week 8 – Analysis of Covariance (continuous AND categorical predictors)</p>\n<p>Week 9 – Advanced linear models</p></br></p></div></td>",
+            "topic_title": "<strong>Statistical Analysis and Experimental Designs - Simon Hart</strong>",
+            "topic_description": "Statistical Analysis and Experimental Designs - Simon Hart Week 6 – Multiple Regression (multiple continuous predictors) Week 7 – Comparing Groups (or Treatments) – Analysis of Variance (categorical predictors) Week 8 – Analysis of Covariance (continuous AND categorical predictors) Week 9 – Advanced linear models",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 9(30 Mar - 03 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Analysis and Experimental Designs - Simon Hart</strong><br><p>Week 6 – Multiple Regression (multiple continuous predictors)</p>\n<p>Week 7 – Comparing Groups (or Treatments) – Analysis of Variance (categorical predictors)</p>\n<p>Week 8 – Analysis of Covariance (continuous AND categorical predictors)</p>\n<p>Week 9 – Advanced linear models</p></br></p></div></td>",
+            "topic_title": "<strong>Statistical Analysis and Experimental Designs - Simon Hart</strong>",
+            "topic_description": "Statistical Analysis and Experimental Designs - Simon Hart Week 6 – Multiple Regression (multiple continuous predictors) Week 7 – Comparing Groups (or Treatments) – Analysis of Variance (categorical predictors) Week 8 – Analysis of Covariance (continuous AND categorical predictors) Week 9 – Advanced linear models",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid-sem break(06 Apr - 12 Apr)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid Semester Break</strong>",
+            "topic_description": "Mid Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 13(04 May - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Big data and machine learning - Katrina McGuigan</strong><br><p>In the final part of the course, we will build your expertise in interpreting shared information among variables. We will deepen your understanding of how complex patterns of association among variables can lead to outcomes from statistical analyses that are not obvious in simple inspections of data and summary statistics, and we introduce you to a widely used unsupervised machine learning approach for summarising big data (many variables).</p>\n<p><br/></p>\n<p><strong>You will again focus on one topic per week - in Lecture, PBL and Prac</strong></p>\n<p> </p>\n<p>Week 10 – Re-visiting data summaries – variances, covariances and correlations <em>NB: Lecture will be delivered in Prac timeslot due to public holiday</em></p>\n<p>Week 11 – Multiple Regression - Reloaded</p>\n<p>Week 12 – Principal Components Analysis</p>\n<p>Week 13 – Multivariate Analysis of Variance</p></br></p></div></td>",
+            "topic_title": "<strong>Big data and machine learning - Katrina McGuigan</strong>",
+            "topic_description": "Big data and machine learning - Katrina McGuigan In the final part of the course, we will build your expertise in interpreting shared information among variables. We will deepen your understanding of how complex patterns of association among variables can lead to outcomes from statistical analyses that are not obvious in simple inspections of data and summary statistics, and we introduce you to a widely used unsupervised machine learning approach for summarising big data (many variables). You will again focus on one topic per week - in Lecture, PBL and Prac Week 10 – Re-visiting data summaries – variances, covariances and correlations NB: Lecture will be delivered in Prac timeslot due to public holiday Week 11 – Multiple Regression - Reloaded Week 12 – Principal Components Analysis Week 13 – Multivariate Analysis of Variance",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 13(04 May - 31 May)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Big data and machine learning - Katrina McGuigan</strong><br><p>Week 10 – <em>No PBL this week due to public holiday</em></p>\n<p>Week 11 – Multiple Regression - Reloaded</p>\n<p>Week 12 – Principal Components Analysis</p>\n<p>Week 13 – Multivariate Analysis of Variance</p></br></p></div></td>",
+            "topic_title": "<strong>Big data and machine learning - Katrina McGuigan</strong>",
+            "topic_description": "Big data and machine learning - Katrina McGuigan Week 10 – No PBL this week due to public holiday Week 11 – Multiple Regression - Reloaded Week 12 – Principal Components Analysis Week 13 – Multivariate Analysis of Variance",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 13(04 May - 31 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Big data and machine learning - Katrina McGuigan</strong><br/><p>Week 10 – Re-visiting Estimation – variances, covariances and correlations</p>\n<p>Week 11 – Principal Components Analysis</p>\n<p>Week 12 – Multiple Regression - Reloaded</p>\n<p>Week 13 – Multivariate Analysis of Variance</p></p></div></td>",
+            "topic_title": "<strong>Big data and machine learning - Katrina McGuigan</strong>",
+            "topic_description": "Big data and machine learning - Katrina McGuigan Week 10 – Re-visiting Estimation – variances, covariances and correlations Week 11 – Principal Components Analysis Week 12 – Multiple Regression - Reloaded Week 13 – Multivariate Analysis of Variance",
+            "learning_outcomes": []
+        }
+    ]
+}
