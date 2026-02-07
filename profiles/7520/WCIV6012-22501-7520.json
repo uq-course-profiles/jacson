@@ -1,0 +1,77 @@
+{
+    "course_title": "Honours Research Thesis",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/WCIV6012-22501-7520",
+    "full_course_code": "WCIV6012-22501-7520",
+    "course_code": "WCIV6012",
+    "class_code": "22501",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify a viable research topic and plan and carry out research according to standard academic conventions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Access, evaluate and critique relevant literature."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate the development of critical skills in dealing with primary sources."
+        },
+        {
+            "number": "LO4.",
+            "description": "Show ability to carry out independent research."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop an argument critically and clearly."
+        },
+        {
+            "number": "LO6.",
+            "description": "Communicate findings in extended written form in a coherent and scholarly way."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Honours Thesis",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>100%</dd>",
+            "due_date": "<dd><p> 30/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Thesis",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students work in conjunction with a supervisor and research and present a 16,000 - 18,000-word dissertation.</p>\n<p>After submitting the dissertation, students will discuss their work in a 20-minute viva; the viva is a pass/fail hurdle of the Honours Thesis.</p>\n<p><br/></p>\n<p><strong>Complex/Authentic assessment using AI to support learning:</strong> Artificial Intelligence (AI) is an emerging tool that may support students in completing this assessment. Students may appropriately use AI in completing this assessment if students clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit 2 x bound thesis copies to Western Civilisation Administration Officer + upload digital copy via Turnitin</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Honours Supervision</strong><br><p>Students work independently on project in consultation with supervisor.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Honours Supervision</strong>",
+            "topic_description": "Honours Supervision Students work independently on project in consultation with supervisor.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
