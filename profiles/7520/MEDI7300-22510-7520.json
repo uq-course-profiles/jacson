@@ -1,0 +1,640 @@
+{
+    "course_title": "Clinical Immersion",
+    "study_period": "Sem 1 2025",
+    "location": "Hervey Bay",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MEDI7300-22510-7520",
+    "full_course_code": "MEDI7300-22510-7520",
+    "course_code": "MEDI7300",
+    "class_code": "22510",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (09/01/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describes the socio-economic, political, cultural, and physical environmental factors that contribute to health outcomes for individuals and communities in metropolitan and rural settings (AHI01)"
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrates care for individuals from diverse populations and is committed to achieving equity in healthcare outcomes (AHI02)"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explains and evaluates public health methods including health screening and prevention approaches and incorporates prevention and early detection equitably into clinical practice (AHI03)"
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrates commitment to healthcare sustainability and advocacy for climate change mitigation and adaptation (AHI04)"
+        },
+        {
+            "number": "LO5.",
+            "description": "Describes the factors that contribute to the health and wellbeing of specific populations including Indigenous Australians and other culturally and linguistically diverse groups and approaches to helping to address these factors (AHI05)"
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrates ability to be a steward for the healthcare system through the efficient and equitable allocation of finite resources to meet individual community and national health needs (AHI06)"
+        },
+        {
+            "number": "LO7.",
+            "description": "Describes global health issues and their relevance to healthcare delivery (AHI07)"
+        },
+        {
+            "number": "LO8.",
+            "description": "Uses health informatics in an appropriate effective and professional manner and can explain how big data can be used to improve health outcomes (AHI08)"
+        },
+        {
+            "number": "LO9.",
+            "description": "Describes the challenges in health and healthcare in rural and remote areas (AHI09)"
+        },
+        {
+            "number": "LO10.",
+            "description": "Applies fundamental concepts of biomedical, clinical, public health, epidemiology, social and behavioural sciences to clinical practice (CTSS01)"
+        },
+        {
+            "number": "LO11.",
+            "description": "Demonstrates a critical approach to applying new knowledge base to understanding of disease and clinical practice (CTSS02)"
+        },
+        {
+            "number": "LO12.",
+            "description": "Applies their knowledge and skills appropriately to improve health at individual community and population level (CTSS03)"
+        },
+        {
+            "number": "LO13.",
+            "description": "Demonstrates ability to think critically and respectfully challenge beliefs and thinking (CTSS04) / Effectively communicates scholarly information through written, verbal, and visual presentation (CTSS05)"
+        },
+        {
+            "number": "LO14.",
+            "description": "Critically appraises interprets and applies evidence from the medical and scientific literature (CTSS06)"
+        },
+        {
+            "number": "LO15.",
+            "description": "Responsibly utilises health data to support clinical decision making and research (CTSS07)"
+        },
+        {
+            "number": "LO16.",
+            "description": "Demonstrates the ability to contribute to the generation of new knowledge to improve health outcomes for individuals and communities (CTSS08)"
+        },
+        {
+            "number": "LO17.",
+            "description": "Demonstrates ability to be agile, adaptable, and open to change (DLE01)"
+        },
+        {
+            "number": "LO18.",
+            "description": "Demonstrates ability to support and contribute to the learning of others (DLE02)"
+        },
+        {
+            "number": "LO19.",
+            "description": "Demonstrates ability to be a self-regulated learner that reflects on their own professional practice seeks input from others and implements actions as part of continuous learning (DLE03)"
+        },
+        {
+            "number": "LO20.",
+            "description": "Demonstrates engagement in learning experiences in the context of life-long learning (DLE04)"
+        },
+        {
+            "number": "LO21.",
+            "description": "Demonstrates ability to communicate with clarity and sensitivity in all interactions (KCP01)"
+        },
+        {
+            "number": "LO22.",
+            "description": "Demonstrates kindness and compassion to others (KCP02)"
+        },
+        {
+            "number": "LO23.",
+            "description": "Adopts a whole of person, compassionate approach to clinical care across the life course and in a range of settings (KCP03)"
+        },
+        {
+            "number": "LO24.",
+            "description": "Demonstrates ability to empower patients to manage their own health and wellbeing according to individual preferences and capabilities (KCP04)"
+        },
+        {
+            "number": "LO25.",
+            "description": "Demonstrates ability to recognise and safeguard vulnerable patients (KCP05)"
+        },
+        {
+            "number": "LO26.",
+            "description": "Demonstrates ability to act in accordance with the fundamental ethical and legal requirements of health professionals (KCP06)"
+        },
+        {
+            "number": "LO27.",
+            "description": "Demonstrates ability for professionalism and leadership in healthcare (KCP07)"
+        },
+        {
+            "number": "LO28.",
+            "description": "Demonstrates a commitment to self-care and to protecting patients and others from any risk posed by their own health (KCP08)"
+        },
+        {
+            "number": "LO29.",
+            "description": "Demonstrates ability to collaborate effectively as a member of the healthcare team in the provision of whole person care, health-related education, and research (PTP01)"
+        },
+        {
+            "number": "LO30.",
+            "description": "Demonstrates ability to work effectively as a member of learning, scholarly and research groups, and healthcare teams (PTP02)"
+        },
+        {
+            "number": "LO31.",
+            "description": "Demonstrates ability to partner effectively with a diverse range of people to achieve a healthcare system which accomplishes whole person care (PTP03)"
+        },
+        {
+            "number": "LO32.",
+            "description": "Demonstrates ability to relate respectfully to patients, colleagues, healthcare team members and others, is mindful of sociocultural diversity and open to different views and perspectives (PTP04)"
+        },
+        {
+            "number": "LO33.",
+            "description": "Demonstrates ability to maintain appropriate student, academic, professional, and therapeutic relationships (PTP05)"
+        },
+        {
+            "number": "LO34.",
+            "description": "Demonstrates ability to contribute to a positive, supportive, and collegiate workplace and team culture (PTP06)"
+        },
+        {
+            "number": "LO35.",
+            "description": "Demonstrates ability to communicates effectively and with cultural safety (SEC01)"
+        },
+        {
+            "number": "LO36.",
+            "description": "Demonstrates ability to integrate information from multiple sources including a physical examination, patient history, and the results of appropriately selected investigations (SEC02)"
+        },
+        {
+            "number": "LO37.",
+            "description": "Demonstrates sound clinical judgement based on the available evidence and recognises ones own limitations of practice (SEC03)"
+        },
+        {
+            "number": "LO38.",
+            "description": "Demonstrates ability to performs a range of procedural skills appropriate to the level of a graduating doctor (SEC04)"
+        },
+        {
+            "number": "LO39.",
+            "description": "Demonstrates ability to prescribe medications and administer other therapeutic agents safely effectively and economically using up to date evidence (SEC05)"
+        },
+        {
+            "number": "LO40.",
+            "description": "Devises a management plan in collaboration with the patient and their carers that prioritises the patients goals of care (SEC06)"
+        },
+        {
+            "number": "LO41.",
+            "description": "Demonstrates ability to recognise and assess deteriorating and critically unwell patients who require immediate care (SEC07)"
+        },
+        {
+            "number": "LO42.",
+            "description": "Demonstrates ability to effectively manage patients with multiple comorbidities (SEC08)"
+        },
+        {
+            "number": "LO43.",
+            "description": "Demonstrates understanding of the principles of care for patients at the end of their lives with consideration of physical comfort, psychosocial support for the patient and their care givers including when not to intervene (SEC09)"
+        },
+        {
+            "number": "LO44.",
+            "description": "Demonstrates ability to contribute to clinical care across the life course (SEC10)"
+        },
+        {
+            "number": "LO45.",
+            "description": "Demonstrates ability to be clear, accurate and appropriate with respect to written and / or electronic documentation (SEC11)"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "KNOW: Cumulative Achievement Tests (CATs) Sequence",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": null,
+            "due_date": "<dd><p><strong>CAT 9: </strong>Week of 07/04/2025</p>\n<p><strong>CAT 10: </strong>Week of 18/08/2025</p>\n<p><strong>CAT 11: </strong>End of Year Examination Week</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L22, L23, L26, L27, L31, L32, L33, L34, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Through the year, you will complete a sequence of three (3) invigilated computer delivered MCQ tests. These tests will occur simultaneously across the learning communities. The content of each test with correspond to your immersion sequence to ensure the assessment of knowledge aligns with your learning experiences. </p>\n<p><strong>CAT 9 </strong>(60 mins): 40 MCQ items (15-25 MCQ related to Immersion 1; 15-25 MCQ common questions related to Integrated Concept Tutorials and prior learning)</p>\n<p><strong>CAT 10 </strong>(90 mins): 60 MCQ items (15-25 MCQ related to Immersion 2; 15-25 MCQ related to Immersion 3; 15-25 common questions related to Integrated Concept Tutorials and prior learning)</p>\n<p><strong>CAT 11</strong> (120 mins): 80 MCQ items (15-25 MCQ related to Immersion 4; 15-25 MCQ related to Immersion 5; 15-25 MCQ common questions related to Integrated Concept Tutorials and prior learning; 15-25 MCQ common questions related to all immersions)</p>\n<p>After each CAT assessment, you will receive feedback that includes:</p>\n<ul>\n<li>Your overall score and number of questions correct compared to the minimum pass standard</li>\n<li>Performance analysis by immersion topics</li>\n<li>Performance breakdown across different question categories</li>\n</ul>\n<p>This structured feedback is designed to help you identify areas of strength and those needing further development as you progress through your clinical rotations.</p>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<p>Your scores will accumulate across the THREE (3) CATs. The percentage contribution of each CAT to the sequence cumulative total score is as follows:</p>\n<ul>\n<li>CAT 9 contributes to 22.23% of the total CAT score, </li>\n<li>CAT 10 contributes 33.33% of the total CAT score, and</li>\n<li>CAT 11 contributes 44.44% of the total CAT score. </li>\n</ul>\n<p>The score boundaries defining ‘Indeterminate’ (and therefore clearly meeting and clearly not meeting standard), and ‘Not Ready to Progress’ will be established using an appropriate standard-setting methodology. The upper boundary for indeterminate range is defined as derived standard score + 1 x standard error of measurement (SEM, calculated from assessment data). The lower boundary of the indeterminate range is defined as derived standard score - 1 x SEM. The lower boundary of the clearly below standard is defined as the derived standard score – 5 x SEM.</p>\n<p><strong>Further information on the CAT passing standard and its contribution to the progression decision at the end of the year is found in the </strong><a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline/file/_10784416_1\"><strong>MEDI7300 Course Guide</strong></a><strong> on Learn.UQ</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p> May be held on a Saturday</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "KNOW & BE: Scholarly Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": null,
+            "due_date": "<dd><p><strong>Milestone 1: </strong>5pm, 31/01/2025 (AEST)</p>\n<p><strong>Milestone 2: </strong>5pm, 11/04/2025 (AEST)</p>\n<p><strong>Milestone 3: </strong>5pm, 13/06/2025 (AEST)</p>\n<p><strong>Milestone 4: </strong>October 2025</p>\n<p><strong>Milestone 5: </strong>October 2025</p></dd>",
+            "learning_objectives": "L10, L11, L12, L13, L14, L15, L16, L21, L26, L30",
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Participation/ Student contribution, Performance, Practical/ Demonstration, Presentation, Project, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will have the opportunity to work with peers on a scholarly project, nominally for 2 hours each week for 35 weeks throughout Year 3. The project will be undertaken alongside your clinical immersions during the year, to allow you to undertake a group project and to consider the process and practice of scholarly inquiry skills in medicine. </p>\n<p>You can choose from a list of suggested project topics, or select your own project topic. The scope of projects is wide – but must be related to medicine and health improvement in its broadest sense.</p>\n<p>The scholarly project outcomes build on the learning experiences in Year 1 and 2, particularly research and teamwork skills, including:</p>\n<ul>\n<li>understand the fundamentals of the research process through the Introduction to Research for Clinicians self-directed module, and the longitudinal teaching program,</li>\n<li>apply biomedical research to understand issues in healthcare and clinical practice,</li>\n<li>understand the principles of evidence-informed medicine and critical appraisal of literature,</li>\n<li>understand and demonstrate the steps to performing a systematic literature review,</li>\n<li>develop and enhance skills in teamwork, and self-directed learning,</li>\n<li>develop and enhance skills in giving and receiving peer feedback, and self-reflection.</li>\n</ul>\n<p>There are 5 milestone assessment points for the scholarly project, requiring you to engage with your peers and project work throughout the year, and guiding you to a successful scholarly output (group oral presentation and formal written project report) by the end of the year. Milestone assessments incorporate a formal project agreement, development of a project synopsis, and feedback from the supervisor and peers as work progresses during the year. </p>\n<ul>\n<li><strong>Milestone 1:</strong> Conformation of group members, the project title and supervision arrangements submitted in Learn.UQ.</li>\n<li><strong>Milestone 2: </strong>Submission of a group project proposal via Turnitin on Learn.UQ. This will be graded against a rubric by your project supervisor.</li>\n<li><strong>Milestone 3: </strong>Submission of an individual supervisor report, peer review and self-review via MyProgress.</li>\n<li><strong>Milestone 4: </strong>Group oral presentation. This will be marked against a rubric by several academic assessors and project supervisors. The written report will be marked against rubric by a project supervisor.</li>\n<li><strong>Milestone 5: </strong>Submission of a 5000-word group written report, along with a supervisor, peer and self-review forms via Turnitin on Learn.UQ.</li>\n</ul>\n<p><strong>Further information can be found in the </strong><a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline/file/_10784416_1\"><strong>MEDI7300 Course Guide</strong></a><strong> on Learn.UQ.</strong></p>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<p>If <strong>group oral presentation</strong> is not at standard (as deemed by the panel of assessors), one further presentation attempt will be possible after feedback and will be assessed by a different panel of assessors. Student will receive a Marginal Fail if not at standard after repeat presentation.</p>\n<p>If <strong>written report</strong> is not at standard, one further submission will be possible after feedback to a different assessor. Student will receive a Marginal Fail if not at standard after resubmission.</p>\n<p>The Scholarly Project Report will be marked against the relevant rubrics and used to inform KNOW progression decision. The Scholarly Project compliance requirements for group submission, peer review and peer self-review documents, and group presentation will be marked against a rubric and be used to inform BE progression decision. Rubrics can be found on <a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline\">Learn.UQ</a> .</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Refer to Task Description</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "KNOW, DO & BE: Longitudinal Immersion Assessments - Workplace-Based Activities",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": null,
+            "due_date": "<dd><p>5pm, Friday (AEST): Last week of each clinical immersion</p></dd>",
+            "learning_objectives": "L01, L04, L06, L10, L21, L24, L25, L26, L27, L31, L32, L33, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45",
+            "mode": "Activity/ Performance",
+            "category": "Notebook/ Logbook, Performance, Placement, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During each immersion, you will undertake several assessments based on observed patient encounters and workplace-based activities. Some observed workplace-based activities may occur in simulated environments (e.g. during immersion tutorials), as indicated in each immersion outline on <a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline\">Learn.UQ</a>.</p>\n<p>The <strong>observed workplace-based activities </strong>include:</p>\n<ul>\n<li>Mini-CEx (prescribing and therapeutic reasoning)</li>\n<li>Mini-CEx (reasoning for investigations)</li>\n<li>Mini-CEx (clinical handover and documentation)</li>\n<li>Mini-CEx (recognising the acutely unwell or deteriorating patient).</li>\n</ul>\n<p>In each of these activities, the assessor will ask you to discuss and/or demonstrate aspects of care to the patient context. This activity will be customised according to the clinical immersion and may occur in an authentic or simulated environment.</p>\n<p><strong>Further information can be found in the </strong><a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline/file/_10784416_1\"><strong>MEDI7300 Course Guide</strong></a><strong> on Learn.UQ.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted electronically using the UQ MyProgress platform.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "KNOW, DO & BE: Longitudinal Immersion Assessments - Observed Patient Encounters",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": null,
+            "due_date": "<dd><p>5pm, Friday (AEST): Last week of each clinical immersion</p></dd>",
+            "learning_objectives": "L01, L04, L06, L10, L21, L24, L25, L26, L27, L31, L32, L33, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45",
+            "mode": "Activity/ Performance",
+            "category": "Notebook/ Logbook, Performance, Placement, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During each immersion, you will undertake several assessments based on observed patient encounters and workplace-based activities. Some observed patient encounters (e.g. for education/explanation) may occur in simulated environments (e.g. during immersion tutorials), as indicated in each immersion outline on <a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline\">Learn.UQ</a>.</p>\n<p>The <strong>observed patient encounters</strong> include:</p>\n<ul>\n<li>Mini-CEx (history)</li>\n<li>Mini-CEx (clinical examination)</li>\n<li>Mini-CEx (education/explanation)</li>\n<li>Mini-CEx (history &amp; examination)</li>\n<li>Mini-CEx (history, clinical examination, &amp; education / explanation)</li>\n</ul>\n<p>In each of these observed patient encounters you will be observed undertaking the tasks described; some encounters may also include other tasks, such as generating a likely diagnosis, suggesting a differential diagnosis or outlining management plan.</p>\n<p><strong>Further information can be found in the </strong><a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline/file/_10784416_1\"><strong>MEDI7300 Course Guide</strong></a><strong> on Learn.UQ.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted electronically using the UQ MyProgress platform.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "KNOW, DO & BE: Longitudinal Immersion Assessments - Patient Focused Assessment (PFA)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": null,
+            "due_date": "<dd><p><strong>Medicine</strong>: Week 7 or 8 of Immersion</p>\n<p><strong>Mental Health</strong>: Week 8 tutorial for GBCS and OCS students, or in final tutorial for Rural students</p>\n<p><strong>Child and Adolescent Health and Wellbeing:</strong> Week 8 of Immersion</p>\n<p><strong>Surgery: </strong>Week 6 or 8 of Immersion</p>\n<p><strong>Obstetrics and Gynaecology</strong>: Week 8 of Immersion</p></dd>",
+            "learning_objectives": "L01, L04, L06, L10, L11, L12, L13, L14, L15, L21, L24, L25, L26, L27, L31, L32, L33, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45",
+            "mode": "Activity/ Performance, Oral, Written",
+            "category": "Examination, Performance, Placement, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In each immersion, except for the rural immersion, you will have a Patient Focused Assessment (PFA). The PFAs are based on patient(s) seen by you, or a clinical scenario provided to you (with or without a standardised patient). You will engage in an in-depth discussion with an assessor(s). You may present and/or discuss the patient with the assessor, responding to structured questions from the assessor concerning diagnostic, investigative and therapeutic reasoning, patient management and/or whole person approach to care. Some PFAs (e.g., in Mental Health Immersion) will require a written response to discuss the same aspects of patient care.</p>\n<ul>\n<li><strong>Medicine</strong>: Long Case and Standardised Clinical Scenario</li>\n<li><strong>Mental Health</strong>: Written task based on patient case</li>\n<li><strong>Child and Adolescent Health and Wellbeing:</strong> Case discussion</li>\n<li><strong>Surgery: </strong>Clinical Case Presentation</li>\n<li><strong>Obstetrics and Gynaecology</strong>: Structured Clinical Assessment</li>\n</ul>\n<p>Specific information about the delivery format and logistics for each immersion PFA can be found on <a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline\">Learn.UQ</a>.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Refer to individual clinical immersion folder in <a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline\">Learn.UQ</a> for further submission instructions.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-5",
+            "assessment_title": "KNOW, DO & BE: Longitudinal Immersion Assessments - Clinical Supervisor Reports",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": null,
+            "due_date": "<dd><p>5pm, Friday (AEST): Last week of each clinical immersion</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L10, L11, L12, L13, L14, L15, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27, L28, L29, L30, L31, L32, L33, L34, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45",
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution, Performance, Placement, Practical/ Demonstration, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will have <strong>5 Immersion Clinical Supervisor Reports</strong>, one for each of your 8-week immersions. The Immersion Clinical Supervisor Report is completed by a nominated supervisor for you at the end of each immersion. The supervisor will have observed you during your immersion time, and/or will gather input as appropriate from other supervising clinicians and members of the unit, ward, clinic, practice or team. The focus is on aspects of patient care, collaborative practice and professional conduct, and completion of clinical immersion specific clinical requirements (e.g. attendance at specific clinics and in various learning environments as detailed in the core learning experiences for each immersion). Each of these events will include a discussion to allow you to seek feedback on aspects of your performance. There will be a brief written summary provided by the nominated supervisor. The supervisor may, if they choose, access and be informed by your clinical immersion learning plan, activity tracker and your personal clinical scenario reflections.</p>\n<p><strong>Further information can be found in the </strong><a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline/file/_10784416_1\"><strong>MEDI7300 Course Guide</strong></a><strong> on Learn.UQ.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted electronically using the UQ MyProgress platform.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-6",
+            "assessment_title": "BE: Professional Development Portfolio",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": null,
+            "due_date": "<dd><p>13/01/2025 - 7/11/2025 (AEST)</p>\n<p>By the end of the year</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06, L07, L10, L11, L12, L13, L14, L15, L17, L18, L19, L20, L21, L22, L23, L26, L27, L28, L29, L30, L31, L32, L33, L34, L35",
+            "mode": "Activity/ Performance, Written",
+            "category": "Participation/ Student contribution, Performance, Placement, Portfolio, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The suite of components forming the Professional Development Portfolio are derived from learning activities completed across the academic year to demonstrate your engagement in education, professional development, quality improvement and assurance activities for personal and peer benefit, as well as your dedication to professional standards as a developing medical practitioner. Digital records will provide evidence of your longitudinal participation and engagement in learning experiences and highlight your professional growth, contributions to your learning community, and your active role in feedback processes with tutors, clinical supervisors, and peers.</p>\n<p>The required tasks contributing to the digital records associated with this assessment are outlined below:</p>\n<ul>\n<li><strong>5 Clinical Immersion learning plans</strong>, uploaded at the commencement of each immersion</li>\n<li><strong>5 Clinical Immersion activity trackers</strong>, completed during each immersion</li>\n<li><strong>10 case reflections</strong>, two completed per immersion</li>\n<li><strong>Core pharmacology module</strong>, completed during the Medicine Immersion</li>\n<li>Evidence of engagement with <strong>PCEP assessment</strong> in the Child and Adolescents Health and Wellbeing Immersion</li>\n<li>Evidence of engagement with <strong>2 x Case-Based discussions</strong> for students who undertake the Rural Immersion</li>\n<li>66% (i.e., 48 procedures) of the <strong>Clinical Skills Passport</strong> completed during Year 3. The <a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline/edit/document/_10750380_1?courseId=_188257_1&amp;view=content\">full list of Clinical Skills Passport</a> is located in the Professional Development Portfolio folder under Assessment on <a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline\">Learn.UQ</a> .</li>\n</ul>\n<p>The quality of your learning plans and reflections is critical to the development of your portfolio, as these evidence your growth in line with the 6 MD program themes. You will receive peer feedback on your learning plans, activity trackers, and reflections during Integrated Concept Tutorials related to professional development.</p>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<p>Your compliance with uploading the minimum requirements of the Professional Development Portfolio (records on MyProgress ePAD) will be used to inform DO and BE progression decisions. There is no Marginal Fail for the Professional Development Portfolio.</p>\n<p><strong>Further information can be found in the </strong><a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline/file/_10784416_1\"><strong>MEDI7300 Course Guide</strong></a><strong> on Learn.UQ.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Most components within this assessment are submitted electronically using the UQ MyProgress platform.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-7",
+            "assessment_title": "Objective Structured Clinical Examination (OSCE)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": null,
+            "due_date": "<dd><p>End of the year (exact date to be confirmed)</p></dd>",
+            "learning_objectives": "L01, L10, L11, L12, L13, L14, L15, L21, L26, L27, L31, L32, L33, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Performance, Practical/ Demonstration, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>At the end of Year 3 there will be a whole cohort OSCE, which will provide information on your consultation skills of history, examination, explanation/planning, communication, clinical reasoning, cultural capability and safety and professional conduct. The OSCE will be administered across multiple sites.</p>\n<p>Feedback will be provided after the OSCE. This will include examiner feedback and performance relative to readiness to progress on individual stations.</p>\n<p><strong>Criteria &amp; Marking:</strong></p>\n<p>To meet the progression requirements for the OSCE you must:</p>\n<ol>\n<li>Achieve <strong>an overall score (sum of station scores) equal to or above the overall pass standard score (sum of station pass standard scores)</strong></li>\n<li>Achieve<strong> station score equal to or above station pass standard score for 7 or more stations</strong></li>\n</ol>\n<p>For each station the score equivalent to standard to progress to year 4 (pass standard score) will be determined using appropriate standard setting methodology.</p>\n<p>Students who do not meet the standard for the OSCE will be deemed Marginal Fail. Student who receive a Marginal Fail are eligible to apply for a supplementary assessment. The supplementary assessment will be an OSCE of the same number and length of stations and overall blueprint, and progression requirements.</p>\n<p><strong>Further information can be found in the </strong><a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline/file/_10784416_1\"><strong>MEDI7300 Course Guide</strong></a><strong> on Learn.UQ.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Integrated Concept Tutorials</strong><br/><p>You will attend a weekly whole cohort virtual integrated concept tutorial (for Ochsner, some of these may be scheduled separately to accommodate the time zone difference). These tutorials will integrate learning across specialities and between disciplines and highlight the use of the multidisciplinary team in patient care. In addition, this tutorial series will help highlight and integrate the six core curriculum themes through the year.</p>\n<p><strong>Queensland: </strong>Wednesday 3-6pm (Queensland); Thursday 8-11am (Combined Queensland/Ochsner)</p>\n<p><strong>Ochsner: </strong>Monday (Ochsner); Wednesday (Combined Queensland/Ochsner)</p>\n<p>The full Integrated Concept Tutorial timetable can be found on <a href=\"https://learn.uq.edu.au/ultra/courses/_188257_1/outline\">Learn.UQ</a>.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27, L28, L29, L30, L31, L32, L33, L34, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45</p></div></td>",
+            "topic_title": "<strong>Integrated Concept Tutorials</strong>",
+            "topic_description": "Integrated Concept Tutorials You will attend a weekly whole cohort virtual integrated concept tutorial (for Ochsner, some of these may be scheduled separately to accommodate the time zone difference). These tutorials will integrate learning across specialities and between disciplines and highlight the use of the multidisciplinary team in patient care. In addition, this tutorial series will help highlight and integrate the six core curriculum themes through the year. Queensland: Wednesday 3-6pm (Queensland); Thursday 8-11am (Combined Queensland/Ochsner) Ochsner: Monday (Ochsner); Wednesday (Combined Queensland/Ochsner) The full Integrated Concept Tutorial timetable can be found on Learn.UQ .",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L20",
+                "L21",
+                "L22",
+                "L23",
+                "L24",
+                "L25",
+                "L26",
+                "L27",
+                "L28",
+                "L29",
+                "L30",
+                "L31",
+                "L32",
+                "L33",
+                "L34",
+                "L35",
+                "L36",
+                "L37",
+                "L38",
+                "L39",
+                "L40",
+                "L41",
+                "L42",
+                "L43",
+                "L44",
+                "L45"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scholarly Project</strong><br/><p>Engagement with scholarly project – undertaking group project activity and working with peers to generate an oral presentation and formal written project report over 35 weeks of Year 3. Nominally 2 hours each week should be committed to work on the scholarly project.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27, L28, L29, L30, L31, L32, L33, L34, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45</p></div></td>",
+            "topic_title": "<strong>Scholarly Project</strong>",
+            "topic_description": "Scholarly Project Engagement with scholarly project – undertaking group project activity and working with peers to generate an oral presentation and formal written project report over 35 weeks of Year 3. Nominally 2 hours each week should be committed to work on the scholarly project.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L20",
+                "L21",
+                "L22",
+                "L23",
+                "L24",
+                "L25",
+                "L26",
+                "L27",
+                "L28",
+                "L29",
+                "L30",
+                "L31",
+                "L32",
+                "L33",
+                "L34",
+                "L35",
+                "L36",
+                "L37",
+                "L38",
+                "L39",
+                "L40",
+                "L41",
+                "L42",
+                "L43",
+                "L44",
+                "L45"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Placement",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Professional Development Portfolio</strong><br/><p>As in MEDI7100 and MEDI7200, you will curate evidence of your progression towards the MEDI7300 learning outcomes and MD Program Themes.</p>\n<ul>\n<li>Clinical Immersion learning plans</li>\n<li>Clinical Immersion activity trackers</li>\n<li>Case reflections</li>\n<li>Core pharmacology module (Medicine immersion)</li>\n<li>PCEP assessment (Child and Adolescents Health and Wellbeing immersion)</li>\n<li>Case-Based discussions (Rural immersion)</li>\n<li>Clinical Skills Passport</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27, L28, L29, L30, L31, L32, L33, L34, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45</p></div></td>",
+            "topic_title": "<strong>Professional Development Portfolio</strong>",
+            "topic_description": "Professional Development Portfolio As in MEDI7100 and MEDI7200, you will curate evidence of your progression towards the MEDI7300 learning outcomes and MD Program Themes. Clinical Immersion learning plans Clinical Immersion activity trackers Case reflections Core pharmacology module (Medicine immersion) PCEP assessment (Child and Adolescents Health and Wellbeing immersion) Case-Based discussions (Rural immersion) Clinical Skills Passport",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L20",
+                "L21",
+                "L22",
+                "L23",
+                "L24",
+                "L25",
+                "L26",
+                "L27",
+                "L28",
+                "L29",
+                "L30",
+                "L31",
+                "L32",
+                "L33",
+                "L34",
+                "L35",
+                "L36",
+                "L37",
+                "L38",
+                "L39",
+                "L40",
+                "L41",
+                "L42",
+                "L43",
+                "L44",
+                "L45"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Clinical Immersion Core Teaching Tutorial</strong><br/><p>Scheduled core teaching tutorials and learning opportunities (3.5-4 hours/week)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27, L28, L29, L30, L31, L32, L33, L34, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45</p></div></td>",
+            "topic_title": "<strong>Clinical Immersion Core Teaching Tutorial</strong>",
+            "topic_description": "Clinical Immersion Core Teaching Tutorial Scheduled core teaching tutorials and learning opportunities (3.5-4 hours/week)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L20",
+                "L21",
+                "L22",
+                "L23",
+                "L24",
+                "L25",
+                "L26",
+                "L27",
+                "L28",
+                "L29",
+                "L30",
+                "L31",
+                "L32",
+                "L33",
+                "L34",
+                "L35",
+                "L36",
+                "L37",
+                "L38",
+                "L39",
+                "L40",
+                "L41",
+                "L42",
+                "L43",
+                "L44",
+                "L45"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Clinical Hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Immersion Learning &amp; Clinical Skills Development</strong><br/><p>Workplace experiential learning</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27, L28, L29, L30, L31, L32, L33, L34, L35, L36, L37, L38, L39, L40, L41, L42, L43, L44, L45</p></div></td>",
+            "topic_title": "<strong>Immersion Learning &amp; Clinical Skills Development</strong>",
+            "topic_description": "Immersion Learning & Clinical Skills Development Workplace experiential learning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L20",
+                "L21",
+                "L22",
+                "L23",
+                "L24",
+                "L25",
+                "L26",
+                "L27",
+                "L28",
+                "L29",
+                "L30",
+                "L31",
+                "L32",
+                "L33",
+                "L34",
+                "L35",
+                "L36",
+                "L37",
+                "L38",
+                "L39",
+                "L40",
+                "L41",
+                "L42",
+                "L43",
+                "L44",
+                "L45"
+            ]
+        }
+    ]
+}
