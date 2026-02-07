@@ -1,0 +1,223 @@
+{
+    "course_title": "Econometric Analysis",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON3330-60611-7560",
+    "full_course_code": "ECON3330-60611-7560",
+    "course_code": "ECON3330",
+    "class_code": "60611",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply matrix algebra proficiently to derive properties of (and compute) various econometric estimators."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the theory behind the General Linear Regression Model."
+        },
+        {
+            "number": "LO3.",
+            "description": "Derive and explain the numerical and statistical properties of the OLS, GLS and IV estimators."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the finite sample and asymptotic properties of the OLS, GLS and IV estimators."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use statistical packages such as R-Studio to compute the various estimators on real world datasets."
+        },
+        {
+            "number": "LO6.",
+            "description": "Apply the learned theory and methods to the real world."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Solving Exercises",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>60% (3 sets of Quizzes@20%) </dd>",
+            "due_date": "<dd><p>Problem Solving Exercise 1. Week 7 - Week 9</p>\n<p>Problem Solving Exercise 2. Week 9 - Week 11</p>\n<p>Problem Solving Exercise 3. Week 11 - Week 13</p>\n<p>\n</p><p>Online Periodic Assessments Throughout the Semester. Further details will be communicated via Blackboard. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Online Quizzes and R-exercises.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online via Blackboard. No late submission will be accepted, since solutions may be released after the due date.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "End-of-semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40% Final Exam is 40% of the total mark. </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Final Exam.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Algebra and Regression</strong><br/><p>Review of statistical concepts and matrix algebra.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Linear Algebra and Regression</strong>",
+            "topic_description": "Linear Algebra and Regression Review of statistical concepts and matrix algebra.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Algebra and Regression</strong><br/><p>Review of statistical concepts and matrix algebra.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Linear Algebra and Regression</strong>",
+            "topic_description": "Linear Algebra and Regression Review of statistical concepts and matrix algebra.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Geometry of Linear Regression 1</strong><br/><p>Geometry of vector spaces; geometry of OLS</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Geometry of Linear Regression 1</strong>",
+            "topic_description": "Geometry of Linear Regression 1 Geometry of vector spaces; geometry of OLS",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical properties of OLS 1</strong><br/><p>Statistical Properties of OLS</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Statistical properties of OLS 1</strong>",
+            "topic_description": "Statistical properties of OLS 1 Statistical Properties of OLS",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Properties of OLS 2</strong><br/><p>More on the statistical properties of OLS.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Statistical Properties of OLS 2</strong>",
+            "topic_description": "Statistical Properties of OLS 2 More on the statistical properties of OLS.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis Testing and Confidence Intervals 1</strong><br/><p>Some common distribution. Exact and large sample tests.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Hypothesis Testing and Confidence Intervals 1</strong>",
+            "topic_description": "Hypothesis Testing and Confidence Intervals 1 Some common distribution. Exact and large sample tests.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis Testing and Confidence Intervals 2</strong><br/><p>More on hypothesis testing and confidence intervals.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Hypothesis Testing and Confidence Intervals 2</strong>",
+            "topic_description": "Hypothesis Testing and Confidence Intervals 2 More on hypothesis testing and confidence intervals.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Generalized Least Squares (GLS)</strong><br/><p>GLS estimator; FGLS; Panel Data</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Generalized Least Squares (GLS)</strong>",
+            "topic_description": "Generalized Least Squares (GLS) GLS estimator; FGLS; Panel Data",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>GLS; FGLS; Panel Data</strong><br/><p>GLS estimator; FGLS; Panel Data</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>GLS; FGLS; Panel Data</strong>",
+            "topic_description": "GLS; FGLS; Panel Data GLS estimator; FGLS; Panel Data",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break(29 Sep - 05 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/><p>No lectures or tutorials during the break. </p></p></div></td>",
+            "topic_title": "<strong>Mid-Semester Break</strong>",
+            "topic_description": "Mid-Semester Break No lectures or tutorials during the break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>King's Birthday public holiday </strong><br/><p>No classes this week due to Public Holiday on Monday 6th October</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>King's Birthday public holiday </strong>",
+            "topic_description": "King's Birthday public holiday No classes this week due to Public Holiday on Monday 6th October",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Maximum Likelihood Estimator</strong><br/><p>ML Estimation</p></p><p><strong>Learning outcomes:</strong> L04, L06</p></div></td>",
+            "topic_title": "<strong>Maximum Likelihood Estimator</strong>",
+            "topic_description": "Maximum Likelihood Estimator ML Estimation",
+            "learning_outcomes": [
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/><p>Exam revision.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision Exam revision.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
