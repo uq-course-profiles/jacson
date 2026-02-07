@@ -1,0 +1,67 @@
+{
+    "course_title": "Mini Project A",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7016-22221-7520",
+    "full_course_code": "STAT7016-22221-7520",
+    "course_code": "STAT7016",
+    "class_code": "22221",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply rigorous mathematical reasoning, draw conclusions from empirical evidence, and efficiently implement relevant mathematical and statistical techniques."
+        },
+        {
+            "number": "LO2.",
+            "description": "Communicate ideas clearly, using examples, counterexamples, special cases, graphs, tables, and visualisation techniques where appropriate."
+        },
+        {
+            "number": "LO3.",
+            "description": "Situate findings within the context of the field's development, comparing and evaluating alternative approaches."
+        },
+        {
+            "number": "LO4.",
+            "description": "Reference original results accurately, using a consistent and appropriate bibliographic style."
+        },
+        {
+            "number": "LO5.",
+            "description": "Write with clarity, coherence, and strong organisational structure in a consistent style."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project",
+            "special_indicators": [],
+            "weighting": "<dd>100%</dd>",
+            "due_date": "<dd><p> 9/06/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There is no formal page limit. No formatting or referencing style is formally prescribed, but formatting and referencing should be clear, be used consistently, and be in accordance with the standard practices of the discipline.</p>\n<p><br/></p>\n<p>Assessment items may also include one or more of the following: assignments. literature surveys, seminars, exams, etc.</p>\n<p><br/></p>\n<p><strong>DECLARATION</strong></p>\n<p>For students who have not signed a Confidentiality Agreement, make sure to include <strong>one </strong>of the following two declarationss on the title page of your report:</p>\n<p><br/></p>\n<p><em>I give consent for copies of this report to be made available, as a learning resource, to students enrolled at The University of Queensland.</em></p>\n<p><strong>or</strong></p>\n<p><em>I do not give consent for copies of this report to be made available, as a learning resource, to students enrolled at The University of Queensland.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit an electronic version of the file to Blackboard, preferably in PDF format.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Directed Study</strong><br><p>Students undertake a project under the supervision of a staff member.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Directed Study</strong>",
+            "topic_description": "Directed Study Students undertake a project under the supervision of a staff member.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
