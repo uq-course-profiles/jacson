@@ -1,0 +1,134 @@
+{
+    "course_title": "Calculus & Linear Algebra II",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH2001-22012-7620",
+    "full_course_code": "MATH2001-22012-7620",
+    "course_code": "MATH2001",
+    "class_code": "22012",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Solve a variety of first order and second order Ordinary Differential Equations (ODEs)"
+        },
+        {
+            "number": "LO2.",
+            "description": "Derive properties of the hyperbolic functions and apply them in various mathematical contexts."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand and apply aspects of the theory of multi-dimensional integrals, using a variety of coordinate systems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply differential calculus to the context of vector functions. Specifically, work with Grad, Div and Curl and understand their significance."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply integral calculus to the context of vector functions. Specifically, use surface and flux integrals, and the theorems of Green, Gauss and Stokes."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand and apply eigenvalues, eigenvectors and diagonalisation of matrices in a variety of contexts."
+        },
+        {
+            "number": "LO7.",
+            "description": "Apply concepts of orthogonality and inner product spaces to the method of least squares, best fit and function approximation"
+        },
+        {
+            "number": "LO8.",
+            "description": "Model and solve problems with real-world application using mathematical techniques covered in this course."
+        },
+        {
+            "number": "LO9.",
+            "description": "Present clear and concise mathematical arguments in assignments and exams."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40% There will be four assignments in this sequence, each worth 10% </dd>",
+            "due_date": "<dd><p>Assignment 1 13/03/2026 5:00 pm</p>\n<p>Assignment 2 2/04/2026 5:00 pm</p>\n<p>Assignment 3 1/05/2026 5:00 pm</p>\n<p>Assignment 4 22/05/2026 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment problems will cover material from the lectures, including the online-only lectures. It will be available from the course Blackboard page.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments must be submitted online via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "End of Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. The exam will be closed book.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course lectures</strong><br/><p>Lectures will be on campus</p></p></div></td>",
+            "topic_title": "<strong>Course lectures</strong>",
+            "topic_description": "Course lectures Lectures will be on campus",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pre-recorded, online only lectures</strong><br/><p>Most weeks there is one pre-recorded lecture that students should watch, that will not be covered in the on-campus lectures.</p></p></div></td>",
+            "topic_title": "<strong>Pre-recorded, online only lectures</strong>",
+            "topic_description": "Pre-recorded, online only lectures Most weeks there is one pre-recorded lecture that students should watch, that will not be covered in the on-campus lectures.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Classes</strong><br/><p>Applied classes provide students with an opportunity for individual assistance with the course and with the assignments.</p></p></div></td>",
+            "topic_title": "<strong>Applied Classes</strong>",
+            "topic_description": "Applied Classes Applied classes provide students with an opportunity for individual assistance with the course and with the assignments.",
+            "learning_outcomes": []
+        }
+    ]
+}
