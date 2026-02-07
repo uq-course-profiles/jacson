@@ -1,0 +1,311 @@
+{
+    "course_title": "Research Skills",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/HMST3846-62506-7560",
+    "full_course_code": "HMST3846-62506-7560",
+    "course_code": "HMST3846",
+    "class_code": "62506",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "To describe and implement the steps involved in designing a hypothesis-driven research project involving human subjects"
+        },
+        {
+            "number": "LO2.",
+            "description": "To critically analyse research and research presentation within the broad field of human movement and nutrition sciences."
+        },
+        {
+            "number": "LO3.",
+            "description": "To evaluate the effectiveness of qualitative research approaches for examining research questions."
+        },
+        {
+            "number": "LO4.",
+            "description": "To apply, interpret and synthesise appropriate quantitative and statistical analyses for various study designs."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Qualitative Research Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 8/09/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L02, L03",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be required to design and implement a qualitative research topic of your choice in an area relevant to human movement and/or nutrition.</p>\n<ul>\n<li>You will choose a topic in your field that you believe warrants critical, qualitative investigation. </li>\n<li>To deepen your understanding of this topic, you will conduct 2x pilot interviews with relevant subjects. </li>\n<li>Based upon the data gathered from these interviews, you will design a research question that interrogates a specific element of your chosen topic. </li>\n<li>You will design and describe a research project that could feasibly answer your research question.   </li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via the relevant Turnitin submission portal on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Statistical Analysis Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 8/10/2025 - 10/10/2025</p>\n<p>\n</p><p>Held in-person during timetabled practicals.</p></dd>",
+            "learning_objectives": "L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Practical statistical exam which will pose questions similar to those seen during the prac classes. You are allowed access to web-based search engines and your notes during this exam. You will need your laptop and a statistical analysis program to sit this exam.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "MCQ Statistics Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 8/10/2025</p>\n<p>\n</p><p>Held online during timetabled lecture.</p></dd>",
+            "learning_objectives": "L04",
+            "mode": "Written",
+            "category": "Examination, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This exam will test your knowledge of general statistical principles using multiple-choice answers. It will be similar in format to a set of online quizzes available through the Blackboard website. You are allowed access to web-based search engines and your notes during this exam.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Research Proposal",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 31/10/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Write a research proposal for a research project of your choice, in an area relevant to human movement or nutrition sciences. The proposal should be written as if you were intending to apply for funding from a granting agency.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via the relevant Turnitin submission portal on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to research in HMNS</strong><br/><p>Overview of the course. How we come to know through research. What is research?</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to research in HMNS</strong>",
+            "topic_description": "Introduction to research in HMNS Overview of the course. How we come to know through research. What is research?",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>What is it you want to know?</strong><br/><p>Knowledge, truth &amp; research; Paradigm debates and issues. Classifying research.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>What is it you want to know?</strong>",
+            "topic_description": "What is it you want to know? Knowledge, truth & research; Paradigm debates and issues. Classifying research.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>EKKA</strong><br/><p>No lecture or prac this week due to EKKA holiday.</p></p></div></td>",
+            "topic_title": "<strong>EKKA</strong>",
+            "topic_description": "EKKA No lecture or prac this week due to EKKA holiday.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Qualitative Assignment Prac</strong><br/><p>Practice conducting and interpreting interviews.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Qualitative Assignment Prac</strong>",
+            "topic_description": "Qualitative Assignment Prac Practice conducting and interpreting interviews.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Principles of Research Design and Analysis</strong><br/><p>Developing the research problem. Choosing the appropriate methodology. Analysng the results.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Principles of Research Design and Analysis</strong>",
+            "topic_description": "Principles of Research Design and Analysis Developing the research problem. Choosing the appropriate methodology. Analysng the results.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Variance and descriptive statistics</strong><br/><p>Introduction to stats package Prism.</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>Variance and descriptive statistics</strong>",
+            "topic_description": "Variance and descriptive statistics Introduction to stats package Prism.",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Why and when would you need to use statistics?</strong><br/><p>Becoming acquainted with statistical concepts - sampling, measures of central tendency and variability.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Why and when would you need to use statistics?</strong>",
+            "topic_description": "Why and when would you need to use statistics? Becoming acquainted with statistical concepts - sampling, measures of central tendency and variability.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Categorical Data, Reliability, Sample Size</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Categorical Data, Reliability, Sample Size</strong>",
+            "topic_description": "Categorical Data, Reliability, Sample Size",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Methodological Considerations</strong><br/><p>Validity and Reliability; Sample Size Calculations. Categorical data, rates and risk.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Methodological Considerations</strong>",
+            "topic_description": "Methodological Considerations Validity and Reliability; Sample Size Calculations. Categorical data, rates and risk.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Correlation and regression</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Correlation and regression</strong>",
+            "topic_description": "Correlation and regression",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Relationships among variables</strong><br/><p>Correlation and causation, partial correlation, and regression.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Relationships among variables</strong>",
+            "topic_description": "Relationships among variables Correlation and causation, partial correlation, and regression.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Parametric tests (t tests and ANOVA)</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Parametric tests (t tests and ANOVA)</strong>",
+            "topic_description": "Parametric tests (t tests and ANOVA)",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Differences between and among groups</strong><br/><p>Independent and dependent t tests (one-tailed vs. two-tailed tests), and ANOVA.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Differences between and among groups</strong>",
+            "topic_description": "Differences between and among groups Independent and dependent t tests (one-tailed vs. two-tailed tests), and ANOVA.",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multivariate analysis, non-parametric approaches</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Multivariate analysis, non-parametric approaches</strong>",
+            "topic_description": "Multivariate analysis, non-parametric approaches",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multivariate analysis and non-parametric analysis</strong><br/><p>ANOVA for more than one variable. Alternative, non-parametric tests</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Multivariate analysis and non-parametric analysis</strong>",
+            "topic_description": "Multivariate analysis and non-parametric analysis ANOVA for more than one variable. Alternative, non-parametric tests",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Mid Sem break(29 Sep - 05 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/><p>No Practicals</p></p></div></td>",
+            "topic_title": "<strong>Mid-Semester Break</strong>",
+            "topic_description": "Mid-Semester Break No Practicals",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Analysis Exam</strong><br/><p>Complete in allocated practical</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Statistical Analysis Exam</strong>",
+            "topic_description": "Statistical Analysis Exam Complete in allocated practical",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics prac</strong><br/><p>Discover the role of ethics in shaping how we conduct research with human participants. Consider issues relevant to your upcoming Research Proposal.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Ethics prac</strong>",
+            "topic_description": "Ethics prac Discover the role of ethics in shaping how we conduct research with human participants. Consider issues relevant to your upcoming Research Proposal.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Reporting research (the good and the bad)</strong><br/><p>Common mistakes in conducting statistical analysis. Scientific misconduct. Tackling the \"Replication crisis\".</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Reporting research (the good and the bad)</strong>",
+            "topic_description": "Reporting research (the good and the bad) Common mistakes in conducting statistical analysis. Scientific misconduct. Tackling the \"Replication crisis\".",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        }
+    ]
+}
