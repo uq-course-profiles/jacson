@@ -1,0 +1,166 @@
+{
+    "course_title": "Advanced Electronic & Power Electronics Design",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC4410-60548-7560",
+    "full_course_code": "ELEC4410-60548-7560",
+    "course_code": "ELEC4410",
+    "class_code": "60548",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply the design and operation theories of power electronic converters to the real converter systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Solve power electronics application issues: power quality, motor drive, renewable energy."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse single and three phase inverters: topology, modulations and design."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate the efficiency and harmonics of power electronic devices from available voltage and current measurements."
+        },
+        {
+            "number": "LO5.",
+            "description": "Create small signal models of power converters based on averaging methods."
+        },
+        {
+            "number": "LO6.",
+            "description": "Design, model and simulate power electronic converters under the specified technical considerations."
+        },
+        {
+            "number": "LO7.",
+            "description": "Develop power electronics-based motor drive systems through software and hardware experiment systems."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Set Submission",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 15/08/2025 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>More information on problem assignment will be available in Blackboard. All submissions are collected through Blackboard.</p>\n<p>These assessment tasks have been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Computer Labs using Matlab/Simulink",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>21%</dd>",
+            "due_date": "<dd><p> 10/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There are three computer labs in weeks: 6, 7 and 9.</p>\n<p>During the lab session, students can access to UQ labs or their PC to use Matlab/Simulink or ask questions.</p>\n<p>Each student should complete the simulation individually and prepare his/her report.</p>\n<p>Computer prac sheets and simulation files will be given to students prior to each session.</p>\n<p>The computer labs will cover the following contents:</p>\n<p>Week 6: Rectifiers</p>\n<p>Week 7: Bulk and Boost converters</p>\n<p>Week 9: DC-AC Inverters</p>\n<p>At the end, the students are required to bundle the three computer labs together and submit as a single report. The weight of the report is 21%.</p>\n<p><br/></p>\n<p>These assessment tasks have been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronic submission of the report is via Blackboard. Please do not send the report to tutors or the course coordinator.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Experiment Labs based on Hardware",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>24%</dd>",
+            "due_date": "<dd><p>In-class submission during the scheduled first hardware lab session 17/09/2025 - 19/09/2025</p>\n<p>In-class submission during the scheduled second hardware lab session 8/10/2025 - 10/10/2025</p>\n<p>In-class submission during the scheduled third hardware lab session 15/10/2025 - 17/10/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Written",
+            "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There are three hardware labs in weeks: 8, 10 and 11.</p>\n<p>Hardware Labs will be run in-person. The Matlab/Simulink and the hardware system will be used. The lab instructions will be released before the lab session. Please read the instructions before attending the lab session to have a good preparation.</p>\n<p>When attending the labs each student has to bring a hard copy of the lab worksheet. Each lab session will run 2 hours. Each student needs to complete the hardware testing and worksheet individually within the lab session. All lab work is assessed individually.</p>\n<p>Each lab will be assessed using a combination of experiment demonstration, and lab worksheet. Each hardware lab carries equal weight (8% each and in total 24%). For each hardware lab, The performance will be marked by tutors based on the performance of the hardware demonstration. At the end of each session tutors will collect the worksheet and mark all the worksheets after the lab session.</p>\n<p>The hardware labs will cover the following contents:</p>\n<p>Week 8: Motor drive through buck converter with open-loop control</p>\n<p>Week 10: Motor drive through buck converter with closed-loop control</p>\n<p>Week 11: DC-AC Inverter design</p>\n<p><br/></p>\n<p>These assessment tasks are to be completed in-person. The use of generative AI or MT tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The demonstration marking are completed as part of a scheduled prac class. At the end of each session, tutors will collect the worksheet for marking. The worksheet comments are returned to students within 14 days.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will assess all materials presented during the course.</p>\n<p>This task is to be completed in-person. The use of generative AI or MT tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>AC to DC conversion (uncontrolled and controlled), DC to DC conversion and switch-mode power supplies. Single and three phase inverters design and different PWM modulation strategies. Analysis of multi-level converters and control. Applications of Power Electronics in different applications.</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures AC to DC conversion (uncontrolled and controlled), DC to DC conversion and switch-mode power supplies. Single and three phase inverters design and different PWM modulation strategies. Analysis of multi-level converters and control. Applications of Power Electronics in different applications.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(04 Aug - 02 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br><p>The applied class will conduct through simulation software introduction, problems-based learning, hands-on calculations based on the theory contents introduced in the lecturer series.</p></br></p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class The applied class will conduct through simulation software introduction, problems-based learning, hands-on calculations based on the theory contents introduced in the lecturer series.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 9(01 Sep - 28 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lab practical based on simulation</strong><br><p>There are three computer labs.</p>\n<p>During the lab session, students can access to UQ labs or their PC to use Matlab/Simulink or ask questions.</p>\n<p>Each student should complete the simulation individually and prepare his/her report.</p>\n<p>Computer prac sheets and simulation files will be given to students prior to each session.</p>\n<p>The computer labs will cover the following contents:</p>\n<ul>\n<li> Rectifiers</li>\n<li> Bulk and Boost converters</li>\n<li>DC-AC Inverters</li>\n</ul></br></p></div></td>",
+            "topic_title": "<strong>Lab practical based on simulation</strong>",
+            "topic_description": "Lab practical based on simulation There are three computer labs. During the lab session, students can access to UQ labs or their PC to use Matlab/Simulink or ask questions. Each student should complete the simulation individually and prepare his/her report. Computer prac sheets and simulation files will be given to students prior to each session. The computer labs will cover the following contents: Rectifiers Bulk and Boost converters DC-AC Inverters",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 11(15 Sep - 19 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Experiment Labs based on Hardware</strong><br><p>There are three hardware labs. </p>\n<p>Hardware Labs will be run in-person. The Matlab/Simulink and the hardware system will be used. The lab instructions will be released before the lab session. Please read the instructions before attending the lab session to have a good preparation.</p>\n<p>When attending the labs each student has to bring a hard copy of the lab worksheet. Each lab session will run 2 hours. Each student needs to complete the hardware testing and worksheet individually within the lab session. All lab work is assessed individually.</p>\n<p>Each lab will be assessed using a combination of experiment demonstration, and lab worksheet. At the end of each session tutors will collect the worksheet and mark all the worksheets after the lab session.</p>\n<p>The hardware labs will cover the following contents:</p>\n<ul>\n<li>Motor drive through buck converter with open-loop control</li>\n<li>Motor drive through buck converter with closed-loop control</li>\n<li>DC-AC Inverter design</li>\n</ul></br></p></div></td>",
+            "topic_title": "<strong>Experiment Labs based on Hardware</strong>",
+            "topic_description": "Experiment Labs based on Hardware There are three hardware labs. Hardware Labs will be run in-person. The Matlab/Simulink and the hardware system will be used. The lab instructions will be released before the lab session. Please read the instructions before attending the lab session to have a good preparation. When attending the labs each student has to bring a hard copy of the lab worksheet. Each lab session will run 2 hours. Each student needs to complete the hardware testing and worksheet individually within the lab session. All lab work is assessed individually. Each lab will be assessed using a combination of experiment demonstration, and lab worksheet. At the end of each session tutors will collect the worksheet and mark all the worksheets after the lab session. The hardware labs will cover the following contents: Motor drive through buck converter with open-loop control Motor drive through buck converter with closed-loop control DC-AC Inverter design",
+            "learning_outcomes": []
+        }
+    ]
+}
