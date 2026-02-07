@@ -1,0 +1,153 @@
+{
+    "course_title": "Thermodynamics & Condensed Matter Physics",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS7120-20801-7520",
+    "full_course_code": "PHYS7120-20801-7520",
+    "course_code": "PHYS7120",
+    "class_code": "20801",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use thermodynamics concepts to reason about the behaviour of macroscopic properties of physical systems. In particular, you should develop an appreciation of the power of thermodynamics to understand a diverse range of systems relevant to physics, chemistry, biology, engineering, and earth sciences."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the laws of thermodynamics to physical, chemical and engineering applications, deriving relationships between macroscopic quantities and making quantitative predictions of thermodynamic behaviour. You should get a feel for order of magnitude estimates of thermodynamic quantities in typical systems and be able to perform 'back of the envelope' calculations, in addition to well-reasoned analytic and computational work."
+        },
+        {
+            "number": "LO3.",
+            "description": "Ability to use a computer to investigate thermodynamic phenomena and simulate complex processes"
+        },
+        {
+            "number": "LO4.",
+            "description": "Investigate thermodynamic phenomena experimentally, applying laboratory skills and error analysis to test theoretical predictions"
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop report writing and communication skills"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam has the following material permitted. </p>\n<p>Casio FX82 series or UQ approved and labelled calculator only</p>\n<p>One A4 sheet of handwritten notes double sided is permitted</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Advanced Computational Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 15/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will complete a computational project modelling a range of thermodynamic processes. The project will includes an open-ended part. Students may submit their progress for feedback in Week 6. They will have the opportunity to revise this initial submission as part of the final submission of the complete project in Week 11. Copies of your complete and working code must be included in your submissions as a separate file in addition to the report. Only PDF documents will be accepted as a report.</p>\n<p>Students are strongly encouraged to discuss their project with staff or a tutor as they develop it and seek feedback on their report prior to submission.</p>\n<p>It is very important to keep in mind that this a large open-ended project. You can extend the simulation to include more physical phenomena in the model. Demonstration of independent thought, ability to critically analyse and integrate information, in-depth knowledge, and ability to work and learn independently and effectively is essential.</p>\n<p>Students are reminded that reports must be original work. Always cite material and concepts correctly in your submission. We prefer that such material is expressed in your own words rather than quoted directly from the source. Projects will be run through plagiarism software to check for originality.</p>\n<p>The project must be submitted electronically via Blackboard. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students are required to submit an electronic copy of their computational project report and their computational code/script via the University Blackboard system as two separate files. The project report must be in PDF format; the code/script must be a plain text format, in Matlab or Python. Refer to Blackboard for further instructions. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Laboratory Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>The due date for submitting your Lab Report 1 is 5:00pm two weeks after completing the respective Experiment 1 (i.e, two weeks after the end of the 2nd lab session for Experiment 1) and depends on your goup. The timetable for lab experiments and due dates for the respective lab report for different student groups will be made available on Blackboard. </p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Guidelines for the preparation of laboratory reports will be discussed in the introductory lab session and will be provided in Blackboard. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission guidelines will be made available on Blackboard. Reports must be submitted electronically via the University's Blackboard system. Submissions must be in PDF format.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Written Assignment",
+            "special_indicators": [],
+            "weighting": "<dd>20% Each Assignment is worth max 5%, only best 4 (out of 5) marks are counted </dd>",
+            "due_date": "<dd><p>Assignment 1 19/03/2025 5:00 pm</p>\n<p>Assignment 2 27/03/2025 5:00 pm</p>\n<p>Assignment 3 10/04/2025 5:00 pm</p>\n<p>Assignment 4 1/05/2025 5:00 pm</p>\n<p>Assignment 5 29/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be 11 Tutorial Problem Sets during the semester, which will include the Assignment problems for Assignments No. 1-5. Solutions to selected problems from each Tutorial Problem Set – indicated as “FOR ASSIGNMENT\" – will need to be submitted by students as their fortnightly Assignments and will be marked for correctness and based on the student's ability to show their understanding of the material presented in the relevant section of the course. The tutorial and assignment problems will be based on the material covered in lectures and in your textbook. Students will receive help on the tutorial/assignment problems during the tutorial sessions.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Solutions to the assignment problems must be submitted as a single PDF file online via Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Information technology session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Computer programming</strong><br><p>Physics is done by computer as much as by experimental or analytic work. Computational work is embedded in this course in problem sets, tutorial worksheets, and labs.<br/>Computational project gives you an opportunity to program a model of a physical system and investigate its properties. <br/>For those with little computational experience, there will be introductory sessions during laboratory classes in week 2.<br/><br/>You can obtain further assistance with the computational work during tutorials and by asking questions on Ed discussion board.</p></br></p></div></td>",
+            "topic_title": "<strong>Computer programming</strong>",
+            "topic_description": "Computer programming Physics is done by computer as much as by experimental or analytic work. Computational work is embedded in this course in problem sets, tutorial worksheets, and labs. Computational project gives you an opportunity to program a model of a physical system and investigate its properties. For those with little computational experience, there will be introductory sessions during laboratory classes in week 2. You can obtain further assistance with the computational work during tutorials and by asking questions on Ed discussion board.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active-learning Lectures</strong><br><p>The lectures will focus on processing the knowledge obtained from the assigned readings. We will make use of concept questions (please install PointSolutions app on your phone) and peer discussion to ensure students gain a deep conceptual understanding of thermodynamics.</p></br></p></div></td>",
+            "topic_title": "<strong>Active-learning Lectures</strong>",
+            "topic_description": "Active-learning Lectures The lectures will focus on processing the knowledge obtained from the assigned readings. We will make use of concept questions (please install PointSolutions app on your phone) and peer discussion to ensure students gain a deep conceptual understanding of thermodynamics.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals and problem sets</strong><br><p>Solving problems is an essential part of *doing* physics, rather than just learning *about* physics. It's also the ultimate test of your physics understanding. We have assembled a comprehensive set of problems in thermodynamics, and it is essential that you practice doing problems from this every week.<br/>The tutorials will provide training for solving thermodynamics problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Practicals and problem sets</strong>",
+            "topic_description": "Practicals and problem sets Solving problems is an essential part of *doing* physics, rather than just learning *about* physics. It's also the ultimate test of your physics understanding. We have assembled a comprehensive set of problems in thermodynamics, and it is essential that you practice doing problems from this every week. The tutorials will provide training for solving thermodynamics problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laboratory</strong><br><p>Introductory laboratory sessions will be conducted in Weeks 1 and 2. This will include report writing instructions and data analysis training. <br/>Following the lab introduction, you will complete two laboratory experiments during semester and submit reports. Each lab report counts with equal weight towards the laboratory mark. The laboratory activities will help you to develop your skills at physical concepts, data analysis, and communicating the results.</p></br></p></div></td>",
+            "topic_title": "<strong>Laboratory</strong>",
+            "topic_description": "Laboratory Introductory laboratory sessions will be conducted in Weeks 1 and 2. This will include report writing instructions and data analysis training. Following the lab introduction, you will complete two laboratory experiments during semester and submit reports. Each lab report counts with equal weight towards the laboratory mark. The laboratory activities will help you to develop your skills at physical concepts, data analysis, and communicating the results.",
+            "learning_outcomes": []
+        }
+    ]
+}
