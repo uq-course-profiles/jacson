@@ -1,0 +1,217 @@
+{
+    "course_title": "Health Data Analysis",
+    "study_period": "Sem 2 2024",
+    "location": "Herston",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PUBH2007-61772-7460",
+    "full_course_code": "PUBH2007-61772-7460",
+    "course_code": "PUBH2007",
+    "class_code": "61772",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify appropriate contexts for applying quantitative research methods in health."
+        },
+        {
+            "number": "LO2.",
+            "description": "Recognise the ubiquity of variation in health and understand how biostatistics quantifies uncertainty."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explore health data graphically and numerically using appropriate statistical software."
+        },
+        {
+            "number": "LO4.",
+            "description": "Estimate population parameters using sample health data."
+        },
+        {
+            "number": "LO5.",
+            "description": "Perform statistical inference and interpret the results within the context of practical relevance in health."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assessment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>Reflection 1 - 5/08/2024</p>\n<p>Working Document - 26/08/2024</p>\n<p>Reflection 2 - 2/09/2024</p>\n<p>Reflection 3 - 14/10/2024</p>\n<p>Final Report - 18/10/2024</p>\n<p>Group Video - 25/10/2024</p>\n<p>Reflection 4 - 4/11/2024</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Participation/ Student contribution, Presentation, Project, Reflection, Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assessment is a project based learning with individual and group tasks. Assessment 2 is a progressive assessment spanning weeks 1 to 13 of the semester. Students are encouraged to complete each part as they progress through the Course. The main components of this assessment are:</p>\n<ul>\n<li>Choose a dataset and join a group – <strong>See specific instructions on the Blackboard</strong>.</li>\n<li>Apply statistical analyses techniques covered in the course to the dataset (Individual tasks + Peer discussions). <strong>Specific instructions will be released weekly via Blackboard.</strong></li>\n<li>Team commitment: attend group meetings and reflect on your team activities. <strong>Specific instructions will be released closer to the due dates on the Blackboard.</strong></li>\n<li>You will submit your working document (work in progress), a final report and a group video presentation. <strong>Specific instructions will be released closer to the due dates on the Blackboard.</strong></li>\n</ul>\n<p><br/></p>\n<p><strong>Weighting (60%):</strong></p>\n<ul>\n<li>Team Commitment: Reflection 1 - 2%; Reflection 2 - 5%; Reflection 3 - 2%; Reflection 4 - 6%</li>\n<li>Working Document - 10%</li>\n<li>Final Report - 25%</li>\n<li>Group Video - 10%</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assessment 1",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>16/09/2024</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Translation/ Interpretation, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessnment will involve short answer questions, data analysis and interpretation</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploring Health Data</strong><br><p>Variables and Distributions; Summary Statistics and Graphs of individual health related variables </p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Exploring Health Data</strong>",
+            "topic_description": "Exploring Health Data Variables and Distributions; Summary Statistics and Graphs of individual health related variables",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploring Health Data Relationships</strong><br><p>Using two-way tables, scatterplots, correlation, regression for exploring health data</p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Exploring Health Data Relationships</strong>",
+            "topic_description": "Exploring Health Data Relationships Using two-way tables, scatterplots, correlation, regression for exploring health data",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Producing data</strong><br><p>Sampling and experiments</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Producing data</strong>",
+            "topic_description": "Producing data Sampling and experiments",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Inference</strong><br/><p>Confidence intervals and hypothesis tests</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
+            "topic_title": "<strong>Statistical Inference</strong>",
+            "topic_description": "Statistical Inference Confidence intervals and hypothesis tests",
+            "learning_outcomes": [
+                "L01",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inference in practice</strong><br/><p>Interpretation of confidence intervals and tests of statistical significance; cautions; sample size requirements</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Inference in practice</strong>",
+            "topic_description": "Inference in practice Interpretation of confidence intervals and tests of statistical significance; cautions; sample size requirements",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inference - quantitative variables</strong><br/><p>One and two-sample t tests and confidence intervals</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Inference - quantitative variables</strong>",
+            "topic_description": "Inference - quantitative variables One and two-sample t tests and confidence intervals",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inference - proportions</strong><br/><p>Statistical inference about proportions for one and two samples</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Inference - proportions</strong>",
+            "topic_description": "Inference - proportions Statistical inference about proportions for one and two samples",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Inference - two categorical variables</strong><br/><p>Chi-squared test for Two-Way Tables</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Inference - two categorical variables</strong>",
+            "topic_description": "Inference - two categorical variables Chi-squared test for Two-Way Tables",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Means and Regression inference</strong><br/><p>Comparing several means and inference for Regression build on week 2 materials</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Means and Regression inference</strong>",
+            "topic_description": "Means and Regression inference Comparing several means and inference for Regression build on week 2 materials",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Presenting Biostatistical Results</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Presenting Biostatistical Results</strong>",
+            "topic_description": "Presenting Biostatistical Results",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Course Review</strong>",
+            "topic_description": "Course Review",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "activity_type": "General contact hours",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Communicating to lay audiences</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>Communicating to lay audiences</strong>",
+            "topic_description": "Communicating to lay audiences",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05"
+            ]
+        }
+    ]
+}
