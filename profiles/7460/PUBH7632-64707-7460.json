@@ -1,0 +1,135 @@
+{
+    "course_title": "Advanced Biostatistics & Epidemiology",
+    "study_period": "Sem 2 2024",
+    "location": "Herston",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PUBH7632-64707-7460",
+    "full_course_code": "PUBH7632-64707-7460",
+    "course_code": "PUBH7632",
+    "class_code": "64707",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explore advanced epidemiological concepts, study designs and statistical methods."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand the principles and techniques of causal inference in epidemiological research."
+        },
+        {
+            "number": "LO3.",
+            "description": "Critically evaluate epidemiological literature and research studies with a focus on causal inference."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply advanced epidemiological and causal inference methods to real-world research questions and datasets."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate effective skills in communication for a professional audience."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Online quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 16/08/2024 2:00 pm</p>\n<p> 4/10/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be two online timed quizzes throughout the semester, each worth 10%. These quizzes are designed to evaluate your comprehension of causal inference principles and longitudinal analysis. You will encounter a series of scenarios and questions that will test your ability to identify causal relationships, recognize potential biases, and apply appropriate methods for inferring causality in epidemiological studies.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Late assessments will not be accepted without prior approval. </strong>If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions).</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Target trial emulation analysis",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 30/08/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to perform a target trial emulation analysis using a provided dataset to examine a causal research question. Specifically, they will be required to:</p>\n<p>·        Develop a target trial emulation analysis plan for a given research question using provided observational data using the intention-to-treat method.</p>\n<p>·        Assess the association between the treatment and outcome in an unweighted model using Cox regression and produce a cumulative incidence curve using Kaplan Meier estimates.</p>\n<p>·        Analyse the treatment effect using inverse probability of treatment weights. Assess the balance of the treatment groups between and after applying the weights. Using a flexible parametric model, produce a cumulative incidence curve. </p>\n<p>·        Analyse the results, suggesting strengths and limitations of the methods used.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessments should be submitted as a Word document via Turnitin on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Late assessments will not be accepted without prior approval. </strong>If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions).</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Analysis Comparison",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 20/09/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment students will answer the same research question using G-methods. They are required to compare the results obtained from the ITT analysis and the G-method. Specifically, they will evaluate differences in effect estimates, confidence intervals, and conclusions drawn from each approach. A detailed interpretation of the results obtained from both analyses is required in the form of a report summarising your analysis, comparisons, and interpretations.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessments should be submitted as a Word document via Turnitin on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Late assessments will not be accepted without prior approval. </strong>If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions).</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Real World Application",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 25/10/2024 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>As a senior epidemiologist consulting on a team you have been asked to provide methodological advice regarding the methods of a project investigating the impact of a public health intervention. Students must apply methods of causal inference, longitudinal analysis, and digital epidemiology to develop part of a project proposal to evaluate the effectiveness of this intervention. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessments should be submitted as a Word document via Turnitin on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Late assessments will not be accepted without prior approval. </strong>If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions).</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 3(22 Jul - 11 Aug)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foundations of Causal Inference:  Target trial emulations</strong><br/></p></div></td>",
+            "topic_title": "<strong>Foundations of Causal Inference:  Target trial emulations</strong>",
+            "topic_description": "Foundations of Causal Inference:  Target trial emulations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 6(12 Aug - 01 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Causal Inference Methods (G methods)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Causal Inference Methods (G methods)</strong>",
+            "topic_description": "Causal Inference Methods (G methods)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 9(02 Sep - 22 Sep)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Longitudinal analysis</strong><br/></p></div></td>",
+            "topic_title": "<strong>Longitudinal analysis</strong>",
+            "topic_description": "Longitudinal analysis",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 12(30 Sep - 20 Oct)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Digital epidemiology</strong><br/></p></div></td>",
+            "topic_title": "<strong>Digital epidemiology</strong>",
+            "topic_description": "Digital epidemiology",
+            "learning_outcomes": []
+        }
+    ]
+}
