@@ -1,0 +1,174 @@
+{
+    "course_title": "Embedded Systems Design & Interfacing",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE3010-61651-7560",
+    "full_course_code": "CSSE3010-61651-7560",
+    "course_code": "CSSE3010",
+    "class_code": "61651",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Implement real-world solutions using the design principles of embedded systems and system interfacing"
+        },
+        {
+            "number": "LO2.",
+            "description": "Use the principles of data encoding to implement robust communication channels"
+        },
+        {
+            "number": "LO3.",
+            "description": "Analyse an embedded system's performance and infer potential problems"
+        },
+        {
+            "number": "LO4.",
+            "description": "Maximise the performance and efficiency of an embedded system design implementation"
+        },
+        {
+            "number": "LO5.",
+            "description": "Build and test software library sub-modules and hardware sub-modules for embedded systems"
+        },
+        {
+            "number": "LO6.",
+            "description": "Employ a real-time operating system with bare metal C programming libraries to develop functional embedded systems."
+        },
+        {
+            "number": "LO7.",
+            "description": "List the technology and design methods used in real-world engineering."
+        },
+        {
+            "number": "LO8.",
+            "description": "Illustrate and outline the details of your embedded systems designs."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Stages Assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 12/08/2025 3:00 pm</p>\n<p> 26/08/2025 3:00 pm</p>\n<p> 9/09/2025 3:00 pm</p>\n<p> 23/09/2025 3:00 pm</p>\n<p>\n</p><p>All stated dates and times are AEST</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Practical/ Demonstration, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>All stage specifications are available on Blackboard. Four stages will be assessed at 8% or 9% per stage (see below). The marks of all four stages are summed together to calculate the final stage mark. The assessed stages and schedule will be listed on Blackboard.</p>\n<ol>\n<li>Stage 1 is worth 9%</li>\n<li>Stage 2 is worth 9%</li>\n<li>Stage 3 is worth 9%</li>\n<li>Stage 4 is worth 8%</li>\n</ol>\n<p><br/></p>\n<p><strong>Stage. Code and Quiz Due Date</strong></p>\n<p>Blackboard submissions and quizzes must be completed by the due date and time. The code developed for the stage must be submitted to the student's repository by the due date and time.</p>\n<p><strong>Demonstration (in-person) - your prac session</strong></p>\n<p>Each stage must be demonstrated (in person) during your assigned Prac session in the same week the stage is due. Failure to demonstrate your stage will result in no marks being recorded for the demonstration, blackboard submission, or code.</p>\n<p><strong>Use of AI</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><strong>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Stage quiz and diagrams must be submitted on Blackboard. Stage code must be submitted to the code repository by the due date, using git push. Code submissions made with only git commit, will not be accepted. Demonstrations will occur in your assigned prac.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Milestone",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 7/10/2025 3:00 pm</p>\n<p>\n</p><p>All stated dates and times are AEST</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Notebook/ Logbook, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Project Milestone - as specified in the Project sheet, available on Blackboard.  </p>\n<p>Diagrams must be submitted to Blackboard by the due date and time.</p>\n<p><strong>Demonstration (in-person) - your lab session</strong></p>\n<p>You must attend your session in the due week to do your demo. Failure to demonstrate your milestone will result in no marks being recorded.</p>\n<p><strong>Use of AI</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><strong>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All project milestone code must be submitted to the code repository by the due date. The diagrams must be submitted to Blackboard by the due date. Code must be submitted to the code repository by the due date, using git push. Code submissions made with only git commit, will not be accepted. Demonstrations are completed in your assigned prac.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 27/10/2025 3:00 pm</p>\n<p>\n</p><p>All stated dates and times are AEST</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project is specified in the Project sheet available on Blackboard. The project code repository and blackboard upload must be submitted by due date and time. </p>\n<p><strong>Demonstration (in-person) - your prac session</strong></p>\n<p>You must attend your session in the due week to do your demo. Failure to demonstrate your project will result in no marks being recorded.</p>\n<p><strong>Use of AI</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><strong>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All stage code must be submitted to the code repository by the due date. All diagrams and other assessment must be submitted to BlackBoard. Code must be submitted to the code repository  by the due date, using git push. Code submissions made with only git commit, will not be accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam assesses only the theoretical aspects of the course.</p>\n<p><strong>Use of AI</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>Lectures cover topics in embedded system design. The lectures are synchronised, as much as possible, with topics covered in projects.</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Lectures cover topics in embedded system design. The lectures are synchronised, as much as possible, with topics covered in projects.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Stage Sessions</strong><br><p>Weekly laboratory development and consultation sessions with tasks specified according to the project stages. Software modules developed in these sessions are to be reused and integrated in the project.</p></br></p></div></td>",
+            "topic_title": "<strong>Project Stage Sessions</strong>",
+            "topic_description": "Project Stage Sessions Weekly laboratory development and consultation sessions with tasks specified according to the project stages. Software modules developed in these sessions are to be reused and integrated in the project.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 11(28 Jul - 19 Oct)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Applied Class</strong><br><p>The weekly applied class session will present content related to the stages and revise lecture material through revision questions.</p></br></p></div></td>",
+            "topic_title": "<strong>Weekly Applied Class</strong>",
+            "topic_description": "Weekly Applied Class The weekly applied class session will present content related to the stages and revise lecture material through revision questions.",
+            "learning_outcomes": []
+        }
+    ]
+}
