@@ -1,0 +1,133 @@
+{
+    "course_title": "Applied Mathematical Analysis",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH2100-62113-7560",
+    "full_course_code": "MATH2100-62113-7560",
+    "course_code": "MATH2100",
+    "class_code": "62113",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Ordinary Differential equations - use the software package Mathematica to solve systems of differential equations and plot the solutions"
+        },
+        {
+            "number": "LO2.",
+            "description": "Ordinary Differential equations - solve linear systems of ODEs and to be able to interpret their behaviour in the phase plane."
+        },
+        {
+            "number": "LO3.",
+            "description": "Ordinary Differential equations - find equilibrium solutions to nonlinear systems of ODE's and analyse their stability characteristics."
+        },
+        {
+            "number": "LO4.",
+            "description": "Ordinary Differential equations - use the Laplace Transform to solve linear ODE's and systems of ODE's with continuous and discontinuous forcing."
+        },
+        {
+            "number": "LO5.",
+            "description": "Ordinary Differential equations - use the methods described above to analyse systems from Biology, Chemistry, Physics and Engineering (mass spring systems, mixing problems, simple electrical circuit systems, simple chemical rate equations and simple predator prey systems)."
+        },
+        {
+            "number": "LO6.",
+            "description": "Partial Differential Equations - Use ideas such as linear equations, the superposition principle and separation of variables to solve a range partial differential equations."
+        },
+        {
+            "number": "LO7.",
+            "description": "Partial Differential Equations - Use various notions related to Fourier analysis to find and manipulate Fourier series for a range of functions."
+        },
+        {
+            "number": "LO8.",
+            "description": "Partial Differential Equations - solve simple boundary- and initial-value problems, among them the wave equation, the heat equation and Laplace's equation."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "4 Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Assignment 1: 18/08/2025 1:00 pm</p>\n<p>Assignment 2: 8/09/2025 1:00 pm</p>\n<p>Assignment 3: 7/10/2025 1:00 pm</p>\n<p>Assignment 4: 27/10/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignments will comprise problems based on material presented in lectures and applied classes. Each assignment is equally weighted.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>All assessment items should be submitted electronically through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 6(28 Jul - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ODEs and Laplace transform</strong><br><p>3 lectures per week. Lectures will be on-campus.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>ODEs and Laplace transform</strong>",
+            "topic_description": "ODEs and Laplace transform 3 lectures per week. Lectures will be on-campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(04 Aug - 02 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Problem Solving</strong><br><p>One Applied Class per week (from Week 2), in which a casual academic demonstrates solutions of selected problems and is available to answer questions about the problem sheets and assignment problems. Students work on solving problems and understanding course material and are able to ask questions.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Problem Solving</strong>",
+            "topic_description": "Problem Solving One Applied Class per week (from Week 2), in which a casual academic demonstrates solutions of selected problems and is available to answer questions about the problem sheets and assignment problems. Students work on solving problems and understanding course material and are able to ask questions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 13(08 Sep - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fourier Series and PDEs</strong><br><p>3 lectures per week. Lectures will be on-campus.</p></br></p><p><strong>Learning outcomes:</strong> L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Fourier Series and PDEs</strong>",
+            "topic_description": "Fourier Series and PDEs 3 lectures per week. Lectures will be on-campus.",
+            "learning_outcomes": [
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
