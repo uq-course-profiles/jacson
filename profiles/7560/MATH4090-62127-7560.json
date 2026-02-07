@@ -1,0 +1,178 @@
+{
+    "course_title": "Computation in Financial Mathematics",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH4090-62127-7560",
+    "full_course_code": "MATH4090-62127-7560",
+    "course_code": "MATH4090",
+    "class_code": "62127",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use binomial trees (lattice methods) to price financial derivatives with focus on European and American-style, and barrier (path-dependent) options."
+        },
+        {
+            "number": "LO2.",
+            "description": "Develop efficient Monte Carlo simulation  and effective variance reduction techniques for pricing options, with focus on European, American style (early exercise), and Asian (path-dependent) options."
+        },
+        {
+            "number": "LO3.",
+            "description": "Derive partial differential equations arising in option pricing, and solve them efficiently numerically, with focus on European, American-style (early exercise) and Asian (path-dependent) options."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the concepts of convergence and stability of numerical partial differential equation methods,  and be able to carry out relevant analysis."
+        },
+        {
+            "number": "LO5.",
+            "description": "Understand and be able to develop numerical methods for pricing derivatives under more realistic models, such as local or stochastic volatility, or stochastic interest rates."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 25/08/2025 9:00 am</p></dd>",
+            "learning_objectives": "L01, L05",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will involve the applications, development and assessment of the numerical methods developed in lectures. The assignment will require programming. In particular, the assignment will involve certain aspects of numerical computation and programming in Matlab, including, but are not limited to, (i) developing numerical algorithms, (ii) understanding and being able to use start code, and (iii) writing, testing/debugging code in Matlab. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 22/09/2025 9:00 am</p></dd>",
+            "learning_objectives": "L03, L04, L05",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will involve the applications, development and assessment of the numerical methods developed in lectures. The assignment will require programming. In particular, the assignment will involve certain aspects of numerical computation and programming in Matlab, including, but are not limited to, (i) developing numerical algorithms, (ii) understanding and being able to use start code, and (iii) writing, testing/debugging code in Matlab. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 27/10/2025 9:00 am</p></dd>",
+            "learning_objectives": "L02, L05",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will involve the applications, development and assessment of the numerical methods developed in lectures. The assignment will require programming. In particular, the assignment will involve certain aspects of numerical computation and programming in Matlab, including, but are not limited to, (i) developing numerical algorithms, (ii) understanding and being able to use start code, and (iii) writing, testing/debugging code in Matlab. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The examination will test all topics investigated in the course. The end of semester examination will involve certain aspects of numerical computation, including, but are not limited to, understanding and developing numerical algorithms. No Matlab programming will be tested on the end of semester exam.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>N/A</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Enhancing computer-based problem solving skills</strong><br/><p>The applied classes will discuss lecture material, mathematical exercises and computing assignments. The primary focus will be on enhancing students' computer-based problem-solving skills.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Enhancing computer-based problem solving skills</strong>",
+            "topic_description": "Enhancing computer-based problem solving skills The applied classes will discuss lecture material, mathematical exercises and computing assignments. The primary focus will be on enhancing students' computer-based problem-solving skills.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Notes on Computational Finance</strong><br/><p>The lectures will be based on lecture notes developed by the lecturers.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Notes on Computational Finance</strong>",
+            "topic_description": "Notes on Computational Finance The lectures will be based on lecture notes developed by the lecturers.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
