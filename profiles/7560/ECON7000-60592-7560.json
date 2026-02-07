@@ -1,0 +1,502 @@
+{
+    "course_title": "Foundations in Microeconomics",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7000-60592-7560",
+    "full_course_code": "ECON7000-60592-7560",
+    "course_code": "ECON7000",
+    "class_code": "60592",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Examine advanced economic concepts and theories."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically assess economic policies related to real-world contexts."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain policy discussions and decision-making processes."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate contemporary economic challenges and their outcomes."
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate economic ideas through written reports to both expert and general audiences."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "CML 1 - Thinking Like an Economist",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p>CML 1 (1st attempt) 6/08/2025 - 19/08/2025</p>\n<p>CML 1 (2nd attempt) 20/08/2025 - 22/08/2025</p>\n<p>\n</p><p>Opens 9am, closes 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A set of questions on Topic 1 (Lectures 1 and 2).</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>Students do not need to reference any use of AI or MT. They should be aware that the outcome provided using AI or MT may contradict the course contents and provide no marks. Students also must ensure that they understand the contents of the course and not use AI and MT as a substitution to study.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Enter answers into Blackboard prior to due date and time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Late submissions after the deadline for each CML quiz will <strong>not</strong> be possible. Access to each CML quiz on Blackboard is blocked once the due date and time elapses. Note that the first attempt for each CML quiz will generally be available for almost two weeks. A student that misses the first attempt for any CML quiz will generally be able to complete <strong>an optional second attempt</strong>. Except for CML 6, each optional second attempt will become available after the first attempt closes.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "CLEAR-JE No.1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p> 8/08/2025 - 21/08/2025</p>\n<p>\n</p><p>Due 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Refer to the document <strong>CLEAR-JE Task Description for Students </strong>on the course Blackboard site.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>If a zero mark is given to a CLEAR-JE due to high similarity index/plagiarism, that CLEAR-JE assignment of zero marks will be counted and students cannot do an additional CLEAR-JE assignment to compensate for this. So don't take any risks!</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit using the relevant CLEAR-JE number Turnitin link found on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p><strong>Late submissions</strong> of CLEAR-JEs are not allowed. If CLEAR-JEs are not submitted by the due date and time the student will be awarded <strong>zero (0) marks</strong>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "CML 2 - Demand and Supply",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p>CML 2 (1st attempt) 20/08/2025 - 2/09/2025</p>\n<p>CML 2 (2nd attempt) 3/09/2025 - 5/09/2025</p>\n<p>\n</p><p>Opens 9am, closes 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A set of questions on Topic 2 (Lectures 3 and 4).</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>Students do not need to reference any use of AI or MT. They should be aware that the outcome provided using AI or MT may contradict the course contents and provide no marks. Students also must ensure that they understand the contents of the course and not use AI and MT as a substitution to study.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Enter answers into Blackboard prior to due date and time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Late submissions after the deadline for each CML quiz will <strong>not</strong> be possible. Access to each CML quiz on Blackboard is blocked once the due date and time elapses. Note that the first attempt for each CML quiz will generally be available for almost two weeks. A student that misses the first attempt for any CML quiz will generally be able to complete <strong>an optional second attempt</strong>. Except for CML 6, each optional second attempt will become available after the first attempt closes.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "CLEAR-JE No.2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p> 22/08/2025 - 4/09/2025</p>\n<p>\n</p><p>Due 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Refer to the document <strong>CLEAR-JE Task Description for Students </strong>on the course Blackboard site.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>If a zero mark is given to a CLEAR-JE due to high similarity index/plagiarism, that CLEAR-JE assignment of zero marks will be counted and students cannot do an additional CLEAR-JE assignment to compensate for this. So don't take any risks!</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit using the relevant CLEAR-JE numbered Turnitin link found on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p><strong>Late submissions</strong> of CLEAR-JEs are not allowed. If CLEAR-JEs are not submitted by the due date and time the student will be awarded <strong>zero (0) marks</strong>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "CML 3 - Elasticity and Perfectly Competitive Supply",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p>CML 3 (1st attempt) 3/09/2025 - 16/09/2025</p>\n<p>CML 3 (2nd attempt) 17/09/2025 - 19/09/2025</p>\n<p>\n</p><p>Opens 9am, closes 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A set of questions on Topics 3 and 4 (Lectures 5 and 6).</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>Students do not need to reference any use of AI or MT. They should be aware that the outcome provided using AI or MT may contradict the course contents and provide no marks. Students also must ensure that they understand the contents of the course and not use AI and MT as a substitution to study.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Enter answers into Blackboard prior to due date and time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Late submissions after the deadline for each CML quiz will <strong>not</strong> be possible. Access to each CML quiz on Blackboard is blocked once the due date and time elapses. Note that the first attempt for each CML quiz will generally be available for almost two weeks. A student that misses the first attempt for any CML quiz will generally be able to complete <strong>an optional second attempt</strong>. Except for CML 6, each optional second attempt will become available after the first attempt closes.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-5",
+            "assessment_title": "CLEAR-JE No.3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p> 5/09/2025 - 18/09/2025</p>\n<p>\n</p><p>Due 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Refer to the document <strong>CLEAR-JE Task Description for Students </strong>on the course Blackboard site.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>If a zero mark is given to a CLEAR-JE due to high similarity index/plagiarism, that CLEAR-JE assignment of zero marks will be counted and students cannot do an additional CLEAR-JE assignment to compensate for this. So don't take any risks!</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit using the relevant CLEAR-JE numbered Turnitin link found on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p><strong>Late submissions</strong> of CLEAR-JEs are not allowed. If CLEAR-JEs are not submitted by the due date and time the student will be awarded <strong>zero (0) marks</strong>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-6",
+            "assessment_title": "CML 4 - The Quest for Profit, Imperfect Comp & Monopoly",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p>CML 4 (1st attempt) 17/09/2025 - 7/10/2025</p>\n<p>CML 4 (2nd attempt) 8/10/2025 - 10/10/2025</p>\n<p>\n</p><p>Opens 9am, closes 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A set of questions on Topics 5 and 6 (Lectures 7 and 8).</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>Students do not need to reference any use of AI or MT. They should be aware that the outcome provided using AI or MT may contradict the course contents and provide no marks. Students also must ensure that they understand the contents of the course and not use AI and MT as a substitution to study.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Enter answers into Blackboard prior to due date and time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Late submissions after the deadline for each CML quiz will <strong>not</strong> be possible. Access to each CML quiz on Blackboard is blocked once the due date and time elapses. Note that the first attempt for each CML quiz will generally be available for almost two weeks. A student that misses the first attempt for any CML quiz will generally be able to complete <strong>an optional second attempt</strong>. Except for CML 6, each optional second attempt will become available after the first attempt closes.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-7",
+            "assessment_title": "CLEAR-JE No.4",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p> 19/09/2025 - 9/10/2025</p>\n<p>\n</p><p>Due 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Refer to the document <strong>CLEAR-JE Task Description for Students </strong>on the course Blackboard site.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>If a zero mark is given to a CLEAR-JE due to high similarity index/plagiarism, that CLEAR-JE assignment of zero marks will be counted and students cannot do an additional CLEAR-JE assignment to compensate for this. So don't take any risks!</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit using the relevant CLEAR-JE numbered Turnitin link found on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p><strong>Late submissions</strong> of CLEAR-JEs are not allowed. If CLEAR-JEs are not submitted by the due date and time the student will be awarded <strong>zero (0) marks</strong>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-8",
+            "assessment_title": "CML 5 - Imperfect Comp (cont.), Externalities, Prop Rights",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p>CML 5 (1st attempt) 8/10/2025 - 21/10/2025</p>\n<p>CML 5 (2nd attempt) 22/10/2025 - 24/10/2025</p>\n<p>\n</p><p>Opens 9am, closes 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A set of questions on Topics 6 and 7 (Lectures 9 and 10).</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>Students do not need to reference any use of AI or MT. They should be aware that the outcome provided using AI or MT may contradict the course contents and provide no marks. Students also must ensure that they understand the contents of the course and not use AI and MT as a substitution to study.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Enter answers into Blackboard prior to due date and time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Late submissions after the deadline for each CML quiz will <strong>not</strong> be possible. Access to each CML quiz on Blackboard is blocked once the due date and time elapses. Note that the first attempt for each CML quiz will generally be available for almost two weeks. A student that misses the first attempt for any CML quiz will generally be able to complete <strong>an optional second attempt</strong>. Except for CML 6, each optional second attempt will become available after the first attempt closes.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-9",
+            "assessment_title": "CLEAR-JE No.5",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p> 10/10/2025 - 23/10/2025</p>\n<p>\n</p><p>Due 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Refer to the document <strong>CLEAR-JE Task Description for Students </strong>on the course Blackboard site.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>If a zero mark is given to a CLEAR-JE due to high similarity index/plagiarism, that CLEAR-JE assignment of zero marks will be counted and students cannot do an additional CLEAR-JE assignment to compensate for this. So don't take any risks!</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit using the relevant CLEAR-JE numbered Turnitin link found on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p><strong>Late submissions</strong> of CLEAR-JEs are not allowed. If CLEAR-JEs are not submitted by the due date and time the student will be awarded <strong>zero (0) marks</strong>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-10",
+            "assessment_title": "CML 6 - Public Goods and Economics of Information",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p> 22/10/2025 - 31/10/2025</p>\n<p>\n</p><p>Opens 9am, closes 4pm</p>\n<p><strong>NO SECOND ATTEMPT</strong></p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A set of questions on Topics 7 and 8 (Lectures 11 and 12).</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>Students do not need to reference any use of AI or MT. They should be aware that the outcome provided using AI or MT may contradict the course contents and provide no marks. Students also must ensure that they understand the contents of the course and not use AI and MT as a substitution to study.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Enter answers into Blackboard prior to due date and time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Late submissions after the deadline for each CML quiz will not be possible. Access to each CML quiz on Blackboard is blocked once the due date and time elapses. <strong>Note that CML 6 will not have an optional second attempt</strong>.  Students are encouraged to complete at least one attempt for all six CMLs to help maximise their overall CML mark.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-11",
+            "assessment_title": "CLEAR-JE No.6",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 5 out of 6) </dd>",
+            "due_date": "<dd><p> 24/10/2025 - 10/11/2025</p>\n<p>\n</p><p>Due 4pm</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Refer to the document <strong>CLEAR-JE Task Description for Students </strong>on the course Blackboard site.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<p>If a zero mark is given to a CLEAR-JE due to high similarity index/plagiarism, that CLEAR-JE assignment of zero marks will be counted and students cannot do an additional CLEAR-JE assignment to compensate for this. So don't take any risks!</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit using the relevant CLEAR-JE numbered Turnitin link found on the course Blackboard site.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p><strong>Late submissions</strong> of CLEAR-JEs are not allowed. If CLEAR-JEs are not submitted by the due date and time the student will be awarded <strong>zero (0) marks</strong>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1 (Topic 1)</strong><br/><p>Thinking Like An Economist 1</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 1 (Topic 1)</strong>",
+            "topic_description": "Lecture 1 (Topic 1) Thinking Like An Economist 1",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2 (Topic 1)</strong><br/><p>Thinking Like An Economist 2</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 2 (Topic 1)</strong>",
+            "topic_description": "Lecture 2 (Topic 1) Thinking Like An Economist 2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3 (Topic 2)</strong><br/><p>Demand and Supply 1</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 3 (Topic 2)</strong>",
+            "topic_description": "Lecture 3 (Topic 2) Demand and Supply 1",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4 (Topic 2)</strong><br/><p>Demand and Supply 2</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 4 (Topic 2)</strong>",
+            "topic_description": "Lecture 4 (Topic 2) Demand and Supply 2",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5 (Topic 3)</strong><br/><p>Elasticity</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 5 (Topic 3)</strong>",
+            "topic_description": "Lecture 5 (Topic 3) Elasticity",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6 (Topic 4)</strong><br/><p>Perfectly Competitive Supply</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 6 (Topic 4)</strong>",
+            "topic_description": "Lecture 6 (Topic 4) Perfectly Competitive Supply",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7 (Topic 5)</strong><br/><p>The Quest For Profit</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 7 (Topic 5)</strong>",
+            "topic_description": "Lecture 7 (Topic 5) The Quest For Profit",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8 (Topic 6)</strong><br/><p>Imperfect Competition - Monopoly</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 8 (Topic 6)</strong>",
+            "topic_description": "Lecture 8 (Topic 6) Imperfect Competition - Monopoly",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9 (Topic 6)</strong><br/><p>Imperfect Competition - Strategy</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 9 (Topic 6)</strong>",
+            "topic_description": "Lecture 9 (Topic 6) Imperfect Competition - Strategy",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10 (Topic 7)</strong><br/><p>Externalities and Property Rights</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 10 (Topic 7)</strong>",
+            "topic_description": "Lecture 10 (Topic 7) Externalities and Property Rights",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11 (Topic 7) </strong><br/><p>Public Goods</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 11 (Topic 7) </strong>",
+            "topic_description": "Lecture 11 (Topic 7) Public Goods",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 12 (Topic 8)</strong><br/><p>Economics of Information</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture 12 (Topic 8)</strong>",
+            "topic_description": "Lecture 12 (Topic 8) Economics of Information",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 13 (Revision)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Lecture 13 (Revision)</strong>",
+            "topic_description": "Lecture 13 (Revision)",
+            "learning_outcomes": []
+        }
+    ]
+}
