@@ -1,0 +1,182 @@
+{
+    "course_title": "Multivariate Data Analysis & Machine Learning in Biology",
+    "study_period": "Sem 1 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/QBIO7002-20831-7520",
+    "full_course_code": "QBIO7002-20831-7520",
+    "course_code": "QBIO7002",
+    "class_code": "20831",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Manipulate, visualise and analyse realistic, large ecological datasets"
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand the applications of supervised and unsupervised learning and how to implement them"
+        },
+        {
+            "number": "LO3.",
+            "description": "Communicate complex analyses to a general audience"
+        },
+        {
+            "number": "LO4.",
+            "description": "Identify appropriate analytical techniques for diverse biological problems"
+        },
+        {
+            "number": "LO5.",
+            "description": "Use R to perform analyses on complex multivariate datasets"
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand multivariate data structures and summary statistics"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Engagement with Pre-class Reading (Supervised Learning Module)",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Task 1 28/02/2025 2:00 pm</p>\n<p>Task 2 14/03/2025 2:00 pm</p>\n<p>Task 3 21/03/2025 2:00 pm</p>\n<p>Task 4 28/03/2025 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment requires students to submit three questions related to the pre-class reading for each of weeks 2-5 (2.5% each) of the supervised learning module.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Supervised Learning Assignment",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 15/04/2025 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will submit a comprehensively documented R notebook detailing all the steps (data import and cleaning through to presentation and discussion of results) of an analysis on a dataset they have not seen before.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Engagement with Pre-class Reading (Unsupervised Learning Module)",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Task 5: 4/04/2025 2:00 pm</p>\n<p>Task 6: 11/04/2025 2:00 pm</p>\n<p>Task 7: 17/04/2025 2:00 pm</p>\n<p>Task 8: 9/05/2025 2:00 pm</p>\n<p>Task 9: 16/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Written",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment requires students to submit three questions related to the pre-class reading for 4 out of the 5 weeks (2.5% each week) of the unsupervised learning module.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Unsupervised Learning Assignment",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 27/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Written report (1,000 words), critical interpretation of an existing analysis / results section.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Foundations in supervised learning</strong><br/><p>Foundation concepts including: bias-variance trade-off, over-fitting, cross-validation, precision and recall, classification and regression (Letten)</p></p></div></td>",
+            "topic_title": "<strong>Foundations in supervised learning</strong>",
+            "topic_description": "Foundations in supervised learning Foundation concepts including: bias-variance trade-off, over-fitting, cross-validation, precision and recall, classification and regression (Letten)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>All the algorithms</strong><br/><p>Introduction to different supervised learning algorithms: k-nearest neighbours, naive Bayes, support vector machines, decision/regression trees and random forests, and neural networks (Letten)</p></p></div></td>",
+            "topic_title": "<strong>All the algorithms</strong>",
+            "topic_description": "All the algorithms Introduction to different supervised learning algorithms: k-nearest neighbours, naive Bayes, support vector machines, decision/regression trees and random forests, and neural networks (Letten)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Decision and regression trees</strong><br/><p>Decision and regression tree basics and ensemble learning (Letten)</p></p></div></td>",
+            "topic_title": "<strong>Decision and regression trees</strong>",
+            "topic_description": "Decision and regression trees Decision and regression tree basics and ensemble learning (Letten)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deep learning with neural networks I</strong><br/><p>(Letten)</p></p></div></td>",
+            "topic_title": "<strong>Deep learning with neural networks I</strong>",
+            "topic_description": "Deep learning with neural networks I (Letten)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deep learning with neural networks II</strong><br/><p>(Letten)</p></p></div></td>",
+            "topic_title": "<strong>Deep learning with neural networks II</strong>",
+            "topic_description": "Deep learning with neural networks II (Letten)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Simple descriptions of multivariate data</strong><br/><p>(McGuigan)</p></p></div></td>",
+            "topic_title": "<strong>Simple descriptions of multivariate data</strong>",
+            "topic_description": "Simple descriptions of multivariate data (McGuigan)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Eigenanalysis and dimension reduction</strong><br/><p>(McGuigan)</p></p></div></td>",
+            "topic_title": "<strong>Eigenanalysis and dimension reduction</strong>",
+            "topic_description": "Eigenanalysis and dimension reduction (McGuigan)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multidimensional scaling</strong><br/><p>(McGuigan)</p></p></div></td>",
+            "topic_title": "<strong>Multidimensional scaling</strong>",
+            "topic_description": "Multidimensional scaling (McGuigan)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cluster analysis</strong><br/><p>(McGuigan)</p></p></div></td>",
+            "topic_title": "<strong>Cluster analysis</strong>",
+            "topic_description": "Cluster analysis (McGuigan)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discriminant Function Analysis</strong><br/><p>(McGuigan)</p></p></div></td>",
+            "topic_title": "<strong>Discriminant Function Analysis</strong>",
+            "topic_description": "Discriminant Function Analysis (McGuigan)",
+            "learning_outcomes": []
+        }
+    ]
+}
