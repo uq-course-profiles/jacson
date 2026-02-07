@@ -1,0 +1,158 @@
+{
+    "course_title": "Mechanics & Thermal Physics",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS1001-20588-7520",
+    "full_course_code": "PHYS1001-20588-7520",
+    "course_code": "PHYS1001",
+    "class_code": "20588",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "explain key physics concepts, and using mathematical techniques, apply physics theory and unifying laws relating to Newtonian Mechanics and Thermodynamics."
+        },
+        {
+            "number": "LO2.",
+            "description": "demonstrate an understanding of scientific methods, and the critical role of integrity and ethics in scientific progress, including the ability to: (a) Propose scientific questions/hypotheses and develop theoretical models that make testable predictions relating to these questions/hypotheses; (b) Develop, perform, and extract meaningful measurements from experiments to test predictions of scientific models; (c) Evaluate the validity of theoretical predictions and experimental measurements, through application of critical reasoning."
+        },
+        {
+            "number": "LO3.",
+            "description": "articulate scientific processes both verbally and in writing in a style appropriate to the discipline; including explanations of: (a) Scientific questions/hypotheses; (b) Development and evaluation of theoretical models; (c) Critical reasoning, experimental procedures and conclusions; (d) Communication of experimental measurement outcomes."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Pre-reading quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% Formative assessment, marked on effort not correctness. </dd>",
+            "due_date": "<dd><p> Week 1 Mon - Week 13 Fri</p>\n<p>\n</p><p>Due two hours before the start of each workshop. </p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Quiz, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each workshop will have pre-reading assigned, which will help you arrive prepared.  You should do this reading, then answer the pre-reading quiz.  The quizzes will be short and are marked on effort, not whether or not your answers are correct.  Lecturers will use your responses to tune the workshops to cover the questions that caused confusion in the quizzes, and you can use them as an opportunity to ask lecturers to explain particular aspects in more detail.  </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted online via Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Laboratory",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Five laboratories during the semester. Week 3 Mon - Week 13 Fri</p>\n<p>\n</p><p>During the lab tutors will confirm at certain checkpoints that you have correctly filled out your workbook. You will need to arrive prepared (details will be in the lab workbook) as the first checkpoint is at the beginning of the lab. Completing these checkpoints will constitute half your lab grade. Upon successful completion of the checkpoints the other half will come from your answers to the lab quiz, which you will submit online within a week of finishing the lab.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The practical laboratory component of your grade will come from five practical laboratories you complete during the semester.  Each of these is a 3-hour session where you will do an experiment, fill out a lab worksheet, and answer questions on the lab content. The questions (lab quiz) can be answered after the lab if needed, you have a week to submit after your lab is done.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Checkpoints will be marked by tutors during the lab. The lab quiz will be done online either during the lab, or within one week of the lab if you need more time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Mastering Physics",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> Week 1 Mon - Week 13 Fri</p>\n<p>\n</p><p>To be completed at your own pace during semester.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Mastering Physics is the online homework that comes with your text book, and which you will work on with assistance during your classroom practicals. There will be questions assigned for each topic in the course. You can work on these at your own pace during the semester. We recommend doing them as soon as possible after the topic has been discussed in workshops, to solidify your knowledge and keep you on track to understand the topics that follow. You will be able to work on these with assistance during tutorials. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>From Blackboard access the online \"Mastering Physics\" application from Pearson.  There you will find the questions for each topic and you answer them online.  You can do these at your own pace throughout the semester. </p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The examination will be invigilated on-campus. Further details for each format will be provided to students before the examination period. </p>\n<p><em>Examples of recent (2 hour) exams are available on the UQ Library web-site. Selected exam style questions will be worked through in workshops and assignments.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshops</strong><br><p>Workshops will assume a basic familiarity with the content from assigned textbook readings. (Replicating what you could read for yourself is a waste of valuable class time.) Instead, in workshops we focus on the much more difficult task of processing the content: working through conceptual issues, exploring the implications of the theory, and developing strategies for solving problems. We will make regular use of polls for interactive questions in class.</p></br></p></div></td>",
+            "topic_title": "<strong>Workshops</strong>",
+            "topic_description": "Workshops Workshops will assume a basic familiarity with the content from assigned textbook readings. (Replicating what you could read for yourself is a waste of valuable class time.) Instead, in workshops we focus on the much more difficult task of processing the content: working through conceptual issues, exploring the implications of the theory, and developing strategies for solving problems. We will make regular use of polls for interactive questions in class.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Preparation (Working through UQ Extend content, reading the text book, and completing the reading quiz)</strong><br><p>Engaging with the pre-reading is the foundation for all that follows in this course. Studies have shown that even the best content-focussed lectures are a poor substitute for simply reading the text. You will therefore be expected to read through relevant sections of the text before each class. Summaries of the key points are given in the UQ Extend content, including some videos that may help clarify the topic before doing the reading. The reading quizzes are designed to help focus your textbook reading and to provide real-time feedback to us that we use in preparing each workshop.</p></br></p></div></td>",
+            "topic_title": "<strong>Preparation (Working through UQ Extend content, reading the text book, and completing the reading quiz)</strong>",
+            "topic_description": "Preparation (Working through UQ Extend content, reading the text book, and completing the reading quiz) Engaging with the pre-reading is the foundation for all that follows in this course. Studies have shown that even the best content-focussed lectures are a poor substitute for simply reading the text. You will therefore be expected to read through relevant sections of the text before each class. Summaries of the key points are given in the UQ Extend content, including some videos that may help clarify the topic before doing the reading. The reading quizzes are designed to help focus your textbook reading and to provide real-time feedback to us that we use in preparing each workshop.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Homework (Mastering Physics)</strong><br><p>Actively using what you have learned to solve physics problems is the core of this course. You can work on the Mastering Physics questions at your own pace and get help and extra practice questions by attending tutorials. </p></br></p></div></td>",
+            "topic_title": "<strong>Homework (Mastering Physics)</strong>",
+            "topic_description": "Homework (Mastering Physics) Actively using what you have learned to solve physics problems is the core of this course. You can work on the Mastering Physics questions at your own pace and get help and extra practice questions by attending tutorials.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Peer Assisted Study Session",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals (in classroom)</strong><br><p>The tutorials are your chance to work on problems (especially your Mastering Physics homework) with peer-assistance guidance from students who did the course in previous years.</p></br></p></div></td>",
+            "topic_title": "<strong>Practicals (in classroom)</strong>",
+            "topic_description": "Practicals (in classroom) The tutorials are your chance to work on problems (especially your Mastering Physics homework) with peer-assistance guidance from students who did the course in previous years.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals (in laboratory)</strong><br><p>You will work in groups on experiments designed to teach you the skills of measurement and observation, and to build on important concepts in the course. You will be required to do 5 lab activities.</p></br></p></div></td>",
+            "topic_title": "<strong>Practicals (in laboratory)</strong>",
+            "topic_description": "Practicals (in laboratory) You will work in groups on experiments designed to teach you the skills of measurement and observation, and to build on important concepts in the course. You will be required to do 5 lab activities.",
+            "learning_outcomes": []
+        }
+    ]
+}
