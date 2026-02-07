@@ -1,0 +1,264 @@
+{
+    "course_title": "Econometric Theory",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7331-60660-7560",
+    "full_course_code": "ECON7331-60660-7560",
+    "course_code": "ECON7331",
+    "class_code": "60660",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain matrix algebra proficiently to derive properties of (and compute) various econometric estimators."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate the theory behind the General Linear Regression Model."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the numerical and statistical properties of the OLS, GLS and IV estimators."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate the finite sample and asymptotic properties of the OLS, GLS and IV estimators."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use statistical packages such as R-Studio to compute the various estimators on real world datasets."
+        },
+        {
+            "number": "LO6.",
+            "description": "Examine the learned theory and methods to the real world."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Person Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60% Each quiz is out of 20. </dd>",
+            "due_date": "<dd><p>In lecture 21/08/2025 12:50 pm</p>\n<p>In lecture 11/09/2025 12:50 pm</p>\n<p>In lecture 16/10/2025 12:50 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task is to be completed in-person. Student IDs are mandatory. Students must present a valid photo ID card to be admitted into the room for the quiz, i.e. a university-issued ID card, a current passport, or current Australian driver’s licence or government ID card.</p>\n<p>Students should be at the venue for your quiz on time in the weeks of assessment. If you arrive late, you will not receive additional time to complete the quiz.</p>\n<p>The 50-minute quizzes will contain MCQs, scenarios (sequential series of MCQs), and short answers. Incorrect answers will not be subject to penalties.</p>\n<p>The first quiz will focus on all the material taught up to Lecture 3; the second will focus on all the material taught up to Lecture 6; the third will focus on all the materials taught up to Lecture 10. </p>\n<p>This assessment is closed-book and the use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>50-minute in-person quizzes during the lecture time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Research Project 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20% The project is 20 out of 20. </dd>",
+            "due_date": "<dd><p> 24/09/2025 4:00 pm</p>\n<p>\n</p><p>Details of the Research Project 1 will be posted on the Blackboard site by Week 7 Friday (12/09) 9am. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard by the due date and time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Research Project 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20% The project is 20 out of 20. </dd>",
+            "due_date": "<dd><p> 10/11/2025 4:00 pm</p>\n<p>\n</p><p>Details of the Research Project 2 will be posted on the Blackboard site by Week 12 Friday (24/09) 9am. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard by the due date and time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction + Review on Linear Algebra and Regression Models</strong><br/><p>Review of statistical concepts and matrix algebra. Introduction to the linear regression model.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction + Review on Linear Algebra and Regression Models</strong>",
+            "topic_description": "Introduction + Review on Linear Algebra and Regression Models Review of statistical concepts and matrix algebra. Introduction to the linear regression model.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Geometry of Linear Regression 1</strong><br/><p>Geometry of vector spaces; geometry of OLS</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Geometry of Linear Regression 1</strong>",
+            "topic_description": "Geometry of Linear Regression 1 Geometry of vector spaces; geometry of OLS",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Geometry of Linear Regression 2</strong><br/><p>More on linear regression</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Geometry of Linear Regression 2</strong>",
+            "topic_description": "Geometry of Linear Regression 2 More on linear regression",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 1 + Statistical Properties of OLS 1</strong><br/><p>No lecture or tutorial this week</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Quiz 1 + Statistical Properties of OLS 1</strong>",
+            "topic_description": "Quiz 1 + Statistical Properties of OLS 1 No lecture or tutorial this week",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Properties of OLS 2</strong><br/><p>More on the statistical properties of OLS.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Statistical Properties of OLS 2</strong>",
+            "topic_description": "Statistical Properties of OLS 2 More on the statistical properties of OLS.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis Testing </strong><br/><p>Some common distribution. Exact and large sample tests.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Hypothesis Testing </strong>",
+            "topic_description": "Hypothesis Testing Some common distribution. Exact and large sample tests.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 2 + Confidence Interval</strong><br/><p>More on hypothesis testing and confidence intervals.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Quiz 2 + Confidence Interval</strong>",
+            "topic_description": "Quiz 2 + Confidence Interval More on hypothesis testing and confidence intervals.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Generalized Least Squares 1</strong><br/><p>GLS estimator; FGLS.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Generalized Least Squares 1</strong>",
+            "topic_description": "Generalized Least Squares 1 GLS estimator; FGLS.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Generalized Least Squares 2</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Generalized Least Squares 2</strong>",
+            "topic_description": "Generalized Least Squares 2",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Instrumental Variable Regression </strong><br/><p>Method of Moments</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Instrumental Variable Regression </strong>",
+            "topic_description": "Instrumental Variable Regression Method of Moments",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 3 + Maximum Likelihood Estimation 1</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Quiz 3 + Maximum Likelihood Estimation 1</strong>",
+            "topic_description": "Quiz 3 + Maximum Likelihood Estimation 1",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Maximum Likelihood Estimation 2</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Maximum Likelihood Estimation 2</strong>",
+            "topic_description": "Maximum Likelihood Estimation 2",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/><p>Exam revision.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision Exam revision.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
