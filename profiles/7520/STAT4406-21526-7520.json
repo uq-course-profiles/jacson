@@ -1,0 +1,95 @@
+{
+    "course_title": "Advanced Probability & Stochastic Processes",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT4406-21526-7520",
+    "full_course_code": "STAT4406-21526-7520",
+    "course_code": "STAT4406",
+    "class_code": "21526",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Prove fundamental theorems in probability, based on measure-theoretic foundations"
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the theory and applications of advanced techniques, including the use of martingales, limit theorems and Wienerprocesses"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Testing Understanding",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 25/02/2025 - 30/05/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Formative (low stakes) assessment to test student understanding of the topics in the required pre-reading. Before the lecture you will be asked to carefully read specific sections of the book. During class, I will ask targeted questions to individual students to test understanding of the material. I will keep a record (tick/cross) of your progress, and the overall result will constitute 10% of the assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>These activities are conducted during class so late submissions are not possible.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Student Presentation",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 3/03/2025 - 7/04/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>20-minute presentation of a specified topic in probability and stochastic processes, to be given during lecture hours.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Talks are to be given during lecture hours and will be scheduled (randomly) during Week 1.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignments",
+            "special_indicators": [],
+            "weighting": "<dd>80% Assignments are worth 20% each </dd>",
+            "due_date": "<dd><p> 17/03/2025 1:00 pm</p>\n<p> 7/04/2025 1:00 pm</p>\n<p> 6/05/2025 1:00 pm</p>\n<p> 30/05/2025 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Problem set containing a mix of theoretical and practical exercises.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Solutions are to be submitted via blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures (Weeks 1 - 7)</strong><br><p>Measure and Integration, Probability Spaces, Convergence, Conditioning</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures (Weeks 1 - 7)</strong>",
+            "topic_description": "Lectures (Weeks 1 - 7) Measure and Integration, Probability Spaces, Convergence, Conditioning",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>Sessions covering both theoretical and practical problems.</p></br></p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals Sessions covering both theoretical and practical problems.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures (Weeks 7 - 13)</strong><br><p>Martingales, Wiener Process, Stochastic Calculus</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures (Weeks 7 - 13)</strong>",
+            "topic_description": "Lectures (Weeks 7 - 13) Martingales, Wiener Process, Stochastic Calculus",
+            "learning_outcomes": []
+        }
+    ]
+}
