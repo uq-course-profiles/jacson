@@ -1,0 +1,198 @@
+{
+    "course_title": "Computer Systems Principles and Programming",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE7231-60513-7560",
+    "full_course_code": "CSSE7231-60513-7560",
+    "course_code": "CSSE7231",
+    "class_code": "60513",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use a UNIX (Linux) shell and write commands and simple shell scripts to perform common tasks, including modifying file permissions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Write, compile, run and debug C programs in a UNIX (Linux) environment."
+        },
+        {
+            "number": "LO3.",
+            "description": "Use the Subversion version control system, including being able to identify appropriate commands for various operations and write appropriate SVN commit messages."
+        },
+        {
+            "number": "LO4.",
+            "description": "Write C programs that access file systems and perform input/output using Standard C library calls and underlying system calls."
+        },
+        {
+            "number": "LO5.",
+            "description": "Write and analyse C programs that create and control processes and threads."
+        },
+        {
+            "number": "LO6.",
+            "description": "Evaluate and implement different methods of inter-process and inter-thread communication and coordination."
+        },
+        {
+            "number": "LO7.",
+            "description": "Explain, contrast and be able to perform calculations on the properties/relationships/addressing schemes of layers in the IP networking stack and important protocols used on the Internet."
+        },
+        {
+            "number": "LO8.",
+            "description": "Write network client and server programs using the sockets API."
+        },
+        {
+            "number": "LO9.",
+            "description": "Predict the behaviour of, and perform calculations about, virtual memory systems and file systems."
+        },
+        {
+            "number": "LO10.",
+            "description": "Apply principles of secure and defensive programming to C programs"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment One - Introductory C Programming",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 29/08/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will write a C program for Linux that implements a given specification and that follows a given style guide. You will use a version control system to progressively build your application. The task description will be released in week 2. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Programs must be submitted electronically as detailed in the assignment specification. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment Two - Debugging",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 12/09/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02",
+            "mode": "Activity/ Performance",
+            "category": "Computer Code, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will require students to understand the C programming language and apply debugging skills to understand the behaviour of a program. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment (no referencing is required). However, these tools are unlikely to be helpful; the assignment can be completed without using these tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Student attempts are recorded automatically by the assignment software.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment Three - Processes and Pipes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 10/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The third assignment will require development of an application that interacts with a UNIX file system and uses multiple processes that communicate with each other. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Programs must be submitted electronically as detailed in the assignment specification. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Assignment Four - Threads and Network Programming",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 31/10/2025 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06, L08, L10",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will involve writing a network client/server application that uses multiple threads. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Programs must be submitted electronically as detailed in the assignment specification.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will be an on-campus, invigilated paper-based exam. The exam is closed book. A useful information sheet will be provided. The exam covers all course materials from the whole semester. Question formats may include short answer, calculations, and programming tasks. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pracs</strong><br/><p>Pracs will commence in week one. Early pracs will have defined material you can work through.<br/>\nLater prac sessions will be an opportunity to get help on course material and assignments.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L08, L10</p></div></td>",
+            "topic_title": "<strong>Pracs</strong>",
+            "topic_description": "Pracs Pracs will commence in week one. Early pracs will have defined material you can work through. Later prac sessions will be an opportunity to get help on course material and assignments.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L08",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>Weekly lectures (3 hours) will introduce the course content and cover examples. Some lectures will be more practical in nature, e.g. covering practical issues, programming demonstrations, or working through exercises.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Weekly lectures (3 hours) will introduce the course content and cover examples. Some lectures will be more practical in nature, e.g. covering practical issues, programming demonstrations, or working through exercises.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        }
+    ]
+}
