@@ -1,0 +1,214 @@
+{
+    "course_title": "Fields in Physics I",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS7155-20802-7520",
+    "full_course_code": "PHYS7155-20802-7520",
+    "course_code": "PHYS7155",
+    "class_code": "20802",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the basic principles of field theory, and how fields are used in various areas of physics."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply mathematical methods of field theory to the quantitative solution of problems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand the role of classical field theory in real-world problems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Investigate classical fields experimentally, applying laboratory skills and error analysis to test theoretical predictions."
+        },
+        {
+            "number": "LO5.",
+            "description": "Engage in scientific and technical communication about classical field theory."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem sets",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 21/03/2025 5:00 pm</p>\n<p> 4/04/2025 5:00 pm</p>\n<p> 28/04/2025 5:00 pm</p>\n<p> 9/05/2025 5:00 pm</p>\n<p> 23/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will submit solutions to five problem sets during the semester. Problem sets, like laboratory reports, are a communication exercise. You are expected to communicate how you attempted and solved each problem to your peers. Hence ensure that your answers include clear explanations of the physics involved. An assignment consisting of only equations and numbers without explanations will be awarded a grade no higher than 4.</p>\n<p>Problem sets are due on the Tuesdays (5 pm) of Weeks 4, 6, 8, 10,  and12. </p>\n<p>The best 4 of the 5 submissions will contribute to the final grade.</p>\n<p>Students are reminded that solutions to problem sets must be their own work. Students found to have copied material from other students (past or present), from websites or from other sources will be referred to the School Integrity Officer for consideration of disciplinary action. Always cite material and concepts correctly in your submission. We prefer that such material is expressed in your own words rather than quoted directly from the source. Please read the section on plagiarism for further information on the university's approach to copying. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will submit written or typed individual problem sets. Problem sets must be submitted electronically via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Formative Reading Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 26/02/2025 5:00 pm</p>\n<p> 5/03/2025 5:00 pm</p>\n<p> 12/03/2025 5:00 pm</p>\n<p> 19/03/2025 5:00 pm</p>\n<p> 26/03/2025 5:00 pm</p>\n<p> 2/04/2025 5:00 pm</p>\n<p> 9/04/2025 5:00 pm</p>\n<p> 16/04/2025 5:00 pm</p>\n<p> 30/04/2025 5:00 pm</p>\n<p> 7/05/2025 5:00 pm</p>\n<p> 14/05/2025 5:00 pm</p>\n<p> 28/05/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L05",
+            "mode": "Activity/ Performance, Written",
+            "category": "Quiz, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Up to 5% of your course grade can be achieved solely through participation in the Reading Quiz learning activity. The Reading Quiz is a formative assessment in this course.</p>\n<p>To get the most out of each workshop, you will need to prepare beforehand by reading Five Minute Physics, UQ Extend, or relevant sections in the suggested textbooks.</p>\n<p>The quiz for each week will close by 5:00 pm on the Wednesday of each week. Assessments in UQ are required to be submitted during office hours, this deadline cannot be moved any later.</p>\n<p>The quiz will generally consist of a question or two about the content of the reading and a final question asking you to reflect on what you have learned or still need to learn.</p>\n<p>Each quiz question will be marked as pass/fail. To obtain a pass (and be awarded a credit) you need to</p>\n<p>   •   show evidence that you have attempted to understand the assigned reading (your answers don't need to be 100% correct)</p>\n<p>   •   answer the questions in your own words (answers copied or paraphrased from the textbook and elsewhere will result in a fail for that quiz)</p>\n<p>   •   if one question is not answered, or the answer is not relevant, there will be no mark for that quiz.</p>\n<p>   •   (for the learning reflection question) show evidence that you have evaluated your own learning e.g., through highlighting any 'breakthroughs' in your understanding, relating what you have learned to other topics or experiences, or identifying questions and issues that you do not yet fully understand.</p>\n<p>Note: It is more important that your answers are a genuine reflection of your understanding, rather than being 100% correct!</p>\n<p>You automatically get 1 mark for the reading quiz in Week 1 of the teaching semester. Week 1 is the time to sort out the technology / your workflow. A total mark of 10 (including the 1 mark from week 1 ) is needed to get the full 5%.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Reading quiz must be submitted electronically via Blackboard. The reading quizzes are formative activities so sit outside the 4-assessment rule which now applies to summative assessment only.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination in this course will be held during the end-of-semester examination period.  It will be an in-person exam held on campus. Specified materials permitted.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Laboratory Report 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>12.5%</dd>",
+            "due_date": "<dd><p>5 pm, 2 weeks after completing the experiment (see lab schedule)</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance, Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each student will be allocated into two experiments. The experiments will be conducted on-campus. You will submit a lab report on each of the experiments. The two laboratory reports are separate assessment items in the course profile. Each report is limited to 5 pages (excluding a cover page and appendices). Students may discuss a draft report with staff or tutor before submission but reports must be your own work. Always cite material and concepts correctly in your submission. We prefer that such material is expressed in your own words rather than quoted directly from the source. Staff reserve the right to use Turnitin software to check the originality of all submitted material. The lab report must be submitted electronically via the University's Blackboard system.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>See laboratory schedule for report due dates. No reports will be accepted after the last day of the teaching semester (Week 13). Reports must be submitted electronically via the University's Blackboard system. Submissions must be in portable document format (i.e. a pdf file).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Laboratory report 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>12.5%</dd>",
+            "due_date": "<dd><p>5 pm, 2 weeks after completing the experiment (see lab schedule)</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance, Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each student will be allocated into two experiments. The experiments will be conducted on-campus. You will submit a lab report on each of the experiments. The two laboratory reports are separate assessment items in the course profile. Each report is limited to 5 pages (excluding a cover page and appendices). Students may discuss a draft report with staff or tutor before submission but reports must be your own work. Always cite material and concepts correctly in your submission. We prefer that such material is expressed in your own words rather than quoted directly from the source. Staff reserve the right to use Turnitin software to check the originality of all submitted material. The lab report must be submitted electronically via the University's Blackboard system.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>See laboratory schedule for report due dates. Reports must be submitted electronically via the University's Blackboard system. Submissions must be in portable document format (i.e. a pdf file).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Background and further reading</strong><br><p>Students are expected to engage in background and further reading during semester. The reading will add value to class discussions and allow lectures to focus on difficult areas encountered by students.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Background and further reading</strong>",
+            "topic_description": "Background and further reading Students are expected to engage in background and further reading during semester. The reading will add value to class discussions and allow lectures to focus on difficult areas encountered by students.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshops</strong><br><p>Workshops will begin with a brief coverage of selected core content, followed by discussion and/or class activities. The workshops will run on campus.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Workshops</strong>",
+            "topic_description": "Workshops Workshops will begin with a brief coverage of selected core content, followed by discussion and/or class activities. The workshops will run on campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laboratory</strong><br><p>An introductory laboratory session will be conducted in Weeks 1 and 2. Students must complete a linear regression exercise before commencing laboratory experiments.  </p>\n<p><br/></p>\n<p>Following the lab introduction, you will complete two laboratory experiments during semester and submit reports. Each lab report contributes 12.5% towards your final grade. The laboratory activities will help you to develop your skills at physical concepts, data analysis, and communicating results.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Laboratory</strong>",
+            "topic_description": "Laboratory An introductory laboratory session will be conducted in Weeks 1 and 2. Students must complete a linear regression exercise before commencing laboratory experiments. Following the lab introduction, you will complete two laboratory experiments during semester and submit reports. Each lab report contributes 12.5% towards your final grade. The laboratory activities will help you to develop your skills at physical concepts, data analysis, and communicating results.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Problem-solving practicals and problem sets</strong><br><p>Solving problems is an essential part of physics. Weekly practical are an opportunity to practice solving problems in classical field theory, and will provide training in problem solving that will be relevant for the problem sets.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Problem-solving practicals and problem sets</strong>",
+            "topic_description": "Problem-solving practicals and problem sets Solving problems is an essential part of physics. Weekly practical are an opportunity to practice solving problems in classical field theory, and will provide training in problem solving that will be relevant for the problem sets.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        }
+    ]
+}
