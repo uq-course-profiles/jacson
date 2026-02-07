@@ -1,0 +1,215 @@
+{
+    "course_title": "Process Equipment and Control Systems",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE2020-60495-7560",
+    "full_course_code": "CHEE2020-60495-7560",
+    "course_code": "CHEE2020",
+    "class_code": "60495",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Define and apply process control and safety concepts to chemical processes and systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Design control loops for simple process systems, including control hardware and alarm systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Use mathematical and modelling analysis to test and refine dynamic process control performance."
+        },
+        {
+            "number": "LO4.",
+            "description": "Generate process control diagrams and control block diagrams."
+        },
+        {
+            "number": "LO5.",
+            "description": "Work in teams to scope, plan and execute an industry-based process control project."
+        },
+        {
+            "number": "LO6.",
+            "description": "Communicate assignment and project outcomes clearly and concisely in written and oral formats."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Sets",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20% Individual </dd>",
+            "due_date": "<dd><p>Assignment 1: Process Control Concepts and Control Loop Design 2/09/2025 4:00 pm</p>\n<p>Assignment 2: Process Control Modelling 10/10/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L06",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<h3>Assignment 1 <strong> </strong>: Process Control Concepts and Control Loop Design</h3>\n<p>This Assignment will test material from Weeks 1-3.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<p><br/></p>\n<h3>Assignment 2 <strong> </strong>: Process Control Modelling</h3>\n<p>This Assignment will test material from Weeks 4-7.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission of assignment via Blackboard as a pdf file.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Practical Report: CSTR Temperature Control",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% In pairs </dd>",
+            "due_date": "<dd><p> 26/09/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L06",
+            "mode": "Activity/ Performance, Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this practical, students will conduct a practical investigation into the temperature control of lab-scale continuous stirred reactors (CSTRs).</p>\n<p>Students will submit an individual prac report detailing their findings.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission of Prac Report via Blackboard as pdf file.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Report and Presentations",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>35% Group, Hurdle </dd>",
+            "due_date": "<dd><p> 24/10/2025 4:00 pm</p>\n<p>\n</p><p>24 Oct 24 4pm (Report), Week 13 tutorials (Presentations)</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Oral, Written",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This Project is a process control optimisation study for an industrial process plant. The deliverables are a group Project Report and a group Project Presentation. This Project is a hurdle assessment; students must pass the Project to pass the course.</p>\n<p>Peer Assessment is compulsory for this group-based assessment. Failure to submit it on-time will result in a 10% penalty applied to the individual mark of this assessment. Detailed requirement and information will be provided via Blackboard. </p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Project Report to be submitted online via Blackboard as a single pdf file. Project Presentations to be delivered in-person in tutorials.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Exam – during Exam Period (Central)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35% Hurdle </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This final exam will test all content from Weeks 1 to 13. The exam is a hurdle exam; students must pass this exam to pass the course. Exam is closed book and invigilated.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br><p>At the start of each week, some pre-recorded lectures will be available on Blackboard covering principles, design approaches, and other practical information on non-reactive chemical unit operations. Students need to view the recorded lectures before attending the workshop and tutorials</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Lecture</strong>",
+            "topic_description": "Lecture At the start of each week, some pre-recorded lectures will be available on Blackboard covering principles, design approaches, and other practical information on non-reactive chemical unit operations. Students need to view the recorded lectures before attending the workshop and tutorials",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial </strong><br><p>In the weekly tutorials, students will work on individual Assignments and the group Project, with the support of tutors and teachers.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Tutorial </strong>",
+            "topic_description": "Tutorial In the weekly tutorials, students will work on individual Assignments and the group Project, with the support of tutors and teachers.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop</strong><br><p>In the weekly workshop, teachers will introduce the key concepts for the week and demonstrate some worked examples. Students will then work on some problems relevant to the Assignments and the Project</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L06</p></div></td>",
+            "topic_title": "<strong>Workshop</strong>",
+            "topic_description": "Workshop In the weekly workshop, teachers will introduce the key concepts for the week and demonstrate some worked examples. Students will then work on some problems relevant to the Assignments and the Project",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 4 To Week 5(18 Aug - 31 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Distillation Pilot Plant visit</strong><br><p>Distillation Pilot Plant Practical</p>\n<p>In Week 6, students will attend a practical demonstration on the Distillation Pilot Plant in Level 1 Liveris Building. This demonstration will provide practical context to the course content. Students will need to complete some questions on the demonstration in Assignment 1.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic_title": "<strong>Distillation Pilot Plant visit</strong>",
+            "topic_description": "Distillation Pilot Plant visit Distillation Pilot Plant Practical In Week 6, students will attend a practical demonstration on the Distillation Pilot Plant in Level 1 Liveris Building. This demonstration will provide practical context to the course content. Students will need to complete some questions on the demonstration in Assignment 1.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 8(08 Sep - 21 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Temperature control for the continuous stirred reactor</strong><br><p>Week 7 and 8, students will carry out on-campus laboratory practicals in groups to complete designed activities. </p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Temperature control for the continuous stirred reactor</strong>",
+            "topic_description": "Temperature control for the continuous stirred reactor Week 7 and 8, students will carry out on-campus laboratory practicals in groups to complete designed activities.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
