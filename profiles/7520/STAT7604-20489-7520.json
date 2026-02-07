@@ -1,0 +1,113 @@
+{
+    "course_title": "Principles of Statistical Inference",
+    "study_period": "Sem 1 2025",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7604-20489-7520",
+    "full_course_code": "STAT7604-20489-7520",
+    "course_code": "STAT7604",
+    "class_code": "20489",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Calculate and interpret important properties of point and interval estimators"
+        },
+        {
+            "number": "LO2.",
+            "description": "Calculate and interpret p-values, power and confidence intervals correctly"
+        },
+        {
+            "number": "LO3.",
+            "description": "Write a likelihood function"
+        },
+        {
+            "number": "LO4.",
+            "description": "Derive and calculate the maximum likelihood estimate"
+        },
+        {
+            "number": "LO5.",
+            "description": "Derive and calculate the expected information"
+        },
+        {
+            "number": "LO6.",
+            "description": "Derive a Wald test, Score test, and likelihood ratio test"
+        },
+        {
+            "number": "LO7.",
+            "description": "Use a Bayesian approach to derive a poster distribution"
+        },
+        {
+            "number": "LO8.",
+            "description": "Calculate and interpret posterior probabilities and credible intervals"
+        },
+        {
+            "number": "LO9.",
+            "description": "Apply and explain an exact method, non-parametric and sampling-based method"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Module exercise 1-6",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": null,
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please refer to BCA Study Guide for full submission details </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Written Assignment 1 - Modules 1-3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": null,
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Please refer to BCA Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please refer to BCA Study Guide for full submission details </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Written assignment 2 - Modules 1-6",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": null,
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>refer to Study Guide</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please refer to BCA Study Guide for full submission details</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": []
+}
