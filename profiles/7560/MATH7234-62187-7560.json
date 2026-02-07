@@ -1,0 +1,131 @@
+{
+    "course_title": "Numerical Linear Algebra and Optimisation",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7234-62187-7560",
+    "full_course_code": "MATH7234-62187-7560",
+    "course_code": "MATH7234",
+    "class_code": "62187",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Frame an appropriate optimisation formulation for a scientific, engineering, machine learning and data analysis problem."
+        },
+        {
+            "number": "LO2.",
+            "description": "Select an appropriate algorithm, or modify an exiting method to obtain a variant, that is effective and efficient for a given optimisation problem."
+        },
+        {
+            "number": "LO3.",
+            "description": "Given a matrix computation problem, select and appropriately modify an effective numerical linear algebra routine"
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the derivation, convergence analysis, and expected performance of various methods in numerical linear algebra and optimisation."
+        },
+        {
+            "number": "LO5.",
+            "description": "Translate numerical methods into computer algorithms and code"
+        },
+        {
+            "number": "LO6.",
+            "description": "Choose, analyse, and apply suitable algorithms to modern machine learning, data analysis, and engineering problems with sufficient adequacy to design new variants suitable for specific applied problems."
+        },
+        {
+            "number": "LO7.",
+            "description": "Develop an appreciation of the link between theory and practice of various numerical linear algebra and optimisation algorithms."
+        },
+        {
+            "number": "LO8.",
+            "description": "Demonstrate written communication skills appropriate for scientific reports."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60% ,15% each </dd>",
+            "due_date": "<dd><p>Assignment 01 22/08/2025 5:00 pm</p>\n<p>Assignment 02 12/09/2025 5:00 pm</p>\n<p>Assignment 03 10/10/2025 5:00 pm</p>\n<p>Assignment 04 31/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Four assignments involve both theoretical and programming questions. Each assignment is equally weighted, contributing 15% towards your total mark. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Each assignment is to be submitted via Blackboard as a single pdf document.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item without an approved extension, a penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, will be deducted per day for up to 3 calendar days, at which point any submission will not receive any marks. Each 24 hour block is recorded from the time the submission is due. </p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "End of Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L06, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Problems will be drawn from ideas and concepts covered during the lectures and applied classes. Students will be expected to apply the ideas discussed in the course. The questions will be mainly about theoretical aspects, but understanding of the numerical and empirical properties of the methods could also be tested.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Understanding Fundamental Concepts</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Understanding Fundamental Concepts</strong>",
+            "topic_description": "Understanding Fundamental Concepts",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(04 Aug - 02 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Further Discussions, Problem Solving, Programming</strong><br><p>MATH7234 contains scheduled applied class sessions. During these sessions, students will get a chance to work on their assignments and get direct help from the casual academics on both the theoretical and programming components.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Further Discussions, Problem Solving, Programming</strong>",
+            "topic_description": "Further Discussions, Problem Solving, Programming MATH7234 contains scheduled applied class sessions. During these sessions, students will get a chance to work on their assignments and get direct help from the casual academics on both the theoretical and programming components.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
