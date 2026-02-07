@@ -1,0 +1,145 @@
+{
+    "course_title": "Quantitative Methods in Biomedical Engineering",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE3001-60497-7560",
+    "full_course_code": "BIOE3001-60497-7560",
+    "course_code": "BIOE3001",
+    "class_code": "60497",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe the key physiological systems in the human body, how they support life, and the principals of homeostasis."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply mathematical models to describe and simulate the behaviour of human physiological systems, disease states, and treatment interventions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Implement and simulate physiological models using a computer programming language such as Python."
+        },
+        {
+            "number": "LO4.",
+            "description": "Describe the limitations of mathematical models for describing physiological systems, and discuss the considerations associated with choosing appropriate model complexity."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe the origins and characteristics of selected bio-signals and associated noise or interference; and to describe and implement noise removal strategies such as linear filtering, and signal averaging."
+        },
+        {
+            "number": "LO6.",
+            "description": "Describe and implement strategies for parametrising physiological models using bio-signal data; and describe how these can be used to provide information to assist the clinical management of patients."
+        },
+        {
+            "number": "LO7.",
+            "description": "Describe and interpret key concepts and terms in biostatistics and epidemiology used to describe the individual and population burden of disease and the impact of interventions."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project Oral Presentation and Slides",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10% Presentation and slides </dd>",
+            "due_date": "<dd><p>17:00: Slides 25/08/2025 - 25/08/2025</p>\n<p>Time slots between 9am and 4pm: Presentation 26/08/2025 - 29/08/2025</p>\n<p>\n</p><p>Week 5</p></dd>",
+            "learning_objectives": "L01, L02, L04",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Throughout the semester, students will conduct a physiological modelling and programming project. In week 5, students will present an oral presentation outlining the project motivation, clinical approaches, and model design, formulation, and expected results.</p>\n<p>Presentations are expected to run 8 min (roughly 8 slides of content), with 4 min available to answer examiner questions.</p>\n<p>On the Monday prior to the oral presentations, students must submit their presentation slides in powerpoint (.pptx) or .pdf format. These must be identical to those used in their oral presentation later in the week.</p>\n<p>The oral presentations will run in individual 15 minute time slots out-of-class-hours during week 5 from Tuesday to Friday (20th August to 22nd August). Time slots will be between 9am and 4pm in-person. Students must reserve an available demonstration time slot on Blackboard in advance of week 5.</p>\n<p><strong>AI and ChatGPT Statement</strong>: This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Programming Demo and Code",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10% Programming Demo and Code </dd>",
+            "due_date": "<dd><p>17:00: Code 22/09/2025 - 22/09/2025</p>\n<p>Time slots between 9am and 4pm: Demo 23/09/2025 - 26/09/2025</p>\n<p>\n</p><p>Week 9</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Computer Code, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Throughout the semester, students will conduct a physiological modelling and programming project. In week 9, students will present a programming demonstration outlining model suitability, implementation, programming syntax, simulation success, plotting, commenting, and formatting. Demonstrations are expected to run 8 min, with 4 min available to answer examiner questions.</p>\n<p>On the Monday prior to the programming demonstrations, students must submit their programming code as a python file (.py) or copy-pasted into a word document (.docx). This must be identical to the one used in their programming demonstration later in the week. </p>\n<p>The programming demonstrations will run in individual 15 minute time slots out-of-class-hours during week 9 from Tuesday to Thursday (17th September to 19th September). Time slots will be between 9am and 4pm in-person. Students must reserve an available demonstration time slot on Blackboard in advance of week 9.</p>\n<p><strong>AI and ChatGPT Statement</strong>: This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Final Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40% Hurdle </dd>",
+            "due_date": "<dd><p> 27/10/2025 5:00 pm</p>\n<p>\n</p><p>Monday of Week 13</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Throughout the semester, students will conduct a physiological modelling and programming project. In week 13, students will submit a final project report. This project report is intended to assess student's ability to implement their own developed mathematical system in a programming language, and assess the accuracy of their mathematical system compared to biomedical data. This report will also reiterate capabilities to describe and formulate a mathematical system to describe a different physiological system under homeostasis, disturbances, and treatment. Strong reports will also undertake substantial literature review. </p>\n<p>On the Monday of Week 13, students must submit their programming report in word document format (.docx) which includes a bibliography of references and an appendix including all programming code. The programming code copied into the appendix of the word document must be identical to that used to generate figures and results throughout the report. </p>\n<p>This assessment is a hurdle. This means that you must achieve &gt;/= 45% for this assessment item in order to be eligible to pass this course.</p>\n<p><strong>AI and ChatGPT Statement</strong>: This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submitted electronically through Turnitin and/or Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Exam – during Exam Period (Central)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40% Hurdle </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an open book final exam at the end of semester summarizing all concepts throughout the class. This is a paper exam, signifying that no programming will be performed, although programming approaches and understanding can be questioned. Students will complete on campus as an invigilated exam.</p>\n<p>This is assessment is a hurdle. This means that you must achieve &gt;/= 45% for this assessment item in order to be eligible to pass this course.</p>\n<p><strong>AI and ChatGPT Statement</strong>: This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": []
+}
