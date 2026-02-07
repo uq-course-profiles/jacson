@@ -1,0 +1,222 @@
+{
+    "course_title": "Programming in the Large",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE2002-61152-7560",
+    "full_course_code": "CSSE2002-61152-7560",
+    "course_code": "CSSE2002",
+    "class_code": "61152",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Implement object-oriented programs according to their specifications."
+        },
+        {
+            "number": "LO2.",
+            "description": "Test components of object-oriented programs (using a testing framework)."
+        },
+        {
+            "number": "LO3.",
+            "description": "Write, document and analyse code which uses language features such as inheritance, interfaces, exceptions and I/O."
+        },
+        {
+            "number": "LO4.",
+            "description": "Judge whether a program follows good practice."
+        },
+        {
+            "number": "LO5.",
+            "description": "Write, interpret and critique specifications for program modules (e.g. classes or interfaces)."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Sets",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 5/08/2025 - 28/10/2025</p>\n<p>\n</p><p>The due day and time for submissions will be 1pm Tuesday, unless otherwise specified.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Problem sets may include implementing solutions to programming problems, reviewing code quality, refactoring existing code, or developing test cases. Refer to the assessment task sheet.</p>\n<p>A schedule of activities and due dates will be included in the task sheet.</p>\n<p>You may also be asked to attend an interview about your submission (see the Additional assessment information section below).</p>\n<p>Students may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via the Ed Lessons platform, unless otherwise specified.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 12/09/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will provide practice at implementing and testing Java programs to a given specification.</p>\n<p>You may also be asked to attend an interview about your submission (see the Additional assessment information section below).</p>\n<p>Students may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online via Gradescope, unless otherwise specified.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 1 Practical",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 15/09/2025 - 19/09/2025</p>\n<p>\n</p><p>During your assigned practical session.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This item forms the secure element of Assignment 1.</p>\n<p>In your allocated practical session, you will be asked to modify, extend, or re-implement code relating to Assignment 1.</p>\n<p>Students must attend their allocated practical session with a WIFI-enabled computer capable of running the development environment (specified in the Learning Resources section) for the duration of the session. Failure to do so may result in a failure.</p>\n<p>Your performance in this session will contribute to your Assignment 1 mark, as specified in the Assignment 1 task sheet.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 24/10/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will provide practice at implementing/reviewing software in Java, as well as debugging software based on automated test feedback and refactoring software to be more maintainable, readable, and re-usable. Additionally, you may be required to write a report on design/implementation decisions you made to improve the software.</p>\n<p>Your achievement in the Assignment 2 Practical item will contribute to the mark for this assessment item, according to the rubric.</p>\n<p>You may also be asked to attend an interview about your submission (see the Additional assessment information section below).</p>\n<p>Students may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT usage, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online via Gradescope unless otherwise specified for a particular assessment item.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>Assignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Assignment 2 Practical",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 27/10/2025 - 31/10/2025</p>\n<p>\n</p><p>During your assigned practical session for the week.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This item forms the secure element of Assignment 2.</p>\n<p>In your allocated practical session, you will be asked to modify, extend, or re-implement code relating to Assignment 2.</p>\n<p>Students must attend their allocated practical session with a WIFI-enabled computer capable of running the development environment (specified in the Learning Resources section) for the duration of the session. Failure to do so may result in a failure.</p>\n<p>Your performance in this session will contribute to your Assignment 2 mark, as specified in the Assignment 2 task sheet.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-5",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will be an on-campus, invigilated paper-based exam.</p>\n<p>The exam has specified materials permitted. One A4 sheet of handwritten or typed notes double-sided is permitted. You may use a Casio fx-82 or UQ approved and labelled calculator. Rough paper will be provided.</p>\n<p>The exam covers all course materials from the whole semester. Question formats may include multiple choice, short answer, calculations, and programming tasks.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br><p>Applied classes explore theoretical aspects of the course via exercises.</p>\n<p>A computer is not required for these classes.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class Applied classes explore theoretical aspects of the course via exercises. A computer is not required for these classes.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br><p>Practical classes involve writing, extending, and refactoring code.</p>\n<p>Students must bring their own device capable of running the software requirements specified by the \"Development Environment\" under Learning Resources.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals Practical classes involve writing, extending, and refactoring code. Students must bring their own device capable of running the software requirements specified by the \"Development Environment\" under Learning Resources.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        }
+    ]
+}
