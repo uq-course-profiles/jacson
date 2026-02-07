@@ -1,0 +1,205 @@
+{
+    "course_title": "Introduction to Biostatistics",
+    "study_period": "Sem 1 2025",
+    "location": "Herston",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PUBH7630-22417-7520",
+    "full_course_code": "PUBH7630-22417-7520",
+    "course_code": "PUBH7630",
+    "class_code": "22417",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Recognise, summarise, and present (oral and written) different types of quantitative data"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply and interpret fundamental principles of biostatistics, analysis techniques, and results"
+        },
+        {
+            "number": "LO3.",
+            "description": "Describe a structured questionnaire to collect quantitative information reliably and accurately"
+        },
+        {
+            "number": "LO4.",
+            "description": "Select an appropriate sampling scheme and implement the best data management practice for collecting and computerising information"
+        },
+        {
+            "number": "LO5.",
+            "description": "Construct a plan of analysis to address research objectives"
+        },
+        {
+            "number": "LO6.",
+            "description": "Explain the concepts of statistical power and estimate sample size for simple study designs"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>Working Document - 31/03/2025</p>\n<p>Peer Feedback - 7/04/2025</p>\n<p>Final Report - 6/05/2025</p>\n<p>Short Video - 9/05/2025</p></dd>",
+            "learning_objectives": "L01, L02",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project is a progressive assessment spanning weeks 1 to 10 of the semester. Students are encouraged to regularly work in their project as they progress through the Course. The main components of this project are:</p>\n<ul>\n<li>Select a dataset – <strong>See specific instructions about the dataset on the Blackboard</strong>.</li>\n<li>Apply statistical analysis techniques covered in UQ Extend to your dataset. <strong>Specific instructions will be released via Blackboard.</strong></li>\n<li>Conduct a peer feedback activity. <strong>Specific instructions will be released on the Blackboard closer to the due dates.</strong></li>\n<li>You will submit a final report and a short video presentation at the end. <strong>Specific instructions will be released on Blackboard closer to the due dates.</strong></li>\n</ul>\n<p><br/></p>\n<p><strong>Weighting (55%):</strong></p>\n<ul>\n<li>Working Document - 10%</li>\n<li>Peer Feedback - 15%</li>\n<li>Final Report  - 20%</li>\n<li>Short Video - 10%</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Please see 10. Policies &amp; Guidelines</strong></p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Problem Set",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>45%</dd>",
+            "due_date": "<dd><p>30/05/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>As you progress through advanced topics you will be working on a problem set as per the instructions on the Blackboard</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Please see 10. Policies &amp; Guidelines</strong></p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module A: Topic 1</strong><br><p>The Role of Statistics in Health. Install the required R libraries on your computer. Get acquainted with R Commander</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module A: Topic 1</strong>",
+            "topic_description": "UQ Extend Module A: Topic 1 The Role of Statistics in Health. Install the required R libraries on your computer. Get acquainted with R Commander",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module A: Topic 2 &amp; Tutorial 2</strong><br/><p>Data Description</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module A: Topic 2 &amp; Tutorial 2</strong>",
+            "topic_description": "UQ Extend Module A: Topic 2 & Tutorial 2 Data Description",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module A: Topic 3</strong><br/><p>Practical Measurement &amp; Questionnaire Design</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module A: Topic 3</strong>",
+            "topic_description": "UQ Extend Module A: Topic 3 Practical Measurement & Questionnaire Design",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module A: Topic 4 &amp; Tutorial 4</strong><br/><p>Modelling Variability in Populations and Samples</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module A: Topic 4 &amp; Tutorial 4</strong>",
+            "topic_description": "UQ Extend Module A: Topic 4 & Tutorial 4 Modelling Variability in Populations and Samples",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module B: Topic 5 &amp; Tutorial 5</strong><br/><p>Analysing Categorical Data</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module B: Topic 5 &amp; Tutorial 5</strong>",
+            "topic_description": "UQ Extend Module B: Topic 5 & Tutorial 5 Analysing Categorical Data",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module B: Topic 6 &amp; Tutorial 6</strong><br/><p>Correlation and Regression</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module B: Topic 6 &amp; Tutorial 6</strong>",
+            "topic_description": "UQ Extend Module B: Topic 6 & Tutorial 6 Correlation and Regression",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module B: Topic 7 &amp; Tutorial 7</strong><br/><p>Analysing Differences among Means</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module B: Topic 7 &amp; Tutorial 7</strong>",
+            "topic_description": "UQ Extend Module B: Topic 7 & Tutorial 7 Analysing Differences among Means",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module B: Topic 8 &amp; Tutorial 8</strong><br/><p>Addressing Violations of Statistical Assumptions</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module B: Topic 8 &amp; Tutorial 8</strong>",
+            "topic_description": "UQ Extend Module B: Topic 8 & Tutorial 8 Addressing Violations of Statistical Assumptions",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9(28 Apr - 04 May)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module B: Topic 9 &amp; Tutorial 9</strong><br/><p>Designing an Analysis Plan</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module B: Topic 9 &amp; Tutorial 9</strong>",
+            "topic_description": "UQ Extend Module B: Topic 9 & Tutorial 9 Designing an Analysis Plan",
+            "learning_outcomes": [
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module C: Topic 10 &amp; Tutorial 10</strong><br/><p>Sample Size for Simple Random Sampling</p></p></div></td>",
+            "topic_title": "<strong>UQ Extend Module C: Topic 10 &amp; Tutorial 10</strong>",
+            "topic_description": "UQ Extend Module C: Topic 10 & Tutorial 10 Sample Size for Simple Random Sampling",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module C: Topics 11, Tutorials 11</strong><br/><p>Complex Sampling</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module C: Topics 11, Tutorials 11</strong>",
+            "topic_description": "UQ Extend Module C: Topics 11, Tutorials 11 Complex Sampling",
+            "learning_outcomes": [
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 May - 25 May)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Extend Module C: Topic 12</strong><br/><p>Quality Control in Data Management and Ownership of Indigenous Research</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>UQ Extend Module C: Topic 12</strong>",
+            "topic_description": "UQ Extend Module C: Topic 12 Quality Control in Data Management and Ownership of Indigenous Research",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        }
+    ]
+}
