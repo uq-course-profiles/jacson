@@ -1,0 +1,251 @@
+{
+    "course_title": "Statistical Modelling in Biology",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/QBIO7005-20524-7520",
+    "full_course_code": "QBIO7005-20524-7520",
+    "course_code": "QBIO7005",
+    "class_code": "20524",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the goals of statistical modelling."
+        },
+        {
+            "number": "LO2.",
+            "description": "Build, evaluate, interpret, and present the results of statistical models with continuous and categorical independent variables and normal error structures (i.e. linear regression, including multiple regression)."
+        },
+        {
+            "number": "LO3.",
+            "description": "Build, evaluate, interpret, and present the results of statistical models with continuous and categorical independent variables and non-normal error structures (i.e. generalized linear models [GLMs])."
+        },
+        {
+            "number": "LO4.",
+            "description": "Build, evaluate, interpret, and present the results of statistical models for data that are correlated/non-independent (i.e. mixed/multilevel/hierarchical models)"
+        },
+        {
+            "number": "LO5.",
+            "description": "Implement analyses in the software package R."
+        },
+        {
+            "number": "LO6.",
+            "description": "Develop problem solving and critical thinking skills, as well as analytical agility  the ability to rapidly and confidently move between biological problems and datasets requiring different analytical approaches."
+        },
+        {
+            "number": "LO7.",
+            "description": "Communicate analytical methods and results"
+        },
+        {
+            "number": "LO8.",
+            "description": "Understand the differences between dominant philosophies of statistical inference  Frequentist and Bayesian."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Multiple Regression",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 31/03/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L05, L06, L07",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be provided with a biological problem and a dataset. Students will be required to:</p>\n<p>a) build an appropriate statistical model,</p>\n<p>b) implement the model in R,</p>\n<p>c) evaluate and refit the model as required,</p>\n<p>d) present and interpret the results of the final model, and</p>\n<p>e) present evidence of using appropriate tools for model evaluation and interpretation.</p>\n<p>The project will be submitted as a short report with a description of the background and scientific question, analytical methods, analytical results (including figures), and a brief written interpretation and conclusion based on the analytical results.</p>\n<p>Project will be based on building, implementing (in R), evaluating, and presenting the results of an appropriate statistical model.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Generalised Linear Model",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 17/04/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L05, L06, L07",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be provided with a biological problem and a dataset. Students will be required to:</p>\n<p>a) build an appropriate statistical model,</p>\n<p>b) implement the model in R,</p>\n<p>c) evaluate and refit the model as required,</p>\n<p>d) present and interpret the results of the final model, and</p>\n<p>e) present evidence of using appropriate tools for model evaluation and interpretation.</p>\n<p>The project will be submitted as a short report with a description of the background and scientific question, analytical methods, analytical results (including figures), and a brief written interpretation and conclusion based on the analytical results.</p>\n<p>Project will be based on building, implementing (in R), evaluating, and presenting the results of an appropriate statistical model. </p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Multilevel Models",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 12/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be provided with a biological problem and a dataset. Students will be required to:</p>\n<p>a) build an appropriate statistical model,</p>\n<p>b) implement the model in R,</p>\n<p>c) evaluate and refit the model as required,</p>\n<p>d) present and interpret the results of the final model, and</p>\n<p>e) present evidence of using appropriate tools for model evaluation and interpretation.</p>\n<p>The project will be submitted as a short report with a description of the background and scientific question, analytical methods, analytical results (including figures), and a brief written interpretation and conclusion based on the analytical results.</p>\n<p>Project will be based on building, implementing (in R), evaluating, and presenting the results of an appropriate statistical model.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Bayesian Analyses",
+            "special_indicators": [],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 30/05/2025 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be provided with a biological problem and a dataset. Students will be required to:</p>\n<p>a) build an appropriate statistical model,</p>\n<p>b) implement the model in R,</p>\n<p>c) evaluate and refit the model as required,</p>\n<p>d) present and interpret the results of the final model, and</p>\n<p>e) present evidence of using appropriate tools for model evaluation and interpretation.</p>\n<p>The project will be submitted as a short report with a description of the background and scientific question, analytical methods, analytical results (including figures), and a brief written interpretation and conclusion based on the analytical results.</p>\n<p>Project will be based on building, implementing (in R), evaluating, and presenting the results of an appropriate statistical model.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(24 Feb - 02 Mar)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Simple linear regression</strong><br><p>Lecturer: Simon Hart</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Simple linear regression</strong>",
+            "topic_description": "Simple linear regression Lecturer: Simon Hart",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Mar - 09 Mar)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Simple and multiple linear regression</strong><br/><p>Lecturer: Simon Hart</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Simple and multiple linear regression</strong>",
+            "topic_description": "Simple and multiple linear regression Lecturer: Simon Hart",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Mar - 16 Mar)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear &amp; generalized linear models (GLMs)</strong><br/><p>Lecturer: Simon Hart</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Linear &amp; generalized linear models (GLMs)</strong>",
+            "topic_description": "Linear & generalized linear models (GLMs) Lecturer: Simon Hart",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Mar - 23 Mar)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear &amp; generalized linear models (GLMs)</strong><br/><p>Lecturer: Simon Hart</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Linear &amp; generalized linear models (GLMs)</strong>",
+            "topic_description": "Linear & generalized linear models (GLMs) Lecturer: Simon Hart",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Mar - 30 Mar)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear &amp; generalized linear models (GLMs)</strong><br/><p>Lecturer: Simon Hart</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Linear &amp; generalized linear models (GLMs)</strong>",
+            "topic_description": "Linear & generalized linear models (GLMs) Lecturer: Simon Hart",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Mar - 06 Apr)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multilevel models</strong><br/><p>Lecturer: Simone Blomberg</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Multilevel models</strong>",
+            "topic_description": "Multilevel models Lecturer: Simone Blomberg",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Apr - 13 Apr)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multilevel models</strong><br/><p>Lecturer: Simone Blomberg</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Multilevel models</strong>",
+            "topic_description": "Multilevel models Lecturer: Simone Blomberg",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Apr - 20 Apr)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Multilevel models</strong><br/><p>Lecturer: Simone Blomberg</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Multilevel models</strong>",
+            "topic_description": "Multilevel models Lecturer: Simone Blomberg",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 May - 11 May)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bayesian methods</strong><br/><p>Lecturer: Simone Blomberg</p></p><p><strong>Learning outcomes:</strong> L01, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Bayesian methods</strong>",
+            "topic_description": "Bayesian methods Lecturer: Simone Blomberg",
+            "learning_outcomes": [
+                "L01",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 May - 18 May)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Bayesian methods</strong><br/><p>Lecturer: Simone Blomberg</p></p><p><strong>Learning outcomes:</strong> L01, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Bayesian methods</strong>",
+            "topic_description": "Bayesian methods Lecturer: Simone Blomberg",
+            "learning_outcomes": [
+                "L01",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
