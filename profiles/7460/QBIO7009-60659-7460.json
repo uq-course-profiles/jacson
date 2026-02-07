@@ -1,0 +1,127 @@
+{
+    "course_title": "Research Experience in Quantitative Biology",
+    "study_period": "Sem 2 2024",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/QBIO7009-60659-7460",
+    "full_course_code": "QBIO7009-60659-7460",
+    "course_code": "QBIO7009",
+    "class_code": "60659",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use modern computing approaches to solve common goals"
+        },
+        {
+            "number": "LO2.",
+            "description": "Communicate complex analyses orally and in writing for a variety of audiences, including scientists, industry representatives, policy makers and the general public"
+        },
+        {
+            "number": "LO3.",
+            "description": "Analytically integrate ecological and genetic data"
+        },
+        {
+            "number": "LO4.",
+            "description": "Write reports that integrate text, code, data, analyses, and graphics using R Markdown"
+        },
+        {
+            "number": "LO5.",
+            "description": "Visualise complex data in creative ways"
+        },
+        {
+            "number": "LO6.",
+            "description": "Produce well-documented R packages and interactive Shiny apps"
+        },
+        {
+            "number": "LO7.",
+            "description": "Learn how to efficiently work in teams to solve coding problems arising in the biological sciences"
+        },
+        {
+            "number": "LO8.",
+            "description": "Conduct reflective self-assessment on achievements and professional development"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Computational Project plan",
+            "special_indicators": [],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 25/09/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L07",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Write a project plan documenting all of the deliverables and subdeliverables of the project. Use a heirarchical structure that fully captures all of the work required to deliver the final output (eg. code, dashboard, tool)</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Final Report",
+            "special_indicators": [],
+            "weighting": "<dd>70%</dd>",
+            "due_date": "<dd><p> 1/11/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Produce a comprehensive final report fully describing the output delivered. The format will depend upon the nature of the placement and may be, for example, a standard report, or may be a Github page. Agreement between the student, the placement supervisor and the coordinator must be obtained and documented in the Project Plan (assessment 1). All source code must be available for assessment in the project final report, regardless of format. A self-reflective piece of about 2 pages at the end of the report is a requirement for this assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Final Seminar",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 6/11/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Present the project outcomes in a clear, engaging way, that is accessible to a non-coding audience</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Project supervisor's report",
+            "special_indicators": [],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 8/11/2024 2:00 pm</p></dd>",
+            "learning_objectives": "L07, L08",
+            "mode": "Activity/ Performance",
+            "category": "Performance",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A questionnairre will be sent to the project supervisor to record performance and satisfaction.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Placement",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Placement</strong><br><p>To be agreed between student, assessor, coordinator and placement supervisor</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Placement</strong>",
+            "topic_description": "Placement To be agreed between student, assessor, coordinator and placement supervisor",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
