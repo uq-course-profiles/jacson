@@ -1,0 +1,162 @@
+{
+    "course_title": "Advanced Multivariate Calculus & Ordinary Differential Equations",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH1072-62228-7560",
+    "full_course_code": "MATH1072-62228-7560",
+    "course_code": "MATH1072",
+    "class_code": "62228",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Sketch, interpret and manipulate functions of two or more variables."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand and evaluate multivariate limits from first principles."
+        },
+        {
+            "number": "LO3.",
+            "description": "Calculate and use partial derivatives of functions of several variables."
+        },
+        {
+            "number": "LO4.",
+            "description": "Calculate tangent planes and quadratic approximations for functions."
+        },
+        {
+            "number": "LO5.",
+            "description": "Find the maxima and minima of functions of two variables."
+        },
+        {
+            "number": "LO6.",
+            "description": "Apply the method of Lagrange multipliers to optimisation problems."
+        },
+        {
+            "number": "LO7.",
+            "description": "Work fluently with parametric forms of curves, and derive parametric forms."
+        },
+        {
+            "number": "LO8.",
+            "description": "Understand vector fields and work with conservative fields and line integrals."
+        },
+        {
+            "number": "LO9.",
+            "description": "Solve and analyse certain families of first and second order ODEs."
+        },
+        {
+            "number": "LO10.",
+            "description": "Develop a mathematical model with ODEs and, either analytically or numerically, solve the ODE and interpret the output."
+        },
+        {
+            "number": "LO11.",
+            "description": "Understand the goals and limitations of a mathematical model, and the significance of associated notions such as dimensional analysis, scaling and interpretation."
+        },
+        {
+            "number": "LO12.",
+            "description": "Model and solve problems, some with real-world complexity, using analytical methods and/or numerical methods via mathematical software."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment Series",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40% Four assignments, each 10%. </dd>",
+            "due_date": "<dd><p>A1: 22/08/2025 5:00 pm</p>\n<p>A2: 12/09/2025 5:00 pm</p>\n<p>A3: 10/10/2025 5:00 pm</p>\n<p>A4: 31/10/2025 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You must submit detailed solutions to a collection of mathematical problems. The solutions may involve a combination of written work, computer code and graphics.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard as a single PDF.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus.</p>\n<p>Alternative arrangements will be advised on Blackboard should the campus be closed for any reason.</p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weeks 1-7</strong><br/><p>Lectures on multivariate calculus by Dr Phil Isaac.</p></p></div></td>",
+            "topic_title": "<strong>Weeks 1-7</strong>",
+            "topic_description": "Weeks 1-7 Lectures on multivariate calculus by Dr Phil Isaac.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Independent work</strong><br/><p>It is expected that students keep up with the material covered in the lectures on a week by week basis and practise the problems in the problem sheets.</p></p></div></td>",
+            "topic_title": "<strong>Independent work</strong>",
+            "topic_description": "Independent work It is expected that students keep up with the material covered in the lectures on a week by week basis and practise the problems in the problem sheets.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/><p>Applied classes provide students with the opportunity to discuss assignment problems with their peers and their casual academic.   Applied classes will begin in week 2.  Casual Acacemics are only available during applied classes. If you have questions about the course content outside applied class times, you should see your lecturer during consultation time, or visit the First Year Learning Centre.</p></p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class Applied classes provide students with the opportunity to discuss assignment problems with their peers and their casual academic.   Applied classes will begin in week 2.  Casual Acacemics are only available during applied classes. If you have questions about the course content outside applied class times, you should see your lecturer during consultation time, or visit the First Year Learning Centre.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Computer classes</strong><br/><p>Each student should be enrolled in one computer class. Classes will begin in week 2. Computer classes will only be held on certain weeks. See timetable for details.</p></p></div></td>",
+            "topic_title": "<strong>Computer classes</strong>",
+            "topic_description": "Computer classes Each student should be enrolled in one computer class. Classes will begin in week 2. Computer classes will only be held on certain weeks. See timetable for details.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weeks 7-13</strong><br/><p>Lectures on ODEs by Dr Meagan Carney</p></p></div></td>",
+            "topic_title": "<strong>Weeks 7-13</strong>",
+            "topic_description": "Weeks 7-13 Lectures on ODEs by Dr Meagan Carney",
+            "learning_outcomes": []
+        }
+    ]
+}
