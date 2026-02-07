@@ -1,0 +1,216 @@
+{
+    "course_title": "Mechatronic System Design Project I",
+    "study_period": "Sem 1 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/METR2800-20189-7520",
+    "full_course_code": "METR2800-20189-7520",
+    "course_code": "METR2800",
+    "class_code": "20189",
+    "semester_code": "7520",
+    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Plan a project - Develop a requirement set that defines a problem to be solved."
+        },
+        {
+            "number": "LO2.",
+            "description": "Plan a project - Determine the knowledge, skills and capabilities needed to meet a requirement set and identify strategies to address gaps."
+        },
+        {
+            "number": "LO3.",
+            "description": "Plan a project - Develop a work breakdown structure that plans delivery of a solution to a problem within the available resources"
+        },
+        {
+            "number": "LO4.",
+            "description": "Plan a project - Identify, assess and manage risks that arise in executing an engineering project."
+        },
+        {
+            "number": "LO5.",
+            "description": "Plan a project - Define and clarify roles and responsibilities within a team."
+        },
+        {
+            "number": "LO6.",
+            "description": "Synthesize a solution to a design problem - Research existing technology and solutions against identified requirements."
+        },
+        {
+            "number": "LO7.",
+            "description": "Synthesize a solution to a design problem - Formulate a series of concept solutions that address a requirement set"
+        },
+        {
+            "number": "LO8.",
+            "description": "Synthesize a solution to a design problem - Formulate criteria to evaluate different candidate solutions against requirements."
+        },
+        {
+            "number": "LO9.",
+            "description": "Synthesize a solution to a design problem - Identify a preferred candidate for implementation using evaluation criteria."
+        },
+        {
+            "number": "LO10.",
+            "description": "Synthesize a solution to a design problem - Identify the mechanical, electrical, and software components/subsystems of a design and how these sub-components integrate."
+        },
+        {
+            "number": "LO11.",
+            "description": "Synthesize a solution to a design problem - Evaluate the detailed design against the functional requirements."
+        },
+        {
+            "number": "LO12.",
+            "description": "Build a mechatronic system from a design - Generate mechanical system drawings from a concept design."
+        },
+        {
+            "number": "LO13.",
+            "description": "Build a mechatronic system from a design - Manufacture a mechatronic prototype from mechanical system drawings."
+        },
+        {
+            "number": "LO14.",
+            "description": "Build a mechatronic system from a design - Demonstrate the desired functionality of a mechatronic prototype."
+        },
+        {
+            "number": "LO15.",
+            "description": "Build a mechatronic system from a design - Verify the identified sub-components of a system meet their requirements"
+        },
+        {
+            "number": "LO16.",
+            "description": "Verify a design against stakeholder requirements - Demonstrate that your team's system meets functional requirements"
+        },
+        {
+            "number": "LO17.",
+            "description": "Verify a design against stakeholder requirements - Identify deficiencies in your design and critically reflect on how to remedy those deficiencies."
+        },
+        {
+            "number": "LO18.",
+            "description": "Work within a team to deliver an outcome - Contribute to the development and maintenance of a project management plan"
+        },
+        {
+            "number": "LO19.",
+            "description": "Work within a team to deliver an outcome - Efficiently and equitably allocate available resources to deliver a work program on schedule and to budget"
+        },
+        {
+            "number": "LO20.",
+            "description": "Work within a team to deliver an outcome - Negotiate your personal responsibilities within a team and commit to delivering these."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project Management Plan",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 14/03/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L18, L19, L20",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will develop a project plan to deliver a solution to the challenge task.  </p>\n<p>Your plan will be submitted at the end of Week 2. A template for a Project Management Plan will be available on Blackboard. </p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Design Review Sequence",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 27/03/2025 - 22/05/2025</p>\n<p>\n</p><p>Presentations will be scheduled.</p></dd>",
+            "learning_objectives": "L04, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20",
+            "mode": "Activity/ Performance",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment sequence will involve project teams presenting their concept design, build progress, and demonstrating functional requirement verification to a panel of teaching staff. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</p>\n<p>There are a total of four presentations with details as follows.</p>\n<p><br/></p>\n<p><strong>Design Review 1: System Design</strong></p>\n<p>Learning Outcomes: 6-11 and 18-20</p>\n<p>When: Week 5</p>\n<p>Weighting: 10%</p>\n<p>In this assessment you will present your preferred candidate design to solve the challenge task and present the rationale for your decision. The methodology you will use to do this is as follows:</p>\n<p>Research existing technology and solutions against the requirement set identified in your project management plan.</p>\n<p>Formulate a series of concept solutions that meet the requirement set identified in your project plan adjusting these requirements as new information or thinking becomes available.</p>\n<p>Formulate criteria to evaluate different candidate solutions against requirement.</p>\n<p>Use the evaluation criteria to identify your preferred candidate solution. </p>\n<p>You will present your preferred candidate solution in a presentation.</p>\n<p>Your project management plan may change as a consequence of learnings made in this project. You should provide details on how your plan has been updated.</p>\n<p><br/></p>\n<p><strong>Design Review 2: System Build</strong></p>\n<p>Learning Outcomes: 12-13 and 18-20</p>\n<p>When: Week 7</p>\n<p>Weighting: 10%</p>\n<p>You will present a mechanical build of your system that matches the detailed design.</p>\n<p>Your system shall include sensing and actuating components but does not need to be in a functioning state,</p>\n<p>Your project management plan may change as a consequence of learnings made in this project. You should provide details on how your plan has been updated.</p>\n<p><br/></p>\n<p><strong>Design Review 3: System Function</strong></p>\n<p>Learning Outcomes: 14-15 and 18-10</p>\n<p>When: Week 9</p>\n<p>Weighting: 10%</p>\n<p>The individuals responsible for each sub-system will speak briefly to their sub-system and its integration into the overall system.</p>\n<p>Each of the subsystems and the overall system should be evaluated for its ability to meet the appropriate functional requirements.</p>\n<p>You will showcase the functional state of the as-built components of your system and provide detail on the overall build progress. You will provide an estimate of remaining work effort required to verify requirements in the third Design Review.</p>\n<p>Your project management plan may change as a consequence of learnings made in this project. You should provide details on how your plan has been updated.</p>\n<p><br/></p>\n<p><strong>Design Review 4: System Verification</strong></p>\n<p>Learning Outcomes: 16-20</p>\n<p>When: Week 12</p>\n<p>Weighting: 10%</p>\n<p>You will create a video that describes your 'as built system'. Identify any variations from your 'as designed system', demonstrate that the subsystems and the overall system meet the identified requirements as of Design Review 3. Reflect in the video any requirements that are not met. Provide a reflection of how the original plan changed over the semester.</p>\n<p> </p>\n<p><strong>Live Oral &amp; Practical Assessment: </strong></p>\n<p>Any live oral or practical assessment item worth 20% or more must be recorded and retained as the official recording of the item for re-mark purposes. Procedural details for this are provided under <a href=\"https://ppl.app.uq.edu.au/content/3.10.02-assessment\">Assessment</a>.</p>\n<p><br/></p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><em>Not a submissible item. </em></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Demonstration against stakeholder requirements",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 27/05/2025</p>\n<p>\n</p><p>Demonstrations will be held between 8:00am - 5:00pm.  </p></dd>",
+            "learning_objectives": "L16, L17",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will demonstrate the performance of your system against the stakeholder requirements and reflect on improvements that you would make to your design or your teams execution of the project.</p>\n<p><strong>Live Oral &amp; Practical Assessment: </strong></p>\n<p>Any live oral or practical assessment item worth 20% or more must be recorded and retained as the official recording of the item for re-mark purposes. Procedural details for this are provided under <a href=\"https://ppl.app.uq.edu.au/content/3.10.02-assessment\">Assessment</a>.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><em>Not a submissible item.</em></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Project reflection",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 29/05/2025 4:00 pm</p></dd>",
+            "learning_objectives": "L17, L18, L19, L20",
+            "mode": "Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will provide a brief reflection on your learnings over the semester,</p>\n<p>This reflection will speak to:</p>\n<ul>\n<li>Your experience in following an engineering process. In particular, the learnings obtained in the Design, Build and Testing phases of the project lifecycle.</li>\n<li>Working within a team to realise a mechatronic prototype.</li>\n<li>Your prototype's performance on demonstration day,</li>\n<li>Recommendations that you would give the METR2800 cohort of Sem 1, 2026. How might you have completed the project differently if you were to start again.</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(24 Feb - 01 Jun)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop</strong><br><p>The weekly workshop will guide students through the seven step engineering process. We will also discuss assessment items in finer detail and provide support.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20</p></div></td>",
+            "topic_title": "<strong>Workshop</strong>",
+            "topic_description": "Workshop The weekly workshop will guide students through the seven step engineering process. We will also discuss assessment items in finer detail and provide support.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L20"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(03 Mar - 01 Jun)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical</strong><br><p>Students will complete weekly practical sessions where they can receive techincal support from the teaching team.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20</p></div></td>",
+            "topic_title": "<strong>Practical</strong>",
+            "topic_description": "Practical Students will complete weekly practical sessions where they can receive techincal support from the teaching team.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18",
+                "L19",
+                "L20"
+            ]
+        }
+    ]
+}
