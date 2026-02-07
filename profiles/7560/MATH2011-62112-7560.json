@@ -1,0 +1,110 @@
+{
+    "course_title": "Analysis of Partial Differential Equations",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH2011-62112-7560",
+    "full_course_code": "MATH2011-62112-7560",
+    "course_code": "MATH2011",
+    "class_code": "62112",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use ideas such as linear equations, the superposition principle and separation of variables to solve a range partial differential equations."
+        },
+        {
+            "number": "LO2.",
+            "description": "Use various notions related to Fourier analysis to find and manipulate Fourier series for a range of functions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Solve simple boundary- and initial-value problems, among them the wave equation, the heat equation and Laplace's equation."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "2 Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Assignment 1: 7/10/2025 1:00 pm</p>\n<p>Assignment 2: 27/10/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each assignment is equally weighted. You must submit detailed written solutions to a collection of mathematical problems.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments must be downloaded from the Blackboard website and must be submitted ONLINE through Blackboard. Assignments need to be prepared as a single pdf file, either by typing it or by scanning your handwritten work.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>\n</p>The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus.\n    <button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 13(08 Sep - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fourier Series and PDEs</strong><br><p>3 face-to-face Lectures a week in weeks 7-13 of the semester. Linear PDEs and how to solve them. Fourier series for a given function. Fourier's Method of separation of variables and superposition. Boundary and initial value problems for equations such as the Laplace, heat and wave equations.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Fourier Series and PDEs</strong>",
+            "topic_description": "Fourier Series and PDEs 3 face-to-face Lectures a week in weeks 7-13 of the semester. Linear PDEs and how to solve them. Fourier series for a given function. Fourier's Method of separation of variables and superposition. Boundary and initial value problems for equations such as the Laplace, heat and wave equations.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 13(15 Sep - 02 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Problem Solving</strong><br><p>One Applied Class per week in which a casual academic demonstrates problems on the board and is available to answer questions about the problem sheets and assignment problems. There will be No Applied Classes in Week 7 and applied classes will start in Week 8.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Problem Solving</strong>",
+            "topic_description": "Problem Solving One Applied Class per week in which a casual academic demonstrates problems on the board and is available to answer questions about the problem sheets and assignment problems. There will be No Applied Classes in Week 7 and applied classes will start in Week 8.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
