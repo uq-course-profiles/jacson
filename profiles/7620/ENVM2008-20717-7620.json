@@ -183,6 +183,17 @@
         },
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>National Heritage</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>National Heritage</strong>",
+            "topic_description": "National Heritage",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "Excursion",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Fieldtrip</strong><br/><p>Please refer to Blackboard annoucement for fieldtrip details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
             "topic_title": "<strong>Fieldtrip</strong>",
@@ -191,17 +202,6 @@
                 "L01",
                 "L02",
                 "L03"
-            ]
-        },
-        {
-            "learning_period": "Week 6(30 Mar - 05 Apr)",
-            "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>National Heritage</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>National Heritage</strong>",
-            "topic_description": "National Heritage",
-            "learning_outcomes": [
-                "L01",
-                "L02"
             ]
         },
         {
