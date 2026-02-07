@@ -1,0 +1,109 @@
+{
+    "course_title": "Practical Regression Analyses",
+    "study_period": "Sem 2 2024",
+    "location": "Herston",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PUBH7631-61348-7460",
+    "full_course_code": "PUBH7631-61348-7460",
+    "course_code": "PUBH7631",
+    "class_code": "61348",
+    "semester_code": "7460",
+    "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Carry out preliminary data analysis to assess appropriateness of a particular modelling technique (Normal, Poisson, or Logistic regression or Survival analysis)"
+        },
+        {
+            "number": "LO2.",
+            "description": "Determine an appropriate modelling method for the data set they wish to analyse."
+        },
+        {
+            "number": "LO3.",
+            "description": "Fit the statistical model using computer software."
+        },
+        {
+            "number": "LO4.",
+            "description": "Interpret the results of the modelling process and conduct formal tests of hypotheses."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use the resulting best model for prediction of future outcomes or events."
+        },
+        {
+            "number": "LO6.",
+            "description": "Assess the fit of the model and the statistical assumptions made in the modelling process."
+        },
+        {
+            "number": "LO7.",
+            "description": "Demonstrate understanding the range of statistical modelling techniques available"
+        },
+        {
+            "number": "LO8.",
+            "description": "Prepare a report, summarising, in tabular and text form, the results of a multivariate regression"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Normal Regression: Analysis and Interpretation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>33%</dd>",
+            "due_date": "<dd><p> 9/08/2024 - 26/08/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Analysis of a supplied data set and written interpretation of findings</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>10% of awarded grade deducted each day late until 50% (minimum passing grade) is reached</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Regression: Analysis and Interpretation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>33%</dd>",
+            "due_date": "<dd><p> 6/09/2024 - 23/09/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Analysis of a supplied data set and written interpretation of findings</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>10% of awarded grade deducted each day late until 50% (minimum passing grade) is reached</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>34%</dd>",
+            "due_date": "<dd><p> 4/11/2024 - 11/11/2024</p>\n<p>\n</p><p>Due 2pm 11/11/2024</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Activity/ Performance, Written",
+            "category": "Paper/ Report/ Annotation, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will comprise multiple-choice, multiple answer, or short answer questions, and a short assignment submission. These will cover the entire course. The assignment can be attempted multiple times, edited, and saved on-goingly, but can only be submitted once.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>10% of awarded grade deducted each day late until 50% (minimum passing grade) is reached.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": []
+}
