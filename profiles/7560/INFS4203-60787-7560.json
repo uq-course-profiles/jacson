@@ -1,0 +1,190 @@
+{
+    "course_title": "Data Mining",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/INFS4203-60787-7560",
+    "full_course_code": "INFS4203-60787-7560",
+    "course_code": "INFS4203",
+    "class_code": "60787",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify the process of data mining and KDD (Knowledge Discovery from Databases)."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyze the applicability of different data mining and KDD algorithms."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design algorithms to solve problems related to classifications and clustering, as well as identify association rules from a database."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply the concepts and algorithms of text mining and web mining."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate the performance of data mining and KDD algorithms."
+        },
+        {
+            "number": "LO6.",
+            "description": "Compare and contrast the performances of different data mining algorithms"
+        },
+        {
+            "number": "LO7.",
+            "description": "Evaluate the scalability of data mining algorithms."
+        },
+        {
+            "number": "LO8.",
+            "description": "Analyze the data characteristics that affect the effectiveness of data mining."
+        },
+        {
+            "number": "LO9.",
+            "description": "Examine the limitations of data mining and KDD algorithms"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Class Quiz",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 8/09/2025 9:30 am</p>\n<p>\n</p><p>The quiz is scheduled to be from 8:00 to 9:30 during the scheduled lecture time in week 7, with a reading time of 10 minutes and an exam time of 80 minutes.</p></dd>",
+            "learning_objectives": "L01, L02, L05, L06, L08, L09",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ol>\n<li>This is an online, non-invigilated quiz delivered via Blackboard. Students may complete the quiz from any location; however, they are responsible for ensuring reliable internet access and a stable technical environment.</li>\n<li>It is an individual assessment, covering lecture content from Week 2 to Week 6.</li>\n<li>The quiz consists of multiple-choice questions.</li>\n<li>Course staff will be available on Zoom during the quiz to answer clarification questions.</li>\n<li>Pre-approval is required for any special arrangements.</li>\n</ol>\n<p><br/></p>\n<p>This is an open-book, non-invigilated multiple-choice quiz. Students may use generative AI or Machine Translation (MT) tools to support their understanding of course content. However, students are expected to complete the quiz independently and based on their own understanding. The teaching team reserves the right to interview students to confirm their comprehension. Failure to demonstrate sufficient understanding may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The quiz will be administered via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 20/10/2025 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06, L07, L08, L09",
+            "mode": "Activity/ Performance",
+            "category": "Computer Code, Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ol>\n<li>This assignment is designed to assess your ability to implement data mining techniques to solve real-world problems.</li>\n<li>The report and the code must be submitted as <strong>two separate files</strong> via Blackboard by <strong>1 pm, Monday of Week 12</strong>. Detailed submission requirements will be provided in the project specification, to be released later.</li>\n<li>The assignment brief, including detailed criteria and the marking rubric, will be released in <strong>Week 4</strong> on Blackboard.</li>\n</ol>\n<p>This task has been designed to be challenging, authentic, and complex. While students may use <strong>generative AI</strong> and/or <strong>machine translation (MT)</strong> technologies, successful completion of this assessment will require critical engagement with the specific context and task, for which such tools will offer only limited support. Failure to appropriately reference the use of generative AI or MT tools may constitute student misconduct under the <strong>Student Code of Conduct</strong>. To pass this assessment, students must be able to demonstrate clear and independent understanding of their submission, beyond the use of AI or MT tools.</p>\n<p><strong>Important:</strong></p>\n<p>A code interview will be conducted in <strong>Week 13</strong>. Students will participate in the code interview based on their submitted implementation. The main purpose of this interview is to verify that students understand the code they have submitted, and that it reflects their own work, rather than content generated or copied without comprehension (e.g., from generative AI tools). If your code is genuinely your own and you understand what you have written, there is no need to worry about this component. If a student receives <strong>less than 35%</strong> in the code interview, the mark for this assignment will be <strong>capped at 10 out of 20</strong>, regardless of the quality of the submitted report and code.</p>\n<p>Please note that only the <strong>final submitted version</strong> will be marked, and the <strong>late penalty will apply based on the timestamp of that version</strong>.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please refer to the project specification for details. Please ensure that your code and report are submitted in accordance with the detailed requirements outlined in the project specification. Failure to submit the required files in the correct format may result in a mark of zero.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Presentation and Code Interview",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> Week 13 - Week 13</p>\n<p>\n</p><p>Each student will be allocated an 8-minute slot during their enrolled Applied Class Session (APP) in Week 13, including a 5-minute presentation and a 3-minute code interview. The schedule will be published on Blackboard in Week 11.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L07, L08, L09",
+            "mode": "Oral",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This 15-mark assessment is based on the coding project submitted in the previous week (\"Project Report\"). It consists of two parts delivered in a single 8-minute session:</p>\n<ol>\n<li><strong>Presentation (5 minutes, 9 marks): </strong>Students will give a short in-class presentation explaining their approach, design decisions, and key outcomes.</li>\n<li><strong>Code Interview (3 minutes, 6 marks): </strong>Following the presentation, each student will participate in a brief individual interview focused on their submitted code. The goal is to verify that the code reflects the student's own work and that they understand what they have written.</li>\n</ol>\n<p>The <strong>code interview serves as the secure assessment component</strong> of the course, in line with Faculty policy on academic integrity.</p>\n<p>⚠️ <strong>Important: </strong>If a student receives <strong>fewer than 2.1 out of 6</strong> for the code interview, the <strong>total mark for </strong>\"Project Report\"<strong> will be capped at 10 out of 20</strong>, regardless of the quality of the code, the report or the presentation. This ensures that all submitted work demonstrates genuine understanding and authorship.</p>\n<ul>\n<li>Students must submit <strong>at least one working version of their code by 27 October 2025</strong>, even if an approved extension has been granted for the Project Report. This early version is required to be eligible for the code interview. A later submission may be accepted under an approved extension, but should not significantly differ from the version submitted by the deadline. (Please refer to the “Project Report” assessment Late Submission notes for further details)</li>\n<li>Students who fail to submit any code by 27 October 2025 <strong>will receive 0 for the Code Interview</strong>, although the Presentation may still proceed as scheduled.</li>\n<li>Assessment sessions will be held during each student’s allocated Applied Class Session (APP) in <strong>Week 13</strong>. Guidelines will be released on Blackboard in Week 7, and schedules will be released on Blackboard in <strong>Week 11</strong>.</li>\n<li><strong>Make-up interviews</strong> may be arranged in approved deferred cases (e.g., illness), typically in the Review Week or early Exam Week. Unapproved absence will result in a mark of zero. see LATE SUBMISSION NOTES for details.</li>\n</ul>\n<p>This assessment task is to be completed <strong>in person</strong>, and the use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools <strong>will not be permitted during the presentation or interview session</strong>. Students may use AI or MT tools during the <strong>preparation phase</strong> (e.g., to assist with slide development), but <strong>any such use must be clearly and appropriately referenced</strong>. Failure to reference the use of generative AI or MT tools, or the attempted use of such tools during the live assessment, may constitute student misconduct under the Student Code of Conduct.</p>\n<p> If your implementation is your own and you understand what you wrote, the interview will be straightforward. This is not intended to penalise honest work, but to ensure fairness and academic integrity.</p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will present and be interviewed during their allocated Applied Class Session (APP) in Week 13. No online submission is required for this assessment.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>8/11/2025 - 22/11/2025</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L08, L09",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>More information will be released in the last lecture (i.e., the course revision).</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(28 Jul - 02 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>The course lectures will provide in-depth knowledge of various concepts and techniques in data mining.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures The course lectures will provide in-depth knowledge of various concepts and techniques in data mining.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(04 Aug - 02 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br><p>Starting from Week 2, applied classes will allow students to <strong>further practice</strong> the concepts and algorithms introduced in the lectures through examples, exercises, and problem-solving activities.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class Starting from Week 2, applied classes will allow students to further practice the concepts and algorithms introduced in the lectures through examples, exercises, and problem-solving activities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09"
+            ]
+        }
+    ]
+}
