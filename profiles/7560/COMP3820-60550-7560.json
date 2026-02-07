@@ -1,0 +1,169 @@
+{
+    "course_title": "Digital Health Software Project",
+    "study_period": "Sem 2 2025",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3820-60550-7560",
+    "full_course_code": "COMP3820-60550-7560",
+    "course_code": "COMP3820",
+    "class_code": "60550",
+    "semester_code": "7560",
+    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Research, explain and describe aspects of the digital health landscape"
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the Software Development Life Cycle and previous experience and skills in human-centred design and software development to deliver a complete and functioning application that meets your client's requirements within a pre-determined deadline"
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop and clearly document a healthcare application using the FHIR standard for use in a clinical or clinical education context utilising interoperability standards"
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse and respond to user-experience design issues that arise in designing a healthcare application"
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate effectively with stakeholders to gather requirements and to manage expectations over the course of a project"
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate an ability to work collaboratively and effectively with others in a multi-disciplinary team towards shared project goals, while managing individual work"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Individual Course Review",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 20/10/2025 - 23/10/2025</p>\n<p>\n</p><p>Individual Course Review completed in-class</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Oral",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This item forms the secure element of the Individual Portfolio task. One-on-one review with a member of the teaching team where you:</p>\n<ul>\n<li>Present the work you have completed</li>\n<li>Answer questions to demonstrate your understanding</li>\n<li>Provide a short reflection on how you are working within the structure of the course (e.g. self-regulation, time management, etc.)</li>\n</ul>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The Individual Review will be in-person and will take place during the Studio sessions in Week 12</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Team FHIR Project - Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10% (Team) </dd>",
+            "due_date": "<dd><p> 30/10/2025 10:00 am</p>\n<p>\n</p><p>Presentation completed in class</p></dd>",
+            "learning_objectives": "L02, L03, L06",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In teams, you will work through the Software Development Life Cycle to deliver a complete and functional SMART-on-FHIR digital healthcare application.</p>\n<p>In the final Thursday class in week 13, each team will give a presentation, including demo, of their SMART-on-FHIR application. All presentations must be given live and will be recorded by the teaching team for archiving purposes.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>A copy of your slides and presentation script to Blackboard prior to class (see task sheet for further details). Presentations are delivered in-class (all team members must attend in-person)</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Team FHIR Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40% (Team) </dd>",
+            "due_date": "<dd><p>Team Project Report and Codebase 10/11/2025 5:00 pm</p>\n<p>Team Project Video 12/11/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In teams, you will develop a SMART-on-FHIR digital healthcare app by following the Software Development Life Cycle. Your deliverables include:</p>\n<ul>\n<li>A fully functional SMART-on-FHIR digital healthcare application</li>\n<li>A team report documenting your development process</li>\n<li>A demo video of your application</li>\n</ul>\n<p>Your progress will be tracked throughout the semester and feedback will be provided regularly via in-class milestones, where all team members must be present. Formative milestones are intended to provide students with feedback on their progress and will be verbal updates delivered in class during the following weeks that will cover the following topics (notes: weeks may be subject to change):</p>\n<ul>\n<li>Week 05: Project scope and plan of work</li>\n<li>Week 09: Implementation update</li>\n<li>Week 11: Testing update</li>\n</ul>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission for each component includes:</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Individual Portfolio",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>50% (Individual) </dd>",
+            "due_date": "<dd><p> 17/11/2025 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L06",
+            "mode": "Written",
+            "category": "Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment item plays a similar role to a final exam, where you are required to demonstrate what you have learned across the whole course. The main purpose of a portfolio is to reflect and collect evidence that demonstrates that you have been actively engaged with the course, particularly in relation to the Team FHIR Project, guest speakers, and the online MOOC, “Digital Health on FHIR”.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit one electronic file via Turnitin on Blackboard by the deadline. You must:</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Guest Speakers</strong><br><p>Guest talks from industry will occur within some of the studio sessions about different aspects of the healthcare system and its use of data and informatics.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Guest Speakers</strong>",
+            "topic_description": "Guest Speakers Guest talks from industry will occur within some of the studio sessions about different aspects of the healthcare system and its use of data and informatics.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online Course</strong><br/><p>Delivered via the \"Digital Health on FHIR\" online course covering the key concepts of digital health.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Online Course</strong>",
+            "topic_description": "Online Course Delivered via the \"Digital Health on FHIR\" online course covering the key concepts of digital health.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Studio Sessions</strong><br/><p>Students will work with each other on their team project and related activities that support the assessment deliverables.</p>\n<p>Studio sessions will be delivered in-person (face-to-face) and so you will be expected to participate in an entirely in-person (face-to-face) capacity in both sessions that occur each week. By default, these sessions will not be recorded.</p>\n<p>This course relies on students undertaking a self-directed team-based and individual learning approach towards the achievement of assessment deliverables. <strong>Active student participation is expected at all sessions</strong>. Students are expected to meaningfully contribute to all aspects of the team project. The teaching team are available to assist with issues.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Weekly Studio Sessions</strong>",
+            "topic_description": "Weekly Studio Sessions Students will work with each other on their team project and related activities that support the assessment deliverables. Studio sessions will be delivered in-person (face-to-face) and so you will be expected to participate in an entirely in-person (face-to-face) capacity in both sessions that occur each week. By default, these sessions will not be recorded. This course relies on students undertaking a self-directed team-based and individual learning approach towards the achievement of assessment deliverables. Active student participation is expected at all sessions . Students are expected to meaningfully contribute to all aspects of the team project. The teaching team are available to assist with issues.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
