@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Assessment Details</title>
   <link rel="stylesheet" media="all" href="https://uq-business-school.github.io/styleguide/css/superstyle.css" />
-  <link rel="stylesheet" media="all" href="https://uq-business-school.github.io/jacson/embed/css/assessment-details.css" />
+  <link rel="stylesheet" media="all" href="https://uq-course-profiles.github.io/jacson/embed/css/assessment-details.css" />
 </head>
 <body>
   <div class="container">
@@ -110,24 +110,24 @@
           const assessmentParam = urlParams.get('assessment');
           
           if (!jsonPath) {
-            throw new Error('JSON path parameter is required. Ensure you include both json and assessment into the url, e.g.: https://uq-business-school.github.io/jacson/embed/assessment-details.html?json=7520/TIMS7811-22499-7520&assessment=1');
+            throw new Error('JSON path parameter is required. Ensure you include both json and assessment into the url, e.g.: https://uq-course-profiles.github.io/jacson/embed/assessment-details.html?json=7520/TIMS7811-22499-7520&assessment=1');
           }
           
           if (!assessmentParam) {
-            throw new Error('Assessment parameter is required. Ensure you include both json and assessment into the url, e.g.: https://uq-business-school.github.io/jacson/embed/assessment-details.html?json=7520/TIMS7811-22499-7520&assessment=1');
+            throw new Error('Assessment parameter is required. Ensure you include both json and assessment into the url, e.g.: https://uq-course-profiles.github.io/jacson/embed/assessment-details.html?json=7520/TIMS7811-22499-7520&assessment=1');
           }
           
           // Convert assessment number to index (1-based to 0-based)
           const assessmentIndex = parseInt(assessmentParam) - 1;
           
           if (assessmentIndex < 0) {
-            throw new Error('Invalid assessment number. Ensure you include both json and assessment into the url, e.g.: https://uq-business-school.github.io/jacson/embed/assessment-details.html?json=7520/TIMS7811-22499-7520&assessment=1');
+            throw new Error('Invalid assessment number. Ensure you include both json and assessment into the url, e.g.: https://uq-course-profiles.github.io/jacson/embed/assessment-details.html?json=7520/TIMS7811-22499-7520&assessment=1');
           }
           
           // Parse course information from JSON path
           const pathParts = jsonPath.split('/');
           if (pathParts.length !== 2) {
-            throw new Error('Invalid JSON path format. Ensure you include both json and assessment into the url, e.g.: https://uq-business-school.github.io/jacson/embed/assessment-details-v2.0.html?json=7520/TIMS7811-22499-7520&assessment=1');
+            throw new Error('Invalid JSON path format. Ensure you include both json and assessment into the url, e.g.: https://uq-course-profiles.github.io/jacson/embed/assessment-details.html?json=7520/TIMS7811-22499-7520&assessment=1');
           }
           
           const semesterCode = pathParts[0];
@@ -163,7 +163,7 @@
           }
           
           // Construct full JSON URL
-          const jsonUrl = `https://uq-business-school.github.io/jacson/profiles/${jsonPath}.json`;
+          const jsonUrl = `https://uq-course-profiles.github.io/jacson/profiles/${jsonPath}.json`;
           
           // Fetch course data
           const response = await fetch(jsonUrl);

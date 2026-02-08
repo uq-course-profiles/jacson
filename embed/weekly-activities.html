@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!-- Weekly-Activities.html V2.00 - 14 July 2025 -->
+    <!-- Weekly-Activities.html V2.10 - 14 July 2025 -->
     <!-- Created by Geoffrey Blazer, CC BY-NC-SA 4.0 International -->
     <!-- Available from: https://uq-business-school.github.io/ibis -->
 <head>
@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Weekly Learning Activities</title>
   <link rel="stylesheet" media="all" href="https://uq-business-school.github.io/styleguide/css/superstyle.css" />
-  <link rel="stylesheet" media="all" href="https://uq-business-school.github.io/jacson/embed/css/assessment-details.css" />
+  <link rel="stylesheet" media="all" href="https://uq-course-profiles.github.io/jacson/embed/css/assessment-details.css" />
   <style>
     .activity-section {
       margin: 2rem 0;
@@ -160,7 +160,7 @@
           }
           
           // Construct full JSON URL
-          const jsonUrl = `https://uq-business-school.github.io/jacson/profiles/${jsonPath}.json`;
+          const jsonUrl = `https://uq-course-profiles.github.io/jacson/profiles/${jsonPath}.json`;
           
           // Fetch course data
           const response = await fetch(jsonUrl);
@@ -175,9 +175,18 @@
             throw new Error(`Learning activities not found in course data. This course profile may not yet be publicly available, or the profile data has not yet been successfully added to the repository.`);
           }
           
-          // Filter activities for the specified week
+          // Filter activities for the specified week using precise matching
           const weekActivities = courseData.learning_activities.filter(activity => {
-            return activity.learning_period && activity.learning_period.toLowerCase().includes(`week ${weekParam}`);
+            if (!activity.learning_period) return false;
+            
+            const learningPeriod = activity.learning_period.toLowerCase();
+            const targetWeek = weekParam.toString();
+            
+            // Create regex pattern for exact week matching
+            // This will match "week 1" but not "week 10", "week 11", etc.
+            const weekPattern = new RegExp(`\\bweek\\s+${targetWeek}\\b`, 'i');
+            
+            return weekPattern.test(learningPeriod);
           });
           
           if (weekActivities.length === 0) {
