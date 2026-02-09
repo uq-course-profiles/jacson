@@ -1,0 +1,303 @@
+{
+    "course_title": "Bioinformatics 1: Introduction",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BINF6000-20639-7620",
+    "full_course_code": "BINF6000-20639-7620",
+    "course_code": "BINF6000",
+    "class_code": "20639",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand key concepts of molecular biology and sequences, and how bioinformatics and publicly available data contribute to biological discovery."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse DNA, RNA, and protein sequences, identify patterns, and compare them to generate biological insights."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand and discuss the principles of phylogenetics and its application to study evolutionary changes in sequences."
+        },
+        {
+            "number": "LO4.",
+            "description": "Appraise and explain key technologies for generating biological data and understand the different types and formats of these data."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use bioinformatic tools including Python programming to solve biological problems, including working with biological databases and/or developing/refining methods."
+        },
+        {
+            "number": "LO6.",
+            "description": "Understand key computing concepts in bioinformatics and the challenges involved in analysing complex biological data."
+        },
+        {
+            "number": "LO7.",
+            "description": "Identify research areas and career opportunities in bioinformatics across academia and industry."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Online Quiz (Assessment 1)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 20/03/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assessment 1 is an Online Quiz that consists of multiple-choice questions. It assesses the students understanding of the Core Practicals.</p>\n<p>The expected completion time is 30 minutes; the time limit for attempting this quiz on Blackboard is 60 minutes.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Attempt the quiz and submit all answers on Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Workshop Assessment (Assessment 2)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15% Workshop 1 is a Pass/Fail. Workshop 2 has a 15% weighting of overall course marks. </dd>",
+            "due_date": "<dd><p>Workshop 1 (Pass/Fail) 14/04/2026 2:00 pm</p>\n<p>Workshop 2 (15%) 1/05/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This Assessment consists of two workshops running in two streams: <strong>(a)</strong> <em>user</em> stream (with a stronger biology component), and <strong>(b)</strong> <em>developer</em> stream (with a stronger informatics component). Students will be assigned to a stream prior to the beginning of this assessment, and expected to remain in the assigned stream for both workshops.</p>\n<p><strong>Workshop 1</strong> will be held during scheduled practical sessions in <strong>Weeks 5-6</strong>. This workshop is designed to assess students’ fundamental understanding in the practical aspects in performing routine bioinformatic tasks relevant to omics data analysis. Students are expected to (1) work through a set of computer-based tasks and (2) submit short-answers to a set of designated questions. A successful attempt (i.e. submitted answers to all questions) by the specified due date is considered \"pass\".</p>\n<p><strong>Workshop 2</strong> will be held during scheduled practical sessions in <strong>Weeks 7-9</strong>. This workshop will be structured around completing tasks and answering questions associated with sequence analysis and phylogenetics. This workshop will introduce students to resources (e.g., databases, data sources, literature), tools (e.g., sequence database search tools, statistical tests) and methods (e.g. inferring phylogenetic relationships) used to address components of a biological problem.</p>\n<p>More details will be provided on Blackboard.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your Workshop 1 and Workshop 2 reports through the designated course submission links on Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Group Project (Assessment 3)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 29/05/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06, L07",
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Participation/ Student contribution, Presentation, Project, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Assessment 3</strong> is a Group Project presentation of research findings, based on the tasks outlined in the project assignment, in omics data analysis. Students will work in groups of 5-6. Each group will consist at least one member from the developer stream (in the earlier Workshops). Contact sessions will be run as interactive classes, and requires active participation. There are <strong>three</strong> components in this Assessment:</p>\n<p>(a) <strong>Video presentation</strong>: submitted through Blackboard, in which each student in a group is required to present in turn, clearly showing their face, and within the allocated time. The use of AI-generated voice-overs is strictly prohibited. This component is assessed as a group work.</p>\n<p>(b) <strong>Interview</strong>: each group will attend an in-person interview with the assessors who will pose questions related to the high-level concepts, rationale and execution of the project. This component is assessed individually. Each group member is expected to contribute to the interview.</p>\n<p>(c) <strong>Peer assessment</strong>: each member will <strong>assess their peers</strong> within the group, based on their capacity as a team player and leader, and their research performance.</p>\n<p>The activities in this Assessment emulate a real-life workplace scenario in a bioinformatics-relevant industry. More details will be provided on Blackboard.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your group video and associated supporting documents through the designated course submission link on Blackboard. More details will be provided on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End-of-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L03, L04, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment aims to test the breadth of the student's knowledge in bioinformatics. Particular emphasis is put on knowledge that is not explicitly assessed by means of assignments and practicals. The student will be given a set of short-answer questions and problems, covering the major topics discussed in the lectorials. Further details will be provided on Blackboard.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 2(23 Feb - 08 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to molecular biology</strong><br><p>Introduction to the course and molecular biology</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction to molecular biology</strong>",
+            "topic_description": "Introduction to molecular biology Introduction to the course and molecular biology",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 2(23 Feb - 08 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Core Practicals</strong><br><p>Core bioinformatics practicals on the use of public databases and analysis of biological sequences</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Core Practicals</strong>",
+            "topic_description": "Core Practicals Core bioinformatics practicals on the use of public databases and analysis of biological sequences",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 4(09 Mar - 22 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to bioinformatics computing</strong><br><p>Introduction to Galaxy, UNIX commandline, and simple scripting in Python</p></br></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Introduction to bioinformatics computing</strong>",
+            "topic_description": "Introduction to bioinformatics computing Introduction to Galaxy, UNIX commandline, and simple scripting in Python",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 5(09 Mar - 29 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Sequence analysis</strong><br><p>Sequence analysis in bioinformatics (conservation, sequence alignment, high-throughput sequences, profiles, motifs)</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Sequence analysis</strong>",
+            "topic_description": "Sequence analysis Sequence analysis in bioinformatics (conservation, sequence alignment, high-throughput sequences, profiles, motifs)",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 5 To Week 6(23 Mar - 05 Apr)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 1: Genome and RNAseq/ChIPseq analysis</strong><br><p>1A (user stream; RNAseq) or 1B (developer stream; ChIPseq). </p>\n<p>Design and implementation of computational workflows for bioinformatic analysis. This is a Course Assessment Hurdle. See ADDITIONAL COURSE GRADING INFORMATION for the hurdle/s relating to this assessment item.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 1: Genome and RNAseq/ChIPseq analysis</strong>",
+            "topic_description": "Workshop 1: Genome and RNAseq/ChIPseq analysis 1A (user stream; RNAseq) or 1B (developer stream; ChIPseq). Design and implementation of computational workflows for bioinformatic analysis. This is a Course Assessment Hurdle. See ADDITIONAL COURSE GRADING INFORMATION for the hurdle/s relating to this assessment item.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 6 To Week 7(30 Mar - 19 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Phylogenetics</strong><br><p>Phylogenetic methods in bioinformatics</p></br></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Phylogenetics</strong>",
+            "topic_description": "Phylogenetics Phylogenetic methods in bioinformatics",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 9(13 Apr - 03 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop 2: Sequence analysis and phylogenetics</strong><br><p>2A (user stream) or 2B (developer stream)<br/>Comparative analysis of biological sequences and inference of phylogenetic relationship.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Workshop 2: Sequence analysis and phylogenetics</strong>",
+            "topic_description": "Workshop 2: Sequence analysis and phylogenetics 2A (user stream) or 2B (developer stream) Comparative analysis of biological sequences and inference of phylogenetic relationship.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Gene expression analysis</strong><br><p>Bioinformatic analysis of gene expression and transcriptome data</p></br></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Gene expression analysis</strong>",
+            "topic_description": "Gene expression analysis Bioinformatic analysis of gene expression and transcriptome data",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Databases</strong><br><p>Biological databases and ontology</p></br></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Databases</strong>",
+            "topic_description": "Databases Biological databases and ontology",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 13(04 May - 31 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Group Project: Omics data analysis</strong><br><p>Group research project on genome-scale data analysis, guided with practical material and exercises.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Group Project: Omics data analysis</strong>",
+            "topic_description": "Group Project: Omics data analysis Group research project on genome-scale data analysis, guided with practical material and exercises.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Protein bioinformatics</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Protein bioinformatics</strong>",
+            "topic_description": "Protein bioinformatics",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Career Panel Forum</strong><br/><p>Open discussion forum about career prospects in bioinformatics</p></p><p><strong>Learning outcomes:</strong> L07</p></div></td>",
+            "topic_title": "<strong>Career Panel Forum</strong>",
+            "topic_description": "Career Panel Forum Open discussion forum about career prospects in bioinformatics",
+            "learning_outcomes": [
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review</strong><br/><p>Review of course content and preparation for the End-of-Semester Exam</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Review</strong>",
+            "topic_description": "Review Review of course content and preparation for the End-of-Semester Exam",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
