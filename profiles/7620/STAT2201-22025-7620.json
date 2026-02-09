@@ -1,0 +1,222 @@
+{
+    "course_title": "Analysis of Engineering & Scientific Data",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT2201-22025-7620",
+    "full_course_code": "STAT2201-22025-7620",
+    "course_code": "STAT2201",
+    "class_code": "22025",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify appropriate methods for statistical analyses from a descriptive scenario."
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrate a foundational knowledge of statistical methods by carrying out simple statistical procedures by hand."
+        },
+        {
+            "number": "LO3.",
+            "description": "Use statistical software appropriately and confidently for exploratory data analysis and to make relevant statistical conclusions."
+        },
+        {
+            "number": "LO4.",
+            "description": "Effectively and appropriately communicate insights from data as evidence within an engineering context."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Online Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 24/04/2026 4:00 pm</p>\n<p> 1/05/2026 4:00 pm</p>\n<p> 8/05/2026 4:00 pm</p>\n<p> 15/05/2026 4:00 pm</p>\n<p> 22/05/2026 4:00 pm</p>\n<p> 29/05/2026 4:00 pm</p>\n<p>\n</p><p>Individual questions are due by 4:00pm Fridays. Collaborative questions are due by the end of your allocated applied class.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Participation/ Student contribution, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In each week (Weeks 8 - 13) there will be a quiz to complete. Each quiz will involve 10 questions:</p>\n<ul>\n<li>Five questions are individual questions. These questions will open at 8:00am on Monday and close at 4:00pm on Friday. Most will involve analysing data using Python and completing these will be an important opportunity to learn the details of using Python for data analysis. You are encouraged to discuss these questions using the Ed Discussion Board.</li>\n<li>Five questions are collaborative questions. These questions will be completed during your allocated applied classes.</li>\n</ul>\n<p>Your best five quiz marks will each count 3% each towards your overall grade (for a maximum of 15%).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The quizzes are accessed via Blackboard. An unlimited number of attempts is allowed for each quiz question. Questions are marked automatically. There is no separate submission procedure.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Problem Set",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 25/05/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Problem Set involving problem solving, analysis, visualisation and interpretation.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit this assessment item through the link in Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester examination in this course will be held during the end-of-semester examination period. It will be an invigilated in-person exam held on campus. The examination will cover all the material in the course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Unit 1</strong><br/><p>Visualise, summarise and organise data</p></p></div></td>",
+            "topic_title": "<strong>Unit 1</strong>",
+            "topic_description": "Unit 1 Visualise, summarise and organise data",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Unit 2</strong><br/><p>Random variables and expectations</p></p></div></td>",
+            "topic_title": "<strong>Unit 2</strong>",
+            "topic_description": "Unit 2 Random variables and expectations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class 1</strong><br/></p></div></td>",
+            "topic_title": "<strong>Applied Class 1</strong>",
+            "topic_description": "Applied Class 1",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Unit 3</strong><br/><p>Distribution of the sample mean</p></p></div></td>",
+            "topic_title": "<strong>Unit 3</strong>",
+            "topic_description": "Unit 3 Distribution of the sample mean",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class 2</strong><br/></p></div></td>",
+            "topic_title": "<strong>Applied Class 2</strong>",
+            "topic_description": "Applied Class 2",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Unit 4</strong><br/><p>Inference for a single mean</p></p></div></td>",
+            "topic_title": "<strong>Unit 4</strong>",
+            "topic_description": "Unit 4 Inference for a single mean",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class 3</strong><br/></p></div></td>",
+            "topic_title": "<strong>Applied Class 3</strong>",
+            "topic_description": "Applied Class 3",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Unit 5</strong><br/><p>Comparing two means</p></p></div></td>",
+            "topic_title": "<strong>Unit 5</strong>",
+            "topic_description": "Unit 5 Comparing two means",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class 4</strong><br/></p></div></td>",
+            "topic_title": "<strong>Applied Class 4</strong>",
+            "topic_description": "Applied Class 4",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Unit 6</strong><br/><p>Linear regression modelling</p></p></div></td>",
+            "topic_title": "<strong>Unit 6</strong>",
+            "topic_description": "Unit 6 Linear regression modelling",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class 5</strong><br/></p></div></td>",
+            "topic_title": "<strong>Applied Class 5</strong>",
+            "topic_description": "Applied Class 5",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Unit 6 &amp; Revision</strong><br/><p>Linear regression modelling &amp; exam revision</p></p></div></td>",
+            "topic_title": "<strong>Unit 6 &amp; Revision</strong>",
+            "topic_description": "Unit 6 & Revision Linear regression modelling & exam revision",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class 6</strong><br/></p></div></td>",
+            "topic_title": "<strong>Applied Class 6</strong>",
+            "topic_description": "Applied Class 6",
+            "learning_outcomes": []
+        }
+    ]
+}
