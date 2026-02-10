@@ -1,0 +1,275 @@
+{
+    "course_title": "Research, Planning and Design",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/SOSC3201-21504-7620",
+    "full_course_code": "SOSC3201-21504-7620",
+    "course_code": "SOSC3201",
+    "class_code": "21504",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Prepare for applied research projects, including liaising with stakeholders, evaluating published research, and designing ethical research."
+        },
+        {
+            "number": "LO2.",
+            "description": "Engage actively, effectively and professionally in teamwork."
+        },
+        {
+            "number": "LO3.",
+            "description": "Communicate research under development to various audiences."
+        },
+        {
+            "number": "LO4.",
+            "description": "Identify and articulate the ethical implications of social research methods, data, analysis and reporting."
+        },
+        {
+            "number": "LO5.",
+            "description": "Utilise AI for social research in an ethical, effective and responsible manner."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Annotated Bibliography",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 23/03/2026 2:00 pm</p>\n<p>\n</p><p>Submission is via Blackboard Ultra, under the Assessment Folder/Tab. Please use the template provided on Blackboard Ultra for your annotated bibliography.</p></dd>",
+            "learning_objectives": "L01, L03, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Identify and summarise 5 pieces of literature to inform your research proposal. You must:</p>\n<ol>\n<li>provide a brief statement summarising your research problem; </li>\n<li>explain the focus of your reviewed literature;</li>\n<li>critically summarise the key findings/argument of each piece;</li>\n<li>explain how each piece is relevant to your proposed research;</li>\n<li>include an AI use statement (failure to include an AI use statement, even if no AI was used, will result in <strong>a mark of 0</strong>).</li>\n</ol>\n<p>There is no set word limit on each item but the overall length of your Annotated Bibliography assignment is <strong>1200 words</strong>, excluding the bibliographic details of key references and the AI use statement.</p>\n<p>You can work as a team in formulating your research problem or devise your own. You will need to explain the specific focus of your review within the research problem. Writing separate ones may benefit you as a team as you'll have multiple versions of your research problem, allowing you to make comparisons on how you each perceive the project and come to a shared understanding.</p>\n<p>Research teams must work together in Week 3 to plan the focus and scope of each team member's Annotated Bibliography so that they are complementary, not overlapping. Taken together, the references submitted by each student will help form the basis of the team's review of literature for your Project Proposal (Assessment 3). As a group, you are encouraged to engage your academic advisor to assist in identifying literature and ensure you have covered the main texts and bodies of literature. <em>Do not send Academic Advisors your individual annotated bibliographies for review.</em></p>\n<p>In compiling your key references , you should use an acknowledged, in-text, author-date academic referencing system (e.g., APA or Chicago). It does not matter which one you use (although footnote or endnotes are not acceptable), as long as you are consistent in your referencing style. Use of a referencing tool (e.g. Zotero) is highly encouraged.</p>\n<p>An <strong>assessment template </strong>for your use in setting out this assignment is provided on Blackboard Ultra. </p>\n<p>The use of <strong>Generative AI/Large Language Models/AI Tools </strong>for summarising each publication is strongly discouraged.</p>\n<p><strong>Marking criteria</strong> and/or marking rubrics are available in the ‘Assessment’ folder in Blackboard Ultra for this course. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>You must submit your assessment electronically by the due time, on the due date. </strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Group Ethics Application",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25% + Peer Assessment* </dd>",
+            "due_date": "<dd><p>Stage 1 - submission of ethics application (due 2pm) 8/05/2026</p>\n<p>Stage 2 - submit full ethics application<br/>\n(due 2pm) 8/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>It is a legal requirement that all Australian university based research involving human subjects, or secondary data derived from human subjects, require ethical clearance. Your ethics application for your proposed research project forms the basis of this piece of assessment. (Should you be undertaking a project that does not require ethical clearance, an explanation of assessment requirements will be provided.) Each group must complete an application for ethical clearance using the online Ethics application form via <a href=\"https://my-research.research.uq.edu.au/\">MyResearch</a>. This occurs in two stages.</p>\n<p><strong>Stage 1 </strong>involves completing the form online and uploading all the necessary accompanying documents, which includes:</p>\n<ul>\n<li>A project description (on the LNR template)</li>\n<li>Participant Information Sheet/s</li>\n<li>Consent form/s</li>\n<li>A gatekeeper's letter (where relevant, this will <strong>not </strong>be assessed)</li>\n<li>Key recruitment paraphenalia e.g. posters, social media ads (where relevant)</li>\n</ul>\n<p>Once you have completed your online application <strong>DO NOT SUBMIT IT TO THE ETHICS COMMITTEE VIA THE ONLINE PORTAL</strong>. Instead, download the full draft of the application and submit through Blackboard Ultra.</p>\n<p><strong>Marking criteria</strong> and matrix are available on Blackboard Ultra. Examples of previous ethics applications, along with participant information sheets, consent forms, university letterhead, project descriptions/protocols are on Blackboard Ultra under the assessment/ethical clearance application folder.</p>\n<p><strong>Peer Assessment: </strong>Each student also must submit a Peer Assessment to accompany this assignment via Blackboard's BuddyCheck within a week of the submission date. Your Peer Assessment is to capture each team members' contribution to the research project design process throughout the semester up to submitting this assessment.</p>\n<p><strong>Stage 2 </strong>involves:</p>\n<ul>\n<li>revising the full ethics application in light of your detailed feedback from marker (and Academic Advisor) from Stage 1;</li>\n<li>attaching your data collection instruments (i.e. survey instrument; interview/focus group schedule)</li>\n<li>resubmit the updated application on MyResearch with <strong>all </strong>relevant attachments.</li>\n</ul>\n<p><strong>Email the course coordinator to advise when the changes have been made </strong>to the online application and you think it is ready to go. Once the course teaching team is satisfied with your changes, they will submit the application on your behalf through the online MyResearch portal.</p>\n<p>There is <strong>no mark </strong>attached to this Stage, but it is a <strong>hurdle requirement to complete SOSC3201</strong>. </p>\n<p>Once your ethics application has been assessed by the relevant ethics committee, changes or clarification on specific points in the application is often required. You may be asked to amend the research plan and provide details of the changes you have made. <em>Over the winter break, it is strongly encouraged that at least one team member can check emails and assist the course coordinator to respond to the ethical approval process.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>Stage 1: </strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Group Research Project Proposal Sequence",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>50% + Peer Assessment </dd>",
+            "due_date": "<dd><p>Stage 2: Group Research Project Proposal due 28/05/2026 2:00 pm</p>\n<p>\n</p><p>Stage 1 Group Activities are due 6:00 PM prior to leaving the workshop in weeks 2 (05/03), 3 (12/03), 4 (19/03), 5 (26/03), 6 (2/04), 8 (23/04), 9 (30/04), and 10 (7/05). </p>\n<p>There are no extension for any of the Stage 1 workshop activity submissions.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>By the end of the semester, your group will submit a research project proposal outlining your research problem and plan for undertaking the research. This proposal will be the culmination of your individual and collective work across the semester, building on work you did in your annotated bibliography and research plan in your ethics application. </p>\n<p>This assessment is a sequence across the semester made up of two Stages: (1) a series of 8 group tasks submitted during workshops; and (2) the final written project proposal.</p>\n<p><strong>Stage 1: Submitted Workshop Group Activities (hurdle, no marks)</strong></p>\n<p>During many of the workshops, there will be interactive exercises that you have to do in your project group. At the end of 8 workshops, your group will need to submit an electronic version of the work you did during the workshop, with a statement about who in the group contributed and how they contributed. <strong>Each student will need to have contributed to at least 5 of the 8 group workshop activities to obtain a pass mark for Stage 2's Project Proposal. </strong>While these submissions will not be marked, they need to demonstrate that work has been done during the workshop. Submissions may be in the format of a document, image, video, etc as appropriate for the topic item.</p>\n<p>The Workshop activities are:</p>\n<ol>\n<li>Week 2: draft outline of Team Charter</li>\n<li>Week 3: draft project Research Problem; and allocated Literature Review domains</li>\n<li>Week 4: draft project Research Questions &amp; Key Concepts</li>\n<li>Week 5: outline of project's Data and Methods</li>\n<li>Week 6: outline of Recruitment strategy &amp; Participant inclusion criteria</li>\n<li>Week 8: identified key research ethical issues and ideas for how to manage them</li>\n<li>Week 9: Group diagnosis &amp; strategies for enhance group wellbeing</li>\n<li>Week 10: Data Collection themes with a few draft questions</li>\n</ol>\n<p>Except for Week 2, each submission must state which student acted as <strong>Facilitator </strong>and <strong>Recorder </strong>for the group. These roles should be rotated among all group members across the semester. Other student contributors may be listed with or without specific roles (such as Reflector and Speaker). Details are provided in Workshop 2 and on Blackboard's <em>Working in a Group </em>Folder.</p>\n<p><strong>Stage 2: Full Group Research Project Proposal (50%)</strong></p>\n<p>Your project proposal would normally include the following components:</p>\n<ul>\n<li><em>Separate title page</em> (with author names)</li>\n<li><em>Introduction</em>: Describe the problem under investigation and why it is significant. Identify your research aims/questions.</li>\n<li><em>Literature review</em>: Summarise what other people have published about the research area and/or issue, and identify and comment upon relevant debates. Identify the relevant theories and how they might (or might not) apply to the issue at hand. Critically interpret previous research findings. Your review should end with a summary statement that positions your study in the context of the literature so that the reader can see how your work contributes.</li>\n<li>An outline of your <em>key concepts, conceptual framework or any theories </em>you intend to draw upon in your research. This should logically connect to your research questions and develop from the literature. It should also connect to your proposed research methods.</li>\n<li><em>Statement of Method (Research Design/Methodology)</em>: Provide information about research design, data collection methods, population, sampling strategy, inclusion/exclusion criteria, intended sample size and/or composition, and the methods you propose for data collection, data analysis and interpretation of results. You must justify your proposed method with reference to the aims of your research, your specific research questions, the context and subjects of your research, and relevant literature on research methods.</li>\n<li><em>Ethical and/or researcher statement: </em>discuss any notable ethical consideration your study raises and how you will address them.</li>\n<li><em>Timeline</em>: Include milestones and stages of the research (e.g., when to trial data collection tools, when to collect data, how long, etc.).</li>\n<li><em>Budget</em>: Identify the categories of expenditure that exist (e.g., personnel, travel, equipment, supplies, office supplies, printing/copying, telephones, postage, etc.) and estimated costs.</li>\n<li><em>References</em>: Use an acknowledged academic referencing system. Be consistent.</li>\n</ul>\n<p>Examples of actual research proposals in different fields of social science will be provided on the Course Blackboard for guidance. <strong>Marking criteria </strong>and matrix is provided on the course Blackboard site.</p>\n<p>As this final group project proposal builds on the work you will have previously done in SOSC3201, inclusion of such work within this assessment is not considered self-plagiarism in this context.</p>\n<p><strong>Artificial Intelligence (such as ChatGPT) and Assignment writing</strong>:ﾠArtificial Intelligence (AI) provides tools that may support students in completing your assessment tasks. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.ﾠA failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Students are able to use AI in preparing this assessment. <em>Each group must submit the </em><strong><em>AI usage statement template </em></strong><em>(found on course Blackboard site) with your assessment. </em>A failure to submit the statement may result in a 0 mark.</p>\n<p><strong>Word length:</strong> <strong>3500 words</strong> (Reference list, appendices and AI usage statement not included in word count).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p><strong>One person on behalf of the team must submit your assignment electronically by the due time, on the due date.</strong></p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1: Course aims + picking your project</strong><br><p>An overview of the course content and purpose. </p>\n<p>The available research projects will be presented by the industry partners. You will nominate your preferred projects and write an Expression of Interest.</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Week 1: Course aims + picking your project</strong>",
+            "topic_description": "Week 1: Course aims + picking your project An overview of the course content and purpose. The available research projects will be presented by the industry partners. You will nominate your preferred projects and write an Expression of Interest.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2: Learning to work as a research team</strong><br><p>You will find out <strong>which project you have been allocated </strong>and come together as a research team for the first time. You will start familiarising yourself with each other and the research topic, its aims, and the broader research environment. You will<strong> hear from previous students</strong> in the course about their experiences and tips for a successful year. You will learn about <strong>working as a team</strong> through team-based work, including how to communicate as a group, establishing a division of labour, familiarising yourselves with each other's working styles, and appreciating the way team dynamics can affect the progression of a project. This will support the development of a <strong>Team Charter</strong>.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 2: Learning to work as a research team</strong>",
+            "topic_description": "Week 2: Learning to work as a research team You will find out which project you have been allocated and come together as a research team for the first time. You will start familiarising yourself with each other and the research topic, its aims, and the broader research environment. You will hear from previous students in the course about their experiences and tips for a successful year. You will learn about working as a team through team-based work, including how to communicate as a group, establishing a division of labour, familiarising yourselves with each other's working styles, and appreciating the way team dynamics can affect the progression of a project. This will support the development of a Team Charter .",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3: Getting Started - research problem and literature</strong><br/><p>This seminar introduces approaches to formulating a <strong>research problem statement</strong>, planning a <strong>literature review</strong>. You will also learn about referencing software (and trial <strong>Zotero</strong>) and project management. We will explore use of Generative AI for identifying the contours of your literature. Your first assignment - the annotated bibliography - will be explained. As a team, you will plan a strategy to identify and review relevant literature and your individual scope and focus. Check with your academic advisor on your literature choices before writing up your annotated bibliography. You should also spend time this week meeting with your Academic Advisor and Industry Partner.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Week 3: Getting Started - research problem and literature</strong>",
+            "topic_description": "Week 3: Getting Started - research problem and literature This seminar introduces approaches to formulating a research problem statement , planning a literature review . You will also learn about referencing software (and trial Zotero ) and project management. We will explore use of Generative AI for identifying the contours of your literature. Your first assignment - the annotated bibliography - will be explained. As a team, you will plan a strategy to identify and review relevant literature and your individual scope and focus. Check with your academic advisor on your literature choices before writing up your annotated bibliography. You should also spend time this week meeting with your Academic Advisor and Industry Partner.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4: Developing your research questions and key concepts</strong><br/><p>Having developed some preliminary research plans for your project, the aim now is to start working on a coherent and well-thought out research proposal. This occurs in stages over the next three weeks of class. This week focuses on developing some preliminary <strong>research questions </strong>and your <strong>key concepts</strong>. We also discuss project management and establishing project scheduling as a team.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 4: Developing your research questions and key concepts</strong>",
+            "topic_description": "Week 4: Developing your research questions and key concepts Having developed some preliminary research plans for your project, the aim now is to start working on a coherent and well-thought out research proposal. This occurs in stages over the next three weeks of class. This week focuses on developing some preliminary research questions and your key concepts . We also discuss project management and establishing project scheduling as a team.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5:  Identifying your Data and Methods</strong><br/><p>This week you will learn to operationalise your concepts, questions and data collection. You will start to focus on how you plan to actually do your study - what data do you need to answer your research questions and assess/measure your concepts? What methods will you use to generate this data? How can you build rigor into your research design?</p>\n<p>We will also introduce you to <strong>creative and innovative research methods</strong>, that can expand upon standard interviews and survey.</p>\n<p>This is also a week where you should share your progress with your Academic Advisor to seek their advice of your plans.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 5:  Identifying your Data and Methods</strong>",
+            "topic_description": "Week 5:  Identifying your Data and Methods This week you will learn to operationalise your concepts, questions and data collection. You will start to focus on how you plan to actually do your study - what data do you need to answer your research questions and assess/measure your concepts? What methods will you use to generate this data? How can you build rigor into your research design? We will also introduce you to creative and innovative research methods , that can expand upon standard interviews and survey. This is also a week where you should share your progress with your Academic Advisor to seek their advice of your plans.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6: Identifying Participants and Recruiting</strong><br/><p>This week you will be thinking through your targeted research population and identifying strategies for sampling, selecting and making contact with your research participants.  We also begin to think about the ethical implications for different recruitment approaches. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 6: Identifying Participants and Recruiting</strong>",
+            "topic_description": "Week 6: Identifying Participants and Recruiting This week you will be thinking through your targeted research population and identifying strategies for sampling, selecting and making contact with your research participants.  We also begin to think about the ethical implications for different recruitment approaches.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7: Work in progress presentations</strong><br/><p>Each group will present their research project design to date. It is an opportunity to get whole-of-class exposure and feedback on your project. You should invite your Academic Advisors to attend (in person or online). All students must be in attendance (preferably physical) at the presentations (unless unwell). You are invited to engage in collegial discussion with other teams about their research. Groups will be split across two rooms to allow for sufficient time for each presentation.</p>\n<p>You should also contact your industry partner this week to update them on your progress and gain their input into the next steps.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 7: Work in progress presentations</strong>",
+            "topic_description": "Week 7: Work in progress presentations Each group will present their research project design to date. It is an opportunity to get whole-of-class exposure and feedback on your project. You should invite your Academic Advisors to attend (in person or online). All students must be in attendance (preferably physical) at the presentations (unless unwell). You are invited to engage in collegial discussion with other teams about their research. Groups will be split across two rooms to allow for sufficient time for each presentation. You should also contact your industry partner this week to update them on your progress and gain their input into the next steps.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8: Putting ethics into practice: Applying for ethics clearance</strong><br/><p>This week you will be introduced to the UQ ethical clearance process and start your online application (for Assessment 2). Detailed guidance on completing the online application process is provided. Doing this will higlight key ethical considerations and involve identifying solutions to manage them.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 8: Putting ethics into practice: Applying for ethics clearance</strong>",
+            "topic_description": "Week 8: Putting ethics into practice: Applying for ethics clearance This week you will be introduced to the UQ ethical clearance process and start your online application (for Assessment 2). Detailed guidance on completing the online application process is provided. Doing this will higlight key ethical considerations and involve identifying solutions to manage them.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9: Managing Group Dynamics</strong><br/><p>By now you will have experience of working with your group and getting a sense of each person's strengths, weaknesses and preferred ways of working. Differences of work practices and expectations can create challenges for group work. Building on a group reflection exercise and peer assessment through BuddyCheck, this workshop will introduce you to ways to manage group dynamics when things do not go as smoothly as hoped.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 9: Managing Group Dynamics</strong>",
+            "topic_description": "Week 9: Managing Group Dynamics By now you will have experience of working with your group and getting a sense of each person's strengths, weaknesses and preferred ways of working. Differences of work practices and expectations can create challenges for group work. Building on a group reflection exercise and peer assessment through BuddyCheck, this workshop will introduce you to ways to manage group dynamics when things do not go as smoothly as hoped.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10: Designing data collection: research instruments </strong><br/><p>We focus on designing your data collection instruments, including survey design and survey questions, interview or focus group questions, and establishing ways of structuring your observations or textual analysis. This work will form part of your application for the formal ethics clearance.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Week 10: Designing data collection: research instruments </strong>",
+            "topic_description": "Week 10: Designing data collection: research instruments We focus on designing your data collection instruments, including survey design and survey questions, interview or focus group questions, and establishing ways of structuring your observations or textual analysis. This work will form part of your application for the formal ethics clearance.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11: Project proposals</strong><br/><p>This workshop will explain the key parts and style of a Research Proposal. It will be the culmination of the work across the course, drawing together the different threads: problem statement, research questions, literature,key concepts, methods and data.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 11: Project proposals</strong>",
+            "topic_description": "Week 11: Project proposals This workshop will explain the key parts and style of a Research Proposal. It will be the culmination of the work across the course, drawing together the different threads: problem statement, research questions, literature,key concepts, methods and data.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12: Cultural competance in research</strong><br/><p>Appreciating the cultural diversity of research participants is an important professional skill, even when research does not focus on a particular cultural group. This workshop will explore the cultural considerations when conducting research, and how to be culturally inclusive.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 12: Cultural competance in research</strong>",
+            "topic_description": "Week 12: Cultural competance in research Appreciating the cultural diversity of research participants is an important professional skill, even when research does not focus on a particular cultural group. This workshop will explore the cultural considerations when conducting research, and how to be culturally inclusive.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13: Consolidating your research proposal</strong><br/><p>This workshop is dedicated to finalising your research proposal. By now, you should be able to articulate how you are going to DO your research and how your proposed methods speak directly to your research questions and aims. </p>\n<p>Teams should also plan how they may respond to the Ethics Committee during the inter-semester break. </p>\n<p>In this week you should also update your Industry Partner on your progress and see feedback from your Academic Advisor on your draft proposal.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 13: Consolidating your research proposal</strong>",
+            "topic_description": "Week 13: Consolidating your research proposal This workshop is dedicated to finalising your research proposal. By now, you should be able to articulate how you are going to DO your research and how your proposed methods speak directly to your research questions and aims. Teams should also plan how they may respond to the Ethics Committee during the inter-semester break. In this week you should also update your Industry Partner on your progress and see feedback from your Academic Advisor on your draft proposal.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
