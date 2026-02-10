@@ -9,7 +9,28 @@
     "class_code": "22169",
     "semester_code": "7520",
     "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain how sound is generated, transmitted, and measured."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain how humans hear and common causes of hearing impairment across the lifespan."
+        },
+        {
+            "number": "LO3.",
+            "description": "Describe how humans maintain balance and common causes of balance impairment across the lifespan."
+        },
+        {
+            "number": "LO4.",
+            "description": "Describe how humans receive and express speech and language, and common causes of speech and language impairment, across the lifespan."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe cognitive processes associated with hearing and common causes of cognitive impairment across the lifespan."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
