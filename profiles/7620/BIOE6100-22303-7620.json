@@ -1,0 +1,154 @@
+{
+    "course_title": "Fundamentals of Neuroengineering",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE6100-22303-7620",
+    "full_course_code": "BIOE6100-22303-7620",
+    "course_code": "BIOE6100",
+    "class_code": "22303",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate how neurons generate and propagate electrical signals and the basic properties of signal transmission in neural circuits"
+        },
+        {
+            "number": "LO2.",
+            "description": "Critique and select relevant frameworks for analysing neural data"
+        },
+        {
+            "number": "LO3.",
+            "description": "Implement signal processing algorithms for practical problems involving neuroscience"
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate the need of engineering frameworks for large scale neural modelling"
+        },
+        {
+            "number": "LO5.",
+            "description": "Critically analyse information independently acquired from diverse sources (e.g., research articles, books, patents, company product data sheets) in providing solutions to real-world neuroscience problems."
+        },
+        {
+            "number": "LO6.",
+            "description": "Effectively communicate (using oral and written communication and appropriate figures and visualizations) the real-world implementation of analytical frameworks in neuroscience"
+        },
+        {
+            "number": "LO7.",
+            "description": "Orally present and report a research project on neural signal processing"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Sets",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Problem Set #1 6/03/2026 1:00 pm</p>\n<p>Problem Set #2 13/03/2026 1:00 pm</p>\n<p>Problem Set #3 20/03/2026 1:00 pm</p>\n<p>Problem Set #4 27/03/2026 1:00 pm</p>\n<p>Problem Set #5 2/04/2026 1:00 pm</p>\n<p>Problem Set #6 17/04/2026 1:00 pm</p>\n<p>Problem Set #7 24/04/2026 1:00 pm</p>\n<p>Problem Set #8 1/05/2026 1:00 pm</p>\n<p>Problem Set #9 8/05/2026 1:00 pm</p>\n<p>Problem Set #10 15/05/2026 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral, Written",
+            "category": "Computer Code, Practical/ Demonstration, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The marks for this assessment item are determined by the best 8 out of 10 submissions.</p>\n<p>Each problem set covers the technical content presented in each course module. Each problem set involves developing computer code to analyse data, reproduce the results of the selected model, or other theory-based questions.</p>\n<p>Rationale: Each week, students are asked to implement the topics they have learned through hands-on problem sets. The assessment is to be completed individually. Following submission of the assignment, the problems and solutions will be discussed in class. Students will be expected to present answers orally during the session to demonstrate their solutions. </p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<p>Therefore, the grading will be based on the submitted written work as well as any requested orally presented defence of that work.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Problem set solutions will be submitted electronically through the learning management system.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project proposal oral assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 7/05/2026 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Rationale: Students will be allowed to select a final project topic from options provided by the course coordinator. Each project will be associated with a scientific article. In this assessment, students will be asked to give an oral presentation of the article and present the final project definition, scope, background and planned work. Projects are individual. The short presentation should cover the scope and relevance of the project, the reviewed literature and background material, and the plan of work. Open questions or uncertainty about prioritising of different aspects should be brought forward here to receive feedback from the course coordinator. Although all of the above is needed for a proposal to be self-contained, the emphasis should be on the thesis topic area and the scientific article in particular. The material should be prepared in a fashion that suits oral presentation.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their oral presentation independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The project proposal slides will be submitted electronically through the learning management system. Oral presentations will be scheduled individually.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 26/05/2026 2:00 pm</p>\n<p>\n</p><p>Project slides will be due at 2pm 26/05/2025. Project presentations will take place in an allocated timeslot in Week 13.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Rationale: Students are asked to present their project definition and scope, the work they carried out and the conclusion they could draw. The seminar should cover the scope and relevance of the project, the work carried out, conclusions and recommendations/open questions for future investigations. Although all of the above is needed for a seminar to be self-contained, the emphasis should be on the performed work and open discussion points. The material should be prepared in a fashion that suits oral presentation.</p>\n<p>Delivery: The seminar will be scheduled with time for the oral presentation and for Q&amp;A. The date and time of the presentation will be scheduled in Week 13. The deadline is for the submission of the slides.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<p>In accordance with UQ Assessment Policy, your presentation will be recorded.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The project presentation slides will be submitted electronically through the learning management system. The project presentation will be presented orally during scheduled time slots.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Project Final Report",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 10/06/2026 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Rationale: Students will be required to implement the project chosen that builds on the concepts developed in the course. Students will be required to write a final report about their project and present their work orally. The students will work individually. The format and marking follow the project rubric.</p>\n<p>The project report is the written means of reporting the contribution of the project. The report should comprehensively include material on the problems and goals of the project, applicable methods, the approach taken, major decisions and the reasons for the selection of goals and methods, results, the extent to which the goals have been achieved, the relevance, importance and context of achievements, and the reasons for any shortcomings. Production of the report is regarded as part of the educational value of the project, and the course coordinator can give guidance where appropriate.</p>\n<p>Document Preparation and Delivery: All reports should be word processed and grammar and spelling should be correct throughout. Figures should be clearly and readily understood. Follow the preferred document standard and method of specifying references. Variations from this should be discussed with the course coordinator. All project code must be included with the project report.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The project report will be submitted electronically through the learning management system.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hands-on content delivery</strong><br/></p></div></td>",
+            "topic_title": "<strong>Hands-on content delivery</strong>",
+            "topic_description": "Hands-on content delivery",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Technical content delivery</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Technical content delivery</strong>",
+            "topic_description": "Technical content delivery",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
