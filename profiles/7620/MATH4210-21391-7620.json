@@ -1,0 +1,129 @@
+{
+    "course_title": "Topics in Applied and Computational Mathematics",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH4210-21391-7620",
+    "full_course_code": "MATH4210-21391-7620",
+    "course_code": "MATH4210",
+    "class_code": "21391",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain how mathematical modelling and simulation can be applied to understanding phenomena in the natural sciences"
+        },
+        {
+            "number": "LO2.",
+            "description": "Model problems with differential equations (ordinary, partial, stochastic) and obtain and interpret accurate numerical solutions to these problems"
+        },
+        {
+            "number": "LO3.",
+            "description": "For a given phenomenon, explain how mathematical models on different levels of detail are related to each other through asymptotic expansion"
+        },
+        {
+            "number": "LO4.",
+            "description": "Discuss and interpret the concept of emergent phenomena in physics and biology"
+        },
+        {
+            "number": "LO5.",
+            "description": "Conceptualise and solve a scientific problem using the appropriate numerical techniques"
+        },
+        {
+            "number": "LO6.",
+            "description": "Implement advanced numerical methods of solving partial differential equations, including finite element method, boundary element method"
+        },
+        {
+            "number": "LO7.",
+            "description": "Evaluate and implement advanced agent/particle-based simulation techniques"
+        },
+        {
+            "number": "LO8.",
+            "description": "Demonstrate written communication skills appropriate for scientific reports"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>60% 10% for each assignment </dd>",
+            "due_date": "<dd><p>Assignment 1 13/03/2026 2:00 pm</p>\n<p>Assignment 2 27/03/2026 2:00 pm</p>\n<p>Assignment 3 17/04/2026 2:00 pm</p>\n<p>Assignment 4 1/05/2026 2:00 pm</p>\n<p>Assignment 5 15/05/2026 2:00 pm</p>\n<p>Assignment 6 29/05/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will need to solve problems and/or to implement numerical codes.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Please submit your assignment electronically on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Oral assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 12/06/2026 2:00 pm</p>\n<p>\n</p><p>Examination period, the schedule for the oral assessment will be posted on Blackboard.</p></dd>",
+            "learning_objectives": "L02, L03, L05, L06",
+            "mode": "Oral",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will need to answer questions covering the theoretical components of the course.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Presentation of mathematical theory</strong><br/><p>Either 2 or 3 theoretical lectures per week - depending on nature of content.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07, L08</p></div></td>",
+            "topic_title": "<strong>Presentation of mathematical theory</strong>",
+            "topic_description": "Presentation of mathematical theory Either 2 or 3 theoretical lectures per week - depending on nature of content.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Problem-solving/computation exercises</strong><br/><p>A 1-hour unit (applied class exercise) or two-hour unit (computer lab) depending on nature of content</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Problem-solving/computation exercises</strong>",
+            "topic_description": "Problem-solving/computation exercises A 1-hour unit (applied class exercise) or two-hour unit (computer lab) depending on nature of content",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
