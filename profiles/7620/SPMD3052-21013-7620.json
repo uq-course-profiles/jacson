@@ -50,7 +50,7 @@
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
-            "assessment_title": "Online MCQ Quiz",
+            "assessment_title": "In-Class Quiz",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
@@ -61,7 +61,7 @@
             "due_date": "<dd><p> 24/03/2026</p>\n<p>\n</p><p>During timetabled workshop activity.</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
-            "category": "Examination",
+            "category": "Examination, Quiz",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The <strong>pre-census</strong> Online MCQ Quiz will examine general principles and specific materials (covered prior to the exam) which underpin the applied and integrative components of your course. This will provide <strong>FEEDBACK</strong> on your learning and understanding of the course materials.</p>\n<p>Materials to be examined will be from <strong>Week 1 to Week 3 inclusive</strong>.</p>\n<p>This exam will be an invigilated in-person and completed via Inspera.</p>\n<p><strong>Use of generative Artificial Intelligence (AI) or Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
@@ -70,7 +70,7 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
-            "assessment_title": "In-Semester Exam",
+            "assessment_title": "In-Semester Examination",
             "special_indicators": [],
             "weighting": "<dd>35%</dd>",
             "due_date": "<dd><p> 28/04/2026</p>\n<p>\n</p><p>During timetabled workshop activity.</p></dd>",
@@ -85,7 +85,7 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
-            "assessment_title": "Final Exam",
+            "assessment_title": "End of Semester Examination",
             "special_indicators": [],
             "weighting": "<dd>50%</dd>",
             "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
