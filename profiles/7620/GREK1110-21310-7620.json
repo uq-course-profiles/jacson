@@ -57,6 +57,10 @@
             "assessment_title": "In-Class Quizzes",
             "special_indicators": [
                 {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
                     "special_indicator_text": "Identity Verified"
                 },
@@ -70,7 +74,7 @@
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Task:</strong> Quizzes are held weekly in-class and assess foundational skills from the preceding material, covering vocabulary, grammar exercises, translation (both Greek-to-English and English-to-Greek), and parsing. There are 10 quizzes, each marked out of 15. The cumulative raw score achieved across all 10 quizzes will determine the final 15% mark for this component.</p>\n<p>This assessment is designed to promote continuous engagement and immediate application of content.</p>\n<p>Quizzes will be peer marked and collected by the lecturer during class.</p>\n<p><strong>AI:</strong> This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Task:</strong> Quizzes are held weekly in-class and assess foundational skills from the preceding material, covering vocabulary, grammar exercises, translation (both Greek-to-English and English-to-Greek), and parsing. There are 10 quizzes, each marked out of 15. Each student's mean average will determine their final 15% mark for this component.</p>\n<p>This assessment is designed to promote continuous engagement and immediate application of content.</p>\n<p>Quizzes will be peer marked and collected by the lecturer during class.</p>\n<p><strong>Hurdle Requirements:</strong> you must complete (and therefore attend) at least <strong>7 out of 10</strong> quizzes in order to pass the course. If you are unable to attend due to illness or misadventure, please contact Dr. Florence as soon as possible to discuss alternative arrangements and obtain a medical certificate (if relevant). </p>\n<p>Please note that the following are <strong>not </strong>acceptable reasons for missing a quiz: </p>\n<ul>\n<li>Computer or internet problems</li>\n<li>Holidays (including overseas travel)</li>\n<li>Unexpected events causing the loss of revison time</li>\n<li>Normal stress or anxiety associated with study (in the absence of a relevant SAP)</li>\n<li>Moving house (with possible exceptions if the move is sudden and involuntary)</li>\n<li>Social or leisure events (other than sporting or cultural activities at an elite level)</li>\n<li>Ordinary family events or commitments</li>\n<li>Ordinary work commitments</li>\n<li>Forgetting to attend class</li>\n</ul>\n<p><br/></p>\n<p><strong>AI:</strong> This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>All marked quizzes must be returned to the lecturer following peer marking.</p>",
             "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
             "late_submission": null,
@@ -114,7 +118,7 @@
                 }
             ],
             "weighting": "<dd>45%</dd>",
-            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2026 - 21/06/2026</p></dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Examination",
