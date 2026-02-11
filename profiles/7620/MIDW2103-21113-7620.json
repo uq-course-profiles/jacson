@@ -52,9 +52,9 @@
             "category": "Performance, Placement, Quiz, Reflection",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment consists of four [4] parts:</p>\n<ol>\n<li>MedSafe online calculation quiz with 100% pass score, due by end of week 1 of placement.</li>\n<li>Clinical skills - To independently and competently perform <strong>skills x 2</strong>, with feedback from midwifery staff and a reflective self-evaluation of own performance, due by mid-point of placement (approx. 60hrs).</li>\n<li>Midwifery practice experiences (MPEs/CoCEs) in <strong>progress</strong> of achieving a total of <strong>40 x MPEs</strong> (including <strong>CoCEs x 2</strong>) to be verified at mid-point of placement.</li>\n<li>AMSAT due by mid-point of placement, to obtain feedback from midwifery facilitator/educator.</li>\n</ol>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Submit MedSafe certificate by the due date to Blackboard and complete clinical skills, and MPEs/CoCEs, AMSAT in ePAD.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p><strong>Penalties for late submission</strong></p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -72,9 +72,9 @@
             "category": "Performance, Placement, Reflection",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment consists of four [4] parts. </p>\n<ol>\n<li>Clinical skills - To independently and competently perform <strong>skills x 3</strong>, with feedback from midwifery staff and a reflective self-evaluation of own performance, due by the end of placement (160hrs).</li>\n<li>Midwifery practice experiences (MPEs/CoCEs) with attainment of total of <strong>40 x MPEs (including CoCEs x 2) </strong>to be verified at end of placement.</li>\n<li>AMSAT due by end of placement, to obtain a satisfactory pass of competency in placement from midwifery facilitator/educator.</li>\n<li>Placement hours to be completed at a total of <strong>120 hours</strong>.</li>\n</ol>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>All clinical skills and MPEs must to be signed by a registered practitioner in ePAD.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
             "late_submission": null,
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
@@ -86,7 +86,7 @@
                 }
             ],
             "weighting": "<dd> NGP </dd>",
-            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p>\n<p>\n</p><p>This practical skill exam will require the student to demonstrate theoretical knowledge, clinical confidence, and competence in demonstration of a skill chosen from the course content, in a simulated classroom environment. </p></dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p>\n<p>\n</p><p>This practical skill exam will require the student to demonstrate theoretical knowledge, clinical confidence, and competence in demonstration of a skill chosen from the course content, in a simulated classroom environment.  The individual exam dates will be confirmed by the Course Coordinator.</p></dd>",
             "learning_objectives": "L03, L04",
             "mode": "Activity/ Performance",
             "category": "Practical/ Demonstration, Role play/ Simulation",
@@ -127,7 +127,7 @@
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>MyProgress ePAD Lecture with Intro lecture</strong><br><p>Update on the ePortfolio platform Myprogress ePAD which will be used to record all MPEs and CoCEs completed throughout the semester and program. Attendance is essential to successfully navigate ePAD.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>MyProgress ePAD Lecture with Intro lecture</strong><br/><p>Update on the ePortfolio platform Myprogress ePAD which will be used to record all MPEs and CoCEs completed throughout the semester and program. Attendance is essential to successfully navigate ePAD.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>MyProgress ePAD Lecture with Intro lecture</strong>",
             "topic_description": "MyProgress ePAD Lecture with Intro lecture Update on the ePortfolio platform Myprogress ePAD which will be used to record all MPEs and CoCEs completed throughout the semester and program. Attendance is essential to successfully navigate ePAD.",
             "learning_outcomes": [
