@@ -2,7 +2,7 @@
     "course_title": "Advancing Research Inquiry",
     "study_period": "Sem 1 2026",
     "location": "St Lucia",
-    "attendance": "Online",
+    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/HLTH7315-22128-7620",
     "full_course_code": "HLTH7315-22128-7620",
     "course_code": "HLTH7315",
@@ -43,7 +43,7 @@
             ],
             "weighting": "<dd>40%</dd>",
             "due_date": "<dd><p> Week 4, Mon 1:00 pm</p></dd>",
-            "learning_objectives": null,
+            "learning_objectives": "L02, L03",
             "mode": "Written",
             "category": "Essay/ Critique",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>HLTH7315 Assessment 1 requires students to conduct a search on a pre-set research question. Students are required to demonstrate comprehension and proficiency in conducting an academic search which includes the ability to choose an appropriate search strategy (library/web searches versus database searches or a combination of both). Students are also required to reflect on their search process and outcomes.</p>\n<p>Full 'Assessment 1: Library Search Assessment' details can be found on the course BlackBoard site. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
@@ -66,14 +66,14 @@
                 }
             ],
             "weighting": "<dd>60% This is a sequenced assessment. Part A carries a 30% weighting and Part B carries a 30% weighting to total the 60%. </dd>",
-            "due_date": "<dd><p>Part A pre-submission </p>\n<p>Part A viva voce Week 7 Wed - Week 8 Thu</p>\n<p>Part B research question exploration </p>\n<p>\n</p><p>Part A pre-submission due 1pm Monday, Week 7 through BlackBoard.</p>\n<p>Part A viva voce assessed from 8am Wednesday Week 7 through till 7pm Thursday Week 8. Students will self-allocate to one 30 minute slot only on a first come, first served basis. Time slots will be released on Monday of week 3 at 1600 hours.</p>\n<p>Part B research question exploration due 1pm Friday week 13 through BlackBoard.</p></dd>",
-            "learning_objectives": null,
+            "due_date": "<dd><p>Part A pre-submission Week 7 Tue - Week 7 Tue</p>\n<p>Part A viva voce Week 8 Tue - Week 9 Fri</p>\n<p>Part B research question exploration Week 13 Fri - Week 13 Fri</p>\n<p>\n</p><p>Part A pre-submission through BlackBoard.</p>\n<p>Part A viva voce through Teams. Students will self-allocate to one 30 minute slot only on a first come, first served basis. Time slots will be released on Monday of week 5 at 7pm.</p>\n<p>Part B research question exploration due 1pm Friday week 13 through BlackBoard.</p></dd>",
+            "learning_objectives": "L01, L03, L04",
             "mode": "Oral, Written",
             "category": "Essay/ Critique, Presentation, Reflection",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Research Question Assessment requires you to reflect on your area of practice and develop a research question considering which paradigm has informed your approach. Following the viva voce component of this assessment, you will have a research question which has been reviewed and confirmed by your course tutor; you will develop a critical background which informs and justifies the confirmed research question.</p>\n<p>Full 'Assessment 2 Research Question Assessment' details can be found on the course BlackBoard site. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Part A 'pre-submission' and Part B 'research question exploration' are to be submitted via Turnitin in BlackBoard Ultra.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "late_submission": "<p>For Part A pre-submission - late submission or exceeding maximum limit of 1 page in length will result in a grade of 0/10 for the presentation section of the rubric. </p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
@@ -91,10 +91,11 @@
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Library searching and sourcing literature part 1</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Library searching and sourcing literature part 1</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Library searching and sourcing literature part 1</strong>",
             "topic_description": "Library searching and sourcing literature part 1 Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
             "learning_outcomes": [
+                "L02",
                 "L03"
             ]
         },
@@ -111,63 +112,94 @@
         {
             "learning_period": "Week 2(02 Mar - 08 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Library searching and sourcing literature part 2</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Library searching and sourcing literature part 2</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Library searching and sourcing literature part 2</strong>",
             "topic_description": "Library searching and sourcing literature part 2 Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
             "learning_outcomes": [
+                "L02",
                 "L03"
             ]
         },
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Research paradigms and research approaches + second lecture Linking research paradigms to methodologies</strong><br><p>This weeks first lecture addresses how we think about philosophical questions such as what is truth and how we have structured our knowledge. We then consider how this orientates our approach to research. </p>\n<p>The second lecture links research paradigms to research methodologies.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
-            "topic_title": "<strong>Research paradigms and research approaches + second lecture Linking research paradigms to methodologies</strong>",
-            "topic_description": "Research paradigms and research approaches + second lecture Linking research paradigms to methodologies This weeks first lecture addresses how we think about philosophical questions such as what is truth and how we have structured our knowledge. We then consider how this orientates our approach to research. The second lecture links research paradigms to research methodologies.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research paradigms and research approaches </strong><br><p>This weeks lecture addresses how we think about philosophical questions such as what is truth and how we have structured our knowledge. We then consider how this orientates our approach to research. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Research paradigms and research approaches </strong>",
+            "topic_description": "Research paradigms and research approaches This weeks lecture addresses how we think about philosophical questions such as what is truth and how we have structured our knowledge. We then consider how this orientates our approach to research.",
             "learning_outcomes": [
                 "L01",
                 "L02",
+                "L03",
                 "L04"
             ]
         },
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Research paradigms and research approaches</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research paradigms and research approaches</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
             "topic_title": "<strong>Research paradigms and research approaches</strong>",
             "topic_description": "Research paradigms and research approaches Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
             "learning_outcomes": [
                 "L01",
                 "L02",
+                "L03",
                 "L04"
             ]
         },
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Developing a research question</strong><br><p>This lecture explains how to write a research question.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
-            "topic_title": "<strong>Developing a research question</strong>",
-            "topic_description": "Developing a research question This lecture explains how to write a research question.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linking research paradigms to methodologies and methodological approaches to research</strong><br><p>This lecture builds on the research paradigms and approaches lecture to discuss how it is research can be conducted and the approaches this can take.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Linking research paradigms to methodologies and methodological approaches to research</strong>",
+            "topic_description": "Linking research paradigms to methodologies and methodological approaches to research This lecture builds on the research paradigms and approaches lecture to discuss how it is research can be conducted and the approaches this can take.",
             "learning_outcomes": [
                 "L01",
                 "L02",
+                "L03",
                 "L04"
             ]
         },
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Developing a research question</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
-            "topic_title": "<strong>Developing a research question</strong>",
-            "topic_description": "Developing a research question Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research methods - quantitative vs qualitative and methodology vs methods</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. </p>\n<p>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. </p>\n<p>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Research methods - quantitative vs qualitative and methodology vs methods</strong>",
+            "topic_description": "Research methods - quantitative vs qualitative and methodology vs methods Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
             "learning_outcomes": [
                 "L01",
                 "L02",
+                "L03",
                 "L04"
             ]
         },
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Developing a research question</strong><br/><p>This lecture explains how to write a research question.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Developing a research question</strong>",
+            "topic_description": "Developing a research question This lecture explains how to write a research question.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Developing a research question</strong><br/><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Developing a research question</strong>",
+            "topic_description": "Developing a research question Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Local context of research and inquiry</strong><br><p>This lecture addresses how the local context of the area we are interested can shape the research question we ask as we consider local challenges, questions and opportunities.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
             "topic_title": "<strong>Local context of research and inquiry</strong>",
@@ -180,36 +212,11 @@
             ]
         },
         {
-            "learning_period": "Week 5(23 Mar - 29 Mar)",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Local context of research and inquiry</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Local context of research and inquiry</strong>",
-            "topic_description": "Local context of research and inquiry Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04"
-            ]
-        },
-        {
-            "learning_period": "Week 6(30 Mar - 05 Apr)",
-            "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Quality literature and reading strategically</strong><br><p>This lecture examines what is quality literature, how planning your search strategy will yield quality literature and reading strategically and critically.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
-            "topic_title": "<strong>Quality literature and reading strategically</strong>",
-            "topic_description": "Quality literature and reading strategically This lecture examines what is quality literature, how planning your search strategy will yield quality literature and reading strategically and critically.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L04"
-            ]
-        },
-        {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploring student research questions and topics?</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Exploring student research questions and topics?</strong>",
-            "topic_description": "Exploring student research questions and topics? Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Local context of research and inquiry and linking your question</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Local context of research and inquiry and linking your question</strong>",
+            "topic_description": "Local context of research and inquiry and linking your question Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -219,6 +226,44 @@
         },
         {
             "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Refining your research question, quality literature and reading strategically</strong><br><p>This lecture examines what is quality literature, how planning your search strategy will yield quality literature and reading strategically and critically.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Refining your research question, quality literature and reading strategically</strong>",
+            "topic_description": "Refining your research question, quality literature and reading strategically This lecture examines what is quality literature, how planning your search strategy will yield quality literature and reading strategically and critically.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploring student research questions and topics</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Exploring student research questions and topics</strong>",
+            "topic_description": "Exploring student research questions and topics Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics</strong><br><p>This lectures examines ethics and how these underpin, impact and shape research.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Ethics</strong>",
+            "topic_description": "Ethics This lectures examines ethics and how these underpin, impact and shape research.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Critically evaluating literature</strong><br><p>What does the literature really say and is there a collective direction it is taking?</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
             "topic_title": "<strong>Critically evaluating literature</strong>",
@@ -231,36 +276,11 @@
             ]
         },
         {
-            "learning_period": "Week 7(13 Apr - 19 Apr)",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploring student research questions and topics?</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Exploring student research questions and topics?</strong>",
-            "topic_description": "Exploring student research questions and topics? Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04"
-            ]
-        },
-        {
-            "learning_period": "Week 9(27 Apr - 03 May)",
-            "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics</strong><br><p>This lectures examines ethics and how these underpin, impact and shape research.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
-            "topic_title": "<strong>Ethics</strong>",
-            "topic_description": "Ethics This lectures examines ethics and how these underpin, impact and shape research.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L04"
-            ]
-        },
-        {
             "learning_period": "Week 10(04 May - 10 May)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Bringing it all together</strong><br><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Bringing it all together</strong>",
-            "topic_description": "Bringing it all together Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploring student research questions and topics and reflections on vivas</strong><br/><p>Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. <br/>As tutorials are provided for small group work and feedback only, no tutorial will be recorded. <br/>Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Exploring student research questions and topics and reflections on vivas</strong>",
+            "topic_description": "Exploring student research questions and topics and reflections on vivas Tutorials provide an opportunity for small group work with peers in this course and academic access and support on a weekly basis. As tutorials are provided for small group work and feedback only, no tutorial will be recorded. Attendance at tutorials is at your discretion and should be determined by your existing research knowledge and how you feel you are progressing in this course.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -271,9 +291,9 @@
         {
             "learning_period": "Week 12(18 May - 24 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Answering your questions</strong><br><p>Students questions about Part B of the research question assessment will be addressed.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Answering your questions</strong><br><p>Students' questions about Part B of the research question assessment will be addressed.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
             "topic_title": "<strong>Answering your questions</strong>",
-            "topic_description": "Answering your questions Students questions about Part B of the research question assessment will be addressed.",
+            "topic_description": "Answering your questions Students' questions about Part B of the research question assessment will be addressed.",
             "learning_outcomes": [
                 "L01",
                 "L02",
