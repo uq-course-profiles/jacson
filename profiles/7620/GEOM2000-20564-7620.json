@@ -1,0 +1,375 @@
+{
+    "course_title": "Introduction to Earth Observation Sciences (EOS)",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/GEOM2000-20564-7620",
+    "full_course_code": "GEOM2000-20564-7620",
+    "course_code": "GEOM2000",
+    "class_code": "20564",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain how electromagnetic radiation is transferred through the atmosphere and interacts with atmospheric, oceanic, vegetation and terrestrial features."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify the types of information able to be extracted from remotely sensed data on an environment(composition, configuration, biophysical and dynamics) and the methods used to do this in qualitative and quantitative forms."
+        },
+        {
+            "number": "LO3.",
+            "description": "Plan, obtain, analyse and link field measurements with remotely sensed images at different spatial scales to produce maps of land cover and biophysical parameters."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the concepts of spatial, spectral, radiometric and temporal resolutions of remotely sensed data and how these concepts relate to remote sensing applications in different environments."
+        },
+        {
+            "number": "LO5.",
+            "description": "Identify the range of commercially available airborne and satellite remotely sensed data sets, their geometric and radiometric properties, their limitations and how to acquire them."
+        },
+        {
+            "number": "LO6.",
+            "description": "Identify, explain and apply the fundamental image interpretation elements (e.g., tone, texture, size, shape, pattern, site and association."
+        },
+        {
+            "number": "LO7.",
+            "description": "Apply basic image pre-processing operations to produce image data sets that can be integrated with other forms of digital spatial data."
+        },
+        {
+            "number": "LO8.",
+            "description": "Interpret images provided by optical (cameras, broad-band, hyperspectral and thermal) and active (imaging radar) sensors and explain the steps used to convert an image into a thematic map (e.g.land-cover) or quantitative map (e.g. water depth)."
+        },
+        {
+            "number": "LO9.",
+            "description": "Describe how remotely sensed data are applied in commercial, public-sector and research applications."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Practical 1 - Linking Field to Earth Observation Data",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 2/04/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L04, L06, L07, L08",
+            "mode": "Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The objectives of this assessment are to: </p>\n<p>(1)  To build core skills for interpreting and analyzing remotely sensed images and geospatial data derived from them, by understanding how the physical, biological and chemical properties of the atmosphere, water bodies, vegetation and soils, are measured by remote sensing instruments. </p>\n<p>(2)  To understand how the attributes or dimensions (spatial, spectral, radiometric and temporal) of an airborne or satellite imaging system control the environmental information measured in an airborne or satellite image data set. </p>\n<p>Both of these objectives will be addressed using the data sets collected in the practical field day exercise from week 4.</p>\n<p>You will be applying geospatial and remote sensing processing techniques learnt in weeks 1-4 to the data sets you collected on the field practical day.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Practical 2  - Image Processing: Images to Information",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 30/04/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The objectives of this assessment are to: </p>\n<p>1)   Develop basic image display and analysis skills using ENVI, an industry standard image processing system;</p>\n<p>2)   Apply a geometric correction procedure to register an uncorrected satellite image to a corrected satellite image for the same area;</p>\n<p>3)   Develop and apply measures to assess how well your geometric correction worked;</p>\n<p>4)   Develop and apply a supervised classification process to map land-cover types in a satellite image ; and</p>\n<p>5)   Develop and apply measures to assess how well your image classification worked.</p>\n<p>You are required to prepare and submit a report that includes:</p>\n<ul>\n<li>an outline of the procedures you applied;</li>\n<li>images, maps and graphics showing and explaining the results;</li>\n<li>short format (supported by appropriate literature) answers to a number of questions.</li>\n</ul>\n<p><br/></p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Workshop  Engagement Exercise: Communication of an EO solution to an application/problem- Which EO data-set? Satellite, Airborne, Drone or Field ?",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 31/03/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L05, L09",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A document containing responses to a summary question to be answered during Workshop-1 and submitted on completion.</p>\n<p><strong>Workshop 1- Week 6 - 10% </strong></p>\n<p>This workshop provides experience in critically assessing two large public remote sensing projects in Australia to understand the differences in data sets, processing methods and outputs. By doing so students gain an understanding of how to select appropriate data and algorithms and how to apply them to deliver scientifically and legally justifiable data and information.</p>\n<p><strong>Workshop 2- Week 10 - no direct grade contribution</strong></p>\n<p>This workshop provides the essential briefing and materials required for you to complete the final exam exam, which is worth 50% of your marks and a hurdle to pass the class.</p>\n<p>It also provides you with an opportunity to develop and obtain feedback on the material you will use in the exam.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong> </p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Exam Essay : Why Use Earth Observation for [insert selected topic]",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L09",
+            "mode": "Written",
+            "category": "Essay/ Critique, Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This task will be completed under central examination conditions and schedules.</p>\n<p>The task will be to integrate the practical skills and knowledge of earth observation you have developed in the course this assessment item requires you to prepare a project proposal.</p>\n<p>You have to outline to an audience from the general public, how earth-observation/remote-sensing can be used to provide the information required to address an environmental, infrastructure, community, or socio-economic  monitoring problem that you select based on your interests.</p>\n<p>Your aim is to use the essay to convince the reader that, you :</p>\n<p>-       are addressing a real problem for industry, government or community;</p>\n<p>-      can demonstrate from previous published, scientific literature, that earth-observation can be used to address the problem;</p>\n<p>-      have selected the most suitable type of earth observation data;</p>\n<p>-      will apply a sequence of image processing operations that will deliver accurate, verifiable and use-able information; and</p>\n<p>-      can explain the limitations of the data and methods used.</p>\n<p><strong><em>All instructions for completing and submitting this assessment item, including an example format will be discussed in the workshop in Week 10 and final lecture in week 13. </em></strong></p>\n<p><strong><em> </em>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Earth Observation and Our Course - SOLVING PROBLEMS FOR INDUSTRY, GOVERNMENTS AND SCIENCE, WITH EARTH OBSERVATION? </strong><br><p>Introduction to Earth Observation and Our Course - In person lecture and discussion for Internal students, link provided to External students for Zoom Session.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Introduction to Earth Observation and Our Course - SOLVING PROBLEMS FOR INDUSTRY, GOVERNMENTS AND SCIENCE, WITH EARTH OBSERVATION? </strong>",
+            "topic_description": "Introduction to Earth Observation and Our Course - SOLVING PROBLEMS FOR INDUSTRY, GOVERNMENTS AND SCIENCE, WITH EARTH OBSERVATION? Introduction to Earth Observation and Our Course - In person lecture and discussion for Internal students, link provided to External students for Zoom Session.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical  - Introduction to EO Image and Geospatial Data/digital Essentials and Assessment  </strong><br/><p>Essentials Practical:EO and Geospatial Data, Software etc- - expectation setting, accessing and using s/w and data, virtual field exercise - live and recorded</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
+            "topic_title": "<strong>Practical  - Introduction to EO Image and Geospatial Data/digital Essentials and Assessment  </strong>",
+            "topic_description": "Practical  - Introduction to EO Image and Geospatial Data/digital Essentials and Assessment Essentials Practical:EO and Geospatial Data, Software etc- - expectation setting, accessing and using s/w and data, virtual field exercise - live and recorded",
+            "learning_outcomes": [
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamentals of Earth Observation and Geospatial Data: EXTRACTING INFORMATION FROM IMAGES: THE SCIENTIFIC KEY TO MAPPING, MEASURING AND MONITORING OUR ENVIRONMENTS</strong><br/><p>Fundamentals of Earth Observation: 1. EMR (Electro-Magnetic-Radiation)fundamentals - pre-recorded</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Fundamentals of Earth Observation and Geospatial Data: EXTRACTING INFORMATION FROM IMAGES: THE SCIENTIFIC KEY TO MAPPING, MEASURING AND MONITORING OUR ENVIRONMENTS</strong>",
+            "topic_description": "Fundamentals of Earth Observation and Geospatial Data: EXTRACTING INFORMATION FROM IMAGES: THE SCIENTIFIC KEY TO MAPPING, MEASURING AND MONITORING OUR ENVIRONMENTS Fundamentals of Earth Observation: 1. EMR (Electro-Magnetic-Radiation)fundamentals - pre-recorded",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical/Workshop - EO Image and Geospatial Data/digital Essentials for Field Practical Day and Practical #1</strong><br/><p>Workshop in practical sessions: Field Practical Day Preparation - Put all Fundamentals and Essentials Together + Field Practical overview + access software and Practical #1 requirements</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L08</p></div></td>",
+            "topic_title": "<strong>Practical/Workshop - EO Image and Geospatial Data/digital Essentials for Field Practical Day and Practical #1</strong>",
+            "topic_description": "Practical/Workshop - EO Image and Geospatial Data/digital Essentials for Field Practical Day and Practical #1 Workshop in practical sessions: Field Practical Day Preparation - Put all Fundamentals and Essentials Together + Field Practical overview + access software and Practical #1 requirements",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Fieldwork",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Earth Observation Field Practical Day </strong><br/><p><strong>Compulsory Field Practical Day - on St Lucia campus for internal students</strong></p>\n<p>Generates data, knowledge and experience required to complete Practical 1.</p>\n<p>See Blackboard for dates.</p>\n<p>We recognize some of you have work and class commitments that clash, details will be provided in weeks 1and 2 of alternative arrangements.</p>\n<p><strong>External students</strong> - will complete a \"Virtual Field Practical Day\" and receive data related to this for use in Practical 1.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L08</p></div></td>",
+            "topic_title": "<strong>Earth Observation Field Practical Day </strong>",
+            "topic_description": "Earth Observation Field Practical Day Compulsory Field Practical Day - on St Lucia campus for internal students Generates data, knowledge and experience required to complete Practical 1. See Blackboard for dates. We recognize some of you have work and class commitments that clash, details will be provided in weeks 1and 2 of alternative arrangements. External students - will complete a \"Virtual Field Practical Day\" and receive data related to this for use in Practical 1.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Earth Observation: Platforms and Sensors </strong><br/><p>Fundamentals of Earth Observation:   Platforms and Sensors - In person lecture and discussion for Internal students, External students are provided a Zoom Link</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05, L08</p></div></td>",
+            "topic_title": "<strong>Earth Observation: Platforms and Sensors </strong>",
+            "topic_description": "Earth Observation: Platforms and Sensors Fundamentals of Earth Observation:   Platforms and Sensors - In person lecture and discussion for Internal students, External students are provided a Zoom Link",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online)</strong><br/><p>Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L06, L08</p></div></td>",
+            "topic_title": "<strong>Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online)</strong>",
+            "topic_description": "Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online) Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Earth Observation Images to Information:  1) Earth Observation Processing Sequence, and 2) Analysis Ready (Earth Observation) Data </strong><br/><p>Earth Observation Images to Information: 1) Earth Observation Processing Sequence, and 2) Analysis Ready (Earth Observation) Data- Pre-recorded lecture</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05, L07</p></div></td>",
+            "topic_title": "<strong>Earth Observation Images to Information:  1) Earth Observation Processing Sequence, and 2) Analysis Ready (Earth Observation) Data </strong>",
+            "topic_description": "Earth Observation Images to Information:  1) Earth Observation Processing Sequence, and 2) Analysis Ready (Earth Observation) Data Earth Observation Images to Information: 1) Earth Observation Processing Sequence, and 2) Analysis Ready (Earth Observation) Data- Pre-recorded lecture",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online )</strong><br/><p>Revision Practical 1 - Linking field to EO data –: How to collect and process EO data (2 hrs F2F + online )</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L06, L08</p></div></td>",
+            "topic_title": "<strong>Revision Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online )</strong>",
+            "topic_description": "Revision Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online ) Revision Practical 1 - Linking field to EO data –: How to collect and process EO data (2 hrs F2F + online )",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L06",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Whole of class workshop: Which EO data-set? Satellite, Airborne, Drone or Field ?</strong><br/><p>This workshop provides experience in critically assessing two large public remote sensing projects in Australia to understand the differences in data sets, processing methods and outputs. By doing so students gain an understanding of how to select appropriate data and algorithms and how to apply them to deliver scientifically and legally justifiable data and information.</p>\n<p>A 10% assessment exercise will be conducted during the workshop.</p>\n<p>This is an in-person session for Internal students, External students are provided a Zoom Link</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Whole of class workshop: Which EO data-set? Satellite, Airborne, Drone or Field ?</strong>",
+            "topic_description": "Whole of class workshop: Which EO data-set? Satellite, Airborne, Drone or Field ? This workshop provides experience in critically assessing two large public remote sensing projects in Australia to understand the differences in data sets, processing methods and outputs. By doing so students gain an understanding of how to select appropriate data and algorithms and how to apply them to deliver scientifically and legally justifiable data and information. A 10% assessment exercise will be conducted during the workshop. This is an in-person session for Internal students, External students are provided a Zoom Link",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Earth Observation Processing:   Data Selection/Acquisition/Evaluation/Processing and Analysis Software Options</strong><br/><p>Earth Observation Processing:  Data Selection/Evaluation, and Processing and Analysis Software Options</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L08, L09</p></div></td>",
+            "topic_title": "<strong>Earth Observation Processing:   Data Selection/Acquisition/Evaluation/Processing and Analysis Software Options</strong>",
+            "topic_description": "Earth Observation Processing:   Data Selection/Acquisition/Evaluation/Processing and Analysis Software Options Earth Observation Processing:  Data Selection/Evaluation, and Processing and Analysis Software Options",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 2 - Image Processing Sequence Software, Workflows and Practices  (2 hrsF2F + online)</strong><br/><p>Practical 2 - Image Processing Sequence Software, Workflows and Practices (2 hrsF2F + online)</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Practical 2 - Image Processing Sequence Software, Workflows and Practices  (2 hrsF2F + online)</strong>",
+            "topic_description": "Practical 2 - Image Processing Sequence Software, Workflows and Practices  (2 hrsF2F + online) Practical 2 - Image Processing Sequence Software, Workflows and Practices (2 hrsF2F + online)",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Earth Observation: Mapping and Validation  </strong><br/><p>EO approaches for mapping natural and artificial features, including introduction to image classification and segmentation, and the use of machine-learning and AI.</p>\n<p>In person lecture and discussion for Internal students, External students are provided a Zoom Link</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L09</p></div></td>",
+            "topic_title": "<strong>Earth Observation: Mapping and Validation  </strong>",
+            "topic_description": "Earth Observation: Mapping and Validation EO approaches for mapping natural and artificial features, including introduction to image classification and segmentation, and the use of machine-learning and AI. In person lecture and discussion for Internal students, External students are provided a Zoom Link",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision Practical 2 -  Image Processing Sequence Software, Workflows and Practices  (2 hrsF2F)</strong><br/><p>Revision Practical 2 - Image Processing Sequence Software, Workflows and Practices (2 hrsF2F)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Revision Practical 2 -  Image Processing Sequence Software, Workflows and Practices  (2 hrsF2F)</strong>",
+            "topic_description": "Revision Practical 2 -  Image Processing Sequence Software, Workflows and Practices  (2 hrsF2F) Revision Practical 2 - Image Processing Sequence Software, Workflows and Practices (2 hrsF2F)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Earth Observation: Biophysical, Monitoring, Validation  - atmosphere, vegetation, soils, water, ice…other planets!</strong><br/><p>Biophysical remote sensing fundamentals - atmosphere, vegetation, soils, water, ice…other planets!</p>\n<p>In person lecture and discussion for Internal students, External students are provided a Zoom Link</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L09</p></div></td>",
+            "topic_title": "<strong>Earth Observation: Biophysical, Monitoring, Validation  - atmosphere, vegetation, soils, water, ice…other planets!</strong>",
+            "topic_description": "Earth Observation: Biophysical, Monitoring, Validation  - atmosphere, vegetation, soils, water, ice…other planets! Biophysical remote sensing fundamentals - atmosphere, vegetation, soils, water, ice…other planets! In person lecture and discussion for Internal students, External students are provided a Zoom Link",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Whole of class workshop: Planning and Delivering an EO Project (includes Exam prep)</strong><br/><p>This workshop provides the essential briefing and materials required for you to complete the final exam exam, which is worth 50% of your marks and a hurdle to pass the class. </p>\n<p>It also provides you with an opportunity to develop and obtain feedback on the material you will use in the exam.</p></p><p><strong>Learning outcomes:</strong> L02, L05, L09</p></div></td>",
+            "topic_title": "<strong>Whole of class workshop: Planning and Delivering an EO Project (includes Exam prep)</strong>",
+            "topic_description": "Whole of class workshop: Planning and Delivering an EO Project (includes Exam prep) This workshop provides the essential briefing and materials required for you to complete the final exam exam, which is worth 50% of your marks and a hurdle to pass the class. It also provides you with an opportunity to develop and obtain feedback on the material you will use in the exam.",
+            "learning_outcomes": [
+                "L02",
+                "L05",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Project Planning, Delivery and Communication</strong><br/><p>Practical design of EO image collection, correction, processing, analyses, validation and communication workflow, for final assessment item</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L06, L09</p></div></td>",
+            "topic_title": "<strong>Project Planning, Delivery and Communication</strong>",
+            "topic_description": "Project Planning, Delivery and Communication Practical design of EO image collection, correction, processing, analyses, validation and communication workflow, for final assessment item",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L05",
+                "L06",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Marine and Coastal Earth Observation</strong><br/><p>Marine and coastal earth observation applications</p></p><p><strong>Learning outcomes:</strong> L02, L05, L09</p></div></td>",
+            "topic_title": "<strong>Marine and Coastal Earth Observation</strong>",
+            "topic_description": "Marine and Coastal Earth Observation Marine and coastal earth observation applications",
+            "learning_outcomes": [
+                "L02",
+                "L05",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Earth Observation Futures and Future Study - Careers, Satellites, Sensors, AI, Ethics and Exam Prep. </strong><br/><p>Earth Observation Futures - Careers, Satellites, Sensors, AI, Ethics and anything else! </p>\n<p>In person lecture and discussion for Internal students, External students are provided a Zoom Link</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L08</p></div></td>",
+            "topic_title": "<strong>Earth Observation Futures and Future Study - Careers, Satellites, Sensors, AI, Ethics and Exam Prep. </strong>",
+            "topic_description": "Earth Observation Futures and Future Study - Careers, Satellites, Sensors, AI, Ethics and Exam Prep. Earth Observation Futures - Careers, Satellites, Sensors, AI, Ethics and anything else! In person lecture and discussion for Internal students, External students are provided a Zoom Link",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L08"
+            ]
+        }
+    ]
+}
