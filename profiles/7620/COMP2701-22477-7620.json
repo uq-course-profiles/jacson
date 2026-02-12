@@ -1,0 +1,166 @@
+{
+    "course_title": "Generative Artificial Intelligence",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP2701-22477-7620",
+    "full_course_code": "COMP2701-22477-7620",
+    "course_code": "COMP2701",
+    "class_code": "22477",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the core principles of Generative AI, including how large language models are applied across software engineering tasks."
+        },
+        {
+            "number": "LO2.",
+            "description": "Design and effectively prompt to influence and optimise outputs from Generative AI systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop and evaluate Generative AI solutions using advanced techniques and workflow orchestration tools."
+        },
+        {
+            "number": "LO4.",
+            "description": "Assess the potential and limitations of Generative AI in real-world software and data-driven applications across different domains."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate awareness of the ethical, legal, and societal considerations involved in building and deploying Generative AI technologies."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assessment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 24/04/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will design and implement an individual application based on a specification. This assessment covers topics from teaching week 1 through week 6. Students may use approved generative AI tools to support their development process; however, the submitted code, tests, and report must be the student’s own work. Students must not view or share another student’s code and must not reproduce code from external sources including websites, repositories, forums, or AI outputs.</p>\n<p>Generative AI use is permitted only in accordance with the course guidelines. Students must include an AI Use Statement that clearly describes how AI tools were used (tool name, purpose, and how outputs were verified or modified). Students remain responsible for the correctness, security, and integrity of their submission. Unacknowledged or inappropriate use may constitute academic misconduct under UQ academic integrity requirements.</p>\n<p>To pass this assessment, you may be required to attend a short interview to confirm your understanding of your submission and to explain key design and implementation decisions without using AI or machine translation tools. In line with the UQ Assessment Policy, the interview will be recorded. If you cannot attend your allocated time, one make-up session will be offered.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment will be submitted online via the Gradescope and Blackboard platform. Detailed instructions will be provided in the task specification.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assessment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 22/05/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will design and implement an individual application based on a provided specification. This assessment covers topics from teaching week 1 through week 11. Students may use approved generative AI tools to support their development process; however, the submitted code, tests, and report must be the student’s own work. Students must not view or share another student’s code and must not reproduce code from external sources including websites, repositories, forums, or AI outputs.</p>\n<p>Generative AI use is permitted only in accordance with the course guidelines. Students must include an AI Use Statement that clearly describes how AI tools were used (tool name, purpose, and how outputs were verified or modified). Students remain responsible for the correctness, security, and integrity of their submission. Unacknowledged or inappropriate use may constitute academic misconduct under UQ academic integrity requirements.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assessment will be submitted online via the Gradescope and Blackboard platform. Detailed instructions will be provided in the task specification.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assessment 2 Oral Interview",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd> Pass/Fail </dd>",
+            "due_date": "<dd><p> 25/05/2026 - 29/05/2026</p>\n<p>\n</p><p>During your assigned applied class in Week 13.</p></dd>",
+            "learning_objectives": "L03, L04",
+            "mode": "Oral",
+            "category": "Computer Code, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You are required to attend an interview about your Assessment 2 submission during your allocated applied class in Week 13. Teaching staff will ask you questions about your submission to confirm genuine authorship and understanding of your submission without using AI or machine translation tools. In line with the UQ Assessment Policy, the interview will be recorded.</p>\n<p>Failure to attend will result in a failing grade for this assessment task.</p>\n<p>You must bring your student card.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The oral interview will be conducted in applied classes during Week 13. Detailed instructions will be provided in the assignment sheet and via Blackboard announcements.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a <strong>closed book</strong> and <strong>identity verified</strong> examination that is written on campus.</p>\n<p>The final exam is compulsory and aims to test the students' understanding of topics covered by the whole course. </p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br><p>Lectures present the core concepts and underpinning principles of the course and illustrate their application through selected worked examples.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture</strong>",
+            "topic_description": "Lecture Lectures present the core concepts and underpinning principles of the course and illustrate their application through selected worked examples.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(02 Mar - 31 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br><p>Applied classes provide structured opportunities for students to practise and consolidate learning through activities such as guided exercises, problem-solving tasks, and facilitated discussion.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class Applied classes provide structured opportunities for students to practise and consolidate learning through activities such as guided exercises, problem-solving tasks, and facilitated discussion.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
