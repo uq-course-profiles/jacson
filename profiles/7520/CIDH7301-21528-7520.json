@@ -9,7 +9,24 @@
     "class_code": "21528",
     "semester_code": "7520",
     "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe the health context where digital health and clinical informatics is applicable"
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the technical foundations and architectures, terminologies, and evidence based care used in clinical informatics and digital health"
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand the use of clinical workflows, and a variety of information systems used in modern healthcare systems"
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply health economics principles in digital health and clinical informatics practices"
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
