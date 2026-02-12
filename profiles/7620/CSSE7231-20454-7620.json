@@ -1,0 +1,194 @@
+{
+    "course_title": "Computer Systems Principles and Programming",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE7231-20454-7620",
+    "full_course_code": "CSSE7231-20454-7620",
+    "course_code": "CSSE7231",
+    "class_code": "20454",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use a UNIX (Linux) shell and write commands and simple shell scripts to perform common tasks, including modifying file permissions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Write, compile, run and debug C programs in a UNIX (Linux) environment."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate appropriate use of the Subversion (SVN) version control system, including being able to write suitable commands for a range of version control tasks."
+        },
+        {
+            "number": "LO4.",
+            "description": "Write C programs that access file systems and perform input/output using Standard C library calls and underlying system calls."
+        },
+        {
+            "number": "LO5.",
+            "description": "Write and analyse C programs that create and control processes and threads."
+        },
+        {
+            "number": "LO6.",
+            "description": "Evaluate and implement different methods of inter-process and inter-thread communication and coordination."
+        },
+        {
+            "number": "LO7.",
+            "description": "Explain, contrast and be able to perform calculations on the properties/relationships/addressing schemes of layers in the IP networking stack and important protocols used on the Internet."
+        },
+        {
+            "number": "LO8.",
+            "description": "Write network client and server programs using the sockets API."
+        },
+        {
+            "number": "LO9.",
+            "description": "Predict the behaviour of, and perform calculations about, virtual memory systems and file systems."
+        },
+        {
+            "number": "LO10.",
+            "description": "Apply principles of secure and defensive programming to C programs"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment One - Introductory C Programming",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 26/03/2026 3:00 pm</p>\n<p>\n</p><p>You must also attend an interview about your submission in the week following your submission. See additional assessment information below for more information. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will write a C program for Linux that implements a given specification and that follows a given style guide. You will use a version control system to progressively build your application. The task description will be released in week 2. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Programs must be submitted electronically as detailed in the assignment specification. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 4 days. After 4 days (96 hours), you will receive a mark of zero. Failure to attend an interview about your submission will result in a mark of zero.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment Two - Processes and Pipes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 7/05/2026 3:00 pm</p>\n<p>\n</p><p>You may also be asked attend an interview about your submission. See additional assessment information below for more information. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The second assignment will require development of an application that interacts with a Linux file system and uses multiple processes that communicate with each other. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Programs must be submitted electronically as detailed in the assignment specification. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 4 days. After 4 days (96 hours), you will receive a mark of zero. Failure to attend an interview about your submission, if requested, will result in a mark of zero.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment Three - Threads and Network Programming",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 28/05/2026 3:00 pm</p>\n<p>\n</p><p>You may also be asked to attend an interview about your submission. See additional assessment information below for more information.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L08, L10",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will involve writing a network client/server application that uses multiple threads. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Programs must be submitted electronically as detailed in the assignment specification.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 4 days. After 4 days (96 hours), you will receive a mark of zero. Failure to attend an interview about your submission, if requested, will result in a mark of zero.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05, L06, L07, L08, L09, L10",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will be an on-campus, invigilated <strong>computer-based exam</strong>. The exam is closed book. A useful information sheet will be provided. The exam covers all course materials from the whole semester. Question formats may include short answer, calculations, and programming tasks. You must have and bring your own laptop (running Windows or MacOS) and you will need to install and use a secure browser for the exam which will prevent access to prohibited resources. The exam itself will be conducted via the Ed Lessons platform. More details and a sample exam will be provided later in the semester. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The exam will be automatically submitted when time expires or can be manually submitted earlier if desired. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pracs</strong><br><p>Pracs will commence in week one. Early pracs will have defined material you can work through. Later prac sessions will be an opportunity to get help on course material and assignments. Prac sessions will also be used for interviews following assignments one and two. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L08, L10</p></div></td>",
+            "topic_title": "<strong>Pracs</strong>",
+            "topic_description": "Pracs Pracs will commence in week one. Early pracs will have defined material you can work through. Later prac sessions will be an opportunity to get help on course material and assignments. Prac sessions will also be used for interviews following assignments one and two.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L08",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/><p>Weekly lectures (3 hours) will introduce the course content and cover examples. Some lectures will be more practical in nature, e.g. covering practical issues, programming demonstrations, or working through exercises.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Weekly lectures (3 hours) will introduce the course content and cover examples. Some lectures will be more practical in nature, e.g. covering practical issues, programming demonstrations, or working through exercises.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        }
+    ]
+}
