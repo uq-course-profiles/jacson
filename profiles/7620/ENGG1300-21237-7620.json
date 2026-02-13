@@ -1,0 +1,174 @@
+{
+    "course_title": "Introduction to Electrical Systems",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG1300-21237-7620",
+    "full_course_code": "ENGG1300-21237-7620",
+    "course_code": "ENGG1300",
+    "class_code": "21237",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Calculate and measure fundamental descriptors of electrical behaviour, including voltage, current, impedance, energy and power."
+        },
+        {
+            "number": "LO2.",
+            "description": "Mathematically describe the behaviour of passive components (eg resistors, capacitors, inductors)"
+        },
+        {
+            "number": "LO3.",
+            "description": "Perform network analysis on simple passive electrical networks for AC and DC conditions."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse circuits consisting of simple combinations of passive devices to solve for key circuit variables such as node and branch voltages; and branch currents."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe the action and use of basic active electronic devices (particularly operational amplifiers); and to be able to apply such knowledge to analyse and design simple amplifier circuits."
+        },
+        {
+            "number": "LO6.",
+            "description": "Describe the use of electrical circuits and systems in electrical energy, control and communications applications."
+        },
+        {
+            "number": "LO7.",
+            "description": "Comprehend and generate simple electrical schematic diagrams; to construct and test such circuits using laboratory equipment such as multi-meters, power supplies, function generators, and oscilloscopes; and to be able to explain why circuit models may not exactly predict the behaviour that may be observed in a real-world circuit."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly Online Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% (Best 8 of the 11 quizzes count) </dd>",
+            "due_date": "<dd><p> 4/03/2026 - 27/05/2026</p>\n<p>\n</p><p>Weekly quizzes are due every Wednesday at 1.30 pm (except Week 1 &amp; Week 11)</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each week (with the exception of week 1 and week 11), students will undertake a short online quiz via Blackboard to test their knowledge of key course concepts.</p>\n<p>The best 8 out of 11 quiz marks will be used to calculate the final mark.</p>\n<p>The quiz can be attempted up to three times while it is open, with the highest mark counting for that quiz. Each quiz attempt is time-limited to one hour.</p>\n<p>There is also a practice quiz each week, which can be attempted any number of times.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>The intention of this task is to allow students to practice solving problems related to key concepts in the course. As such, while AI may be useful in the learning process preparing for the quiz, it is strongly recommended that you complete the quiz task itself without the use of AI as this will best enhance your knowledge of the course material.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Weekly quizzes are completed on the course blackboard page. </p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>28/03/2026 - 2/05/2026</p>\n<p>\n</p><p>ENGG1300 in-semester exam will be scheduled by UQ exams, and will be scheduled on Saturdays of Week 5, 7 and 9. You will receive a personal exam timetable at 5pm Thursday 26 February 2026.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This <strong>closed book</strong> multiple-choice exam involves solving numerical, circuit based problems, based on material in the first part of the course.</p>\n<p>This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will submit their answers at the end of the examination.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>No late submission is permitted. Students who cannot attend their scheduled demonstration due to exceptional circumstances should apply for a deferred examination.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Practical Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 11/05/2025 - 15/05/2026</p>\n<p>\n</p><p>Students will be allocated to sit their practical exam during 1-hour of one of their scheduled Week 11 practical classes.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L07",
+            "mode": "Activity/ Performance, Oral, Written",
+            "category": "Examination, Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment item will examine your ability to construct a simple passive filter consisting of resistors and/or capacitors and/or inductors; to use the electronics laboratory equipment to measure the behaviour of the circuit; and to generat and plot an experimental bode plot. </p>\n<p>During the exam, students will have to demonstrate their circuit and skills to a teaching staff member, and and plot an experimental bode diagram for their circuit.</p>\n<p><strong>Students will be allocated by the course staff to complete their demonstration during 1-hr of one of their scheduled practical sessions during week 11. Until the schedule is finalised, it is essential that students ensure they are available to complete their assesment in any of their scheduled practical classes (as per their Allocate+ class sign-on) in that week.</strong></p>\n<p>This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>During the exam students will: (a) Demonstrate their practical work; (b) Provide oral responses to questions; (c) Submit their completed laboratory results at the end of the examintion.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>No late submission is permitted. Students who cannot attend their scheduled demonstration due to exceptional circumstances should apply for a deferred examination.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An on-campus closed-book examination of 2 hours duration + 10 minutes planning time will be conducted covering all aspects of the course.</p>\n<p>Questions will be short answers, calculations, simple circuit design, and analytical style questions similar to those presented in the course material.</p>\n<p>This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Multiple markers may be involved in marking the final exam, and a moderation process will be used to ensure consistency in marking across the cohort. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will submit their working/answers at the end of the examination.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br/><p>Lectures will deliver core theory and illustrate problem solving using examples. Real world applications of circuit design principles will be presented.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lecture</strong>",
+            "topic_description": "Lecture Lectures will deliver core theory and illustrate problem solving using examples. Real world applications of circuit design principles will be presented.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active Learning Lab Classes</strong><br/><p>Students will attend two Active Learning Lab Classes per week. These sessions will be the primary vehicle for learning in this course. Students will work in small groups (allocated by the teaching staff) to solve problems, conduct electronics experiments and design activities, and discuss applications in industry and society. In order to get the most out of these sessions, students are required to do some preparatory activities prior to session attendance (typically watching a few short videos).</p>\n<p>Students will have opportunity to obtain formative feedback on their learning progress in the course during these sessions throughout the course, and including prior to the census date on 31/3/26 during week 6. Every fortnight a final exam style question will be provided to students via the course blackboard page and students are encouraged to attemt this under simulated exam condidtions at home, self-mark against provided solutions, and then as neccesary seek feedback from teaching staff at their practical sessions. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Active Learning Lab Classes</strong>",
+            "topic_description": "Active Learning Lab Classes Students will attend two Active Learning Lab Classes per week. These sessions will be the primary vehicle for learning in this course. Students will work in small groups (allocated by the teaching staff) to solve problems, conduct electronics experiments and design activities, and discuss applications in industry and society. In order to get the most out of these sessions, students are required to do some preparatory activities prior to session attendance (typically watching a few short videos). Students will have opportunity to obtain formative feedback on their learning progress in the course during these sessions throughout the course, and including prior to the census date on 31/3/26 during week 6. Every fortnight a final exam style question will be provided to students via the course blackboard page and students are encouraged to attemt this under simulated exam condidtions at home, self-mark against provided solutions, and then as neccesary seek feedback from teaching staff at their practical sessions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
