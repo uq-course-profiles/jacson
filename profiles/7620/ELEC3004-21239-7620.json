@@ -1,0 +1,202 @@
+{
+    "course_title": "Signals, Systems & Control",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC3004-21239-7620",
+    "full_course_code": "ELEC3004-21239-7620",
+    "course_code": "ELEC3004",
+    "class_code": "21239",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate the role of the Fourier, Laplace and z-transforms, poles and zeros in the analysis of continuous-time and discrete-time signals and systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate Laplace and z-transforms and their inverses and be able to use them to solve differential and difference equations"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the Nyquist sampling theorem and its implications in signal and image processing systems"
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse the concepts of amplitude distortion, phase distortion and group delay in filters"
+        },
+        {
+            "number": "LO5.",
+            "description": "Design continuous-time and discrete-time filters"
+        },
+        {
+            "number": "LO6.",
+            "description": "Explain the computational benefits of the Laplace and Fourier transforms in system characterisation."
+        },
+        {
+            "number": "LO7.",
+            "description": "Outline the architectural features necessary for digital signal processors and obtain hands-on experience with DSP programming."
+        },
+        {
+            "number": "LO8.",
+            "description": "Apply and explain the basics of linear control, stability and controller design"
+        },
+        {
+            "number": "LO9.",
+            "description": "Analyse system stability via root loci and bode plots"
+        },
+        {
+            "number": "LO10.",
+            "description": "Design analogue and digital controllers and compensators"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Set 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 2/04/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exercises on Systems, Signals and Controls (in general), with an emphasis on Signals &amp; Systems</p>\n<p>Please submit via Blackboard. <strong>No</strong> hand-written solutions. <strong>No</strong> scanned copies of hand-written solutions. Answers <strong>must </strong>be typed. Submissions that do not follow these instructions will be awarded a mark of zero.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Problem Set 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 1/05/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exercises on Systems, Signals and Controls (in general), with an emphasis on Signals/Filters.</p>\n<p>May include material (including experimental results) from Lab 1 or 2.</p>\n<p>Please submit via Blackboard.  <strong>No</strong> hand-written solutions. <strong>No</strong> scanned copies of hand-written solutions. Answers <strong>must </strong>be typed. Submissions that do not follow these instructions will be awarded a mark of zero.</p>\n<p>Due by 1 May 16:00 AEST.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Problem Set 3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 29/05/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Exercises on Systems, Signals and Controls (in general), with an emphasis on <strong>Controls</strong></p>\n<p>May include material (including experimental results) from Labs 1-4.</p>\n<p>Please submit via Blackboard. <strong>No</strong> hand-written solutions. <strong>No</strong> scanned copies of hand-written solutions. Answers <strong>must </strong>be typed. Submissions that do not follow these instructions will be awarded a mark of zero.</p>\n<p>Due by 29 May 16:00 AEST.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A three-hour final examination will be held during the final examination period. This will be an on-campus, invigilated and closed-book exam.</p>\n<p>You may bring one (1) two-sided A4 sheet of <strong>handwritten</strong> (not typed) formulae at the time of the exam, this can include notes that are handwritten in a digital format and printed out. A sheet that does not meet these requirements will NOT be permitted.</p>\n<p>Calculators must be UQ approved (and labelled if not Casio fx-82).</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Signals, Systems and Control</strong><br/><p>Introduction to the course and to the basic mathematical concepts.</p></p></div></td>",
+            "topic_title": "<strong>Introduction to Signals, Systems and Control</strong>",
+            "topic_description": "Introduction to Signals, Systems and Control Introduction to the course and to the basic mathematical concepts.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 8(02 Mar - 26 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Signals &amp; Systems</strong><br><p>The course material for the signals and systems module of the course. This includes signal representation, sampling theory, Fourier etc. transforms, filtering, and discrete systems analysis.</p></br></p></div></td>",
+            "topic_title": "<strong>Signals &amp; Systems</strong>",
+            "topic_description": "Signals & Systems The course material for the signals and systems module of the course. This includes signal representation, sampling theory, Fourier etc. transforms, filtering, and discrete systems analysis.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(02 Mar - 31 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical Sessions</strong><br><p>There will be practical sessions each week from week 2 to week 13. The practical sessions will involve working through problem sheet exercises with teaching staff available to provide example solutions and feedback. In weeks 3, 5, 10 and 12, students will work through hands-on lab exercises and activities for which they will receive feedback from the teaching staff in class.</p></br></p></div></td>",
+            "topic_title": "<strong>Practical Sessions</strong>",
+            "topic_description": "Practical Sessions There will be practical sessions each week from week 2 to week 13. The practical sessions will involve working through problem sheet exercises with teaching staff available to provide example solutions and feedback. In weeks 3, 5, 10 and 12, students will work through hands-on lab exercises and activities for which they will receive feedback from the teaching staff in class.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 13(20 Apr - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Control</strong><br><p>Course material on the control module is presented. This includes analogue and digital control design, design processes and practical digital control.</p></br></p></div></td>",
+            "topic_title": "<strong>Control</strong>",
+            "topic_description": "Control Course material on the control module is presented. This includes analogue and digital control design, design processes and practical digital control.",
+            "learning_outcomes": []
+        }
+    ]
+}
