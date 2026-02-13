@@ -1,0 +1,256 @@
+{
+    "course_title": "Financial Mathematics",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH3090-20581-7620",
+    "full_course_code": "MATH3090-20581-7620",
+    "course_code": "MATH3090",
+    "class_code": "20581",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Interest Rates and Annuities - Model the cash flows of a range of financial contracts in discrete and continuous time"
+        },
+        {
+            "number": "LO2.",
+            "description": "Interest Rates and Annuities - Understand the function of the financial system and the role played by financial mathematicians and actuaries"
+        },
+        {
+            "number": "LO3.",
+            "description": "Interest Rates and Annuities - Understand and derive the relationships between interest rates across different time periods"
+        },
+        {
+            "number": "LO4.",
+            "description": "Interest Rates and Annuities - Define, derive and use the compound interest and annuity functions of relevance to financial mathematicians and actuaries"
+        },
+        {
+            "number": "LO5.",
+            "description": "Stochastic and Financial Modeling - Define and use an equation of value when cash flows are uncertain"
+        },
+        {
+            "number": "LO6.",
+            "description": "Stochastic and Financial Modeling - Show how both discrete- and continuous-time discounted cash flow techniques can be used to appraise investments"
+        },
+        {
+            "number": "LO7.",
+            "description": "Stochastic and Financial Modeling - Mathematically describe the investment characteristics of fixed income assets (debt), equity (shares) and financial derivatives"
+        },
+        {
+            "number": "LO8.",
+            "description": "Stochastic and Financial Modeling - Understand arbitrage pricing and use arbitrage pricing for futures/forwards, swap contracts, and foreign exchange markets"
+        },
+        {
+            "number": "LO9.",
+            "description": "Stochastic and Financial Modeling - Understand and perform basic calculations relating to the term structure of interest rates (yield curve)"
+        },
+        {
+            "number": "LO10.",
+            "description": "Stochastic and Financial Modeling - Understand and derive simple stochastic interest rate models"
+        },
+        {
+            "number": "LO11.",
+            "description": "Options and the Black-Scholes Model - Understand the defining characteristics of options and options markets"
+        },
+        {
+            "number": "LO12.",
+            "description": "Options and the Black-Scholes Model - Understand the notion of risk-neutral pricing and the fundamental theorems of asset pricing in a simple one-period setting"
+        },
+        {
+            "number": "LO13.",
+            "description": "Options and the Black-Scholes Model - Have a basic appreciation and understanding of the derivation of the Black-Scholes model by the heat equation"
+        },
+        {
+            "number": "LO14.",
+            "description": "Options and the Black-Scholes Model - Understand how the notions of arbitrage and replication are used in the derivation of the Black-Scholes model"
+        },
+        {
+            "number": "LO15.",
+            "description": "Portfolio Construction and Analysis - Derive and understand simple stochastic models for equity (shares)"
+        },
+        {
+            "number": "LO16.",
+            "description": "Portfolio Construction and Analysis - Derive and understand the main results of modern portfolio theory"
+        },
+        {
+            "number": "LO17.",
+            "description": "Portfolio Construction and Analysis - Define and identify a coherent risk measure"
+        },
+        {
+            "number": "LO18.",
+            "description": "Portfolio Construction and Analysis - Define and understand the role of risk measures in the management of risky assets"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>14%</dd>",
+            "due_date": "<dd><p> 30/03/2026 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will contain practical problems, computer implementation of models, and theoretical components.  </p>\n<p><br/><br/>\n</p><p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>14%</dd>",
+            "due_date": "<dd><p> 27/04/2026 1:00 pm</p></dd>",
+            "learning_objectives": "L06, L07, L08, L09, L10, L11, L12",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will contain practical problems, computer implementation of models, and theoretical components. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>14%</dd>",
+            "due_date": "<dd><p> 25/05/2026 1:00 pm</p></dd>",
+            "learning_objectives": "L11, L12, L13, L14, L15, L16, L17, L18",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will contain practical problems, computer implementation of models, and theoretical components. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>58%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester examination will test all topics presented in the course.</p>\n<p>The examination will be invigilated on-campus. One A4 sheet of handwritten notes, double-sided, is permitted. The approved calculator for the course is the Casio FX-82 (any model). You may use other calculators, but they must be labelled with an official 'Approved' sticker.</p>\n<p>Further details will be provided to students before the examination period. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture series</strong><br><p>Introduce students to the basic tools and techniques of financial and actuarial mathematics.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18</p></div></td>",
+            "topic_title": "<strong>Lecture series</strong>",
+            "topic_description": "Lecture series Introduce students to the basic tools and techniques of financial and actuarial mathematics.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(02 Mar - 31 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exercises and Problems</strong><br><p>Contact with casual academics for students to ask questions. Questions and problems for students to reinforce their understanding of the material.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18</p></div></td>",
+            "topic_title": "<strong>Exercises and Problems</strong>",
+            "topic_description": "Exercises and Problems Contact with casual academics for students to ask questions. Questions and problems for students to reinforce their understanding of the material.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08",
+                "L09",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15",
+                "L16",
+                "L17",
+                "L18"
+            ]
+        }
+    ]
+}
