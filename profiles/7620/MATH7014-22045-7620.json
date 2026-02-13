@@ -1,0 +1,91 @@
+{
+    "course_title": "Minor Project B",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7014-22045-7620",
+    "full_course_code": "MATH7014-22045-7620",
+    "course_code": "MATH7014",
+    "class_code": "22045",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use rigorous mathematical arguments, draw conclusions from empirical evidence, and efficiently implement mathematical and statistical techniques as appropriate."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain ideas clearly making appropriate use of examples, counter-examples, special cases, graphs, tables, and visualisation techniques."
+        },
+        {
+            "number": "LO3.",
+            "description": "Place results in the context of the development of the area and compare alternative approaches."
+        },
+        {
+            "number": "LO4.",
+            "description": "Use appropriate referencing to original results and a consistent bibliographic style."
+        },
+        {
+            "number": "LO5.",
+            "description": "Write clearly in a consistent style and with good organisation."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project Report",
+            "special_indicators": [],
+            "weighting": "<dd>70%</dd>",
+            "due_date": "<dd><p> 8/06/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Project, Thesis",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A formal page limit is not enforced. Nonetheless, a student is expected to dedicate approximately 10 hours of study per week for each 2-unit research project course. In the shorter Summer Semester, the expected weekly commitment increases proportionally to approximately 16.25 hours per week. This standard will be taken into consideration when assessing students' deliverables.</p>\n<p>You are not required to follow a specific formatting or referencing style. However, the presentation and citation of your work must be clear, applied consistently throughout, and align with the established standards of your discipline.</p>\n<p><strong>DECLARATION</strong></p>\n<p>For students who have not signed a Confidentiality Agreement, you must include one of the following two consent declarations on the title page of your report:</p>\n<p><em>I grant permission for copies of this report to be made available as a learning resource to students enrolled at The University of Queensland.</em></p>\n<p>or</p>\n<p><em>I do not grant permission for copies of this report to be made available as a learning resource.</em></p>\n<p>Here, a Confidentiality Agreement (CA) is not a standard requirement for research projects. It is mandatory only in cases where the research involves confidential data, Intellectual Property, or other sensitive materials. When necessary, the supervisor will manage the preparation of the agreement, clarify its terms, and facilitate the signing process with the student.</p>\n<p><strong>MARKING</strong></p>\n<p>Marks are awarded on the following basis:</p>\n<ul>\n<li>Quality of introduction /20%</li>\n<li>Demonstration of understanding key elements /30% (40% for projects in Mathematics Education)</li>\n<li>Rigour of definitions, proofs, calculations, etc. /20% (not for projects in Mathematics Education)</li>\n<li>Appropriate style of writing /20% (30% for projects in Mathematics Education)</li>\n<li>Appropriate referencing /10%</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The assignment must be prepared in PDF format and submitted via the Blackboard system.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Defense",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 19/06/2026 4:00 pm</p>\n<p>\n</p><p>Project Defense must be scheduled on or before the last Friday of the Examination period, depending on the availability of student and supervisor. If a recording is required, it must be uploaded by the due time.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The project defense comprises a 15-minute presentation followed by a 10-minute question-and-answer session. The project defense is intended to assess the student's genuine understanding of their research project and their ability to communicate their work clearly and confidently. During the defense, the student is expected to give a concise summary of the project's objectives, methodology, and findings, and to respond thoughtfully to questions from the examiner regarding the project's background, approach, results, and significance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The project defense must be video recorded when there is only one examiner. In such cases, the recording must be uploaded to Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Directed Study</strong><br/><p>Students undertake a project under the supervision of a staff member.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Directed Study</strong>",
+            "topic_description": "Directed Study Students undertake a project under the supervision of a staff member.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
