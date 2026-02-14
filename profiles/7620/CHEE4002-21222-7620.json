@@ -1,0 +1,148 @@
+{
+    "course_title": "Risk in Process Industries",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE4002-21222-7620",
+    "full_course_code": "CHEE4002-21222-7620",
+    "course_code": "CHEE4002",
+    "class_code": "21222",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Knowledge and Comprehension - Provide a definition of risk, explain the key dimensions, and describe some key characteristics of risk (e.g. Hillsons 6 key concepts). Explain the key stages of the standard ISO31000 process for risk management. Describe each of the operational risks, and explain how critical they are for process companies. Describe what it means to be a professional engineer, and why your professional practice is important for how you will manage risk. Explain why human performance dominates risk in hazardous industries, and explain the different roles that humans may adopt in regard to risk. Explain why it is important for system designers to consider how they can better consider human performance to achieve more successful outcomes."
+        },
+        {
+            "number": "LO2.",
+            "description": "Application - Demonstrate competency at identifying, assessing and treating risks, and you should be able to clearly articulate suitable tools for doing this. Demonstrate competency at using a set of tools to perform an incident investigation, and to demonstrate insight by making relevant recommendations in order to prevent reoccurrence of the incident."
+        },
+        {
+            "number": "LO3.",
+            "description": "Analysis - You must be familiar with many key process industry case studies, and you must be able to analyse the case study using appropriate models and frameworks. You should demonstrate an understanding of the many facets that underpin process incidents. Walk in the shoes of project stakeholders, and reflect on their perceptions of risks associated with a project. Analyse and reflect on your own professional risk, and how you plan to manage it. Adopt a professional attitude of self-development. Reflect on your own development and competencies as you progress through the course."
+        },
+        {
+            "number": "LO4.",
+            "description": "Synthesis and Evaluation - Formulate a risk assessment memo, and suitable accompanying documentation, for a real industrial scenario. Formulate list of recommendations.  Formulate an incident investigation memo, and accompanying documentation. Formulate recommendations."
+        },
+        {
+            "number": "LO5.",
+            "description": "Operate Effectively In A Team Project Environment - Improve team work skills by working effectively in an engineering project team. Communicate technical and engineering information at a professional standard in both written and oral formats. Locate, evaluate and use relevant information from a wide variety of sources. Take responsibility for and manage your own work, learning, critical thinking and evaluation."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project 1 Risk Identification and Risk Assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>1a 23/03/2026</p>\n<p>1b 20/04/2026</p>\n<p>\n</p><p>Submissions throughout the semester are due at the conclusion of the corresponding class. If there is no class scheduled on the due date, the submissions are due at 14:00.</p></dd>",
+            "learning_objectives": "L01, L02, L04, L05",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Project 1 is a team based project. During Project 1 teams of approximately four (4) students will complete risk assessment tasks on a scenario provided by the CHEE4002 teaching team. Project 1 has 2 submissions.</p>\n<p>Submission 1a) consists of a Risk Register for the scenario described, due on 23rd March at 2pm. Weight 10%.</p>\n<p>Submission 1b) consists of a Technical memo, Bow tie, Control Assurance Management System (CAMS) and a team contribution table, due on 20th April at 2pm. Weight 20%.</p>\n<p>Project 1 has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. If course staff suspect inappropriate or unacknowledged use of AI, students may be asked to verbally explain and defend their work during the assessment process.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via link on the Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-Semester Examination During Class",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 7/05/2026 10:00 am</p>\n<p>\n</p><p>The in-semester exam occurs during class time and is due before the end of the scheduled class.</p></dd>",
+            "learning_objectives": "L01, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The CHEE4002 in-semester examination is a closed book examination completed during class time. The exam covers course and/or project material included in Week 1 to Week 9 of the course. The format of the quiz may include multiple-choice, or short answer questions.</p>\n<p>The exam will be administered through Blackboard and is scheduled during class time. Students will have 90 mins working time to complete the exam.</p>\n<p>You must be present in the tutorial room <strong>and bring your own device</strong> (computer or tablet) to complete the exam through Blackboard. Attendance will be recorded and you must have your student card for proof of identity.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>This exam has a digital timer and is automatically submitted. </p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Project 2 - Incident Investigation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 29/05/2026</p>\n<p>\n</p><p>Submissions throughout the semester are due at the conclusion of the corresponding class. If there is no class scheduled on the due date, the submissions are due at 14:00.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Project 2 is a team based project. During Project 2 teams of approximately four (4) students will complete an investigation on an Industrial Accident. The Accident case study will be provided by the CHEE4002 teaching team. Project 2 is due for submission on 29th May at 2pm. The submission includes a written Memo plus accompanying documentation.</p>\n<p>Note: Students will work in the same teams for Project 1 and Project 2.</p>\n<p>Project 2 has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. If course staff suspect inappropriate or unacknowledged use of AI, students may be asked to verbally explain and defend their work during the assessment process.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via link on Blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Exam During Exam Period (School) (15 Minutes)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam takes the form of an oral interview and will be held in the examination period. All course content and case studies are assessable during the final exam. The focus is on your individual learning from the course.</p>\n<p>The oral exam is 15 minutes per student. The exam timetable will be made available on Blackboard.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This is an oral exam that will take the form of an interview.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Class Workshops</strong><br/><p>There will be two 2 hour tutorials conducted each week that will provide students with opportunities to discuss and apply the theory and techniques taught within the course. Tutorials are mixed-mode learning that include presentations from course staff, workshop activities, team-based discussions and broader class discussions. Students are expected to review pre-recorded materials and assigned reading prior to attending tutorials.</p>\n<p>The topic schedule will be placed on Blackboard. Typical weekly content for CHEE4002 includes:</p>\n<ul>\n<li>A brief introduction video</li>\n<li>A presentation video containing key learning materials (i.e. a pre-recorded lecture)</li>\n<li>Tutorial materials</li>\n<li>Additional Resources – including ‘Key Readings’ and case study materials.</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Class Workshops</strong>",
+            "topic_description": "Class Workshops There will be two 2 hour tutorials conducted each week that will provide students with opportunities to discuss and apply the theory and techniques taught within the course. Tutorials are mixed-mode learning that include presentations from course staff, workshop activities, team-based discussions and broader class discussions. Students are expected to review pre-recorded materials and assigned reading prior to attending tutorials. The topic schedule will be placed on Blackboard. Typical weekly content for CHEE4002 includes: A brief introduction video A presentation video containing key learning materials (i.e. a pre-recorded lecture) Tutorial materials Additional Resources – including ‘Key Readings’ and case study materials.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
