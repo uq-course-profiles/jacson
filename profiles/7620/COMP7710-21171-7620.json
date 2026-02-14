@@ -1,0 +1,134 @@
+{
+    "course_title": "Artificial Intelligence for Cyber Security",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP7710-21171-7620",
+    "full_course_code": "COMP7710-21171-7620",
+    "course_code": "COMP7710",
+    "class_code": "21171",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate technical knowledge of the underlying principles and concepts of machine learning algorithms, such as linear/non-linear models for classification and regression, dimensionality reduction, clustering, anomaly detection, and deep learning."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyze and assess the quality, effectiveness, and robustness of a machine learning model."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate a broad understanding of common cyber security tasks (e.g., detecting threats, predicting attacks)."
+        },
+        {
+            "number": "LO4.",
+            "description": "Understand the practical aspects of machine learning techniques in the area of cyber security."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design, analyze, and evaluate an appropriate machine learning method for a given cyber security problem."
+        },
+        {
+            "number": "LO6.",
+            "description": "Analyze adversarial capabilities and goals, and develop machine learning algorithms to counteract the attacks."
+        },
+        {
+            "number": "LO7.",
+            "description": "Understand the limitations and risks of applying machine learning algorithms to cyber security problems."
+        },
+        {
+            "number": "LO8.",
+            "description": "Organizing and conveying acquired knowledge clearly in both written and spoken forms."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Homeworks",
+            "special_indicators": [],
+            "weighting": "<dd>50% (10% each) </dd>",
+            "due_date": "<dd><p> 26/03/2026 3:00 pm</p>\n<p> 13/04/2026 3:00 pm</p>\n<p> 20/04/2026 3:00 pm</p>\n<p> 27/04/2026 3:00 pm</p>\n<p> 5/05/2026 3:00 pm</p>\n<p>\n</p><p>Please note: Homework 1 is due on Thursday of Week 5, and marks/written feedback will be released by <strong>Monday 30 March</strong> (prior to Census). </p></dd>",
+            "learning_objectives": "L01, L02, L04, L05, L07",
+            "mode": "Written",
+            "category": "Computer Code, Notebook/ Logbook",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The homework is a short collection of problem-solving exercises where you will demonstrate your ability to understand machine learning algorithms and implement them, broadly understand cyber security problems, and use the appropriate machine learning algorithm to solve cyber security problems.</p>\n<p>This is an individually assessed assessment.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>A solution python notebook should be uploaded on the uqlearn at the specified date (UQ Blackboard Online Submission).</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Final Project - Report",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 8/06/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Notebook/ Logbook, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The students work on a cyber security problem, and propose appropriate machine learning algorithms that can be applied to the problem. Students must demonstrate their working project (in Python). Powerpoint slides and the solution python notebook, including the results and explanations, should be uploaded on the blackboard at the specified date.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students must upload their powerpoint slides and python notebook (with notes and explanations) to the blackboard on or before 3pm, 8th of June. The slides should have the following information: 1-slide for Introduction (description of the cyber security problem, and the relevant datasets); 1-slide for Background &amp; Related works; 1-slide for Proposed machine learning methods to solve the problem; 1-slide for Analysis and justification behind the proposed approaches; 1-slide for Evaluation, 1-slide for comparison of the proposed approaches, and 1-slide for Conclusions/Reflection.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Project - Q&A",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> Exam week 2 Mon - Exam week 2 Thu</p></dd>",
+            "learning_objectives": "L01, L03, L04, L06, L07, L08",
+            "mode": "Oral",
+            "category": "Project, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a project Q&amp;A session with the purpose of further verifying the student's mastery and understanding of the delivered project and the course content.</p>\n<p>Please note: In accordance with UQ assessment policy, the session will be recorded.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture Series</strong><br/><p>Lectures will be on-campus, and also published on the blackboard.</p></p><p><strong>Learning outcomes:</strong> L02, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lecture Series</strong>",
+            "topic_description": "Lecture Series Lectures will be on-campus, and also published on the blackboard.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class Series</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Applied Class Series</strong>",
+            "topic_description": "Applied Class Series",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
