@@ -94,7 +94,7 @@
                 }
             ],
             "weighting": "<dd>40%</dd>",
-            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2026 - 21/06/2026</p></dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
             "learning_objectives": null,
             "mode": "Written",
             "category": "Examination",
@@ -106,6 +106,14 @@
         }
     ],
     "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12(23 Feb - 24 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Midwifery Practice</strong><br><p>On campus resource sessions. Further details of each session can be found in learning resources on the Blackboard site for this course.</p></br></p></div></td>",
+            "topic_title": "<strong>Introduction to Midwifery Practice</strong>",
+            "topic_description": "Introduction to Midwifery Practice On campus resource sessions. Further details of each session can be found in learning resources on the Blackboard site for this course.",
+            "learning_outcomes": []
+        },
         {
             "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
             "activity_type": "Not Timetabled",
@@ -120,14 +128,6 @@
             "topic": "<td data-title=\"Topic\"><div><p><strong>Inquiry Based Learning (IBL) Workshops</strong><br><p>Group based learning and inquiry. Six (6) workshops occurring throughout the semester. Further details of each workshop can be found in learning resources on the Blackboard site for this course.</p></br></p></div></td>",
             "topic_title": "<strong>Inquiry Based Learning (IBL) Workshops</strong>",
             "topic_description": "Inquiry Based Learning (IBL) Workshops Group based learning and inquiry. Six (6) workshops occurring throughout the semester. Further details of each workshop can be found in learning resources on the Blackboard site for this course.",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Multiple weeksFrom Week 2 To Week 12(02 Mar - 24 May)",
-            "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Midwifery Practice</strong><br><p>On campus resource sessions. Further details of each session can be found in learning resources on the Blackboard site for this course.</p></br></p></div></td>",
-            "topic_title": "<strong>Introduction to Midwifery Practice</strong>",
-            "topic_description": "Introduction to Midwifery Practice On campus resource sessions. Further details of each session can be found in learning resources on the Blackboard site for this course.",
             "learning_outcomes": []
         }
     ]
