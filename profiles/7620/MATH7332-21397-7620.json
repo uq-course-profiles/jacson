@@ -1,0 +1,158 @@
+{
+    "course_title": "Coding & Cryptography",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7332-21397-7620",
+    "full_course_code": "MATH7332-21397-7620",
+    "course_code": "MATH7332",
+    "class_code": "21397",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the importance of cryptography and coding theory to real-world applications, both historically and currently."
+        },
+        {
+            "number": "LO2.",
+            "description": "Describe the mathematics behind a variety of techniques for secure reliable communication."
+        },
+        {
+            "number": "LO3.",
+            "description": "Contrast public-key and private-key cryptosystems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Implement substitution and permutation ciphers and analyse some sophisticated cryptosystems, including AES."
+        },
+        {
+            "number": "LO5.",
+            "description": "Explain Shannon's concept of unconditional security."
+        },
+        {
+            "number": "LO6.",
+            "description": "Implement and describe the principles of Maximum Likelihood Decoding"
+        },
+        {
+            "number": "LO7.",
+            "description": "Use the generating and parity check matrices of a linear binary code to encode and decode messages."
+        },
+        {
+            "number": "LO8.",
+            "description": "Identify a Hamming code, the Golay code and the extended Golay code, and use these codes for encoding and decoding of messages; identify a cyclic linear code and use it to detect and correct burst errors."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35% Assignment 1 worth 10%, Assignment 2 worth 10%, Assignment 3 worth 15% </dd>",
+            "due_date": "<dd><p>Assignment 1 27/03/2026 3:00 pm</p>\n<p>Assignment 2 23/04/2026 3:00 pm</p>\n<p>Assignment 3 29/05/2026 3:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignments 1 and 2 are on cryptography and Assignment 3 is on coding theory. For each assignment, the problem set will be available on the Blackboard page. You will need to submit your solutions to these problems by the due date.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Each assignment should be submitted through the appropriate link in Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Coding in-class problem set",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 5/05/2026 - 8/05/2026</p>\n<p>\n</p><p>Due by the end of your applied class.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Participation/ Student contribution, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During your applied class in week 10, you will work in a group of 2 or 3 people, or individually if you prefer, to answer a series of questions on linear codes. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>One solution booklet per group will be handed in at the end of the tutorial. All students in a group will receive the same mark for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>Each group will hand in their work at the end of the applied class. There is no late submission.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End of Semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester examination in this course will be held during the end-of-semester examination period. It will be a closed book, in-person exam held on campus. The exam will consist of questions that cover the entire course (both coding theory and cryptography). A Casio FX82 series or university approved (labelled) calculator can be used on the exam.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>The course material will be presented in lectures. Lectures will be in-person and will be recorded. Students are encouraged to attend lectures in person in order to engage in discussion and ask questions.</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures The course material will be presented in lectures. Lectures will be in-person and will be recorded. Students are encouraged to attend lectures in person in order to engage in discussion and ask questions.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Exam week 2(23 Feb - 21 Jun)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Independent Study</strong><br><p>Independent study during semester. UQ guidelines recommend 10 hours per week of study (including class contact) for a 2-unit course. </p></br></p></div></td>",
+            "topic_title": "<strong>Independent Study</strong>",
+            "topic_description": "Independent Study Independent study during semester. UQ guidelines recommend 10 hours per week of study (including class contact) for a 2-unit course.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(02 Mar - 31 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br><p>Applied classes are designed to consolidate the students' knowledge base by giving them the opportunity to ask detailed questions about the course material. Help and hints for solving the problems on the problem sheets and assignments will also be given.</p></br></p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class Applied classes are designed to consolidate the students' knowledge base by giving them the opportunity to ask detailed questions about the course material. Help and hints for solving the problems on the problem sheets and assignments will also be given.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(02 Mar - 31 May)",
+            "activity_type": "Problem-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practice problem sets and assignments</strong><br><p>Students will be given problem sets and assignments consisting of relevant mathematical problems. The problem sets are for practice and will not be assessed. The assignments will be handed in and assessed.</p></br></p></div></td>",
+            "topic_title": "<strong>Practice problem sets and assignments</strong>",
+            "topic_description": "Practice problem sets and assignments Students will be given problem sets and assignments consisting of relevant mathematical problems. The problem sets are for practice and will not be assessed. The assignments will be handed in and assessed.",
+            "learning_outcomes": []
+        }
+    ]
+}
