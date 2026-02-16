@@ -1,0 +1,138 @@
+{
+    "course_title": "Visualization, Computer Graphics & Data Analysis",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COSC3000-20635-7620",
+    "full_course_code": "COSC3000-20635-7620",
+    "course_code": "COSC3000",
+    "class_code": "20635",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "1. Visualisation1.1\tDescribe the core principles and conceptual frameworks that are used in scientific visualisation.1.2\tGraphically and meaningfully represent scientific data by developing hands-on skills with different data visualisation techniques.1.3\tBecome familiar with several visualisation techniques and at least one visualisation software application.1.4\tUnderstand different techniques appropriate to 1D, 2D, 3D and multi-dimensional datasets and apply them to a given problem."
+        },
+        {
+            "number": "LO2.",
+            "description": "2. Data Analysis2.1\tDiscover and download data from on-line scientific databases2.2\tUnderstand and work with common data formats2.3\tPerform basic statistical analysis of data to identify trends, missing values and outliers; appreciate errors: their nature, distribution and origin."
+        },
+        {
+            "number": "LO3.",
+            "description": "3. Computer Graphics3.1\tDescribe the core principles and conceptual frameworks that are used in computer graphics.3.2\tExplain some of the low-level algorithms and models that underpin computer graphics software.3.3\tImplement programs that utilize the key components of computer graphics, using several existing software libraries."
+        },
+        {
+            "number": "LO4.",
+            "description": "4. Problem Solving4.1\tDevelop problem-solving skills by working on projects in computer graphics and visualisation, possibly in collaboration with a researcher at UQ or other research institutions4.2\tContinue to learn by reading relevant scientific literature with a view to using new ideas in future scientific problems."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Project - Scientific Visualisation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> 8 marks, must pass </dd>",
+            "due_date": "<dd><p> 21/04/2026 - 15/05/2026</p>\n<p>\n</p><p>There are two due dates available for the scientific visualisation and computer graphics projects: the Tuesday of week 8 (21/4/2025) and the Friday of week 11 (15/5/2025). One of those two projects is to be submitted by 21/4, and the other by 15/5. Students can choose which project to submit first. Projects are to be submitted by 3pm on the due dates.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will be provided with a dataset, and will use it to generate visualisations, and use those to explore the data and to communicate the data.</p>\n<p>You will write a report showing your results and describing how you produced those results. This should be submitted in a standard format such as pdf. Supplementary materials such as animations can be submitted as separate files.</p>\n<ul>\n<li>Pass: 1-2 marks</li>\n<li>Credit: 3-4 marks</li>\n<li>Distinction: 5-6 marks</li>\n<li>High distinction: 7-8 marks</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Project reports will be submitted electronically through Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project - Computer Graphics",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> 8 marks, must pass </dd>",
+            "due_date": "<dd><p> 21/04/2026 - 15/05/2026</p>\n<p>\n</p><p>There are two due dates available for the scientific visualisation and computer graphics projects: the Tuesday of week 8 (21/4/2025) and the Friday of week 11 (15/5/2025). One of those two projects is to be submitted by 21/4, and the other by 15/5. Students can choose which project to submit first. Projects are to be submitted by 3pm on the due dates.</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will complete a computer graphics task, demonstrating the ability to use coordinate geometry and transformations to describe and control objects in a 3D space, and use existing visualisation/graphics tools to display those objects.</p>\n<p>You will write a report showing your results and describing how you produced those results. This should be submitted in a standard format such as pdf. Supplementary materials such as animations can be submitted as separate files.</p>\n<ul>\n<li>Pass: 1-2 marks</li>\n<li>Credit: 3-4 marks</li>\n<li>Distinction: 5-6 marks</li>\n<li>High distinction: 7-8 marks</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Project reports will be submitted electronically through Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Major Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd> 60 marks </dd>",
+            "due_date": "<dd><p> 29/05/2026 1:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For your project you are expected to demonstrate skills and techniques beyond those used in the first two assignments. Your project can focus on either section of the course, data visualisation or computer graphics, or can span both sections.</p>\n<p>You can choose the scope of your project, from a full-length project to a shorter more limited project. Projects will typically include a written report, and can include other material such as animations, interactive visualisations, video, etc. </p>\n<ul>\n<li>Full project (1-60 marks): For example, you can choose a complex dataset and explore and visually communicate the data therein (possibly using computer graphics techniques), create a computer graphics program such as a ray tracer, or use existing computer graphics tools to create a visualisation of your choice demonstrating your grasp of computer graphics. A full project should demonstrate a broad range of visualisation or graphics techniques, including advanced techniques. It should also demonstrate your understanding of these techniques.</li>\n<li>Mini project (1-40 marks): Similar to full project, but aims to demonstrate a narrower range of techniques.</li>\n<li>Micro project (1-20 marks): Student demonstrates their understanding of a topic in visualisation or graphics. This can be primarily a demonstration of a technique, a tutorial presenting a technique or topic, a literature review of a topic, or another suitable format.</li>\n</ul>\n<p><br/></p>\n<p>We strongly recommend that you submit a proposal describing your planned topic by the start of week 6. Your proposal should include:</p>\n<ul>\n<li>What - what are the topic, scope, and goal of your project?</li>\n<li>Why - why is your project important and/or interesting?</li>\n<li>How - how will you go achieve the goal of your project?</li>\n<li>Details - enough detail to allow us to judge the feasibility and suitability of your proposed project. For example, what is your data source, what graphics techniques will you demonstrate, etc.</li>\n</ul>\n<p><br/></p>\n<p>Further details on projects, project scope, project topics, and marking will be available during the semester.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Project reports will be submitted electronically through Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd> 12 marks, must pass </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The End of Semester exam will include a reflection (which must be passed), and questions on visualisation and computer graphics.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Computer labs</strong><br><p>The practicals are a chance for you to reinforce, apply, and test your knowledge of the material covered during the lectures.</p>\n<p>Teaching staff will provide assistance during the computer labs.</p>\n<p>Note that all timetabled labs will cover both the visualisation and computer graphics content.</p></br></p></div></td>",
+            "topic_title": "<strong>Computer labs</strong>",
+            "topic_description": "Computer labs The practicals are a chance for you to reinforce, apply, and test your knowledge of the material covered during the lectures. Teaching staff will provide assistance during the computer labs. Note that all timetabled labs will cover both the visualisation and computer graphics content.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Weekly Lectures</strong><br><p>There are two 1-hour lectures per week.</p>\n<p>We will cover important concepts and examples during each lecture.</p>\n<p>One lecture will cover visualisation, and one lecture will cover computer graphics</p></br></p></div></td>",
+            "topic_title": "<strong>Weekly Lectures</strong>",
+            "topic_description": "Weekly Lectures There are two 1-hour lectures per week. We will cover important concepts and examples during each lecture. One lecture will cover visualisation, and one lecture will cover computer graphics",
+            "learning_outcomes": []
+        }
+    ]
+}
