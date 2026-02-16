@@ -346,9 +346,9 @@
         {
             "learning_period": "Week 10(04 May - 10 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Pufendorf</strong><br><p>**Lecture Blackboard only due to public holiday**</p></br></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L06, L07</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pufendorf</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L06, L07</p></div></td>",
             "topic_title": "<strong>Pufendorf</strong>",
-            "topic_description": "Pufendorf **Lecture Blackboard only due to public holiday**",
+            "topic_description": "Pufendorf",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -421,9 +421,9 @@
         {
             "learning_period": "Week 13(25 May - 31 May)",
             "activity_type": "Not Timetabled",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Week (Week 13)</strong><br/><p>No lecture or seminars: the essay calls!</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Week (Week 13)</strong><br/><p>No lecture or seminars: the research calls!</p></p></div></td>",
             "topic_title": "<strong>Research Week (Week 13)</strong>",
-            "topic_description": "Research Week (Week 13) No lecture or seminars: the essay calls!",
+            "topic_description": "Research Week (Week 13) No lecture or seminars: the research calls!",
             "learning_outcomes": []
         }
     ]
