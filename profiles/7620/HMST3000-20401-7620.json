@@ -66,7 +66,7 @@
                 }
             ],
             "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p> 30/03/2026 8:00 am</p>\n<p>\n</p><p>During timetabled lecture.</p></dd>",
+            "due_date": "<dd><p> 30/03/2026</p>\n<p>\n</p><p>During timetabled lecture.</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Quiz",
@@ -96,7 +96,7 @@
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br><p>Introduction and Sports Technology + data fundamentals</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br/><p>Introduction and Sports Technology + data fundamentals</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
             "topic_title": "<strong>Lecture</strong>",
             "topic_description": "Lecture Introduction and Sports Technology + data fundamentals",
             "learning_outcomes": [
