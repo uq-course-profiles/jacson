@@ -1,0 +1,225 @@
+{
+    "course_title": "Medical Device Engineering",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE6901-21277-7620",
+    "full_course_code": "BIOE6901-21277-7620",
+    "course_code": "BIOE6901",
+    "class_code": "21277",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Analyse and evaluate medical devices by identifying their medical need, value proposition, underlying medical condition, existing and emerging solutions, and operating principles, while assessing the technical basis of their functionality and subsystem integration."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically investigate and evaluate medical devices by appraising their intended purpose, efficacy & efficiency in treating or diagnosing medical conditions, technical sub-components, safety risks and limitations, ethical considerations, and research directions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply specialized engineering knowledge and practices to ideate, design, prototype, and develop a medical device, including the identification of user needs, translation into technical requirements, validation and verification, application of relevant standards, and effective documentation practices to ensure compliance with Quality Management Systems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Explain in detail, the innovation and product development cycle of medical devices, including considerations for compliance with regulatory agencies and international standards across different classifications."
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate effectively, both orally and in writing, the purpose, operation, technical functionality, regulatory considerations, and research directions of selected medical devices to technical, clinical, and lay audiences."
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate the ability to implement professional engineering principles while effectively collaborating in a multi-disciplinary team, showing respect for diverse ideas, work styles, and backgrounds."
+        },
+        {
+            "number": "LO7.",
+            "description": "Appraise and provide constructive feedback to peers’ work by employing a SPARK (Specific, Prescriptive, Actionable, Referenced and Kind) approach."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "1. Structured Peer Feedback on Team Presentations",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 26/03/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L07",
+            "mode": "Written",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will provide structured peer feedback on team presentations delivered in Week 5. Each student will submit feedback using the instructions that will be announced on Blackboard, focusing on:</p>\n<ul>\n<li>clarity of the clinical need and intended use</li>\n<li>logic from needs to requirements/claims</li>\n<li>identification of key risks and proposed controls</li>\n<li>quality of evidence/verification and validation thinking (as appropriate at this stage)</li>\n<li>communication effectiveness for mixed technical and clinical audiences</li>\n</ul>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may use AI and/or MT to complete this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p> Students need to submit the feedback form through the Blackboard assignment submission portal. It is the student's responsibility to get confirmation of report submission before closing the computer. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "2. Peer Feedback on Submitted Reports",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 27/04/2026 10:00 am</p></dd>",
+            "learning_objectives": "L07",
+            "mode": "Written",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will provide structured peer feedback on a team’s submitted report in Week 8. Each student must review at least one team project report and submit a concise review that identifies strengths, risks/gaps, and improvement actions. Feedback must be professional, evidence-based, and aligned to course expectations, addressing:</p>\n<ul>\n<li>alignment between intended use, requirements, and proposed system architecture</li>\n<li>completeness and testability of requirements (acceptance criteria)</li>\n<li>risk file quality (hazard–harm–control logic, residual risk reasoning)</li>\n<li>verification/validation plan coherence and feasibility</li>\n<li>consideration of standards/regulatory pathway, ethics, and safety</li>\n<li>clarity and professionalism of technical writing and documentation</li>\n</ul>\n<p>Students must provide <strong>prioritized recommendations</strong>.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may use AI and/or MT to complete this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students need to submit the feedback form through the Blackboard assignment submission portal. It is the student's responsibility to receive confirmation of report submission before closing the computer.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "3. Team Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>Milestone 1 (Week 5) 25/03/2026</p>\n<p>Milestone 2 (Week 8) 20/04/2026 5:00 pm</p>\n<p>Milestone 3 (Week 12) 20/05/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Activity/ Performance, Oral, Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Team Project (40%) – Sequenced assessment (staged, marked deliverables)</strong></p>\n<p>The team project evaluates students’ ability to work effectively in teams and apply biomedical engineering practice to develop a simple medical device concept while demonstrating evidence-based decision making across the medical device development workflow. Teams will capture and refine stakeholder needs, translate needs into measurable requirements, apply design control and risk management principles, and demonstrate consideration of relevant standards/regulatory pathways, safety, and ethics.</p>\n<p>The project begins from a predefined clinical need provided by a stakeholder (e.g., clinician, patient, industry). Teams will investigate the need and context of use, propose a device concept, and develop a documented development plan consistent with the frameworks covered in the course (e.g., needs finding and needs specification, design controls, risk management, verification/validation planning, and translation considerations).</p>\n<p><strong>Milestones and weighting (within 40%)</strong></p>\n<p><strong>Milestone 1 – Identify needs and project plan (5%) (Week 5; in-class, identity verified)</strong></p>\n<p>Teams deliver a 10-minute presentation (plus ~5 minutes Q&amp;A) describing the clinical need, stakeholder analysis, value proposition, key assumptions/constraints, and an initial project plan. Teams are also assessed on initial documentation progress for the IDENTIFY phase (e.g., intended use/context, stakeholder map, initial risks).</p>\n<p><strong>Milestone 2 – Design controls progress checkpoint (10%) (Week 8; submission)</strong></p>\n<p>Teams submit a structured progress package demonstrating development of requirements and acceptance criteria, initial risk file (hazard–harm–controls), and an outline verification/validation plan, including OH&amp;S and ethics considerations relevant to prototyping/testing. Feedback is provided to support improvement toward the final deliverables.</p>\n<p><strong>Milestone 3 – Final deliverables and exhibition (25%) (Week 12; report submission + in-class presentation)</strong></p>\n<p>Teams submit the final deliverables and present a short pitch during the project exhibition. Final deliverables include:</p>\n<ul>\n<li>A report summarising the clinical need, design process, key design decisions, and planned/undertaken verification/validation activities; Each student should write a section about their contribution in the project.</li>\n<li>Supporting documentation (e.g., requirements/specifications, risk management file, traceability, standards/regulatory considerations, ethics/safety, test plans/results as applicable);</li>\n<li>Students need to present their work with their team. Each student will present the part of the work they are responsible for and will be assessed individually. The presentation should give an overall overview of the proposal they worked on together. Each student will be expected to answer questions about their presentation.</li>\n</ul>\n<p>Guidelines and marking rubrics for the presentation will be available on Blackboard.</p>\n<p>A peer assessment factor is applied to moderate individual marks where contributions differ materially.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may use AI and/or MT to complete this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>In accordance with UQ Assessment Policy, your presentation will be recorded.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission instructions will be announced on the course Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Milestone 2</strong></p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "4. Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A case-based examination assessing individual understanding of medical device engineering and translation. Students will analyse a device scenario and respond to applied questions covering intended use and risk classification reasoning, requirements and design controls, risk management (hazards, harms, controls, residual risk), verification and validation planning, and regulatory/standards strategy. The exam includes short-answer and applied scenario questions.</p>\n<p>The exam will assess students for the following: </p>\n<ul>\n<li>Device definition and classification thinking</li>\n<li>Needs → requirements → evidence logic</li>\n<li>Risk management and controls</li>\n<li>Verification/validation and clinical evaluation planning</li>\n<li>Software/AI and data considerations (where relevant)</li>\n</ul>\n<p>This assessment task is to be completed in person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Studio</strong><br><p>There are 4 hours of scheduled activities in this course. Irrespective of how they are labelled in the timetable, these sessions will include a mix of lecture, studio and discussion-style activities. These sessions will include presentations of the course material and discussions, with active student participation encouraged. Background material will be provided by the lecturer. Invited lecturers/seminars are also planned.</p></br></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Studio</strong>",
+            "topic_description": "Studio There are 4 hours of scheduled activities in this course. Irrespective of how they are labelled in the timetable, these sessions will include a mix of lecture, studio and discussion-style activities. These sessions will include presentations of the course material and discussions, with active student participation encouraged. Background material will be provided by the lecturer. Invited lecturers/seminars are also planned.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Active learning</strong><br/><p>Students will be pointed to recommended articles, book chapters, and material that are relevant to the course's learning objectives. It is expected that students spend a good amount of time studying the recommended material. Students will be expected to do short presentations during scheduled class, and participate in discussion forums based on the recommended material.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Active learning</strong>",
+            "topic_description": "Active learning Students will be pointed to recommended articles, book chapters, and material that are relevant to the course's learning objectives. It is expected that students spend a good amount of time studying the recommended material. Students will be expected to do short presentations during scheduled class, and participate in discussion forums based on the recommended material.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 5(09 Mar - 29 Mar)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Invited talks</strong><br><p>Medical devices engineering is a very comprehensive and trans-disciplinary field. To give students the opportunity to learn from different stakeholders (e.g. clinicians, patients, industry representatives), invited lectures / seminars will be organized throughout the semester. These will happen during scheduled class hours, unless otherwise announced.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Invited talks</strong>",
+            "topic_description": "Invited talks Medical devices engineering is a very comprehensive and trans-disciplinary field. To give students the opportunity to learn from different stakeholders (e.g. clinicians, patients, industry representatives), invited lectures / seminars will be organized throughout the semester. These will happen during scheduled class hours, unless otherwise announced.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 12(09 Mar - 24 May)",
+            "activity_type": "Team Based Learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team project</strong><br><p>Students will work on the conceptual design of a medical device based on a real clinical need. Students will apply medical device engineering practices learned throughout the course. Students will work in teams of 3-4 members. A major assessment component of this course is related to this activity.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Team project</strong>",
+            "topic_description": "Team project Students will work on the conceptual design of a medical device based on a real clinical need. Students will apply medical device engineering practices learned throughout the course. Students will work in teams of 3-4 members. A major assessment component of this course is related to this activity.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 8(09 Mar - 26 Apr)",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Field excursions</strong><br><p>One or two field excursions, within short reach of UQ (e.g. Metro North Health facilities), are planned within scheduled hours. Once confirmed, a detailed schedule of activities will be available in Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>Field excursions</strong>",
+            "topic_description": "Field excursions One or two field excursions, within short reach of UQ (e.g. Metro North Health facilities), are planned within scheduled hours. Once confirmed, a detailed schedule of activities will be available in Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        }
+    ]
+}
