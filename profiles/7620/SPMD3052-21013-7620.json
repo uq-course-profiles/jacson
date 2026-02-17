@@ -65,14 +65,23 @@
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The <strong>pre-census</strong> Online MCQ Quiz will examine general principles and specific materials (covered prior to the exam) which underpin the applied and integrative components of your course. This will provide <strong>FEEDBACK</strong> on your learning and understanding of the course materials.</p>\n<p>Materials to be examined will be from <strong>Week 1 to Week 3 inclusive</strong>.</p>\n<p>This exam will be an invigilated in-person and completed via Inspera.</p>\n<p><strong>Use of generative Artificial Intelligence (AI) or Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "late_submission": null,
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "In-Semester Examination",
-            "special_indicators": [],
-            "weighting": "<dd>35%</dd>",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
             "due_date": "<dd><p> 28/04/2026</p>\n<p>\n</p><p>During timetabled workshop activity.</p></dd>",
             "learning_objectives": "L01, L02, L06, L07",
             "mode": "Written",
@@ -80,14 +89,38 @@
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester Exam will examine general principles and specific materials (leading up to the exam) which underpin the applied and integrative components of your course. This will provide continuing <strong>FEEDBACK </strong>on your learning and understanding of the course materials.</p>\n<p>Materials to be examined will be from <strong>Week 1 to Week 7</strong> <strong>inclusive</strong>.</p>\n<p>This exam will be an invigilated in-person and completed via Inspera.</p>\n<p><strong>Use of generative Artificial Intelligence (AI) or Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "late_submission": null,
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Workshop Case Studies",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10% (10 x 1% each) </dd>",
+            "due_date": "<dd><p>Workshop 1 24/02/2026</p>\n<p>Workshop 2 3/03/2026</p>\n<p>Workshop 3 10/03/2026</p>\n<p>Workshop 4 17/03/2026</p>\n<p>Workshop 5 31/03/2026</p>\n<p>Workshop 6 14/04/2026</p>\n<p>Workshop 7 21/04/2026</p>\n<p>Workshop 8 5/05/2026</p>\n<p>Workshop 9 12/05/2026</p>\n<p>Workshop 10 19/05/2026</p>\n<p>\n</p><p>During timetabled workshop.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09",
+            "mode": "Written",
+            "category": "Practical/ Demonstration",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During scheduled workshop sessions, students will complete case study task(s) designed to apply and integrate key concepts from online lectures and course materials.</p>\n<p>Workshops require attendance and active participation. Students are expected to engage in discussion, collaborate where required, and contribute meaningfully to the analysis and resolution of the case study task(s) during the timetabled session. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
             "assessment_title": "End of Semester Examination",
             "special_indicators": [],
-            "weighting": "<dd>50%</dd>",
+            "weighting": "<dd>45%</dd>",
             "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09",
             "mode": "Written",
