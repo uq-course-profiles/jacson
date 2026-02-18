@@ -1,0 +1,207 @@
+{
+    "course_title": "Web Information Systems",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/INFS7202-21204-7620",
+    "full_course_code": "INFS7202-21204-7620",
+    "course_code": "INFS7202",
+    "class_code": "21204",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply system architecture principles to design and deploy Web Information Systems (WIS) solutions."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate and articulate the scope, complexity, and key considerations in the design and implementation of Web Information Systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design and program Web Information Systems (WIS) with server-side functionalities."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop responsive, accessible and secure Web-based, database-driven applications using efficient and effective technologies."
+        },
+        {
+            "number": "LO5.",
+            "description": "Critically evaluate and justify enterprise Web Information Systems solutions, balancing organisational strategy, stakeholder requirements, and advanced technical constraints."
+        },
+        {
+            "number": "LO6.",
+            "description": "Critically analyze current issues and emerging trends in Web Information Systems development, and predict potential impacts on future practices and technologies."
+        },
+        {
+            "number": "LO7.",
+            "description": "Critically integrate AI into web applications, applying effective prompting strategies and principles of responsible AI."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Weekly Activities",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>14%</dd>",
+            "due_date": "<dd><p> 6/03/2026 - 1/05/2026</p>\n<p>\n</p><p>Due weekly at 5pm on Friday from Week 2 - 9, except in Week 6 where the due date is Thurs 2/4/25.</p></dd>",
+            "learning_objectives": "L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Computer Code, Participation/ Student contribution, Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the Weekly Activities assessment, students will regularly participate in a series of activities via the course Blackboard site. These activities will enable students to track their learning and receive regular feedback (prior to Census date) through regular quizzes with peer interaction.</p>\n<p>You will submit these deliverables:</p>\n<ul>\n<li>From Week 2 to Week 9 (i.e. 8 weeks), students will be participating in an online platform where they create, moderate and answer questions.</li>\n</ul>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission details will be available via the assessment brief on Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Design Document",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>18%</dd>",
+            "due_date": "<dd><p> 14/04/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06, L07",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ol>\n<li>The assignment is designed to test your ability to design and document a WIS, with a focus on the database, web user interface design, security and web accessibility. </li>\n<li>Students will be able to select from one of three project topics. Students will be required to select ONLY ONE of the projects and author a comprehensive design document.</li>\n<li>For students who have extensive experience in Web system development, you have the option to propose a new custom project topic. However, you must submit a project proposal by the end of Week 2 and seek pre-approval from the Course Coordinator. </li>\n</ol>\n<p><br/></p>\n<p>Compared to INFS3202, <strong>INFS7202</strong> includes additional rubric criteria in the Design Document that require deeper critical evaluation and justification of enterprise Web Information Systems decisions. Postgraduate students are expected to demonstrate advanced problem-solving, strategic thinking, and the ability to balance organisational, stakeholder, and technical considerations at a professional level.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission details will be available via the assessment brief on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Web Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>24%</dd>",
+            "due_date": "<dd><p> 15/05/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L03, L04, L07",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<ol>\n<li>The assignment is designed to test your ability to develop a WIS based on a specification and design document, with a focus on the technology part of this course. </li>\n<li>The implemented project must match the project from your Design Document. Students will not be allowed to change project topics.  </li>\n<li>This assessment item has two parts:</li>\n</ol>\n<ul>\n<li>Part one is an online code submission. All code will be required to be compressed into one file and submitted via Blackboard. The submission will also need to include a link to the online deployment of the web project on your UQCloud Zone.</li>\n<li>Part two is an in-person Project Demonstration and Code Review of your submitted code, which will be completed with a demonstrator during a scheduled timeslot in Week 12, after the code submission. In the meeting with the demonstrator, students will demonstrate all implemented functionality, explain their approach and answer questions specific to their code implementation. All oral assessments must be given live. In accordance with UQ Assessment Policy, your presentation will be recorded.</li>\n</ul>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission details will be available via the assessment brief on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Web Project Demonstration and Code Review",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>8%</dd>",
+            "due_date": "<dd><p> 17/05/2026 - 22/05/2026</p></dd>",
+            "learning_objectives": "L03, L04, L07",
+            "mode": "Oral",
+            "category": "Computer Code, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to complete a <em>Web Project Demonstration and Code Review</em> for the <em>Web Project</em> assessment item. This will take place during Week 12, where students will demonstrate and explain their completed <em>Web Project</em>. The weighting for the <em>Web Project Demonstration and Code Review</em> is 8%<em>. </em></p>\n<p>This assessment is a component of the course Identity Verified Assessment Hurdle and involves a <em>comprehensive code review</em>, including questions that assess conceptual understanding. Students will be expected to:</p>\n<ul>\n<li>Explain and identify key segments of their code</li>\n<li>Answer questions on how they would implement new features or modify existing functionality</li>\n<li>Demonstrate a clear understanding of their design decisions and problem-solving approaches</li>\n</ul>\n<p><br/></p>\n<p>Compared to INFS3202, <strong>INFS7202</strong> includes additional rubric criteria in the Code Review that require deeper critical evaluation and justification of enterprise Web Information Systems decisions. Postgraduate students are expected to demonstrate advanced problem-solving, strategic thinking, and the ability to balance organisational, stakeholder, and technical considerations at a professional level.</p>\n<p>The grading of the <em>Web Project </em> assessment item will also occur within these sessions. Students must submit their <em>Web Project </em> assessment items prior to attending a Web Project Demonstration and Code Review session. If <em>less than 50%</em> of the required functionality, based on the assessment brief and rubric, is implemented, the <em>Project Demonstration and Code Review</em> grade will be capped at 50%.</p>\n<p>In accordance with UQ Assessment Policy, your <em>Web Project Demonstration and Code Review</em> will be recorded.</p>\n<p>Students must present their work and show their project in a Code Editor. The<em> use of AI-enabled code assistants</em>, searching the code-base or web, or <em>machine translation tools</em> during the review is not allowed. The goal is to assess each student’s individual understanding of their submitted work.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The Project Demonstration and Code Reviews may not take place during your regular scheduled Applied Class in Week 12. Students will be required to book a time slot from those made available during the week. Due to the number of students and the time required for each review, it is not possible to accommodate everyone during their scheduled Applied Class. Booking details and available time slots will be made available on the Course Blackboard site. If you do not attend the a Project Demonstration and Code Review sesson, the mark for this assessment item and the Web Project will be 0.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>36%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This course will have one final exam that is designed to test theoretical concepts and programming skills introduced in this course. The exam will address all materials covered by lectures and applied classes. </p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(02 Mar - 31 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br><p>Weekly labs will be used for:</p>\n<p>- step-by-step code walkthroughs available as a download from the course Blackboard site</p>\n<p>- individual project development and consultation</p>\n<p>- project demonstration/code review</p></br></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L07</p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class Weekly labs will be used for: - step-by-step code walkthroughs available as a download from the course Blackboard site - individual project development and consultation - project demonstration/code review",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L07"
+            ]
+        }
+    ]
+}
