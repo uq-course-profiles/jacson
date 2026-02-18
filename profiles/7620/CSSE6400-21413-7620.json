@@ -1,0 +1,173 @@
+{
+    "course_title": "Software Architecture",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE6400-21413-7620",
+    "full_course_code": "CSSE6400-21413-7620",
+    "course_code": "CSSE6400",
+    "class_code": "21413",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Design and build a software system that delivers specified functional and non-functional requirements (e.g. security, scalability, reliability, ...) by evaluating and selecting an appropriate architectural pattern and designing the components, interfaces and communication protocols to work within the pattern's structure."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply systems thinking within a team, debating and negotiating options, to design an architecturally complex software system that delivers a coherent set of functional and non-functional requirements."
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate security risks for a software system architecture and implement security principles to minimise those risks."
+        },
+        {
+            "number": "LO4.",
+            "description": "Select an appropriate suite of tools to facilitate the delivery of a large, complex software system."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe and critique the architecture of a software system."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Cloud Infrastructure Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>API Functionality 27/03/2026 3:00 pm</p>\n<p>Deployed to Cloud 13/04/2026 3:00 pm</p>\n<p>Scalable Application 1/05/2026 3:00 pm</p>\n<p>\n</p><p>Feedback is provided through automated tests. Students will be able to run the tests against their own code to obtain their feedback.</p></dd>",
+            "learning_objectives": "L01, L04",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will implement a software system to meet specified functional and non-functional requirements. The implementation will be deployed on cloud infrastructure and stress tested. You are required to design the system and select appropriate compute platforms to deliver specified requirements.</p>\n<p>This assessment is to be delivered in three stages.</p>\n<ol>\n<li>API Functionality – Implement the specified API and its functionality but only running on a local computer.</li>\n<li>Deployed to Cloud – Deploy your implementation of the API and its functionality to cloud infrastructure.</li>\n<li>Scalable Application – Implement scalability so that the system responds to load demands in an economic fashion.</li>\n</ol>\n<p>This exercise requires you to use cloud infrastructure from a specific provider. Credit will be available to complete the assignment on the provider's platform. Poor design choices may exceed your available credit. In some circumstances this may limit your maximum mark as you are not able to complete, or the teaching team is not able to assess, part of your assignment. The exercise is designed so that it can be completed well within your provided credit.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>AI and MT are emerging tools that may support you in completing this assessment task. You may appropriately use AI and/or MT in completing this assessment task. You must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a> . You <strong>must</strong> include with your submission a file <strong>AI.md</strong> that indicates the AI and MT tools that you used and the extent of their use. Examples of how you could cite use of AI tools include:</p>\n<ul>\n<li>All code was written by providing Github Copilot with class descriptions and then revising the generated code.</li>\n<li>Classes A and B were produced by the following prompts to ChatGPT and were then adapted to work in the assignment's context.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission requirements will be provided in the assignment specification.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Architecture Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 25/05/2026 3:00 pm</p>\n<p>\n</p><p>Your team must submit the slides that you will use for your presentation to the link provided on BlackBoard by the submission deadline.</p>\n<p>Your team will be allocated a timeslot during week 13 to make your presentation. The presentations may take place during a lecture, practical, case study contact timeslot, or other specially scheduled session. You may request your team's presentation be scheduled to avoid particular sessions, to accommodate known circumstances. This request must be made to the course coordinator by the end of <strong>week 10</strong>.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Your team will present the details of your Delivering Quality Attributes Project's software architecture. You will critique the architecture in terms of how suited it is to deliver your project's key quality attributes. You will also discuss security implications of your software architecture and design. You will describe alternative architectures that you considered and explain why they were not selected.</p>\n<p>Each team member must present part of the team's presentation. They must answer at least one of the key questions listed in the assessment specification. Each team member will be awarded an individual grade for the presentation.</p>\n<p>The result achieved by your presentation, <em>before</em> any penalty is applied, will be used to determine any cap on your final grade.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst you may use AI and MT technologies, successful completion of assessment in this course will require you to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a> . You <strong>must</strong> indicate any text or diagrams that were produced with the assistance of AI tools. Use a footnote indicating which AI system was used.</p>\n<p>To pass this assessment you will be required to demonstrate detailed comprehension of the content of your slides, independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The presentation is an identity verified assignment. You must make your presentation in-person, and you must provide evidence of your identity (i.e. valid UQ student card) at the start of your presentation session.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Delivering Quality Attributes Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 8/06/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Participation/ Student contribution, Product/ Design, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will design and deliver an initial, releasable version of a software system. The delivered system must demonstrates how it delivers selected quality attributes. This is the development phase of the project.</p>\n<p><strong>Project Development</strong></p>\n<p>You will be formed into teams to deliver the project described in a nominated proposal. As a team you will design and document the software architecture, implement, test and deliver the software system, and write a report describing the software architecture, and how the design delivers the specified functional and non-functional requirements.</p>\n<p><strong>Platform</strong></p>\n<p>This project does not require you to use any specific cloud infrastructure. Part of your design process is to identify appropriate computing platforms to use as the physical architecture of your system. Credit will be available to use on a nominated platform (e.g. AWS). Limitations will be applied on the services available to avoid excess costs being accrued. If you need to use a cloud-based platform, your team will need to decide how to make use of any credit that you have available between all the team members. Poor design choices may exceed your available credit. In some circumstances this may limit your maximum mark if you are not able to complete, or the teaching team is not able to assess, part of your project. In other circumstances this may lead to you paying extra commercial fees to the platform provider. Paying for extra services to boost your project's performance in some way will not improve the final result you achieve on the project.</p>\n<p><strong>Peer Assessment</strong></p>\n<p>Peer assessment of the quality and quantity of each team member's contributions to this project <strong><em>may</em></strong> be used to adjust individual results. Peer assessments will be moderated by the teaching team and their observations of individual's contributions during contact sessions will also be used if individual results are adjusted. Individual grades for the project may be increased or decreased.</p>\n<p><strong>Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst you may use AI and MT technologies, successful completion of assessment in this course will require you to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a> . You <strong>must</strong> include with your submission a file <strong>AI.md</strong> that indicates the AI and MT tools that you used and the extent of their use. (e.g. All code was written by providing copilot with class descriptions and then revising the generated code. Classes A and B were produced by the following prompts to ChatGPT and were then adapted to work in the assignment's context.)</p>\n<p>To pass this assessment you will be required to demonstrate detailed comprehension of your submitted project artefacts.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be via a git repository that will be provisioned for your team.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture Series</strong><br/><p>The lectures, including guest lectures, introduce the theory relevant to designing software architectures.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lecture Series</strong>",
+            "topic_description": "Lecture Series The lectures, including guest lectures, introduce the theory relevant to designing software architectures.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 12",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical Computer Exercises</strong><br/><p>The first part of semester will introduce technology to build complex, scalable systems. The remainder of the semester will be dedicated to project work.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Practical Computer Exercises</strong>",
+            "topic_description": "Practical Computer Exercises The first part of semester will introduce technology to build complex, scalable systems. The remainder of the semester will be dedicated to project work.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 10",
+            "activity_type": "Case-based learning",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study Series</strong><br/><p>Each week we will explore software architecture options to implement different systems.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study Series</strong>",
+            "topic_description": "Case Study Series Each week we will explore software architecture options to implement different systems.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Architecture Presentation</strong><br/><p>Your team will be allocated a timeslot during week 13 to make your presentation. The presentation may take place during a lecture, practical, case study contact timeslot, or other specially scheduled session.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Architecture Presentation</strong>",
+            "topic_description": "Architecture Presentation Your team will be allocated a timeslot during week 13 to make your presentation. The presentation may take place during a lecture, practical, case study contact timeslot, or other specially scheduled session.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        }
+    ]
+}
