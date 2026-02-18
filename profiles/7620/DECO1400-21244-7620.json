@@ -1,0 +1,162 @@
+{
+    "course_title": "Introduction to Web Design",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/DECO1400-21244-7620",
+    "full_course_code": "DECO1400-21244-7620",
+    "course_code": "DECO1400",
+    "class_code": "21244",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate an understanding of design principles and best practice through critical review of existing websites."
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrate technical proficiency through semantic mark up of content using HTML."
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate technical proficiency through appropriate & meaningful styling of HTML documents with CSS."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate technical proficiency by adding appropriate & meaningful interactivity to HTML documents using jQuery/JavaScript."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply the appropriate design principles & methods to the effective design of user-centred websites."
+        },
+        {
+            "number": "LO6.",
+            "description": "Implement a best practice standards based approach to the development of websites."
+        },
+        {
+            "number": "LO7.",
+            "description": "Effectively communicate design & development decisions in written & oral form."
+        },
+        {
+            "number": "LO8.",
+            "description": "Demonstrate a basic understanding of privacy, networking & security management in the context of web design."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Website Design",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 2/04/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Product/ Design, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be asked to design a website in response to a provided project brief in a thoughtful and creative manner, based on the concepts they learn during the course.</p>\n<p><strong>Generative Artificial Intelligence (AI) or Machine Translation (MT)</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will upload their report on Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "RiPPLE",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 24/04/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be participating in an online platform throughout semester where they <em>create</em>, <em>moderate </em>and <em>answer </em>questions (refer to Blackboard for more details).</p>\n<p>Opens 23/02/2026, closes 4pm 24/04/2026</p>\n<p><strong>Generative Artificial Intelligence (AI) or Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will create and respond to questions on RiPPLE platform via Blackboard. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Website Implementation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 25/05/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will be asked to implement a website in response to a provided project brief in a thoughtful and creative manner, based on the concepts they learn during the course. This assessment will require submission of HTML/CSS/JavaScript files that comprise a functioning website.</p>\n<p><strong>Generative Artificial Intelligence (AI) or Machine Translation (MT)</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will upload their submission on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "In-person Review",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>In-person Review 1 (20%): During Week 8 Studio sessions 24/04/2026</p>\n<p>In-person Review 2 (30%): During Week 13 Studio sessions 29/05/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students need to attend two In-person Review sessions during Week 8 and 13 studio sessions and answer questions related to their web design (Week 8) and Web implementation (Week 13) submissions.</p>\n<p>In-person Review 1 (20%): During Week 8 Studio sessions</p>\n<p>In-person Review 2 (30%): During Week 13 Studio sessions (condition: hurdle)</p>\n<p><strong>Generative Artificial Intelligence (AI) or Machine Translation (MT)</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students need to attend In-person Review sessions in Week 8 and 13 and answer questions related to their web design (Week 8) and web implementation (Week 13) submissions.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Studio",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Studios from Week 1 to 13</strong><br><p>Develop &amp; demonstrate an understanding of design principles &amp; methods essential for effective web design, and technical proficiency using client-side technologies: HTML + CSS + jQuery/Javascript</p></br></p></div></td>",
+            "topic_title": "<strong>Studios from Week 1 to 13</strong>",
+            "topic_description": "Studios from Week 1 to 13 Develop & demonstrate an understanding of design principles & methods essential for effective web design, and technical proficiency using client-side technologies: HTML + CSS + jQuery/Javascript",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures from Week 1 to 13</strong><br/><p>Lectures will cover design principles, methods, technologies &amp; standards applicable to web design &amp; development.</p></p></div></td>",
+            "topic_title": "<strong>Lectures from Week 1 to 13</strong>",
+            "topic_description": "Lectures from Week 1 to 13 Lectures will cover design principles, methods, technologies & standards applicable to web design & development.",
+            "learning_outcomes": []
+        }
+    ]
+}
