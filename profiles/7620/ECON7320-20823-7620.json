@@ -1,0 +1,442 @@
+{
+    "course_title": "Advanced Microeconometrics",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7320-20823-7620",
+    "full_course_code": "ECON7320-20823-7620",
+    "course_code": "ECON7320",
+    "class_code": "20823",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Outline the theoretical foundations of workhorse econometric methods."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply econometric methods to real-world data and learn the correct way to report and interpret empirical results."
+        },
+        {
+            "number": "LO3.",
+            "description": "Choose and implement appropriate econometric techniques to conduct estimation, prediction, and statistical inference."
+        },
+        {
+            "number": "LO4.",
+            "description": "Examine the internal and external validities of econometric models applying to specific empirical problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Implement econometric analysis using software packages like R."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Set 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 2/04/2026 4:59 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task involves analytical and data-driven problems. It provides a solid foundation in econometric modeling and computational research. Students will apply a variety of estimation methods while learning to navigate different data structures. By linking theoretical concepts with practical R programming, students will practice and learn how to: 1. Identify causal effects, 2. Conduct estimation and statistical inference, and 3. Manage real-world data.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) provide emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference the use of generative AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronic submissions via Blackboard of a single PDF document with all relevant materials.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Problem Set 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 15/05/2026 4:59 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task involves analytical and data-driven problems. It provides a solid foundation in econometric modeling and computational research. Students will apply a variety of estimation methods while learning to navigate different data structures. By linking theoretical concepts with practical R programming, students will practice and learn how to: 1. Identify causal effects, 2. Conduct estimation and statistical inference, and 3. Manage real-world data.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) provide emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference the use of generative AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Electronic submissions via Blackboard of a single PDF document with all relevant materials.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End-of-Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam is comprehensive and will cover all topics discussed throughout the course. Additional details will be provided during the last lecture.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction and Math Review</strong><br/><p>course introduction, Matrix algebra, review of elementary probability and statistics</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Course Introduction and Math Review</strong>",
+            "topic_description": "Course Introduction and Math Review course introduction, Matrix algebra, review of elementary probability and statistics",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review of Multiple Regression and M-estimation</strong><br/><p>Review matrix treatment of multiple regression; Gauss-Markov Theorem and assumptions; conditional prediction; loss function; M-estimation; causal vs. non causal relations; examples.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Review of Multiple Regression and M-estimation</strong>",
+            "topic_description": "Review of Multiple Regression and M-estimation Review matrix treatment of multiple regression; Gauss-Markov Theorem and assumptions; conditional prediction; loss function; M-estimation; causal vs. non causal relations; examples.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 1</strong><br/><p>Review and practice the materials covered in Lecture 1.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 1</strong>",
+            "topic_description": "Tutorial 1 Review and practice the materials covered in Lecture 1.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Maximum Likelihood Estimation</strong><br/><p>Basic likelihood concepts; score functions; computation of MLE; large sample properties; examples from univariate and regression models; likelihood-based inference.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Maximum Likelihood Estimation</strong>",
+            "topic_description": "Maximum Likelihood Estimation Basic likelihood concepts; score functions; computation of MLE; large sample properties; examples from univariate and regression models; likelihood-based inference.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 2</strong><br/><p>Review and practice the materials covered in Lecture 2.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 2</strong>",
+            "topic_description": "Tutorial 2 Review and practice the materials covered in Lecture 2.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>GMM Basics and Extensions</strong><br/><p>Simultaneous equations framework. Essential GMM Motivation; the Analogy Principle; causal parameters; simultaneous equations; IV estimation; GMM extensions; large sample properties</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>GMM Basics and Extensions</strong>",
+            "topic_description": "GMM Basics and Extensions Simultaneous equations framework. Essential GMM Motivation; the Analogy Principle; causal parameters; simultaneous equations; IV estimation; GMM extensions; large sample properties",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 3</strong><br/><p>Review and practice the materials covered in Lecture 3.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 3</strong>",
+            "topic_description": "Tutorial 3 Review and practice the materials covered in Lecture 3.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Panel Data Models A</strong><br/><p>Advantages of panel data; basics of linear panel models; pooled, random effects and fixed effect models; target parameters and estimation by GLS; applications.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Linear Panel Data Models A</strong>",
+            "topic_description": "Linear Panel Data Models A Advantages of panel data; basics of linear panel models; pooled, random effects and fixed effect models; target parameters and estimation by GLS; applications.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4</strong><br/><p>Review and practice the materials covered in Lecture 4.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 4</strong>",
+            "topic_description": "Tutorial 4 Review and practice the materials covered in Lecture 4.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Linear Panel Data Models B</strong><br/><p>Extensions of basic models; types of exogeneity; endogenous regressors; dynamic models; GMM methods; application to MABEL data.</p>\n<p>Friday, April 3rd, is Good Friday, a public holiday, so there will be no classroom lectures or consultation sessions that day. A recorded lecture will be uploaded to Ultra for students to access. Students who typically attend tutorials on this day are encouraged to attend an alternative tutorial session for this week only.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Linear Panel Data Models B</strong>",
+            "topic_description": "Linear Panel Data Models B Extensions of basic models; types of exogeneity; endogenous regressors; dynamic models; GMM methods; application to MABEL data. Friday, April 3rd, is Good Friday, a public holiday, so there will be no classroom lectures or consultation sessions that day. A recorded lecture will be uploaded to Ultra for students to access. Students who typically attend tutorials on this day are encouraged to attend an alternative tutorial session for this week only.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5</strong><br/><p>Review and practice the materials covered in Lecture 5.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 5</strong>",
+            "topic_description": "Tutorial 5 Review and practice the materials covered in Lecture 5.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break(06 Apr - 12 Apr)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> In-Semester Break - No lecture, no tutorials, no consultations</strong><br/></p></div></td>",
+            "topic_title": "<strong> In-Semester Break - No lecture, no tutorials, no consultations</strong>",
+            "topic_description": "In-Semester Break - No lecture, no tutorials, no consultations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Simulation-based Estimation and Inference</strong><br/><p>Computer-intensive methods for estimation and inference; simulation-based MLE and GMM; bootstrap standard errors; applications to panel models.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Simulation-based Estimation and Inference</strong>",
+            "topic_description": "Simulation-based Estimation and Inference Computer-intensive methods for estimation and inference; simulation-based MLE and GMM; bootstrap standard errors; applications to panel models.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 6</strong><br/><p>Review and practice the materials covered in Lecture 6.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 6</strong>",
+            "topic_description": "Tutorial 6 Review and practice the materials covered in Lecture 6.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quantile Regression</strong><br/><p>Conditional quantiles (CQ); semiparametric models; marginal quantiles; MAD and CQ estimation; advantages of non separable heterogeneous responses; treatment effects.</p>\n<p>18 April is a public holiday. No class, tutorial, or consultation session will be held that day.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic_title": "<strong>Quantile Regression</strong>",
+            "topic_description": "Quantile Regression Conditional quantiles (CQ); semiparametric models; marginal quantiles; MAD and CQ estimation; advantages of non separable heterogeneous responses; treatment effects. 18 April is a public holiday. No class, tutorial, or consultation session will be held that day.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7</strong><br/><p>Review and practice the materials covered in Lecture 7.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 7</strong>",
+            "topic_description": "Tutorial 7 Review and practice the materials covered in Lecture 7.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hypothesis Tests</strong><br/><p>Key concepts related to hypothesis tests, Wald, criterion-based, and score tests.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05</p></div></td>",
+            "topic_title": "<strong>Hypothesis Tests</strong>",
+            "topic_description": "Hypothesis Tests Key concepts related to hypothesis tests, Wald, criterion-based, and score tests.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 8</strong><br/><p>Review and practice the materials covered in Lecture 8.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 8</strong>",
+            "topic_description": "Tutorial 8 Review and practice the materials covered in Lecture 8.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Non-parametric and Flexible Parametric Methods A</strong><br/><p>Kernel density and regression; mixture models; kernel regression; mixture of normals; inference on mixture models</p>\n<p>5 May is a public holiday. No class, tutorial, or consultation session will be held that day.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Non-parametric and Flexible Parametric Methods A</strong>",
+            "topic_description": "Non-parametric and Flexible Parametric Methods A Kernel density and regression; mixture models; kernel regression; mixture of normals; inference on mixture models 5 May is a public holiday. No class, tutorial, or consultation session will be held that day.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 9</strong><br/><p>Review and practice the materials covered in Lecture 9.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 9</strong>",
+            "topic_description": "Tutorial 9 Review and practice the materials covered in Lecture 9.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Non-parametric and Flexible Parametric Methods B</strong><br/><p>Kernel density and kernel regression; mixture of normals; inference on mixture models; relationship to semiparametric models; random effects and mixed models.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Non-parametric and Flexible Parametric Methods B</strong>",
+            "topic_description": "Non-parametric and Flexible Parametric Methods B Kernel density and kernel regression; mixture of normals; inference on mixture models; relationship to semiparametric models; random effects and mixed models.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10</strong><br/><p>Review and practice the materials covered in Lecture 10.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 10</strong>",
+            "topic_description": "Tutorial 10 Review and practice the materials covered in Lecture 10.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Big Data and Machine Learning</strong><br/><p>High dimensional regression; Ridge regression; LASSO; penalty variable selection; LASSO IV; double/debiased machine learning.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Big Data and Machine Learning</strong>",
+            "topic_description": "Big Data and Machine Learning High dimensional regression; Ridge regression; LASSO; penalty variable selection; LASSO IV; double/debiased machine learning.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 11</strong><br/><p>Review and practice the materials covered in Lecture 11.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 11</strong>",
+            "topic_description": "Tutorial 11 Review and practice the materials covered in Lecture 11.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review Lecture</strong><br/><p>Review lecture</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Review Lecture</strong>",
+            "topic_description": "Review Lecture Review lecture",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 12</strong><br/><p>Review and practice the materials covered in Lecture 12.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorial 12</strong>",
+            "topic_description": "Tutorial 12 Review and practice the materials covered in Lecture 12.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
