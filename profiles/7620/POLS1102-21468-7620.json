@@ -46,7 +46,7 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
-            "assessment_title": "In-Class Quizzes",
+            "assessment_title": "In-Class Quizzes During Lectures",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
@@ -54,7 +54,7 @@
                 }
             ],
             "weighting": "<dd>21%</dd>",
-            "due_date": "<dd><p> 10/03/2026 - 19/05/2026</p></dd>",
+            "due_date": "<dd><p> 10/03/2026 - 19/05/2026</p>\n<p>\n</p><p>The quiz will be held each week from Week 3 to Week 12 during the scheduled lecture time. </p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Quiz",
