@@ -1,0 +1,190 @@
+{
+    "course_title": "Machine Learning",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/COMP7703-21209-7620",
+    "full_course_code": "COMP7703-21209-7620",
+    "course_code": "COMP7703",
+    "class_code": "21209",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe the core theoretical and conceptual frameworks that are used in Machine Learning."
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the properties and functions of a range of different Machine Learning models and to be able to connect a model to appropriate theoretical foundations."
+        },
+        {
+            "number": "LO3.",
+            "description": "Formulate an algorithm that instantiates a given Machine Learning model using appropriate data."
+        },
+        {
+            "number": "LO4.",
+            "description": "Implement Machine Learning algorithms in a high-level programming language."
+        },
+        {
+            "number": "LO5.",
+            "description": "Formulate and execute experiments with implemented Machine Learning techniques on data sets, and to evaluate and reflect on the results."
+        },
+        {
+            "number": "LO6.",
+            "description": "Explain the relationships between the different types of techniques used in Machine Learning and the relationships between Machine Learning and other disciplines."
+        },
+        {
+            "number": "LO7.",
+            "description": "Recognize potential real-world applications of Machine Learning and evaluate the suitability of different Machine Learning technique implementations, algorithms, models and theory for a given application."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Lecture Participation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> 0 or 18% </dd>",
+            "due_date": "<dd><p> 2/03/2026 - 25/05/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Student's learning will be assessed via their participation in the lecture (Weeks 2 - 13).</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p><br/></p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-class Practical Demonstration",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd> 0 or 18% </dd>",
+            "due_date": "<dd><p> 16/03/2026 - 25/05/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will present their practical work to a teaching staff member during a prac class. This gives students the opportunity to demonstrate their learning by explaining their work. Students will be asked questions about their work and may be asked to demonstrate programs they have written.</p>\n<p>This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students will do 2 demos for teaching staff over the semester, with different students scheduled across different weeks.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>22%</dd>",
+            "due_date": "<dd><p> 29/05/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the Practical classes for this course, you will implement and/or apply a range of different machine learning techniques/models/algorithms. In this assignment, you are required to demonstrate your understanding of and your ability to apply one or more of these machine learning techniques to a dataset provided for use in this assignment. Your task is to create a report that describes your method, results and analysis, including graphs and plots, code and output. Screenshots are also fine.</p>\n<p><br/></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit your assignment as a single pdf file via the link provided on the course blackboard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06, L07",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will be a closed-book, invigilated exam.</p>\n<p>This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-study</strong><br><p>Pre/post reading of recommended texts will be required. Additional required reading (e.g. journal and conference papers) will also be specified during the course.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L07</p></div></td>",
+            "topic_title": "<strong>Self-study</strong>",
+            "topic_description": "Self-study Pre/post reading of recommended texts will be required. Additional required reading (e.g. journal and conference papers) will also be specified during the course.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br><p>Contact classes will be a discussion of the core material (e.g. concepts, models, algorithms) covered in the course with Q&amp;A, examples and demos.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L06, L07</p></div></td>",
+            "topic_title": "<strong>Lecture</strong>",
+            "topic_description": "Lecture Contact classes will be a discussion of the core material (e.g. concepts, models, algorithms) covered in the course with Q&A, examples and demos.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L06",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Computer Labs</strong><br/><p>Completing problem sets predominately via implementing and applying the concepts and techniques covered.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Computer Labs</strong>",
+            "topic_description": "Computer Labs Completing problem sets predominately via implementing and applying the concepts and techniques covered.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
