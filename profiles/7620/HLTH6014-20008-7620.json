@@ -1,0 +1,172 @@
+{
+    "course_title": "Research Thesis",
+    "study_period": "Sem 1 2026",
+    "location": "Herston",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/HLTH6014-20008-7620",
+    "full_course_code": "HLTH6014-20008-7620",
+    "course_code": "HLTH6014",
+    "class_code": "20008",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (16/02/2026 - 14/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply knowledge and skills to critique and synthesise the scientific literature to identify an area for further research."
+        },
+        {
+            "number": "LO2.",
+            "description": "Formulate and articulate a study purpose and identify appropriate methods to address the study purpose."
+        },
+        {
+            "number": "LO3.",
+            "description": "Execute a research project to address identified research gaps using appropriate methodologies."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse and critically interpret research data."
+        },
+        {
+            "number": "LO5.",
+            "description": "Develop a research paper suitable for a peer reviewed journal, including critical discussion and identification of the implications for public health."
+        },
+        {
+            "number": "LO6.",
+            "description": "Translate and defend research findings for multiple audiences."
+        },
+        {
+            "number": "LO7.",
+            "description": "Demonstrate effective communication skills suitable for academic publication."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Task 1: Research pitch",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10% Individual </dd>",
+            "due_date": "<dd><p> 13/04/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L02, L07",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>This first task requires you to prepare and deliver a research pitch </strong>– essentially to sell and justify your research<strong>. </strong>This pitch will be a short presentation of the literature you have examined, the evidence gaps you have identified, a clear statement of the research question(s) your thesis will examine, and a brief summary of the research methods you will use to answer your research question.  This research pitch is your opportunity to demonstrate why your research is important and what it will entail. </p>\n<p>The research pitch will be submitted via video and should be supported with visual aids, such as PowerPoint. The pitch should take no longer than <strong>7 minutes</strong>. Note your video submission will be marked, not your in-person pitch.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit on Blackboard via the Turnitin link</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Please see 10. Policies &amp; Guidelines</strong></p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Task 2: Research integrity and ethics workshop",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd> Hurdle </dd>",
+            "due_date": "<dd><p> 30/04/2026 9:30 am</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Activity/ Performance",
+            "category": "Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In preparation for your thesis, you are required to participate in a workshop about the responsible conduct of research. All students will have a chance to ask questions and brainstorm alternative actions and methods for the project. Projects undertaken by Health Science Honours students have a wide range of methods and topics so it is envisaged that students will gain an insight into conducting different research styles responsibly. Attendance (in person or online) is compulsory to \"pass\" this assignment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Attendance (in person or online) is compulsory; this is a pass/fail hurdle</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p><strong>Please see 10. Policies &amp; Guidelines</strong></p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Task 3: Thesis introduction",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20% Individual </dd>",
+            "due_date": "<dd><p> 20/05/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01",
+            "mode": "Written",
+            "category": "Thesis",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Building on the Research Pitch you produced in Task 1, you will now write the introduction to your thesis. You will essentially take the points you addressed in your pitch related to the project's background (e.g., what previous research has been completed on this topic; what gaps in the literature will your thesis address) and flesh them out in academic writing format. This document will become your <strong>Thesis Introduction.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit on Blackboard via the Turnitin link</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Please see 10. Policies &amp; Guidelines</strong></p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Task 4: Thesis methods",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> Formative </dd>",
+            "due_date": "<dd><p> 29/05/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L02",
+            "mode": "Written",
+            "category": "Thesis",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Following on from your thesis introduction and statement of a clearly justified and testable research question, you will now complete a draft of the methods section of your thesis manuscript.  The research methods you propose should be those appropriate to answering your research question(s). Your methods section should be prepared in the style appropriate to the journal targeted for your thesis manuscript (Task 5). Your submission should be accompanied by a copy of the author instructions from the target journal. Please also state which target journal you have completed the methods section for.</p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit on Blackboard via the Turnitin link</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Please see 10. Policies &amp; Guidelines</strong></p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Task 5: Thesis manuscript",
+            "special_indicators": [],
+            "weighting": "<dd>60% Individual </dd>",
+            "due_date": "<dd><p> 12/10/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L03, L04, L05, L07",
+            "mode": "Written",
+            "category": "Thesis",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Your thesis manuscript builds upon your previous assessments. The task is to produce a draft journal article, ready for submission to a journal. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit on Blackboard via the Turnitin link</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Please see 10. Policies &amp; Guidelines</strong></p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-5",
+            "assessment_title": "Task 6: Knowledge translation item",
+            "special_indicators": [],
+            "weighting": "<dd>10% Individual </dd>",
+            "due_date": "<dd><p> 23/10/2026 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia",
+            "category": "Performance, Practical/ Demonstration, Presentation, Poster",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this task, you are required to demonstrate your ability to communicate your research project and findings to a non-expert audience of your choosing.</p>\n<p>You are also able to choose the presentation format, considering what might be appropriate for the target audience, such as consumers or industry partners. This is an opportunity to be creative!</p>\n<p>Examples of knowledge translation pieces include:</p>\n<p>-         A two-page report for stakeholders that can be published in an open domain</p>\n<p>-         A brief recorded summary presentation uploaded to a website</p>\n<p>-         A poster to be displayed in a workplace</p>\n<p>-         An article for <em>The Conversation</em></p>\n<p>Your item should be accompanied by a brief description of the target audience and a justification as to why this target audience and media was chosen (maximum 200 words). </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit on Blackboard via the Turnitin link</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p><strong>Please see 10. Policies &amp; Guidelines</strong></p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Not scheduled",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Writing the Manuscript</strong><br/></p></div></td>",
+            "topic_title": "<strong>Writing the Manuscript</strong>",
+            "topic_description": "Writing the Manuscript",
+            "learning_outcomes": []
+        }
+    ]
+}
