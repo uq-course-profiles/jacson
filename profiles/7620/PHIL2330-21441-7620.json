@@ -77,7 +77,7 @@
             "assessment_title": "In-Semester Exam",
             "special_indicators": [],
             "weighting": "<dd>35%</dd>",
-            "due_date": "<dd><p> 18/04/2026</p>\n<p>\n</p><p>The exam will be a centrally supervised exam with the times published on the central exams timetable.</p></dd>",
+            "due_date": "<dd><p> 14/04/2026 10:00 am</p>\n<p>\n</p><p>The exam will be a supervised exam during the lecture period.</p></dd>",
             "learning_objectives": "L01, L02, L04, L08, L09",
             "mode": "Written",
             "category": "Examination",
@@ -105,11 +105,11 @@
     ],
     "learning_activities": [
         {
-            "learning_period": "Multiple weeksFrom Week 1 To Week 2",
+            "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br><p>Introduction to Issues in Political Philosophy and Applied Ethics and overview of what will be covered; Critique from environmental, feminist and indigenous perspectives; discussion of assessment and course expectations.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br><p>Introduction to Issues in Political Philosophy and Applied Ethics and overview of what will be covered plus assessment and course expectations.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
             "topic_title": "<strong>Introduction</strong>",
-            "topic_description": "Introduction Introduction to Issues in Political Philosophy and Applied Ethics and overview of what will be covered; Critique from environmental, feminist and indigenous perspectives; discussion of assessment and course expectations.",
+            "topic_description": "Introduction Introduction to Issues in Political Philosophy and Applied Ethics and overview of what will be covered plus assessment and course expectations.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -118,11 +118,11 @@
             ]
         },
         {
-            "learning_period": "Multiple weeksFrom Week 2 To Week 3",
+            "learning_period": "Week 2",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Welfarism and Utilitarianism</strong><br><p>Welfarism and Utilitarianism</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Welfarism and Utilitarianism</strong><br><p>The view that justice is about increasing people's welfare, with an in depth look at its common variant, utilitarianism.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
             "topic_title": "<strong>Welfarism and Utilitarianism</strong>",
-            "topic_description": "Welfarism and Utilitarianism Welfarism and Utilitarianism",
+            "topic_description": "Welfarism and Utilitarianism The view that justice is about increasing people's welfare, with an in depth look at its common variant, utilitarianism.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -130,11 +130,11 @@
             ]
         },
         {
-            "learning_period": "Multiple weeksFrom Week 3 To Week 4",
+            "learning_period": "Week 3",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Utilitarianism, QALYs</strong><br><p>Operationalizing Utilitarianism: QALYs; See Blackboard for background readings.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Utilitarianism, QALYs</strong><br><p>Operationalizing Utilitarianism: QALYs.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L08</p></div></td>",
             "topic_title": "<strong>Utilitarianism, QALYs</strong>",
-            "topic_description": "Utilitarianism, QALYs Operationalizing Utilitarianism: QALYs; See Blackboard for background readings.",
+            "topic_description": "Utilitarianism, QALYs Operationalizing Utilitarianism: QALYs.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -142,11 +142,11 @@
             ]
         },
         {
-            "learning_period": "Week 5",
+            "learning_period": "Week 4",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Rights and Utility; Reflective Equlibrium</strong><br><p>The relation of rights to utility; Reflective Equilibrium Methodology</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L09</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rights and Utility; Reflective Equlibrium</strong><br><p>The relation of rights to utility; Reflective Equilibrium as a Methodology in political philosophy.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L09</p></div></td>",
             "topic_title": "<strong>Rights and Utility; Reflective Equlibrium</strong>",
-            "topic_description": "Rights and Utility; Reflective Equlibrium The relation of rights to utility; Reflective Equilibrium Methodology",
+            "topic_description": "Rights and Utility; Reflective Equlibrium The relation of rights to utility; Reflective Equilibrium as a Methodology in political philosophy.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -156,7 +156,7 @@
             ]
         },
         {
-            "learning_period": "Multiple weeksFrom Week 6 To Week 7",
+            "learning_period": "Week 5",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Rawls' Political Philosophy</strong><br/><p>The Political Philosophy of John Rawls</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Rawls' Political Philosophy</strong>",
@@ -170,7 +170,7 @@
             ]
         },
         {
-            "learning_period": "Multiple weeksFrom Week 7 To Week 8",
+            "learning_period": "Week 6",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Egalitarianism</strong><br/><p>Egalitarianism; Equality and Pareto Optimality</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Egalitarianism</strong>",
@@ -184,11 +184,11 @@
             ]
         },
         {
-            "learning_period": "Week 9",
+            "learning_period": "Week 7",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Liberalism, The Harm Principle, Critiques of Liberalism; </strong><br/><p>Liberalism, The Harm Principle and Critiques from Feminist, Environmental, and Indigenous Perspectives</p></p><p><strong>Learning outcomes:</strong> L03, L04, L06, L10</p></div></td>",
-            "topic_title": "<strong>Liberalism, The Harm Principle, Critiques of Liberalism; </strong>",
-            "topic_description": "Liberalism, The Harm Principle, Critiques of Liberalism; Liberalism, The Harm Principle and Critiques from Feminist, Environmental, and Indigenous Perspectives",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In Semester Exam </strong><br/><p>Exam to be held during lecture period</p></p><p><strong>Learning outcomes:</strong> L03, L04, L06, L10</p></div></td>",
+            "topic_title": "<strong>In Semester Exam </strong>",
+            "topic_description": "In Semester Exam Exam to be held during lecture period",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -197,11 +197,11 @@
             ]
         },
         {
-            "learning_period": "Week 10",
+            "learning_period": "Multiple weeksFrom Week 8 To Week 9",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Libertarianism, Past Injustice, and Intellectual Property</strong><br/><p>Libertarianism, Past Injustice, and Intellectual Property</p></p><p><strong>Learning outcomes:</strong> L01, L03, L06</p></div></td>",
-            "topic_title": "<strong>Libertarianism, Past Injustice, and Intellectual Property</strong>",
-            "topic_description": "Libertarianism, Past Injustice, and Intellectual Property Libertarianism, Past Injustice, and Intellectual Property",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Liberalism, The Harm Principle, and Critiques</strong><br/><p>Liberalism, The Harm Principle and Critiques from Feminist, Environmental, and Indigenous Perspectives</p></p><p><strong>Learning outcomes:</strong> L01, L03, L06</p></div></td>",
+            "topic_title": "<strong>Liberalism, The Harm Principle, and Critiques</strong>",
+            "topic_description": "Liberalism, The Harm Principle, and Critiques Liberalism, The Harm Principle and Critiques from Feminist, Environmental, and Indigenous Perspectives",
             "learning_outcomes": [
                 "L01",
                 "L03",
@@ -209,11 +209,11 @@
             ]
         },
         {
-            "learning_period": "Multiple weeksFrom Week 11 To Week 12",
+            "learning_period": "Week 10",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Left Libertarianism and Applied Issues Arising from Left Libertarianism (Environment, Indigenous Connection to Country)</strong><br/><p>Positions that combine libertarian commitments to self-ownership and freedom, with more egalitarian arguments about resources, as well as some of the arguments they raise about our attitudes to environmental resources and Indigenous connection to country.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
-            "topic_title": "<strong>Left Libertarianism and Applied Issues Arising from Left Libertarianism (Environment, Indigenous Connection to Country)</strong>",
-            "topic_description": "Left Libertarianism and Applied Issues Arising from Left Libertarianism (Environment, Indigenous Connection to Country) Positions that combine libertarian commitments to self-ownership and freedom, with more egalitarian arguments about resources, as well as some of the arguments they raise about our attitudes to environmental resources and Indigenous connection to country.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Libertarianism - Right and Associated Applied Issues</strong><br/><p>Libertarian commitments to self-ownership, freedom, and property rights, with associated applied question such as past injustice and intellectual property. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic_title": "<strong>Libertarianism - Right and Associated Applied Issues</strong>",
+            "topic_description": "Libertarianism - Right and Associated Applied Issues Libertarian commitments to self-ownership, freedom, and property rights, with associated applied question such as past injustice and intellectual property.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -221,11 +221,11 @@
             ]
         },
         {
-            "learning_period": "Multiple weeksFrom Week 12 To Week 13",
+            "learning_period": "Week 11",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Conservativism</strong><br/><p>Conservativism in Edmund Burke, Friedrich Hayek, and Michael Oakeshott, and its application to preservation of the environment, and cultural traditions.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06, L07</p></div></td>",
-            "topic_title": "<strong>Conservativism</strong>",
-            "topic_description": "Conservativism Conservativism in Edmund Burke, Friedrich Hayek, and Michael Oakeshott, and its application to preservation of the environment, and cultural traditions.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Left Libertarianism &amp; Consequent Applied Issues.</strong><br/><p>Positions that combine libertarian commitments to self-ownership and freedom, with more egalitarian arguments about resources, as well as some of the arguments they raise about our attitudes to environmental resources and Indigenous connection to country.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L02, L06, L07</p></div></td>",
+            "topic_title": "<strong>Left Libertarianism &amp; Consequent Applied Issues.</strong>",
+            "topic_description": "Left Libertarianism & Consequent Applied Issues. Positions that combine libertarian commitments to self-ownership and freedom, with more egalitarian arguments about resources, as well as some of the arguments they raise about our attitudes to environmental resources and Indigenous connection to country.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -234,11 +234,11 @@
             ]
         },
         {
-            "learning_period": "Week 13",
+            "learning_period": "Week 12",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Review and Essay Advice</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
-            "topic_title": "<strong>Review and Essay Advice</strong>",
-            "topic_description": "Review and Essay Advice",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Conservativism</strong><br><p>Conservativism in Edmund Burke, Friedrich Hayek, and Michael Oakeshott, and its application to preservation of the environment, and cultural traditions.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Conservativism</strong>",
+            "topic_description": "Conservativism Conservativism in Edmund Burke, Friedrich Hayek, and Michael Oakeshott, and its application to preservation of the environment, and cultural traditions.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -246,6 +246,14 @@
                 "L05",
                 "L06"
             ]
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review and Essay Advice</strong><br/></p></div></td>",
+            "topic_title": "<strong>Review and Essay Advice</strong>",
+            "topic_description": "Review and Essay Advice",
+            "learning_outcomes": []
         }
     ]
 }
