@@ -87,13 +87,9 @@
                 {
                     "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
                     "special_indicator_text": "Hurdle"
-                },
-                {
-                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
-                    "special_indicator_text": "In-person"
                 }
             ],
-            "weighting": "<dd>18%</dd>",
+            "weighting": "<dd>18% MUST PASS </dd>",
             "due_date": "<dd><p> 29/05/2026 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L05, L06",
             "mode": "Written",
