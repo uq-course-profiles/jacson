@@ -1,0 +1,231 @@
+{
+    "course_title": "Professional Engineering",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG1100-20455-7620",
+    "full_course_code": "ENGG1100-20455-7620",
+    "course_code": "ENGG1100",
+    "class_code": "20455",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate ability to approach a complex and realistic engineering design task using a structured engineering design process. [Engineering Design]"
+        },
+        {
+            "number": "LO2.",
+            "description": "Locate, evaluate, use and cite information from a variety of media including print, engineering drawings, and electronic sources. [Information Management]"
+        },
+        {
+            "number": "LO3.",
+            "description": "Demonstrate professional engineering-standard written, oral and graphical communication skills through appropriate use of software where relevant. [Communication]"
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate appropriate use of basic project management processes, tools and record keeping. [Project Management]"
+        },
+        {
+            "number": "LO5.",
+            "description": "Work effectively in an engineering team, identify the characteristics of effective team work and critically evaluate personal and peer contributions to team processes. [Team Work]"
+        },
+        {
+            "number": "LO6.",
+            "description": "Demonstrate competence in critically interpreting the concepts of sustainability, and incorporating these principles in the engineering design process. [Engineering Sustainability]"
+        },
+        {
+            "number": "LO7.",
+            "description": "Demonstrate an ability to manage your own time and learning and reflect critically on personal and professional development. [Personal Development]"
+        },
+        {
+            "number": "LO8.",
+            "description": "Demonstrate the responsibilities of a professional engineer through critical reflection on engineering ethics, ability to meet deadlines, and incorporation of risk management, and health and safety aspects in design. [Professional Development]"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Concept Report (Individual)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 2/04/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You need to write a Concept Report based on what you have learned from problem-based learning (PBL) sessions. Your report should show that you understand the scope of the project and can create a Function-Means tree for the prototype, develop design criteria for a subsystem component of your choice, use pairwise comparison to compare options, generate at least three design options for the component, create a Decision-Making matrix to evaluate the options, and justify your final design choice. You should also work with your team to create a preliminary design of the prototype at the system level, and present your design using annotated graphical representation. </p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.<strong> Students must clearly reference any use of AI or MT in each instance.</strong></p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Oral Presentation (Team)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15% Presentation in class </dd>",
+            "due_date": "<dd><p>oral presentation 15% 20/04/2026 - 24/04/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This oral presentation check in week 7 is to help the preparation of the oral presentation in week 9. Students must show/report to their tutor on progress of their design (integration of subsystems) from the concept report PBL2 (Workshop) classes.</p>\n<p>Week 9: You and your team have been asked to prepare and present a five-minute oral presentation to your teaching team during the PBL or Workshop session in Week 9. A detailed schedule for the presentations will be provided. The aim of this presentation is to report on your progress as a team and identify any gaps or opportunities in your teamwork. The teaching team will also have the opportunity to provide feedback on your progress and identify any challenges you may be facing in completing the project. It is important that all team members participate in the preparation and presentation of the oral presentation in order to present a cohesive and comprehensive report on your progress. <em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p>Students can use AI in preparation for their presentation, but are unable to use it in the Q&amp;A component which contains spontaneous questions where the student is required to demonstrate their understanding of the topic.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The oral presentation in week 8 will need to be handed in via Turnitin on BB on Monday 12pm in week 8.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Engagement Portfolio (Individual)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 12/05/2026 4:00 pm</p>\n<p>\n</p><p>Submit via TurnItIn on Blackboard</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An engagement portfolio is a collection of evidence demonstrating that you have been actively engaged with your course, particularly PBL classes, seminars, and practical sessions. In the section of the portfolio devoted to PBL tasks, you will be required to include information about tasks that you have completed in collaboration with your team. However, in the other sections of the portfolio, such as the reflections on seminars, the practical, and the course as a whole, you should write these reflections individually. This will allow you to reflect on your own learning and experiences rather than just your team's.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.<strong> Students must clearly reference any use of AI or MT in each instance.</strong></p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Demonstration Presentation (Team)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Presentation 5% 25/05/2026 - 29/05/2026</p>\n<p>Quality 5% 25/05/2026 - 29/05/2026</p>\n<p>Demonstration 10% 25/05/2026 - 29/05/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>These are assessment tasks that each team will follow through on Demo Day (~within 30 min). A breakdown and description of the Demo Day procedure is outlined in the Learning Guide.</p>\n<p>A 'Contribution Factor' will be used to determine your individual mark for this team-based assessment. The 'Contribution Factor' will be determined based on your PAF and feedback from the course staff. The PAF is described in more detail in the Learning Guide.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Considered a sequence with Design Project Final Report (Team)</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The project prototype will be submitted at UQ Innovate on the Monday of the Demonstration Week between 9am-12pm and be ordered by group/team</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "Design Project Final Report (Team)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 29/05/2026 4:00 pm</p>\n<p>\n</p><p>Submit via TurnItIn on Blackboard</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Paper/ Report/ Annotation, Product/ Design",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Your final report is an engineering report that documents the evolution of the project from individual concept designs to the final design, highlighting the design selection process and how your design meets the criteria for fitness for purpose and sustainability. Every team member is required to contribute to the preparation of the Final Report. Only one submission per team is allowed, to be submitted via TurnItIn on Blackboard. A 'Contribution Factor' will be used to determine your individual mark for this team-based assessment. The 'Contribution Factor' will be determined based on your PAF and feedback from the course staff. The PAF is described in more detail in the Learning Guide. <em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em> </p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.<strong> Students must clearly reference any use of AI or MT in each instance.</strong></p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct</p>\n<p>Considered a sequence with Demonstration Presentation (Team)</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Learning Session Stream 1</strong><br><p>This problem-based learning stream is aimed to teach the fundamentals of being a professional engineer. </p>\n<p>The weekly topics will cover</p>\n<ul>\n<li>What do professional engineers do?</li>\n<li>Team development</li>\n<li>Project management</li>\n<li>Systems thinking</li>\n<li>Design decision making</li>\n<li>Materials and manufacturing</li>\n<li>Risk management</li>\n<li>Sustainable engineering</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Applied Learning Session Stream 1</strong>",
+            "topic_description": "Applied Learning Session Stream 1 This problem-based learning stream is aimed to teach the fundamentals of being a professional engineer. The weekly topics will cover What do professional engineers do? Team development Project management Systems thinking Design decision making Materials and manufacturing Risk management Sustainable engineering",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Learning Session Stream 2</strong><br><p>This problem-based learning stream aims to apply the skills developed in stream 1 with relevance to the design project</p>\n<p>The weekly topics will cover</p>\n<ul>\n<li>Team formation and management</li>\n<li>Project planning</li>\n<li>Concept design</li>\n<li>System design</li>\n<li>System Fabrication and Integration</li>\n<li>System Assembly</li>\n<li>System evaluation and improvement</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Applied Learning Session Stream 2</strong>",
+            "topic_description": "Applied Learning Session Stream 2 This problem-based learning stream aims to apply the skills developed in stream 1 with relevance to the design project The weekly topics will cover Team formation and management Project planning Concept design System design System Fabrication and Integration System Assembly System evaluation and improvement",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminars</strong><br><p>The seminar series further expands on the content delivered in class and shows important skills in application. These also supply additional support and guidance on engineering practice and skills required to excel within the course</p>\n<p>These are required to attend for all students</p>\n<p>Weekly topics are </p>\n<ul>\n<li>Introduction to ENGG1100</li>\n<li>Structure and Drive Subsystem</li>\n<li>Power and Control Subsystem</li>\n<li>Subsystem review</li>\n<li>Teamwork and Communication</li>\n<li>Effective Writing and Storytelling</li>\n<li>Ethical Conduct and Integrity</li>\n<li>Sustainability</li>\n</ul></br></p><p><strong>Learning outcomes:</strong> L01, L03, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Seminars</strong>",
+            "topic_description": "Seminars The seminar series further expands on the content delivered in class and shows important skills in application. These also supply additional support and guidance on engineering practice and skills required to excel within the course These are required to attend for all students Weekly topics are Introduction to ENGG1100 Structure and Drive Subsystem Power and Control Subsystem Subsystem review Teamwork and Communication Effective Writing and Storytelling Ethical Conduct and Integrity Sustainability",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
