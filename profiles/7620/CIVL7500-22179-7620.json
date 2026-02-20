@@ -8,7 +8,7 @@
     "course_code": "CIVL7500",
     "class_code": "22179",
     "semester_code": "7620",
-    "semester_details": "Semester 1, 2026 (23/02/2026 - )",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 21/11/2026)",
     "learning_outcomes": [
         {
             "number": "LO1.",
@@ -49,25 +49,9 @@
             "assessment_title": "Progress Report",
             "special_indicators": [
                 {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
-                }
-            ],
-            "weighting": "<dd>20%</dd>",
-            "due_date": "<dd><p> 8/06/2026 3:59 pm</p></dd>",
-            "learning_objectives": "L01, L02, L03, L08",
-            "mode": "Written",
-            "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Individual written progress report. The report document must include:</p>\n<ul>\n<li>A description of the project identifying the motivation, aims/objectives, and scope of the research</li>\n<li>A literature review describing the relevant knowledge, the motivation, and objectives of the research</li>\n<li>A research plan describing the expected progress and achievement throughout the project</li>\n<li>A list of references including a good range of relevant (all cited) works</li>\n</ul>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Assessment must be submitted through the course BlackBoard site.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
-        },
-        {
-            "assessment_detail_section_id": "assessment-detail-1",
-            "assessment_title": "Oral Presentation",
-            "special_indicators": [
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
                 {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
                     "special_indicator_text": "Identity Verified"
@@ -78,12 +62,40 @@
                 }
             ],
             "weighting": "<dd>20%</dd>",
-            "due_date": "<dd><p> 21/10/2026 - 23/10/2026</p></dd>",
+            "due_date": "<dd><p> 8/06/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students must prepare a report that includes the following sections:</p>\n<ul>\n<li>Introduction – Provide background information on the research topic, identify the key issues to be investigated, and explain the importance of addressing these issues.</li>\n<li>Literature Review – Critically analyse existing literature relevant to the research topic, summarise previous work, and highlight opportunities for improvement in future studies. From this analysis, identify the main research questions and clearly state the study’s objectives, which should aim to address these questions.</li>\n<li>Research Plan – Describe the methodology and approach for executing the project. Incorporate a Gantt chart to visually present the project timetable.</li>\n<li>Work to Date – Summarise the progress achieved so far, using text, figures, and tables as appropriate.</li>\n<li>Health and Safety (Optional) – If the project involves fieldwork or laboratory activities, provide a list of required risk assessments and safety inductions.</li>\n<li>References – List all sources cited in the report.</li>\n<li>Appendices (Optional) – Include supplementary materials, such as spreadsheets, computer code, or other relevant data.</li>\n</ul>\n<p>This task is intentionally challenging, authentic, and complex. While students may utilise AI and/or machine translation technologies, successful completion of the assessment will require critical engagement with specific contexts and tasks, where artificial intelligence can offer only limited support and guidance.</p>\n<p>Failure to reference the use of generative AI or machine translation may be considered student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students must demonstrate a thorough understanding of their written submission independently of AI and machine translation tools.</p>\n<p>The report should be approximately <strong>25</strong> pages in length, not including the table of contents, references, or appendices.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment must be submitted through the course BlackBoard site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Oral Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Slides 20/10/2026</p>\n<p>Presentation 21/10/2026 - 23/10/2026</p></dd>",
             "learning_objectives": "L05, L06, L07",
             "mode": "Oral",
             "category": "Presentation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Individual oral presentation followed by a Q&amp;A session. The recorded oral presentation will be attended and evaluated by 2-5 academics, some of whom may be outside the research field.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Slides must be submitted through the course BlackBoard site before the presentation day.</p>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to present their work to a non-specialist audience, including examiners, within the designated timeframe. The exact date and allocated times will be announced on Blackboard. The presentation should address the following points:</p>\n<ul>\n<li>Aims and background</li>\n<li>Research gaps and objectives</li>\n<li>Methodology</li>\n<li>Results</li>\n<li>Conclusions</li>\n</ul>\n<p>The presentation must not exceed 10 minutes; you may be asked to stop if you go over time. A 9-minute Q&amp;A session will follow each presentation, with one minute allocated for changing presenters.</p>\n<p>Presentation slides must be uploaded one day prior to the first presentation, in accordance with the submission instructions posted on Blackboard.</p>\n<p>Whilst AI may be used in the slides preparation, students are required to demonstrate detailed comprehension of their work, independent of AI and MT tools, during the oral presentation and the following Q&amp;A session.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>The presentation slides (&lt;100Mb) must be uploaded to Turnitin.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
@@ -93,17 +105,45 @@
             "assessment_title": "Final Report",
             "special_indicators": [
                 {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
                 }
             ],
-            "weighting": "<dd>60%</dd>",
-            "due_date": "<dd><p> 9/11/2026 4:00 pm</p></dd>",
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 9/11/2026 5:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L06, L08",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An individual written final report describing the research in detail. The report document must include:</p>\n<ul>\n<li>Abstract</li>\n<li>Introduction</li>\n<li>Literature review</li>\n<li>Research methods (and analyses)</li>\n<li>Results</li>\n<li>Discussions</li>\n<li>Conclusions</li>\n<li>List of (cited) references</li>\n</ul>\n<p>The final report will be evaluated by the students' supervisor and a second academic who may be outside the research field.</p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Final Report can reuse the structure and content from the Progress Report.</p>\n<p>Students must prepare a report that includes the following sections:</p>\n<ul>\n<li>Abstract – Summarise the research background, gaps, methodology, key findings, conclusions, and implications. The abstract should be concise and informative, enabling readers to understand the report’s essence without reading the full document.</li>\n<li>Introduction – Provide background information on the research topic, identify the key issues to be investigated, and explain the importance of addressing these issues.</li>\n<li>Literature Review – Critically analyse existing literature relevant to the research topic, summarise previous work, and highlight opportunities for improvement in future studies. Based on this analysis, identify the main research questions and clearly state the study’s objectives, which should address these questions.</li>\n<li>Research Methods – Outline the research tools employed (e.g., fieldwork, laboratory experiments, mathematical modelling, or databases). Describe, in your own words, the procedures followed during the study (e.g., experimental steps, data collection before and after processes). Include solutions implemented to resolve issues encountered during the research.</li>\n<li>Results and Discussion – Present your findings clearly using text, figures, and tables as appropriate. Summarize key results and, where relevant, compare your findings with those of previous studies.</li>\n<li>Conclusion – Summarize the background, methodology, key findings, and implications of your study. The conclusion should reflect on the significance of your research, any limitations, and potential directions for future work.</li>\n<li>References – List all sources cited in the report.</li>\n<li>Appendices (Optional) – Include supplementary materials such as spreadsheets, computer code, or other relevant data.</li>\n</ul>\n<p>This task is intentionally challenging, authentic, and complex. While students may utilize AI and/or machine translation technologies, successful completion of the assessment will require critical engagement with specific contexts and tasks, where artificial intelligence can offer only limited support and guidance.</p>\n<p>Failure to reference the use of generative AI or machine translation may be considered student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students must demonstrate a thorough understanding of their written submission independently of AI and machine translation tools.</p>\n<p>The report should be approximately <strong>40</strong> pages in length, not including the table of contents, references, or appendices.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Assessment must be submitted through the course BlackBoard site</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Participation Logbook",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": null,
+            "due_date": "<dd><p> 9/11/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Activity/ Performance, Oral, Written",
+            "category": "Notebook/ Logbook, Participation/ Student contribution",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students must keep a Logbook documenting all meetings with their supervisor. The logbook must be verified and signed by the supervisor at the next meeting.</p>\n<p>The Logbook must be included at the beginning of the Final Report. This item is a pass/fail requirement.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
@@ -113,9 +153,9 @@
         {
             "learning_period": "Multiple weeksFrom Week 1 To Revision week (second semester)(23 Feb - 08 Nov)",
             "activity_type": "Not Timetabled",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Scientific investigation</strong><br><p>Scientific investigation and discussions with academic advisor.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scientific investigation</strong><br><p>Scientific investigation and discussions with the academic advisor.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
             "topic_title": "<strong>Scientific investigation</strong>",
-            "topic_description": "Scientific investigation Scientific investigation and discussions with academic advisor.",
+            "topic_description": "Scientific investigation Scientific investigation and discussions with the academic advisor.",
             "learning_outcomes": [
                 "L01",
                 "L02",
