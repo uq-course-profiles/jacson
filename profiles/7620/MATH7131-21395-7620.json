@@ -1,0 +1,152 @@
+{
+    "course_title": "Ordinary differential equations and dynamical systems",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7131-21395-7620",
+    "full_course_code": "MATH7131-21395-7620",
+    "course_code": "MATH7131",
+    "class_code": "21395",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Investigate the existence and properties of solutions of systems of ordinary differential equations"
+        },
+        {
+            "number": "LO2.",
+            "description": "Investigate the existence and stability of a stationary point of a system of ordinary differential equations, with reference to Lyapunov Stability, Asymptotic Stability and possibly using Lyapunov functions"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain what is meant by hyperbolicity and how this implies the existence of stable and unstable manifolds, with reference to Hartman's Theorem and the Stable Manifold Theorem"
+        },
+        {
+            "number": "LO4.",
+            "description": "Investigate the bifurcation properties of critical points in two dimensions and be able to identify saddle node, transcritical, pitchfork and Hopf bifurcations"
+        },
+        {
+            "number": "LO5.",
+            "description": "Investigate the presence, stability characteristics and bifurcation properties of critical points of maps. Investigate bifurcations such as saddle node, transcritical, period doubling and cascades of period doubling bifurcations to chaos"
+        },
+        {
+            "number": "LO6.",
+            "description": "Determine if a map is chaotic, with reference to horseshoes, the property of sensitivity to initial conditions, symbolic dynamics and Lyapunov exponents"
+        },
+        {
+            "number": "LO7.",
+            "description": "Analyse a system of ODEs, from the various methods developed in the course, and communicate your results and findings in writing"
+        },
+        {
+            "number": "LO8.",
+            "description": "Examine how ideas and techniques from this course are applied in other disciplines"
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 17/03/2026 5:00 pm</p>\n<p> 21/04/2026 5:00 pm</p>\n<p> 19/05/2026 5:00 pm</p>\n<p>\n</p><p>Students complete assigned worksheet problems at home and submit written solutions for two selected problems to be marked.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Computer Code, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Assignments will comprise problems based on material presented in lectures and applied classes. They will include an analytic component and may also include a basic computing component. Students can use Matlab/Octave, Mathematica, Python and/or Julia to complete the computer-based task(s).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assignments will be submitted electronically (as a single pdf file) using Gradescope, by the specified time on the due date.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>18%</dd>",
+            "due_date": "<dd><p> 18/03/2026 9:50 am</p>\n<p> 22/04/2026 9:50 am</p>\n<p> 20/05/2026 9:50 am</p>\n<p>\n</p><p>Quizzes are due on Wednesday at lecture time on the corresponding week. All quizzes are equally weighted, and only the best two out of three quiz scores are considered.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>30 minute long quizzes will comprise problems based on material presented in lectures, applied classes and assignments. </p>\n<p><br/></p>\n<p> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Quizzes will be completed in person during lecture time on the due date.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End of semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>52%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>3 lectures a week</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>3 lectures a week</strong>",
+            "topic_description": "3 lectures a week",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(02 Mar - 31 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Classes</strong><br><p>One applied class a week, in which a casual academic demonstrates solutions of selected problems and is available to answer questions about the applied class sheets. Students work on solving problems and understanding course material, and are able to ask questions.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Applied Classes</strong>",
+            "topic_description": "Applied Classes One applied class a week, in which a casual academic demonstrates solutions of selected problems and is available to answer questions about the applied class sheets. Students work on solving problems and understanding course material, and are able to ask questions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
