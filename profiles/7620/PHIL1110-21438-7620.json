@@ -26,15 +26,15 @@
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
-            "assessment_title": "We don't thinking like we think we think",
+            "assessment_title": "Thinking and Logic",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "<dd>10%</dd>",
-            "due_date": "<dd><p> 23/03/2026</p>\n<p>\n</p><p>The online quiz will be available for students via Blackboard Assessment from 12:01 AM Monday 8th of March to 11:59 PM Monday 8th of March. From the beginning of the test, 1 hour is allocated for its completion.</p></dd>",
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 9/03/2026 - 22/04/2026</p>\n<p>\n</p><p>The online quiz will be available for students via Blackboard Assessment from 12:01 AM Monday 9th of March to 11:59 PM Monday 9th of March and from 12:01 AM Wednesday 22nd of April to 11:59 PM Wednesday 22nd of April. From the beginning of the test, 1 hour is allocated for its completion.</p></dd>",
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Quiz",
@@ -46,26 +46,6 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
-            "assessment_title": "Tools of Logic",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
-                    "special_indicator_text": "Online"
-                }
-            ],
-            "weighting": "<dd>10%</dd>",
-            "due_date": "<dd><p>\n</p><p>The online quiz will be available for students from 12:01 AM Monday 22nd of April to 11:59 PM Monday 22nd of April. From the beginning of the test, 1 hour is allocated for its completion.</p></dd>",
-            "learning_objectives": "L01, L03",
-            "mode": "Written",
-            "category": "Quiz",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A short quiz of concepts covered so far.</p>\n<p>NOTE:This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
-        },
-        {
-            "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Media analysis and argument mapping",
             "special_indicators": [],
             "weighting": "<dd>30%</dd>",
@@ -80,7 +60,7 @@
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
-            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Tutorial participation",
             "special_indicators": [],
             "weighting": "<dd>20%</dd>",
@@ -95,7 +75,7 @@
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
-            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_detail_section_id": "assessment-detail-3",
             "assessment_title": "End of semester exam",
             "special_indicators": [],
             "weighting": "<dd>30%</dd>",
