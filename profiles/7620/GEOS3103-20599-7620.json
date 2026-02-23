@@ -78,7 +78,7 @@
                 }
             ],
             "weighting": "<dd>60% (20% * 3 critical essays) </dd>",
-            "due_date": "<dd><p>Essay 1: 23/03/2026 12:00 pm</p>\n<p>Essay 2: 20/04/2026 12:00 pm</p>\n<p>Essay 3: 5/05/2026 12:00 pm</p></dd>",
+            "due_date": "<dd><p>Essay 1: 23/03/2026 1:00 pm</p>\n<p>Essay 2: 20/04/2026 1:00 pm</p>\n<p>Essay 3: 5/05/2026 12:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
             "mode": "Written",
             "category": "Essay/ Critique",
@@ -115,90 +115,13 @@
     ],
     "learning_activities": [
         {
-            "learning_period": "Week 1",
+            "learning_period": "Multiple weeksFrom Week 1 To Week 6",
             "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br/><p>Introduction to Progress in Geography: foundation, learning activities, and coursework</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Introduction</strong>",
-            "topic_description": "Introduction Introduction to Progress in Geography: foundation, learning activities, and coursework",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminars</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Seminars</strong>",
+            "topic_description": "Seminars",
             "learning_outcomes": [
                 "L01"
-            ]
-        },
-        {
-            "learning_period": "Week 2",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>The Geographical Tradition</strong><br/><p>Discussion Workshop I: Early geographical thinkings</p>\n<ul>\n<li>Antient times</li>\n<li>Medieval &amp; Renaissance geographies</li>\n<li>Dawn of the birth of modern geography</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>The Geographical Tradition</strong>",
-            "topic_description": "The Geographical Tradition Discussion Workshop I: Early geographical thinkings Antient times Medieval & Renaissance geographies Dawn of the birth of modern geography",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
-        },
-        {
-            "learning_period": "Week 3",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Geography in the 19th Century</strong><br/><p>Discussion Workshop II: The birth of modern geography</p>\n<ul>\n<li>Geography's identity crisis</li>\n<li>Key debates of geography in the 19th century</li>\n<li>Conclusion and legacy</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Geography in the 19th Century</strong>",
-            "topic_description": "Geography in the 19th Century Discussion Workshop II: The birth of modern geography Geography's identity crisis Key debates of geography in the 19th century Conclusion and legacy",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
-        },
-        {
-            "learning_period": "Week 4",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Geography in the Early 20th Century</strong><br/><p>Critical writing interactive workshop</p>\n<ul>\n<li>Critical writing principles</li>\n<li>Critical writing processes</li>\n<li>A group discussion on Critical Essay I</li>\n</ul></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Geography in the Early 20th Century</strong>",
-            "topic_description": "Geography in the Early 20th Century Critical writing interactive workshop Critical writing principles Critical writing processes A group discussion on Critical Essay I",
-            "learning_outcomes": [
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
-        },
-        {
-            "learning_period": "Week 5",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>The Quantitative Revolution and Positivism</strong><br/><p>Discussion Workshop III: Progress in geography in the 20th century</p>\n<ul>\n<li>Positivism</li>\n<li>Spatial science</li>\n<li>Quantitative revolution</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>The Quantitative Revolution and Positivism</strong>",
-            "topic_description": "The Quantitative Revolution and Positivism Discussion Workshop III: Progress in geography in the 20th century Positivism Spatial science Quantitative revolution",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
-        },
-        {
-            "learning_period": "Week 6",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Progress in Human Geography </strong><br/><p>Discussion Workshop IV: Postmodernism</p>\n<ul>\n<li>Modernism and postmodernism</li>\n<li>The crisis of representation</li>\n<li>Critiques of postmodernism</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Progress in Human Geography </strong>",
-            "topic_description": "Progress in Human Geography Discussion Workshop IV: Postmodernism Modernism and postmodernism The crisis of representation Critiques of postmodernism",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04",
-                "L05",
-                "L06",
-                "L07"
             ]
         },
         {
@@ -212,9 +135,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Not Timetabled",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Teaching Free Week</strong><br/><p>Discussion Workshop V: Radical geography</p>\n<ul>\n<li>Marxist geography</li>\n<li>Critiques of Marxist geography</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Teaching Free Week</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
             "topic_title": "<strong>Teaching Free Week</strong>",
-            "topic_description": "Teaching Free Week Discussion Workshop V: Radical geography Marxist geography Critiques of Marxist geography",
+            "topic_description": "Teaching Free Week",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -226,92 +149,13 @@
             ]
         },
         {
-            "learning_period": "Week 8",
+            "learning_period": "Multiple weeksFrom Week 8 To Week 13",
             "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Progress in Physical Geography</strong><br/><p>Discussion Workshop VI: Philosophical progress in physical geography</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Progress in Physical Geography</strong>",
-            "topic_description": "Progress in Physical Geography Discussion Workshop VI: Philosophical progress in physical geography",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminars</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Seminars</strong>",
+            "topic_description": "Seminars",
             "learning_outcomes": [
                 "L01",
-                "L02",
-                "L03",
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
-        },
-        {
-            "learning_period": "Week 9",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Geopolitics</strong><br/><p>Discussion Workshop VII: Human-nature interactions</p>\n<ul>\n<li>Anthropocene</li>\n<li>Climate change</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Geopolitics</strong>",
-            "topic_description": "Geopolitics Discussion Workshop VII: Human-nature interactions Anthropocene Climate change",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
-        },
-        {
-            "learning_period": "Week 10",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Contemporary Geography - Careers in Geography </strong><br/><p>Discussion Workshop VIII: Postcolonial geography</p>\n<ul>\n<li>Colonialism in geography</li>\n<li>Decolonising and Indigenising geography</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Contemporary Geography - Careers in Geography </strong>",
-            "topic_description": "Contemporary Geography - Careers in Geography Discussion Workshop VIII: Postcolonial geography Colonialism in geography Decolonising and Indigenising geography",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
-        },
-        {
-            "learning_period": "Week 11",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Geography in Universities</strong><br/><p>Discussion Workshop IX: Feminist geography</p>\n<ul>\n<li>Gender and geography</li>\n<li>Feminist geography</li>\n</ul></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Geography in Universities</strong>",
-            "topic_description": "Geography in Universities Discussion Workshop IX: Feminist geography Gender and geography Feminist geography",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
-        },
-        {
-            "learning_period": "Week 12",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Creative Writing Showcase I</strong><br/><p>Discussion Workshop X: Australia's geography curriculum progress</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Creative Writing Showcase I</strong>",
-            "topic_description": "Creative Writing Showcase I Discussion Workshop X: Australia's geography curriculum progress",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
-        },
-        {
-            "learning_period": "Week 13",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Creative Writing Showcase II</strong><br/><p>Showcasing creative writing products</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Creative Writing Showcase II</strong>",
-            "topic_description": "Creative Writing Showcase II Showcasing creative writing products",
-            "learning_outcomes": [
                 "L02",
                 "L03",
                 "L04",
