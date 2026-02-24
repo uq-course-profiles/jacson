@@ -47,7 +47,7 @@
             ],
             "weighting": "<dd>20%</dd>",
             "due_date": "<dd><p> 30/03/2026 - 31/03/2026</p>\n<p>\n</p><p>The test will open at 7 am Monday, 30 March, and close at 8 pm Tuesday, 31 March.</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04",
+            "learning_objectives": null,
             "mode": "Written",
             "category": "Quiz",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to complete an <strong>online test</strong>. The test will assess material covered in the lectures and tutorials from weeks 2 to 5 inclusive. This test is designed to assess the comprehension of the basic principles and concepts in Australian law. This will ensure students understand the content covered to date and are satisfactorily following the learning materials.</p>\n<p><strong>The test will open at 7 am Monday, 30 March, and close at 8 pm Tuesday, 31 March.</strong></p>\n<p>The quiz will contain 20 questions. Each question is worth 1 mark. Incorrect answers are awarded no marks, but you will not be penalised for incorrect answers.</p>\n<p>The quiz will be time-limited to 30 minutes. Once started, the quiz must be completed in one sitting. Do not leave the test before clicking Save and Submit.</p>\n<p>There will be no opportunities for resits. Before sitting the test, please ensure that you have sufficient time and appropriate working conditions to complete it.</p>\n<p>This task has been designed to be challenging and authentic. Successful completion of this assessment in this course will require students to critically engage in specific contexts and answer questions for which artificial intelligence will provide only limited support and guidance.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
@@ -67,7 +67,7 @@
             ],
             "weighting": "<dd>20%</dd>",
             "due_date": "<dd><p> 23/04/2026 2:00 pm</p></dd>",
-            "learning_objectives": "L01, L02, L07, L08",
+            "learning_objectives": null,
             "mode": "Written",
             "category": "Essay/ Critique",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment will be an individual written assignment and cover a variety of topics from weeks 2 to 8 of the course.</p>\n<ol>\n<li>The maximum length is 1500 words (A4 paper, font size 12, Times New Roman, single line spacing, 2cm margins). Any words beyond the maximum length will not be read or marked.</li>\n<li>Footnotes should be used for reference only. Discursive footnotes are strongly discouraged. Do not include any substantive materials in the footnotes. Footnotes should be font size 10, Times New Roman, single line spacing. </li>\n<li>Answers should be written in an essay style, which includes an introduction, body, and conclusion.</li>\n<li>You must undertake and provide evidence of your own independent research in writing your answer. This requires drawing on some research beyond the textbook, including relevant journal articles and books. Newspaper articles, blog posts, educational webpages, and other non-peer-reviewed materials are (almost always) not appropriate.</li>\n<li>Please do not attach a bibliography or a reference list. The sources used should be referenced in footnotes, complying with the requirements of the 4th edition of the Australian Guide to Legal Citation (AGLC4).</li>\n</ol>\n<p>More information will eventually be supplied in announcements and guidelines via the course website. </p>\n<p><strong>The assignment is due on Thursday, 23 April (Week 8) at 2 pm. </strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students are not forbidden to use Artificial Intelligence and/or Machine Translation technologies, successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure in the use of generative AI or MT (i.e. hallucinations and/or false information) may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. <strong>Be advised that academic misconduct may become part of a report that UQ <em>must</em> provide to the Legal Practitioners Admissions Board, and this may impact whether you can eventually join the legal profession.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
@@ -87,7 +87,7 @@
             ],
             "weighting": "<dd>60%</dd>",
             "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08",
+            "learning_objectives": null,
             "mode": "Written",
             "category": "Examination",
             "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end-of-semester exam will consist of <strong>one short essay-type question and two compulsory problem-solving questions (on case analysis and statutory interpretation).</strong></p>\n<p>This assessment task is to be completed in person.</p>\n<p><strong>This is a closed-book exam. No external materials or the use of AI will be permitted during the exam.</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the <a href=\"https://policies.uq.edu.au/document/view-current.php?id=145\">Student Code of Conduct</a>.</p>\n<p>The end-of-semester exam will be timetabled by the University.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
@@ -101,121 +101,82 @@
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>First Year Skills Program</strong><br/></p><p><strong>Learning outcomes:</strong> L07, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>First Year Skills Program</strong><br/></p></div></td>",
             "topic_title": "<strong>First Year Skills Program</strong>",
             "topic_description": "First Year Skills Program",
-            "learning_outcomes": [
-                "L07",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 2(02 Mar - 08 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>The Idea of Law</strong><br/><p>Lecture on the meaning of the law and justice. Here, we will explore the traditions of Legal Positivism, Natural Law Theory, and different Theories of Justice.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Idea of Law</strong><br/><p>Lecture on the meaning of the law and justice. Here, we will explore the traditions of Legal Positivism, Natural Law Theory, and different Theories of Justice.</p></p></div></td>",
             "topic_title": "<strong>The Idea of Law</strong>",
             "topic_description": "The Idea of Law Lecture on the meaning of the law and justice. Here, we will explore the traditions of Legal Positivism, Natural Law Theory, and different Theories of Justice.",
-            "learning_outcomes": [
-                "L01",
-                "L03"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Rule of Law &amp; Legal Systems</strong><br/><p>Lecture on the idea of the Rule of Law. We will also compare and contrast different legal systems to learn the differences between them.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rule of Law &amp; Legal Systems</strong><br/><p>Lecture on the idea of the Rule of Law. We will also compare and contrast different legal systems to learn the differences between them.</p></p></div></td>",
             "topic_title": "<strong>Rule of Law &amp; Legal Systems</strong>",
             "topic_description": "Rule of Law & Legal Systems Lecture on the idea of the Rule of Law. We will also compare and contrast different legal systems to learn the differences between them.",
-            "learning_outcomes": [
-                "L01",
-                "L03",
-                "L04"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>The Idea of Law</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Idea of Law</strong><br/></p></div></td>",
             "topic_title": "<strong>The Idea of Law</strong>",
             "topic_description": "The Idea of Law",
-            "learning_outcomes": [
-                "L01",
-                "L03",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Separation of Powers &amp; Federalism</strong><br/><p>During this week, we will discuss two fundamental principles of the Australian legal system: separation of powers and federalism.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Separation of Powers &amp; Federalism</strong><br/><p>During this week, we will discuss two fundamental principles of the Australian legal system: separation of powers and federalism.</p></p></div></td>",
             "topic_title": "<strong>Separation of Powers &amp; Federalism</strong>",
             "topic_description": "Separation of Powers & Federalism During this week, we will discuss two fundamental principles of the Australian legal system: separation of powers and federalism.",
-            "learning_outcomes": [
-                "L01",
-                "L03",
-                "L04"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Rule of Law &amp; Legal Systems</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Rule of Law &amp; Legal Systems</strong><br/></p></div></td>",
             "topic_title": "<strong>Rule of Law &amp; Legal Systems</strong>",
             "topic_description": "Rule of Law & Legal Systems",
-            "learning_outcomes": [
-                "L01",
-                "L03",
-                "L04",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Reception of English Laws in Australia</strong><br/><p>The Lecture will discuss the origins of the common law, the British Westminster tradition, and the reception of English laws in Australia.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Reception of English Laws in Australia</strong><br/><p>The Lecture will discuss the origins of the common law, the British Westminster tradition, and the reception of English laws in Australia.</p></p></div></td>",
             "topic_title": "<strong>Reception of English Laws in Australia</strong>",
             "topic_description": "Reception of English Laws in Australia The Lecture will discuss the origins of the common law, the British Westminster tradition, and the reception of English laws in Australia.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Separation of Powers &amp; Federalism</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Separation of Powers &amp; Federalism</strong><br/></p></div></td>",
             "topic_title": "<strong>Separation of Powers &amp; Federalism</strong>",
             "topic_description": "Separation of Powers & Federalism",
-            "learning_outcomes": [
-                "L01",
-                "L03",
-                "L04",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>The Court System</strong><br/><p>This week is all about the Judicature. We will answer questions such as: What is the Judiciary? How was the High Court of Australia created? How is the legal system in Australia structured? What principles underpin the exercise of judicial power?</p></p><p><strong>Learning outcomes:</strong> L04</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Court System</strong><br/><p>This week is all about the Judicature. We will answer questions such as: What is the Judiciary? How was the High Court of Australia created? How is the legal system in Australia structured? What principles underpin the exercise of judicial power?</p></p></div></td>",
             "topic_title": "<strong>The Court System</strong>",
             "topic_description": "The Court System This week is all about the Judicature. We will answer questions such as: What is the Judiciary? How was the High Court of Australia created? How is the legal system in Australia structured? What principles underpin the exercise of judicial power?",
-            "learning_outcomes": [
-                "L04"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Reception of English Laws in Australia</strong><br/><p>Because of Good Friday on 03/04/2026, students in the Friday tutorials are invited to attend other tutorials (Wednesday or Thursday) during this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Reception of English Laws in Australia</strong><br/><p>Because of Good Friday on 03/04/2026, students in the Friday tutorials are invited to attend other tutorials (Wednesday or Thursday) during this week.</p></p></div></td>",
             "topic_title": "<strong>Reception of English Laws in Australia</strong>",
             "topic_description": "Reception of English Laws in Australia Because of Good Friday on 03/04/2026, students in the Friday tutorials are invited to attend other tutorials (Wednesday or Thursday) during this week.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Mid-sem break(06 Apr - 12 Apr)",
@@ -228,168 +189,106 @@
         {
             "learning_period": "Week 7(13 Apr - 19 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Law &amp; Precedent</strong><br/><p>The Lecture will help us learn more about the rules concerning precedent, court hierarchies and the notion of stare decisis.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Law &amp; Precedent</strong><br/><p>The Lecture will help us learn more about the rules concerning precedent, court hierarchies and the notion of stare decisis.</p></p></div></td>",
             "topic_title": "<strong>Case Law &amp; Precedent</strong>",
             "topic_description": "Case Law & Precedent The Lecture will help us learn more about the rules concerning precedent, court hierarchies and the notion of stare decisis.",
-            "learning_outcomes": [
-                "L04",
-                "L05",
-                "L06",
-                "L07"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 7(13 Apr - 19 Apr)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>The Court System</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Court System</strong><br/></p></div></td>",
             "topic_title": "<strong>The Court System</strong>",
             "topic_description": "The Court System",
-            "learning_outcomes": [
-                "L04",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 8(20 Apr - 26 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Ratio &amp; Obiter Dicta</strong><br/><p>Lecture on Precedent and Ratio Decidendi, the meaning of Ratio and Obiter Dicta.</p></p><p><strong>Learning outcomes:</strong> L05, L06, L07</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ratio &amp; Obiter Dicta</strong><br/><p>Lecture on Precedent and Ratio Decidendi, the meaning of Ratio and Obiter Dicta.</p></p></div></td>",
             "topic_title": "<strong>Ratio &amp; Obiter Dicta</strong>",
             "topic_description": "Ratio & Obiter Dicta Lecture on Precedent and Ratio Decidendi, the meaning of Ratio and Obiter Dicta.",
-            "learning_outcomes": [
-                "L05",
-                "L06",
-                "L07"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 8(20 Apr - 26 Apr)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Law &amp; Precedent</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Law &amp; Precedent</strong><br/></p></div></td>",
             "topic_title": "<strong>Case Law &amp; Precedent</strong>",
             "topic_description": "Case Law & Precedent",
-            "learning_outcomes": [
-                "L04",
-                "L05",
-                "L06",
-                "L07",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 9(27 Apr - 03 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Parliament &amp; Legislation</strong><br/><p>The lecture will focus on the idea of Parliamentary Sovereignty in Australia, the structure, composition and functions of the two houses of the Federal Parliament, and the different types of legislation.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L06, L07</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Parliament &amp; Legislation</strong><br/><p>The lecture will focus on the idea of Parliamentary Sovereignty in Australia, the structure, composition and functions of the two houses of the Federal Parliament, and the different types of legislation.</p></p></div></td>",
             "topic_title": "<strong>Parliament &amp; Legislation</strong>",
             "topic_description": "Parliament & Legislation The lecture will focus on the idea of Parliamentary Sovereignty in Australia, the structure, composition and functions of the two houses of the Federal Parliament, and the different types of legislation.",
-            "learning_outcomes": [
-                "L02",
-                "L03",
-                "L05",
-                "L06",
-                "L07"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 9(27 Apr - 03 May)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Ratio &amp; Obiter Dicta</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ratio &amp; Obiter Dicta</strong><br/></p></div></td>",
             "topic_title": "<strong>Ratio &amp; Obiter Dicta</strong>",
             "topic_description": "Ratio & Obiter Dicta",
-            "learning_outcomes": [
-                "L05",
-                "L06",
-                "L07",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 10(04 May - 10 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Statutory Interpretation I</strong><br/><p>In the lecture, we will look at different theories of Statutory Interpretation, the notion of Legal Indeterminacy, and introduce the <em>Acts Interpretation Acts</em> of the Commonwealth and Queensland.</p></p><p><strong>Learning outcomes:</strong> L05, L06, L07</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statutory Interpretation I</strong><br/><p>In the lecture, we will look at different theories of Statutory Interpretation, the notion of Legal Indeterminacy, and introduce the <em>Acts Interpretation Acts</em> of the Commonwealth and Queensland.</p></p></div></td>",
             "topic_title": "<strong>Statutory Interpretation I</strong>",
             "topic_description": "Statutory Interpretation I In the lecture, we will look at different theories of Statutory Interpretation, the notion of Legal Indeterminacy, and introduce the Acts Interpretation Acts of the Commonwealth and Queensland.",
-            "learning_outcomes": [
-                "L05",
-                "L06",
-                "L07"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 10(04 May - 10 May)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Parliament &amp; Legislation</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L05, L06, L07, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Parliament &amp; Legislation</strong><br/></p></div></td>",
             "topic_title": "<strong>Parliament &amp; Legislation</strong>",
             "topic_description": "Parliament & Legislation",
-            "learning_outcomes": [
-                "L02",
-                "L03",
-                "L05",
-                "L06",
-                "L07",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 11(11 May - 17 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Statutory Interpretation II</strong><br/><p>This week focuses on Constitutional Interpretation, Interpretive Tools and Methods of Construction, and a deep dive into Statutory Interpretation Methodology.</p></p><p><strong>Learning outcomes:</strong> L05, L06, L07</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statutory Interpretation II</strong><br/><p>This week focuses on Constitutional Interpretation, Interpretive Tools and Methods of Construction, and a deep dive into Statutory Interpretation Methodology.</p></p></div></td>",
             "topic_title": "<strong>Statutory Interpretation II</strong>",
             "topic_description": "Statutory Interpretation II This week focuses on Constitutional Interpretation, Interpretive Tools and Methods of Construction, and a deep dive into Statutory Interpretation Methodology.",
-            "learning_outcomes": [
-                "L05",
-                "L06",
-                "L07"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 11(11 May - 17 May)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Statutory Interpretation I</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statutory Interpretation I</strong><br/></p></div></td>",
             "topic_title": "<strong>Statutory Interpretation I</strong>",
             "topic_description": "Statutory Interpretation I",
-            "learning_outcomes": [
-                "L05",
-                "L06",
-                "L07",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 12(18 May - 24 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/><p>This lecture will revise the content of the entire course.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L05, L07</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/><p>This lecture will revise the content of the entire course.</p></p></div></td>",
             "topic_title": "<strong>Revision</strong>",
             "topic_description": "Revision This lecture will revise the content of the entire course.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L05",
-                "L07"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 12(18 May - 24 May)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Statutory Interpretation II</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statutory Interpretation II</strong><br/></p></div></td>",
             "topic_title": "<strong>Statutory Interpretation II</strong>",
             "topic_description": "Statutory Interpretation II",
-            "learning_outcomes": [
-                "L05",
-                "L06",
-                "L07",
-                "L08"
-            ]
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 13(25 May - 31 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>First Year Skills Program</strong><br/></p><p><strong>Learning outcomes:</strong> L07, L08</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>First Year Skills Program</strong><br/></p></div></td>",
             "topic_title": "<strong>First Year Skills Program</strong>",
             "topic_description": "First Year Skills Program",
-            "learning_outcomes": [
-                "L07",
-                "L08"
-            ]
+            "learning_outcomes": []
         }
     ]
 }
