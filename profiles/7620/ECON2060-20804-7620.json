@@ -58,7 +58,7 @@
                 }
             ],
             "weighting": "<dd>35%</dd>",
-            "due_date": "<dd><p>In-semester Saturday</p>\n<p>28/03/2026 - 2/05/2026</p></dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>28/03/2026 - 3/05/2026</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Examination",
@@ -205,22 +205,9 @@
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5: Social Preferences, Part 1</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.4.4-4.6, Ch.5.4-5.7)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Lecture 5: Social Preferences, Part 1</strong>",
-            "topic_description": "Lecture 5: Social Preferences, Part 1 Readings/Ref: Angner (Ch.4.4-4.6, Ch.5.4-5.7)",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04"
-            ]
-        },
-        {
-            "learning_period": "Week 6(30 Mar - 05 Apr)",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 5</strong><br/><p>Tutorial based on concepts from lecture 5.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Tutorial 5</strong>",
-            "topic_description": "Tutorial 5 Tutorial based on concepts from lecture 5.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5: In-semester exam revision</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.4.4-4.6, Ch.5.4-5.7)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 5: In-semester exam revision</strong>",
+            "topic_description": "Lecture 5: In-semester exam revision Readings/Ref: Angner (Ch.4.4-4.6, Ch.5.4-5.7)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -231,17 +218,17 @@
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Good Friday</strong><br/><p>Note: Good Friday (3rd April) is a Public Holiday, therefore no tutorials will be held on this day. Students are invited to attend an alternative tutorial for this week only.</p></p></div></td>",
-            "topic_title": "<strong>Good Friday</strong>",
-            "topic_description": "Good Friday Note: Good Friday (3rd April) is a Public Holiday, therefore no tutorials will be held on this day. Students are invited to attend an alternative tutorial for this week only.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorials after In-semester Exam</strong><br/><p>After the In-semester exam, there will be no tutorials during Week 6.</p></p></div></td>",
+            "topic_title": "<strong>No Tutorials after In-semester Exam</strong>",
+            "topic_description": "No Tutorials after In-semester Exam After the In-semester exam, there will be no tutorials during Week 6.",
             "learning_outcomes": []
         },
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6: Social Preferences, Part 2</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.6)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Lecture 6: Social Preferences, Part 2</strong>",
-            "topic_description": "Lecture 6: Social Preferences, Part 2 Readings/Ref: Angner (Ch.6)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6: Social Preferences, Part 1</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.6)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 6: Social Preferences, Part 1</strong>",
+            "topic_description": "Lecture 6: Social Preferences, Part 1 Readings/Ref: Angner (Ch.6)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -273,9 +260,9 @@
         {
             "learning_period": "Week 7(13 Apr - 19 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7: Intertemporal choice</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.7)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Lecture 7: Intertemporal choice</strong>",
-            "topic_description": "Lecture 7: Intertemporal choice Readings/Ref: Angner (Ch.7)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7: Social Preferences Part 2</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.7)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 7: Social Preferences Part 2</strong>",
+            "topic_description": "Lecture 7: Social Preferences Part 2 Readings/Ref: Angner (Ch.7)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -299,9 +286,9 @@
         {
             "learning_period": "Week 8(20 Apr - 26 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8: Strategic interaction part 1</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.8, Ch.9)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Lecture 8: Strategic interaction part 1</strong>",
-            "topic_description": "Lecture 8: Strategic interaction part 1 Readings/Ref: Angner (Ch.8, Ch.9)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8: Intertemporal choice</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.8, Ch.9)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 8: Intertemporal choice</strong>",
+            "topic_description": "Lecture 8: Intertemporal choice Readings/Ref: Angner (Ch.8, Ch.9)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -325,9 +312,9 @@
         {
             "learning_period": "Week 9(27 Apr - 03 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9: Strategic interaction part 2</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.10, Ch.11)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Lecture 9: Strategic interaction part 2</strong>",
-            "topic_description": "Lecture 9: Strategic interaction part 2 Readings/Ref: Angner (Ch.10, Ch.11)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9: Strategic interaction</strong><br/><p><strong>Readings/Ref:</strong> Angner (Ch.10, Ch.11)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 9: Strategic interaction</strong>",
+            "topic_description": "Lecture 9: Strategic interaction Readings/Ref: Angner (Ch.10, Ch.11)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -437,9 +424,9 @@
         {
             "learning_period": "Week 13(25 May - 31 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 13: Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Lecture 13: Revision</strong>",
-            "topic_description": "Lecture 13: Revision",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 13: Final Exam Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Lecture 13: Final Exam Revision</strong>",
+            "topic_description": "Lecture 13: Final Exam Revision",
             "learning_outcomes": [
                 "L01",
                 "L02",
