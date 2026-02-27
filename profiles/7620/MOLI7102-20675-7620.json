@@ -141,7 +141,7 @@
         {
             "learning_period": "Not scheduled",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Labour Day</strong><br><p>Public Holiday</p></br></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Labour Day</strong><br/><p>Public Holiday</p></p></div></td>",
             "topic_title": "<strong>Labour Day</strong>",
             "topic_description": "Labour Day Public Holiday",
             "learning_outcomes": []
@@ -149,7 +149,7 @@
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
             "activity_type": "General contact hours",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1 : Introduction</strong><br><p>Study the material and answer the pre-tutorial quiz</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1 : Introduction</strong><br/><p>Study the material and answer the pre-tutorial quiz</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
             "topic_title": "<strong>Module 1 : Introduction</strong>",
             "topic_description": "Module 1 : Introduction Study the material and answer the pre-tutorial quiz",
             "learning_outcomes": [
