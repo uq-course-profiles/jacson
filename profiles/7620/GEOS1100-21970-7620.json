@@ -34,30 +34,6 @@
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
-            "assessment_title": "Research Report",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
-                },
-                {
-                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
-                    "special_indicator_text": "In-person"
-                }
-            ],
-            "weighting": "<dd>15%</dd>",
-            "due_date": "<dd><p> 2/04/2026 2:00 pm</p></dd>",
-            "learning_objectives": null,
-            "mode": "Written",
-            "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this assessment, we ask you examine human impacts on natural systems. The assessment involves downloading raw data from the State of the Environment report, creating a series of graphs, and explaining trends and relationships.</p>\n<p>There will be a practical session devoted to helping you research and write your report and guidelines which will provide full details on requirements.</p>\n<p>A Library Research Skills tutorial about using Excel is also available via the course Blackboard site.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
-        },
-        {
-            "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "In-semester exam",
             "special_indicators": [
                 {
@@ -70,7 +46,7 @@
                 }
             ],
             "weighting": "<dd>20%</dd>",
-            "due_date": "<dd><p>In-semester Saturday</p>\n<p>28/03/2026 - 2/05/2026</p></dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>28/03/2026 - 3/05/2026</p></dd>",
             "learning_objectives": null,
             "mode": "Written",
             "category": "Examination",
@@ -79,6 +55,26 @@
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Research Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 30/04/2026 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this assessment, we ask you examine human impacts on natural systems. The assessment involves downloading raw data from the State of the Environment report, creating a series of graphs, and explaining trends and relationships.</p>\n<p>There will be a practical session devoted to helping you research and write your report and guidelines which will provide full details on requirements.</p>\n<p>A Library Research Skills tutorial about using Excel is also available via the course Blackboard site.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
