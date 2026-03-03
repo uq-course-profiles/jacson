@@ -49,7 +49,7 @@
             "assessment_title": "Tutorial Worksheets",
             "special_indicators": [],
             "weighting": "<dd>6%</dd>",
-            "due_date": "<dd><p> 23/04/2026 2:00 pm</p></dd>",
+            "due_date": "<dd><p> 24/04/2026 2:00 pm</p></dd>",
             "learning_objectives": "L03",
             "mode": "Written",
             "category": "Tutorial/ Problem Set",
@@ -90,9 +90,9 @@
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction</strong><br><p><br/>Course Introduction</p></br></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Introduction</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
             "topic_title": "<strong>Course Introduction</strong>",
-            "topic_description": "Course Introduction Course Introduction",
+            "topic_description": "Course Introduction",
             "learning_outcomes": [
                 "L03"
             ]
@@ -100,9 +100,9 @@
         {
             "learning_period": "Week 2(02 Mar - 08 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Scientific Critical Thinking</strong><br><p><br/>Critical Thinking Introduction</p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Scientific Critical Thinking</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Scientific Critical Thinking</strong>",
-            "topic_description": "Scientific Critical Thinking Critical Thinking Introduction",
+            "topic_description": "Scientific Critical Thinking",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -122,9 +122,9 @@
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Deconstructing Journal Articles</strong><br/><p><br/>Challenging popular claims</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Deconstructing Journal Articles</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Deconstructing Journal Articles</strong>",
-            "topic_description": "Deconstructing Journal Articles Challenging popular claims",
+            "topic_description": "Deconstructing Journal Articles",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -133,9 +133,9 @@
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Summarising Research Evidence</strong><br><p><br/>Deconstructing journal articles</p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Summarising Research Evidence</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Summarising Research Evidence</strong>",
-            "topic_description": "Summarising Research Evidence Deconstructing journal articles",
+            "topic_description": "Summarising Research Evidence",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -155,9 +155,9 @@
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Strengths and Limitations</strong><br/><p><br/>Strengths and Limitations<br/>*Worksheet 1</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Strengths and Limitations</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Strengths and Limitations</strong>",
-            "topic_description": "Strengths and Limitations Strengths and Limitations *Worksheet 1",
+            "topic_description": "Strengths and Limitations",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -166,9 +166,9 @@
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Claim Essay Assignment</strong><br><p><br/>Essay Topic &amp; Criteria</p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Claim Essay Assignment</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Research Claim Essay Assignment</strong>",
-            "topic_description": "Research Claim Essay Assignment Essay Topic & Criteria",
+            "topic_description": "Research Claim Essay Assignment",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -196,9 +196,9 @@
         {
             "learning_period": "Week 7(13 Apr - 19 Apr)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Critical Evaluation of Research</strong><br/><p><br/>Critical evaluation of research<br/>*Worksheet 2</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Critical Evaluation of Research</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Critical Evaluation of Research</strong>",
-            "topic_description": "Critical Evaluation of Research Critical evaluation of research *Worksheet 2",
+            "topic_description": "Critical Evaluation of Research",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -207,9 +207,9 @@
         {
             "learning_period": "Week 8(20 Apr - 26 Apr)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Claim Essay and Thesis Statements</strong><br><p><br/>Interpretation of evidence<br/>*Worksheet 3</p></br></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Claim Essay and Thesis Statements</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Research Claim Essay and Thesis Statements</strong>",
-            "topic_description": "Research Claim Essay and Thesis Statements Interpretation of evidence *Worksheet 3",
+            "topic_description": "Research Claim Essay and Thesis Statements",
             "learning_outcomes": [
                 "L02",
                 "L03"
