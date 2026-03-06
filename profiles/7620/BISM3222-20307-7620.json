@@ -46,7 +46,7 @@
                 }
             ],
             "weighting": "<dd>40%</dd>",
-            "due_date": "<dd><p>In-semester Saturday</p>\n<p>28/03/2026 - 2/05/2026</p>\n<p>\n</p><p>This exam is centrally scheduled which means the exam date depends on when the university schedules this exam. Possible dates are: 28 Mar, 18 Apr, and 2 May 2026.</p></dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>28/03/2026 - 3/05/2026</p>\n<p>\n</p><p>This exam is centrally scheduled which means the exam date depends on when the university schedules this exam. The In-Semester Exam is confirmed for Saturday 18 April, 2026.</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Written",
             "category": "Examination",
@@ -90,7 +90,7 @@
                 }
             ],
             "weighting": "<dd>25%</dd>",
-            "due_date": "<dd><p>Written Project Report (word file and slides) Week 11, Fri 2:00 pm</p>\n<p>Presentation during Tutorials Week 12, Mon 9:00 am</p>\n<p>\n</p><p>The assessment focus is a team pressentation on the design, analysis and development of an information system (i.e., an app). To support the presentation, project report (Word file and the slides) must be submitted via the available Blackboard link. The presentation is in Week 12 (and if required, Week 13) during the tutorial time. </p></dd>",
+            "due_date": "<dd><p>Written Project Report (word file and slides) Week 11, Fri 2:00 pm</p>\n<p>Presentation during Tutorials Week 12, Mon 9:00 am</p>\n<p>\n</p><p>The assessment focus is a team presentation on the design, analysis and development of an information system (i.e., an app). To support the presentation, project report (Word file and the slides) must be submitted via the available Blackboard link. The presentation is in Week 12 (and if required, Week 13) during the tutorial time.</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Oral, Product/ Artefact/ Multimedia, Written",
             "category": "Creative Production/ Exhibition, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Product/ Design",
@@ -374,6 +374,14 @@
                 "L01",
                 "L02"
             ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 13: Presentation</strong><br/><p>Students, in teams, present their semester-long project.</p></p></div></td>",
+            "topic_title": "<strong>Practical 13: Presentation</strong>",
+            "topic_description": "Practical 13: Presentation Students, in teams, present their semester-long project.",
+            "learning_outcomes": []
         }
     ]
 }
