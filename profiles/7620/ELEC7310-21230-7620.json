@@ -1,0 +1,196 @@
+{
+    "course_title": "Electricity Market Operation and Security",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC7310-21230-7620",
+    "full_course_code": "ELEC7310-21230-7620",
+    "course_code": "ELEC7310",
+    "class_code": "21230",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "POWER SYSTEM DYNAMICS & STABILITY - Classify power system stability and describe definition and concepts."
+        },
+        {
+            "number": "LO2.",
+            "description": "POWER SYSTEM DYNAMICS & STABILITY - Demonstrate essential knowledge and skills in mathematical modeling of power system and analytical techniques for stability studies."
+        },
+        {
+            "number": "LO3.",
+            "description": "POWER SYSTEM DYNAMICS & STABILITY - Perform case studies on a given test system on transient, small signal and static voltage stability and interpret the results in meaningful ways."
+        },
+        {
+            "number": "LO4.",
+            "description": "POWER SYSTEM DYNAMICS & STABILITY - Apply with commercial grade and research power system analysis software tools (e.g. PSS/E, DiGsilent Powerfactory and PSAT)."
+        },
+        {
+            "number": "LO5.",
+            "description": "Market Operations and Analysis - Define electricity market structure, including rules and codes."
+        },
+        {
+            "number": "LO6.",
+            "description": "Market Operations and Analysis - Demonstrate the understanding of electricity market operation from generation, transmission and distribution and collaboratively apply that understanding to current challenges faced by energy sector globally."
+        },
+        {
+            "number": "LO7.",
+            "description": "Market Operations and Analysis - Examine the major issues such as ancillary services and transmission pricing relevant to market operations and security."
+        },
+        {
+            "number": "LO8.",
+            "description": "Market Operations and Analysis - Evaluate existing electricity market structures and mechanisms."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Simulation Lab reports",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>32%</dd>",
+            "due_date": "<dd><p>Lab Report 1: Power-flow and short circuit 16/03/2026 4:00 pm</p>\n<p>Lab Report 2: Transient stability<br/>\n 30/03/2026 4:00 pm</p>\n<p>Lab Report 3: Small Signal stability 13/04/2026 4:00 pm</p>\n<p>Lab Report 4: Voltage stability<br/>\n 27/04/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L05, L06",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There are four simulation assignments in Module I, power system stability and dynamics: The four assignment items (simulation lab reports) consist of four case studies, namely (1) Power-flow and short circuit, (2) transient, (3) small signal and (4) voltage stability studies in power grids:</p>\n<p>Each simulation lab carries 8 marks. Students should submit an individual report for each simulation lab. Any appropriate analytical tools such as PSS/E, Digsilent Powerfactory, PSAT can be used for the simulations.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and Machine Translation (MT)</em> <em>technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Through Turnitin link provided through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>18%</dd>",
+            "due_date": "<dd><p> 12/05/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will be an in class, on-campus, timed, invigilated and closed book exam. All students will attempt the exam at the same time.</p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>In class submission</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Class Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>12%</dd>",
+            "due_date": "<dd><p> 28/05/2026 3:00 pm</p>\n<p>\n</p><p>Formative presentation/discussion will be held in week 13 for students to seek feedback prior to the report submission.</p></dd>",
+            "learning_objectives": "L05, L06, L07, L08",
+            "mode": "Oral, Written",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a group assessment item for Module II, in the electricity market operation section. A number of topics will be given in the class. Students will select a topic from the given list and review literature, propose solutions and write a report. Formative presentation/discussion will take place in class, commencing on 25 May (week 13) for students to seek feedback prior to the report submission. More information about presentation scheduling will be available in Blackboard.</p>\n<p>The course teaching team (coordinator and lecturer) reserve the right to vary group marks for each group member in the event of varied contributions to the team effort.</p>\n<p><em>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Report has to be submitted Online via Blackboard Turnitin.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>38%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam covers knowledge and skills taught in the course, including all modules in both electricity market analysis and system security analysis. Students will be provided a set of questions. Exam will be on-campus invigilated, closed-book.</p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures - Power system dynamics and stability</strong><br/></p></div></td>",
+            "topic_title": "<strong>Lectures - Power system dynamics and stability</strong>",
+            "topic_description": "Lectures - Power system dynamics and stability",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 7",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Simulations - Power system dynamics and stability</strong><br/></p></div></td>",
+            "topic_title": "<strong>Simulations - Power system dynamics and stability</strong>",
+            "topic_description": "Simulations - Power system dynamics and stability",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures - Electricity market operations</strong><br/></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Lectures - Electricity market operations</strong>",
+            "topic_description": "Lectures - Electricity market operations",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class",
+            "learning_outcomes": [
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/><p>Lectures and Case Studies</p></p><p><strong>Learning outcomes:</strong> L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision Lectures and Case Studies",
+            "learning_outcomes": [
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
