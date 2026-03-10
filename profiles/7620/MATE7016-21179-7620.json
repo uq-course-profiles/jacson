@@ -1,0 +1,429 @@
+{
+    "course_title": "Materials for Energy Conversion and Storage",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATE7016-21179-7620",
+    "full_course_code": "MATE7016-21179-7620",
+    "course_code": "MATE7016",
+    "class_code": "21179",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Li-ion & Next-Generation Batteries: Apply advanced principles of electrode preparation for Li-ion battery manufacturing and recycling, and classify and evaluate electrode materials for battery applications."
+        },
+        {
+            "number": "LO2.",
+            "description": "Li-ion & Next-Generation Batteries: Evaluate the electrochemical performance of porous and non-porous carbon and non-carbon electrodes, and design and characterise Li-ion batteries at laboratory and industry-relevant scales."
+        },
+        {
+            "number": "LO3.",
+            "description": "Li-ion & Next-Generation Batteries: Critically analyse materials, manufacturing, and recycling challenges in Li-ion batteries, and propose evidence-based solutions for next-generation high-performance systems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Hydrogen Fuel Cell, Electrolyser & Storage: Analyse the principles and operation of hydrogen fuel cells, electrolysers, and storage systems, and evaluate their materials and components for grid-integrated renewable energy applications."
+        },
+        {
+            "number": "LO5.",
+            "description": "Hydrogen Fuel Cell, Electrolyser & Storage: Critically assess the development of hydrogen energy materials, considering R&D challenges, technological innovation, and industry and market opportunities."
+        },
+        {
+            "number": "LO6.",
+            "description": "Hydrogen Fuel Cell, Electrolyser & Storage: Independently and collaboratively evaluate current literature and recommend optimized solutions for next-generation fuel cell, electrolyser, and hydrogen storage technologies."
+        },
+        {
+            "number": "LO7.",
+            "description": "Solar Cells: Analyse photovoltaic technologies and explain the operating mechanisms of nanostructured solar cells, with reference to current research and industry challenges."
+        },
+        {
+            "number": "LO8.",
+            "description": "Solar Cells: Evaluate the materials, fabrication, and recycling processes used in nanostructured and next-generation photovoltaic technologies."
+        },
+        {
+            "number": "LO9.",
+            "description": "Solar Cells: Fabricate nanostructured solar cells and critically analyse experimental data and published literature to propose improvements for high-performance photovoltaic devices."
+        },
+        {
+            "number": "LO10.",
+            "description": "Zinc Bromine Flow Batteries (ZBFB): Analyse the electrochemical operation and materials selection of zinc bromine flow batteries, and assess their large-scale application potential relative to other stationary energy storage technologies."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Solar Cells - individual project report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 26/03/2026 - 2/04/2026</p>\n<p>\n</p><p>(GO1) 26/03/2026 4:00 pm</p>\n<p>(GO2) 2/04/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L07, L08, L09",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In recent years, organic-inorganic halide perovskite materials as light harvesters for new-generation nanostructured photovoltaic application have been attracting tremendous attention in both scientific and industrial communities. The certified power conversion efficiency has skyrocketed from 3.8% to 25.0%, owing to the materials’ intriguing optoelectronic properties such as high absorption coefficient, high charge carrier mobility and lifetime, and long carrier diffusion length. To further improve the photovoltaic performance, the incorporation of a passivation layer at the interfaces of perovskite layer and charge transport layers has been recognized as an effective strategy to minimize the efficiency loss by suppressing the undesirable non-radiative recombination. In this laboratory practice, you will fabricate perovskite crystalline film through an antisolvent-assist one-step deposition method on passivation layer-coated substrates, followed by charge transport layer and metal electrode deposition. The photovoltaic performance of the completed devices will be evaluated.</p>\n<p>The laboratory practice will be conducted in four sessions: TiO2 electrode deposition (demonstration), passivation layer coating (practical), perovskite film fabrication (demonstration), hole transport layer and metal electrode deposition (demonstration), and property measurements (practical). You will work in groups of 3 or 4 students. Within each group, you will share the data obtained from the laboratory practice. However, each student is required to write an independent report.</p>\n<p>Information and report marking rubric will be provided on Blackboard.</p>\n<p><strong>Permitted use of Generative AI and MT for this assessment</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Li-ion & next generation Li-ion battery - individual project report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 16/04/2026 - 30/04/2026</p>\n<p>\n</p><p>(G01) 16/04/2026 4:00 pm</p>\n<p>(G02) 23/04/2026 4:00 pm</p>\n<p>(G03) 30/04/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this laboratory practical, Li-ion coin cells with two different anode materials, i. a commercial graphite anode, and ii. an advanced Sn-based anode, will be manufactured with Li metal as counter electrodes. The microstructure of the two electrodes will be characterized with a tabletop scanning electron microscope (SEM) equipped with energy dispersive X-ray spectroscopy (EDS); while the electrochemical properties of the manufactured coin cells will be characterized with an electrochemical workstation. The electrode materials will be prepared by the demonstrator. The laboratory practical will consist of (<em>i</em>) SEM/EDS observation of the electrode materials; (<em>ii</em>) preparation of the electrodes; (<em>iii</em>) manufacturing of the coin cells, and (<em>iv</em>) electrochemical characterisation of the manufactured coin cells on an electrochemical workstation. Students will share the data obtained from the laboratory practical. However, each student is required to write and submit a report independently.</p>\n<p>Specific details for the prac and report marking rubric will be available on Blackboard.</p>\n<p><strong>Permitted use of Generative AI and MT for this assessment</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Hydrogen fuel cells, electriser & storage - individual presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Presentation slides 7/05/2026 4:00 pm</p>\n<p>Presentation 8/05/2026 2:00 pm</p>\n<p>Presentation slides 14/05/2026 4:00 pm</p>\n<p>Presentation 15/05/2026 2:00 pm</p>\n<p>Presentation slides 21/05/2026 4:00 pm</p>\n<p>Presentation 22/05/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L04, L05, L06",
+            "mode": "Activity/ Performance, Oral, Written",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment mimics an international conference. You will submit your individual unique presentation slides one day before the presentation days. You are required to work individually, a topic of your choice related to hydrogen fuel cell, electriser &amp; storage. You may choose to present a <strong>technical</strong> topic (eg. hydrogen fuel cell &amp; storage <strong>materials</strong> related) or a topic related to <strong>applications</strong> of fuel cell, electriser &amp; hydrogen storage (eg. case study of a particular product/application).</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p><strong>Permitted use of Generative AI and MT for this assessment</strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will comprehensively test knowledge learned during the course.</p>\n<p>Format: Short answer, Short essay, Extended essay, Problem solving</p>\n<p><strong>AI Statement - Prohibited.</strong></p>\n<p>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br><p>Prof Kazuhiro Nogita is the lecturer of this week.</p></br></p><p><strong>Learning outcomes:</strong> L01, L04, L07, L10</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction Prof Kazuhiro Nogita is the lecturer of this week.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L07",
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamentals of Solar Cells &amp; their Materials</strong><br><p>Dr Dongxu He is the lecturer of this week.</p></br></p><p><strong>Learning outcomes:</strong> L07, L08</p></div></td>",
+            "topic_title": "<strong>Fundamentals of Solar Cells &amp; their Materials</strong>",
+            "topic_description": "Fundamentals of Solar Cells & their Materials Dr Dongxu He is the lecturer of this week.",
+            "learning_outcomes": [
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fabrication of Solar Cells (Group 1 &amp; 2)</strong><br><p><strong>Practical Group 1&amp;2</strong></p>\n<p>Dr Dongxu He with Casual demonstrators are the prac of this week.</p></br></p><p><strong>Learning outcomes:</strong> L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Fabrication of Solar Cells (Group 1 &amp; 2)</strong>",
+            "topic_description": "Fabrication of Solar Cells (Group 1 & 2) Practical Group 1&2 Dr Dongxu He with Casual demonstrators are the prac of this week.",
+            "learning_outcomes": [
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Recycle of Solar Cells</strong><br/><p>Dr Xiaodong Ma is the lecturer of this week.</p></p><p><strong>Learning outcomes:</strong> L07, L08</p></div></td>",
+            "topic_title": "<strong>Recycle of Solar Cells</strong>",
+            "topic_description": "Recycle of Solar Cells Dr Xiaodong Ma is the lecturer of this week.",
+            "learning_outcomes": [
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Property measurements of Solar Cells (Group 1)</strong><br/><p><strong>Practical Group 1</strong></p>\n<p>Dr Dongxu He with Casual demonstrators are the prac of this week.</p></p><p><strong>Learning outcomes:</strong> L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Property measurements of Solar Cells (Group 1)</strong>",
+            "topic_description": "Property measurements of Solar Cells (Group 1) Practical Group 1 Dr Dongxu He with Casual demonstrators are the prac of this week.",
+            "learning_outcomes": [
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamentals of Li-ion &amp; next-generation batteries </strong><br/><p>Dr Md Shariar Hossain is the lecturer of this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Fundamentals of Li-ion &amp; next-generation batteries </strong>",
+            "topic_description": "Fundamentals of Li-ion & next-generation batteries Dr Md Shariar Hossain is the lecturer of this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Property measurements of Solar Cells (Group 2)</strong><br/><p><strong>Practical Group 2</strong></p>\n<p>Dr Dongxu He with Casual demonstrators are the prac of this week.</p></p><p><strong>Learning outcomes:</strong> L07, L08, L09</p></div></td>",
+            "topic_title": "<strong>Property measurements of Solar Cells (Group 2)</strong>",
+            "topic_description": "Property measurements of Solar Cells (Group 2) Practical Group 2 Dr Dongxu He with Casual demonstrators are the prac of this week.",
+            "learning_outcomes": [
+                "L07",
+                "L08",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Advanced materials for Li-ion &amp; next-generation batteries </strong><br/><p>Dr Md Shariar Hossain and Prof Yusuke Yamauchi are the lecturer of this week.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Advanced materials for Li-ion &amp; next-generation batteries </strong>",
+            "topic_description": "Advanced materials for Li-ion & next-generation batteries Dr Md Shariar Hossain and Prof Yusuke Yamauchi are the lecturer of this week.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Li-ion battery coin cell manufacturing and property characterisation (Group 1)</strong><br/><p>Dr Md Shariar Hossain, Prof Kazuhiro Nogita and casual demonstrators are the staff of this practical.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Li-ion battery coin cell manufacturing and property characterisation (Group 1)</strong>",
+            "topic_description": "Li-ion battery coin cell manufacturing and property characterisation (Group 1) Dr Md Shariar Hossain, Prof Kazuhiro Nogita and casual demonstrators are the staff of this practical.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Recycle of Li-ion &amp; next-generation batteries </strong><br/><p>Dr Xiaodong Ma is the lecturer of this week.</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Recycle of Li-ion &amp; next-generation batteries </strong>",
+            "topic_description": "Recycle of Li-ion & next-generation batteries Dr Xiaodong Ma is the lecturer of this week.",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Li-ion battery coin cell manufacturing and property characterisation (Group 2)</strong><br/><p>Dr Md Shariar Hossain, Prof Kazuhiro Nogita and casual demonstrators are the staff of this practical.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Li-ion battery coin cell manufacturing and property characterisation (Group 2)</strong>",
+            "topic_description": "Li-ion battery coin cell manufacturing and property characterisation (Group 2) Dr Md Shariar Hossain, Prof Kazuhiro Nogita and casual demonstrators are the staff of this practical.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamental of Flow Battery/video prac</strong><br/><p>Dr Md Shahriar Hossain is the lecturer of this week.</p></p><p><strong>Learning outcomes:</strong> L10</p></div></td>",
+            "topic_title": "<strong>Fundamental of Flow Battery/video prac</strong>",
+            "topic_description": "Fundamental of Flow Battery/video prac Dr Md Shahriar Hossain is the lecturer of this week.",
+            "learning_outcomes": [
+                "L10"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Li-ion battery coin cell manufacturing and property characterisation (Group 3)</strong><br/><p>Dr Md Shariar Hossain, Prof Kazuhiro Nogita and casual demonstrators are the staff of this practical.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Li-ion battery coin cell manufacturing and property characterisation (Group 3)</strong>",
+            "topic_description": "Li-ion battery coin cell manufacturing and property characterisation (Group 3) Dr Md Shariar Hossain, Prof Kazuhiro Nogita and casual demonstrators are the staff of this practical.",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ solar &amp; battery facility virtual tour </strong><br/><p>Prof Kazuhiro Nogita/ Dr Xiaodong Ma are the lecturer of this week.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L07, L08</p></div></td>",
+            "topic_title": "<strong>UQ solar &amp; battery facility virtual tour </strong>",
+            "topic_description": "UQ solar & battery facility virtual tour Prof Kazuhiro Nogita/ Dr Xiaodong Ma are the lecturer of this week.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Gatton and Warwick solar &amp; battery facility bus tour (Group 1)</strong><br/><p><strong>Optional Excursion Group 1 (8 hours)</strong>: UQ solar &amp; battery facility bus tour</p>\n<p><strong>Venue:</strong> UQ Gatton and Warwick Solar Farm </p>\n<p><strong>Lecturer:</strong> Nogita</p>\n<p><br/></p>\n<p><strong>Excursion (UQ Gatton and Warwick Solar Farm tour)</strong></p>\n<p>The site visits are an important method for students to understand how materials actually work. They aim to improve students’ self-studying ability and team work skills, and encourages students to solve problems by themselves using the knowledge learnt in the lectures and through the site visits. Attendance at site visits (UQ Gatton and Warwick Solar Farm) is not compulsory but highly recommended.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L03, L07, L09</p></div></td>",
+            "topic_title": "<strong>UQ Gatton and Warwick solar &amp; battery facility bus tour (Group 1)</strong>",
+            "topic_description": "UQ Gatton and Warwick solar & battery facility bus tour (Group 1) Optional Excursion Group 1 (8 hours) : UQ solar & battery facility bus tour Venue: UQ Gatton and Warwick Solar Farm Lecturer: Nogita Excursion (UQ Gatton and Warwick Solar Farm tour) The site visits are an important method for students to understand how materials actually work. They aim to improve students’ self-studying ability and team work skills, and encourages students to solve problems by themselves using the knowledge learnt in the lectures and through the site visits. Attendance at site visits (UQ Gatton and Warwick Solar Farm) is not compulsory but highly recommended.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L07",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamentals of hydrogen storages &amp; associated materials </strong><br><p>Prof Kazuhiro Nogita/ Prof Stephen Lyth (Guest) are the lecturer of this week.</p></br></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Fundamentals of hydrogen storages &amp; associated materials </strong>",
+            "topic_description": "Fundamentals of hydrogen storages & associated materials Prof Kazuhiro Nogita/ Prof Stephen Lyth (Guest) are the lecturer of this week.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Excursion",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>UQ Gatton and Warwick solar &amp; battery facility bus tour (Group 2)</strong><br><p><strong>Optional Excursion Group 2 (8 hours)</strong>: UQ solar &amp; battery facility bus tour</p>\n<p><strong>Venue:</strong> UQ Gatton Solar Farm </p>\n<p><strong>Lecturer:</strong> Nogita</p>\n<p><br/></p>\n<p><strong>Excursion (UQ Gatton and Warwick Solar Farm tour)</strong></p>\n<p>The site visits are an important method for students to understand how materials actually work. They aim to improve students’ self-studying ability and team work skills, and encourages students to solve problems by themselves using the knowledge learnt in the lectures and through the site visits. Attendance at site visits (UQ Gatton and Warwick Solar Farm) is not compulsory but highly recommended.</p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L07, L09</p></div></td>",
+            "topic_title": "<strong>UQ Gatton and Warwick solar &amp; battery facility bus tour (Group 2)</strong>",
+            "topic_description": "UQ Gatton and Warwick solar & battery facility bus tour (Group 2) Optional Excursion Group 2 (8 hours) : UQ solar & battery facility bus tour Venue: UQ Gatton Solar Farm Lecturer: Nogita Excursion (UQ Gatton and Warwick Solar Farm tour) The site visits are an important method for students to understand how materials actually work. They aim to improve students’ self-studying ability and team work skills, and encourages students to solve problems by themselves using the knowledge learnt in the lectures and through the site visits. Attendance at site visits (UQ Gatton and Warwick Solar Farm) is not compulsory but highly recommended.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L07",
+                "L09"
+            ]
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamentals of fuel cell systems &amp; associated materials</strong><br><p>Prof Kazuhiro Nogita and Dr Xiaodan Huang (Guest Lecture) are the lecturer of this week.</p></br></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Fundamentals of fuel cell systems &amp; associated materials</strong>",
+            "topic_description": "Fundamentals of fuel cell systems & associated materials Prof Kazuhiro Nogita and Dr Xiaodan Huang (Guest Lecture) are the lecturer of this week.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Student presentation for Hydrogen fuel cell, electrolyser &amp; storage (Group 1)</strong><br><p>MC by Prof Kazuhiro Nogita, Dr Xiaodan Huang and Casual academic.</p></br></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Student presentation for Hydrogen fuel cell, electrolyser &amp; storage (Group 1)</strong>",
+            "topic_description": "Student presentation for Hydrogen fuel cell, electrolyser & storage (Group 1) MC by Prof Kazuhiro Nogita, Dr Xiaodan Huang and Casual academic.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Fundamentals of Electrolyser &amp; associated materials</strong><br/><p>Prof Kazuhiro Nogita and Dr Ryusuke Mizuochi  (Guest Lecture) are the lecturer of this week.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Fundamentals of Electrolyser &amp; associated materials</strong>",
+            "topic_description": "Fundamentals of Electrolyser & associated materials Prof Kazuhiro Nogita and Dr Ryusuke Mizuochi  (Guest Lecture) are the lecturer of this week.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Student presentation for Hydrogen fuel cell, electrolyser &amp; storage (Group 2)</strong><br/><p>MC by Prof Kazuhiro Nogita, Dr Ryusuke Mizuochi and Casual academic.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Student presentation for Hydrogen fuel cell, electrolyser &amp; storage (Group 2)</strong>",
+            "topic_description": "Student presentation for Hydrogen fuel cell, electrolyser & storage (Group 2) MC by Prof Kazuhiro Nogita, Dr Ryusuke Mizuochi and Casual academic.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Case Study of hydrogen storages &amp; associated materials in industries</strong><br/><p>Prof Kazuhiro Nogita/Dr Xin Fu Tan (Guest Lecturer) are the lecturer of this week.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Case Study of hydrogen storages &amp; associated materials in industries</strong>",
+            "topic_description": "Case Study of hydrogen storages & associated materials in industries Prof Kazuhiro Nogita/Dr Xin Fu Tan (Guest Lecturer) are the lecturer of this week.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Student presentation for Hydrogen fuel cell, electrolyser &amp; storage (Group 3)</strong><br/><p>Student presentations (All students). MC by Prof Kazuhiro Nogita, Dr Ryusuke Mizuochi  and Casual academic.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Student presentation for Hydrogen fuel cell, electrolyser &amp; storage (Group 3)</strong>",
+            "topic_description": "Student presentation for Hydrogen fuel cell, electrolyser & storage (Group 3) Student presentations (All students). MC by Prof Kazuhiro Nogita, Dr Ryusuke Mizuochi  and Casual academic.",
+            "learning_outcomes": [
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/><p>All lecturers</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07, L08, L09, L10</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision All lecturers",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L07",
+                "L08",
+                "L09",
+                "L10"
+            ]
+        }
+    ]
+}
