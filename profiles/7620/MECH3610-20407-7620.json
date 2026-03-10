@@ -1,0 +1,131 @@
+{
+    "course_title": "Systems Engineering Principles",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH3610-20407-7620",
+    "full_course_code": "MECH3610-20407-7620",
+    "course_code": "MECH3610",
+    "class_code": "20407",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply a systems engineering framework to develop a concept design for an engineering challenge."
+        },
+        {
+            "number": "LO2.",
+            "description": "Conduct a stakeholder analysis and develop a set of system requirements related to the project."
+        },
+        {
+            "number": "LO3.",
+            "description": "Define a system architecture including physical and functional allocation for the design."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop, evaluate and select conceptual designs to satisfy the system requirements."
+        },
+        {
+            "number": "LO5.",
+            "description": "Manage the digital workflow associated with the concept design using Product Lifecycle Management (PLM) software."
+        },
+        {
+            "number": "LO6.",
+            "description": "Work as a member of the team to deliver a concept report and communicate this effectively."
+        },
+        {
+            "number": "LO7.",
+            "description": "Apply project management fundamentals to manage the concept design project."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "System Concept (Team)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 19/03/2026</p>\n<p>\n</p><p>Oral Presentation and PLM elements due during Workshop Sessions.</p>\n<p>Peer Assessment 1 - Due on Friday 20/03/2026 5:00pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Oral, Product/ Artefact/ Multimedia",
+            "category": "Presentation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>System Concept (Assessment 1) includes the System Concept Oral Presentation as well as elements in the PLM digital platform.</p>\n<p>Please refer to the MECH3610 Learning Guide for assessment details and marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission instructions are available on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Subsystem Design (Individual)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 30/04/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Subsystem Design (Assessment 2) includes the Subsystem Design Interview, elements in the PLM digital platform and incorporate questions to demonstrate your learnings from seminars.</p>\n<p>Please refer to the MECH3610 Learning Guide for assessment details and marking criteria.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their subsystem design and PLM digital platform independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission instructions are available on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Systems Design Report (Team)",
+            "special_indicators": [],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 29/05/2026 5:00 pm</p>\n<p>\n</p><p>Peer Assessment 2 - Due 29/05/2026 6:00pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>System Design Report (Assessment A3) involves writing of a final report as a team as well as elements in the PLM digital platform..</p>\n<p>Please refer to the MECH3610 Learning Guide for assessment details and marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission instructions are available on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 8(23 Feb - 26 Apr)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Seminar Series</strong><br><p>Specific Seminar schedule is available on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05, L07</p></div></td>",
+            "topic_title": "<strong>Seminar Series</strong>",
+            "topic_description": "Seminar Series Specific Seminar schedule is available on Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(23 Feb - 31 May)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop Series</strong><br><p>Specific Workshops schedule is available on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
+            "topic_title": "<strong>Workshop Series</strong>",
+            "topic_description": "Workshop Series Specific Workshops schedule is available on Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07"
+            ]
+        }
+    ]
+}
