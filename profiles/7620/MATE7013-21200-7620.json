@@ -1,0 +1,360 @@
+{
+    "course_title": "Advanced Manufacturing",
+    "study_period": "Sem 1 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MATE7013-21200-7620",
+    "full_course_code": "MATE7013-21200-7620",
+    "course_code": "MATE7013",
+    "class_code": "21200",
+    "semester_code": "7620",
+    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Differentiate between conventional and advanced manufacturing methods and justify process selection for sustainable, high-performance device manufacturing."
+        },
+        {
+            "number": "LO2.",
+            "description": "Understand the fundamental principles of semiconductor and superconductor behaviour, and classify these systems based on their functional properties."
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate material and process selection strategies and assess their environmental, technical, and economic implications in real-world manufacturing contexts."
+        },
+        {
+            "number": "LO4.",
+            "description": "Assess current manufacturing processes for electronics packaging and interpret their role in enabling emerging technologies including IoT, mobile devices, and advanced digital systems essential to Industry 4.0."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design and evaluate prototype magnet and electronic subsystems by integrating knowledge of material behaviour, structural/thermal engineering, manufacturability, and lifecycle cost considerations."
+        },
+        {
+            "number": "LO6.",
+            "description": "Identify limitations in conventional electronic packaging and manufacturing systems, propose innovative solutions, and critically review relevant literature and peer presentations."
+        },
+        {
+            "number": "LO7.",
+            "description": "Understand persistent-mode magnetic system operation and analyse mechanisms to maintain stable current flow for next generation MRI magnet applications."
+        },
+        {
+            "number": "LO8.",
+            "description": "Collaboratively engage in practical and in-class team activities in device fabrication and testing, including mini-projects and prototype-based learning, and demonstrate effective teamwork, technical integration, and problem-solving skills."
+        },
+        {
+            "number": "LO9.",
+            "description": "Critically evaluate global research and industry developments in electronic, superconducting, and semiconducting manufacturing, identify emerging trends, and assess their implications for future research and Australia’s manufacturing sector."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Presentation to demonstrate the Design and manufacturing of solar powered devices",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 23/03/2026 - 27/03/2026</p>\n<p>\n</p><p>Presentation file submission deadline Monday 23 March 2026 at 4pm</p>\n<p>In person group presentation session will be conducted on Friday 27 March from 8am to 12pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L07, L09",
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to deliver a group presentation focusing on key aspects of advanced semiconducting materials and device manufacturing, demostration and testing. This presentation is a compulsory assessment component of the course and will be conducted in <strong>Week 5</strong>.</p>\n<p>The purpose of this assessment is to enable students to critically analyse and present a nominated advanced manufacturing topic, while also engaging in peer evaluation of presentations. The task is designed to further develop students’ technical communication and presentation skills.</p>\n<p>Each presentation will be <strong>10–12 minutes</strong>, followed by <strong>5 minutes of questions</strong>. Lecture and practical materials should be used as an initial reference only, and students are expected to consult additional scholarly and technical resources.</p>\n<p>Presentation slides must be uploaded to <strong>Blackboard (Ultra)</strong> no later than <strong>10:00 am on the Monday (23/3/2026)</strong> to the scheduled presentation. Uploaded slides will be accessible to all students. All students are expected to review the relevant material and presentations in advance and actively participate in class by asking at least one relevant question during the session.</p>\n<p>Assessment will be conducted by the Course Coordinator or a nominated panel using a standard rubric. Marks will be awarded for Technical Content (30%) and Presentation Quality (70%).</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Technical report on Superconductor device manufacturing",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 5/05/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L07, L09",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Superconductors have both advantages and disadvantages compared to conventional conductors. The first advantage of superconductivity is the low electrical power consumption due to the low resistivity. Moreover, since the critical current density is quite high in magnets, applications required strong magnet like Magnetic Resonance Imaging (MRI) will require superconductors. However, the major disadvantage is low critical temperature which required the application of liquid helium for cooling purpose in applications. Application and storage of liquid helium made the process complicated and expensive.</p>\n<p>In this laboratory practice, students will particularly learn (i) properties of different types of high temperature superconductors (ii) Testing the transport current carrying capacity in cryogenic environment (at 77K in liquid nitrogen) (iii) Analysis the transport current under bending strain effect (iv) microstructure analysis of superconductors using electron and optical microscope to investigate the current degradation after bending (v) Testing the superconducting magnet coil and generating high magnetic field (vi) data and result analysis for the laboratory report. Student will work in groups of several students. Within each group, students will share the data obtained from the laboratory practice. However, each student is required to write and submit report independently.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Electronic manufacturing - presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Presentations from 10:00am on 22/05/2026</p>\n<p>Slides due at 4:00pm 22/05/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Activity/ Performance, Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Presentation length: </strong></p>\n<p><strong>20</strong> minutes in total. <strong>15</strong> minutes presentation (<strong>15-18 slides</strong>) and <strong>5</strong> minutes at the end of the presentation for questions from the audience. The presentation length may change depends on the number of students enrolled.</p>\n<p>Slots allocation will be made available on Blackboard during Week 9. Inform course staff ASAP if unable to attend your allocated slot due to exceptional circumstances.</p>\n<p><strong>Recommended report outline:</strong></p>\n<ol>\n<li>We recommend you follow a simple “introduction – body – conclusion” structure. The body of the presentation should cover your key points and elaborate on your arguments and ideas.</li>\n<li>Note that this is only a recommendation; you may choose to opt for a different format but note that the structure of the presentation is one of the assessment items and thus, a well- organized presentation is expected.</li>\n</ol>\n<p><strong>Assessment: </strong></p>\n<p>The teaching team will assess your presentation according to the marking rubric available on Blackboard.</p>\n<p><strong>Choice of topic: </strong></p>\n<p>This will be the same article as the summary report.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will comprehensively test knowledge learned during the course.</p>\n<p>Format: Short answer, Short essay</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(23 Feb - 01 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course overview - Introduction</strong><br/><p>A/Prof. Shahriar Hossain</p></p></div></td>",
+            "topic_title": "<strong>Course overview - Introduction</strong>",
+            "topic_description": "Course overview - Introduction A/Prof. Shahriar Hossain",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to semiconductor manufacturing</strong><br/><p>Dr Aditya Ashok</p></p></div></td>",
+            "topic_title": "<strong>Introduction to semiconductor manufacturing</strong>",
+            "topic_description": "Introduction to semiconductor manufacturing Dr Aditya Ashok",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(02 Mar - 08 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Manufacturing of semiconductor devices</strong><br/><p>Dr. Aditya Ashok, A/Prof Shahriar Hossain and a member of the teaching team</p></p></div></td>",
+            "topic_title": "<strong>Manufacturing of semiconductor devices</strong>",
+            "topic_description": "Manufacturing of semiconductor devices Dr. Aditya Ashok, A/Prof Shahriar Hossain and a member of the teaching team",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Manufactruing and applications of semiconductor devices</strong><br/><p>Dr. Aditya Ashok</p></p></div></td>",
+            "topic_title": "<strong>Manufactruing and applications of semiconductor devices</strong>",
+            "topic_description": "Manufactruing and applications of semiconductor devices Dr. Aditya Ashok",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(09 Mar - 15 Mar)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Manufacturing and application of semiconductor devices</strong><br/><p>Dr. Aditya Ashok, A/Prof. Shahriar Hossain and a member of the teaching team</p></p></div></td>",
+            "topic_title": "<strong>Manufacturing and application of semiconductor devices</strong>",
+            "topic_description": "Manufacturing and application of semiconductor devices Dr. Aditya Ashok, A/Prof. Shahriar Hossain and a member of the teaching team",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Problem Solving on semiconductor device manufacturing</strong><br/><p>Dr Aditya Ashok, A/Prof. Shahriar Hossain and a member of the teaching team</p></p></div></td>",
+            "topic_title": "<strong>Problem Solving on semiconductor device manufacturing</strong>",
+            "topic_description": "Problem Solving on semiconductor device manufacturing Dr Aditya Ashok, A/Prof. Shahriar Hossain and a member of the teaching team",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(16 Mar - 22 Mar)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intro- Superconduct Device Manufact &amp; MAGLEV Demo</strong><br/><p>A/Prof. Shahriar Hossain and Dr Hao Liang</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L07</p></div></td>",
+            "topic_title": "<strong>Intro- Superconduct Device Manufact &amp; MAGLEV Demo</strong>",
+            "topic_description": "Intro- Superconduct Device Manufact & MAGLEV Demo A/Prof. Shahriar Hossain and Dr Hao Liang",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Semiconducting device manufacturing presentation prep</strong><br/><p>Dr Aditya Ashok, A/Prof. Shahriar Hossain and a member of the teaching team</p></p></div></td>",
+            "topic_title": "<strong>Semiconducting device manufacturing presentation prep</strong>",
+            "topic_description": "Semiconducting device manufacturing presentation prep Dr Aditya Ashok, A/Prof. Shahriar Hossain and a member of the teaching team",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5 Seminar</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 5 Seminar</strong>",
+            "topic_description": "Week 5 Seminar",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Superconduct Device Manufact Design considerations + simulation tutorial</strong><br/><p>A/Prof. Shahriar Hossain, Hao Liang</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L07</p></div></td>",
+            "topic_title": "<strong>Superconduct Device Manufact Design considerations + simulation tutorial</strong>",
+            "topic_description": "Superconduct Device Manufact Design considerations + simulation tutorial A/Prof. Shahriar Hossain, Hao Liang",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 6(30 Mar - 05 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Superconductor testing</strong><br/><p>Dr Hao Liang, A/Prof. Shahriar Hossain</p></p></div></td>",
+            "topic_title": "<strong>Superconductor testing</strong>",
+            "topic_description": "Superconductor testing Dr Hao Liang, A/Prof. Shahriar Hossain",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Superconductor cryogenic enginering application + simulation tutorial</strong><br/><p>A/Prof. Shahriar Hossain, Dr Hao Liang.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L07</p></div></td>",
+            "topic_title": "<strong>Superconductor cryogenic enginering application + simulation tutorial</strong>",
+            "topic_description": "Superconductor cryogenic enginering application + simulation tutorial A/Prof. Shahriar Hossain, Dr Hao Liang.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 7(13 Apr - 19 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Superconducting testing 2</strong><br/><p>Dr Hao Liang, A/Prof. Shahriar Hossain</p></p></div></td>",
+            "topic_title": "<strong>Superconducting testing 2</strong>",
+            "topic_description": "Superconducting testing 2 Dr Hao Liang, A/Prof. Shahriar Hossain",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Superconduct wire/magnet applications + simulation tutorial</strong><br/><p>A/Prof. Shahriar Hossain, Dr Hao Liang</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L07</p></div></td>",
+            "topic_title": "<strong>Superconduct wire/magnet applications + simulation tutorial</strong>",
+            "topic_description": "Superconduct wire/magnet applications + simulation tutorial A/Prof. Shahriar Hossain, Dr Hao Liang",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 8(20 Apr - 26 Apr)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Microstructure characterisation by electron microscopy</strong><br/><p>A/Prof. Shahriar Hossain</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L07</p></div></td>",
+            "topic_title": "<strong>Microstructure characterisation by electron microscopy</strong>",
+            "topic_description": "Microstructure characterisation by electron microscopy A/Prof. Shahriar Hossain",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L07"
+            ]
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Magnet test demo in the lab</strong><br/><p>Dr. Hao Liang, A/Prof. Shahriar Hossain</p></p></div></td>",
+            "topic_title": "<strong>Magnet test demo in the lab</strong>",
+            "topic_description": "Magnet test demo in the lab Dr. Hao Liang, A/Prof. Shahriar Hossain",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(27 Apr - 03 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Magnet test demo in the lab + levitation force testing</strong><br/><p>Dr Hao Liang</p></p></div></td>",
+            "topic_title": "<strong>Magnet test demo in the lab + levitation force testing</strong>",
+            "topic_description": "Magnet test demo in the lab + levitation force testing Dr Hao Liang",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electronic Manufacturing for Electronic Packaging</strong><br/><p>Prof. Kazuhiro Nogita and a member of the teaching team</p></p></div></td>",
+            "topic_title": "<strong>Electronic Manufacturing for Electronic Packaging</strong>",
+            "topic_description": "Electronic Manufacturing for Electronic Packaging Prof. Kazuhiro Nogita and a member of the teaching team",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(04 May - 10 May)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electronic manufacturing  - advanced soldring prac</strong><br/><p>Prof. Kazuhiro Nogita, and Guest lecturer</p></p></div></td>",
+            "topic_title": "<strong>Electronic manufacturing  - advanced soldring prac</strong>",
+            "topic_description": "Electronic manufacturing  - advanced soldring prac Prof. Kazuhiro Nogita, and Guest lecturer",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(11 May - 17 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Guest lecture on Electronic Manufacturing</strong><br/><p>Prof Nogita and guest lecture</p></p></div></td>",
+            "topic_title": "<strong>Guest lecture on Electronic Manufacturing</strong>",
+            "topic_description": "Guest lecture on Electronic Manufacturing Prof Nogita and guest lecture",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Presentation preparation discussion on Electronic Manufacturing</strong><br/><p>Prof Nogita and turors</p></p></div></td>",
+            "topic_title": "<strong>Presentation preparation discussion on Electronic Manufacturing</strong>",
+            "topic_description": "Presentation preparation discussion on Electronic Manufacturing Prof Nogita and turors",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(18 May - 24 May)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Electronic manufacturing presentation assessment</strong><br/><p>Prof Nogita and tutors</p></p></div></td>",
+            "topic_title": "<strong>Electronic manufacturing presentation assessment</strong>",
+            "topic_description": "Electronic manufacturing presentation assessment Prof Nogita and tutors",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(25 May - 31 May)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Discussion on final exam prep</strong><br/><p>Shahriar Hossain</p></p></div></td>",
+            "topic_title": "<strong>Discussion on final exam prep</strong>",
+            "topic_description": "Discussion on final exam prep Shahriar Hossain",
+            "learning_outcomes": []
+        }
+    ]
+}
