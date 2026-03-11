@@ -219,18 +219,23 @@
         },
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5: READING WEEK</strong><br/></p></div></td>",
-            "topic_title": "<strong>Week 5: READING WEEK</strong>",
-            "topic_description": "Week 5: READING WEEK",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6</strong><br/><p>Laurence Sterne: <em>Tristram Shandy </em>(2)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Week 6</strong>",
-            "topic_description": "Week 6 Laurence Sterne: Tristram Shandy (2)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5</strong><br/><p>Laurence Sterne: <em>Tristram Shandy </em>(2)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 5</strong>",
+            "topic_description": "Week 5 Laurence Sterne: Tristram Shandy (2)",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 5(23 Mar - 29 Mar)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5</strong><br/><p>Laurence Sterne: <em>Tristram Shandy </em>(2)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 5</strong>",
+            "topic_description": "Week 5 Laurence Sterne: Tristram Shandy (2)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -240,16 +245,11 @@
         },
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6</strong><br/><p>Laurence Sterne: <em>Tristram Shandy </em>(2)</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Week 6</strong>",
-            "topic_description": "Week 6 Laurence Sterne: Tristram Shandy (2)",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04"
-            ]
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6: READING WEEK</strong><br/></p></div></td>",
+            "topic_title": "<strong>Week 6: READING WEEK</strong>",
+            "topic_description": "Week 6: READING WEEK",
+            "learning_outcomes": []
         },
         {
             "learning_period": "Mid-sem break(06 Apr - 12 Apr)",
