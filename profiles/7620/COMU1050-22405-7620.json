@@ -59,13 +59,91 @@
             "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
             "late_submission": "<p>Late submission is not possible for this assessment.</p>",
             "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Problem-Based Assessment Task",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 24/04/2026 2:00 pm</p>\n<p>\n</p><p>This task will be posted on Blackboard at 2pm (i.e., 14:00 hours) on Monday, 20 April 2026. The deadline for submission of this assignment via Turnitin is 2pm (i.e., 14:00 hours) on Friday, 24 April 2026. <strong>All times listed for all assignments are Brisbane times</strong>.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The topic of the Problem-Based Assessment Task will be covered in lectures and/or tutorials before the task is administered to students.</p>\n<p>The task will be released on Blackboard on Monday, 20 April 2026 at 2pm (i.e., 14:00 hours).</p>\n<p>The due date to submit the assignment via Turnitin is Friday, 24 April 2026 at 2pm (i.e., 14:00 hours).</p>\n<p><br/></p>\n<p><strong>WORD LIMIT AND PENALTY FOR EXCEEDING WORD LIMIT</strong>: The limit for this assignment is 900 words (MAXIMUM). Stick to the stipulated maximum word limit. The word limit includes in-text references and the list of references. If you exceed the maximum word limit by 25 words, you will lose 1 mark. If you exceed by 50 words, you will lose 2 marks, etc.</p>\n<p><br/></p>\n<p>SUBMISSION: Submit via Turnitin on Blackboard.</p>\n<p><br/></p>\n<p>ASSESSMENT CRITERIA: See the Blackboard for detailed Assessment Criteria.</p>\n<p> </p>\n<p>MARKS AND FEEDBACK: You will receive an email from the Course Coordinator to advise when your marks and feedback are ready in Gradebook.</p>\n<p> </p>\n<p>This task has been designed to be challenging, authentic, and complex. While students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End-of-Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The purpose of the End-of-Semester Examination is to test your knowledge and understanding of the issues covered in this course -- in lectures, tutorials, and specified reading material. Accordingly, the examination will cover topics discussed in lectures, tutorials, and specific topics taken from any specified reading material.</p>\n<p><br/></p>\n<p>The examination will comprise of short-answer essay questions.</p>\n<p> </p>\n<p>The examination has a value of 50%.</p>\n<p> </p>\n<p>The End-of-Semester Examination will be scheduled by the Central Examinations Office. The examination will occur during the End-of-Semester Examination period.</p>\n<p> </p>\n<p>It will be a Closed Book examination – no written materials will be permitted. The examination will be paper based.</p>\n<p> </p>\n<p>PLEASE NOTE: <strong>Guidelines for the End-of-Semester Examination will be presented during Week 12 lecture</strong>. You are encouraged to attend the lecture for advice on how you should prepare for the examination.</p>\n<p> </p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Problem-Based Assessment Task",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 24/04/2026 2:00 pm</p>\n<p>\n</p><p>This task will be posted on Blackboard at 2pm (i.e., 14:00 hours) on Monday, 20 April 2026. The deadline for submission of this assignment via Turnitin is 2pm (i.e., 14:00 hours) on Friday, 24 April 2026. <strong>All times listed for all assignments are Brisbane times</strong>.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The topic of the Problem-Based Assessment Task will be covered in lectures and/or tutorials before the task is administered to students.</p>\n<p>The task will be released on Blackboard on Monday, 20 April 2026 at 2pm (i.e., 14:00 hours).</p>\n<p>The due date to submit the assignment via Turnitin is Friday, 24 April 2026 at 2pm (i.e., 14:00 hours).</p>\n<p><br/></p>\n<p><strong>WORD LIMIT AND PENALTY FOR EXCEEDING WORD LIMIT</strong>: The limit for this assignment is 900 words (MAXIMUM). Stick to the stipulated maximum word limit. The word limit includes in-text references and the list of references. If you exceed the maximum word limit by 25 words, you will lose 1 mark. If you exceed by 50 words, you will lose 2 marks, etc.</p>\n<p><br/></p>\n<p>SUBMISSION: Submit via Turnitin on Blackboard.</p>\n<p><br/></p>\n<p>ASSESSMENT CRITERIA: See the Blackboard for detailed Assessment Criteria.</p>\n<p><br/></p>\n<p>MARKS AND FEEDBACK: You will receive an email from the Course Coordinator to advise when your marks and feedback are ready in Gradebook.</p>\n<p><br/></p>\n<p>This task has been designed to be challenging, authentic, and complex. While students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn through Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-4",
+            "assessment_title": "End-of-Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>6/06/2026 - 20/06/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The purpose of the End-of-Semester Examination is to test your knowledge and understanding of the issues covered in this course -- in lectures, tutorials, and specified reading material. Accordingly, the examination will cover topics discussed in lectures, tutorials, and specific topics taken from any specified reading material.</p>\n<p><br/></p>\n<p>The examination will comprise of short-answer essay questions.</p>\n<p><br/></p>\n<p>The examination has a value of 50%.</p>\n<p><br/></p>\n<p>The End-of-Semester Examination will be scheduled by the Central Examinations Office. The examination will occur during the End-of-Semester Examination period.</p>\n<p><br/></p>\n<p>It will be a Closed Book examination – no written materials will be permitted. The examination will be paper based.</p>\n<p><br/></p>\n<p>PLEASE NOTE: <strong>Guidelines for the End-of-Semester Examination will be presented during Week 12 lecture</strong>. You are encouraged to attend the lecture for advice on how you should prepare for the examination.</p>\n<p><br/></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1 Lecture:</strong><br/><p><strong>Introduction to course, assessment tasks, etc. </strong>-- Levi Obijiofor</p>\n<p>This first lecture provides an overview of the course, including aims and objectives, resources, requirements, weekly lecture topics, tutorial weeks and topics, and assessment tasks.</p>\n<p><br/></p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1 Lecture:</strong><br><p><strong>Introduction to course, assessment tasks, etc. </strong>-- Levi Obijiofor</p>\n<p>This first lecture provides an overview of the course, including aims and objectives, resources, requirements, weekly lecture topics, tutorial weeks and topics, and assessment tasks.</p>\n<p><br/></p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
             "topic_title": "<strong>Week 1 Lecture:</strong>",
             "topic_description": "Week 1 Lecture: Introduction to course, assessment tasks, etc. -- Levi Obijiofor This first lecture provides an overview of the course, including aims and objectives, resources, requirements, weekly lecture topics, tutorial weeks and topics, and assessment tasks. Lecture slides and audio will be posted on Blackboard.",
             "learning_outcomes": [
@@ -95,7 +173,7 @@
         {
             "learning_period": "Week 2(02 Mar - 08 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2 Lecture:</strong><br/><p><strong>What is news? What are news values? </strong>-- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2 Lecture:</strong><br><p><strong>What is news? What are news values? </strong>-- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
             "topic_title": "<strong>Week 2 Lecture:</strong>",
             "topic_description": "Week 2 Lecture: What is news? What are news values? -- Levi Obijiofor Lecture slides and audio will be posted on Blackboard.",
             "learning_outcomes": [
@@ -107,7 +185,7 @@
         {
             "learning_period": "Week 2(02 Mar - 08 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2 Tutorial: </strong><br/><p>This first tutorial introduces the objectives of tutorials and presents a quick overview of the aims and objectives of the course. It presents details of the Problem-Based Assessment Task, the due date, guidelines for submitting the assignment, late submission policy, tutorial participation, and other School policies. The tutorial also provides information on the Substitute Tutorial Task that must be undertaken when students are unable to attend tutorial classes owing to ill health.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2 Tutorial: </strong><br><p>This first tutorial introduces the objectives of tutorials and presents a quick overview of the aims and objectives of the course. It presents details of the Problem-Based Assessment Task, the due date, guidelines for submitting the assignment, late submission policy, tutorial participation, and other School policies. The tutorial also provides information on the Substitute Tutorial Task that must be undertaken when students are unable to attend tutorial classes owing to ill health.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
             "topic_title": "<strong>Week 2 Tutorial: </strong>",
             "topic_description": "Week 2 Tutorial: This first tutorial introduces the objectives of tutorials and presents a quick overview of the aims and objectives of the course. It presents details of the Problem-Based Assessment Task, the due date, guidelines for submitting the assignment, late submission policy, tutorial participation, and other School policies. The tutorial also provides information on the Substitute Tutorial Task that must be undertaken when students are unable to attend tutorial classes owing to ill health.",
             "learning_outcomes": [
@@ -122,7 +200,7 @@
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3 Lecture:</strong><br/><p><strong>Objectivity in journalism</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3 Lecture:</strong><br><p><strong>Objectivity in journalism</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
             "topic_title": "<strong>Week 3 Lecture:</strong>",
             "topic_description": "Week 3 Lecture: Objectivity in journalism -- Levi Obijiofor Lecture slides and audio will be posted on Blackboard.",
             "learning_outcomes": [
@@ -134,7 +212,7 @@
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3 Tutorial:</strong><br/><p>This tutorial examines the canons of journalism -- truth, fairness, accuracy, and balance -- their relevance, objectivity in news reporting and whether it is possible for journalists to be objective in reporting news. If time permits, we shall examine the guidelines for the Problem-Based Assessment Task.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3 Tutorial:</strong><br><p>This tutorial examines the canons of journalism -- truth, fairness, accuracy, and balance -- their relevance, objectivity in news reporting and whether it is possible for journalists to be objective in reporting news. If time permits, we shall examine the guidelines for the Problem-Based Assessment Task.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
             "topic_title": "<strong>Week 3 Tutorial:</strong>",
             "topic_description": "Week 3 Tutorial: This tutorial examines the canons of journalism -- truth, fairness, accuracy, and balance -- their relevance, objectivity in news reporting and whether it is possible for journalists to be objective in reporting news. If time permits, we shall examine the guidelines for the Problem-Based Assessment Task.",
             "learning_outcomes": [
@@ -146,7 +224,7 @@
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4 Lecture:</strong><br/><p><strong>Diversity in the newsroom</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4 Lecture:</strong><br><p><strong>Diversity in the newsroom</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L06</p></div></td>",
             "topic_title": "<strong>Week 4 Lecture:</strong>",
             "topic_description": "Week 4 Lecture: Diversity in the newsroom -- Levi Obijiofor Lecture slides and audio will be posted on Blackboard.",
             "learning_outcomes": [
@@ -159,7 +237,7 @@
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4 Tutorial:</strong><br/><p>Cultural bias in news reporting. Tutorial will explore how cultural bias is reflected in news reports, including how cultural bias and cultural insensitivity can be addressed.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4 Tutorial:</strong><br><p>Cultural bias in news reporting. Tutorial will explore how cultural bias is reflected in news reports, including how cultural bias and cultural insensitivity can be addressed.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L06</p></div></td>",
             "topic_title": "<strong>Week 4 Tutorial:</strong>",
             "topic_description": "Week 4 Tutorial: Cultural bias in news reporting. Tutorial will explore how cultural bias is reflected in news reports, including how cultural bias and cultural insensitivity can be addressed.",
             "learning_outcomes": [
@@ -172,7 +250,7 @@
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5 Lecture:</strong><br/><p><strong>Alternative journalism</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5 Lecture:</strong><br><p><strong>Alternative journalism</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L06</p></div></td>",
             "topic_title": "<strong>Week 5 Lecture:</strong>",
             "topic_description": "Week 5 Lecture: Alternative journalism -- Levi Obijiofor Lecture slides and audio will be posted on Blackboard.",
             "learning_outcomes": [
@@ -185,7 +263,7 @@
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5 Tutorial:</strong><br/><p>Tutorial will clarify the <strong>Problem-Based Assessment Task</strong>, and how you should approach the assignment, focusing on the assessment criteria. If time permits, we shall examine the importance of diversity in the newsroom.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5 Tutorial:</strong><br><p>Tutorial will clarify the <strong>Problem-Based Assessment Task</strong>, and how you should approach the assignment, focusing on the assessment criteria. If time permits, we shall examine the importance of diversity in the newsroom.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
             "topic_title": "<strong>Week 5 Tutorial:</strong>",
             "topic_description": "Week 5 Tutorial: Tutorial will clarify the Problem-Based Assessment Task , and how you should approach the assignment, focusing on the assessment criteria. If time permits, we shall examine the importance of diversity in the newsroom.",
             "learning_outcomes": [
@@ -200,7 +278,7 @@
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6 Lecture:</strong><br/><p><strong>Media freedom in Australia</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6 Lecture:</strong><br><p><strong>Media freedom in Australia</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
             "topic_title": "<strong>Week 6 Lecture:</strong>",
             "topic_description": "Week 6 Lecture: Media freedom in Australia -- Levi Obijiofor Lecture slides and audio will be posted on Blackboard.",
             "learning_outcomes": [
@@ -212,7 +290,7 @@
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6 Tutorial: NO TUTORIAL OWING TO GOOD FRIDAY PUBLIC HOLIDAY</strong><br/><p>NO TUTORIAL THIS WEEK OWING TO GOOD FRIDAY PUBLIC HOLIDAY.</p>\n<p>Students are encouraged to engage in self-directed learning.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6 Tutorial: NO TUTORIAL OWING TO GOOD FRIDAY PUBLIC HOLIDAY</strong><br><p>NO TUTORIAL THIS WEEK OWING TO GOOD FRIDAY PUBLIC HOLIDAY.</p>\n<p>Students are encouraged to engage in self-directed learning.</p></br></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
             "topic_title": "<strong>Week 6 Tutorial: NO TUTORIAL OWING TO GOOD FRIDAY PUBLIC HOLIDAY</strong>",
             "topic_description": "Week 6 Tutorial: NO TUTORIAL OWING TO GOOD FRIDAY PUBLIC HOLIDAY NO TUTORIAL THIS WEEK OWING TO GOOD FRIDAY PUBLIC HOLIDAY. Students are encouraged to engage in self-directed learning.",
             "learning_outcomes": [
@@ -238,7 +316,7 @@
         {
             "learning_period": "Week 7(13 Apr - 19 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7 Lecture:</strong><br/><p><strong>Role of journalists in non-democratic developing countries and the link to the Spiral of Silence Theory </strong>-- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7 Lecture:</strong><br><p><strong>Role of journalists in non-democratic developing countries and the link to the Spiral of Silence Theory </strong>-- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
             "topic_title": "<strong>Week 7 Lecture:</strong>",
             "topic_description": "Week 7 Lecture: Role of journalists in non-democratic developing countries and the link to the Spiral of Silence Theory -- Levi Obijiofor Lecture slides and audio will be posted on Blackboard.",
             "learning_outcomes": [
@@ -250,7 +328,7 @@
         {
             "learning_period": "Week 7(13 Apr - 19 Apr)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7 Tutorial:</strong><br/><p>This week’s tutorial will discuss Cultivation Theory and the Spiral of Silence Theory, examining how the Spiral of Silence Theory can explain the performance of journalists in non-democratic developing countries.</p></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7 Tutorial:</strong><br><p>This week’s tutorial will discuss Cultivation Theory and the Spiral of Silence Theory, examining how the Spiral of Silence Theory can explain the performance of journalists in non-democratic developing countries.</p></br></p><p><strong>Learning outcomes:</strong> L01, L06</p></div></td>",
             "topic_title": "<strong>Week 7 Tutorial:</strong>",
             "topic_description": "Week 7 Tutorial: This week’s tutorial will discuss Cultivation Theory and the Spiral of Silence Theory, examining how the Spiral of Silence Theory can explain the performance of journalists in non-democratic developing countries.",
             "learning_outcomes": [
@@ -261,7 +339,7 @@
         {
             "learning_period": "Week 8(20 Apr - 26 Apr)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8 Lecture: </strong><br/><p><strong>Media reporting of poverty</strong> -- Levi Obijiofor </p>\n<p> Lecture slides and audio will be posted on Blackboard.</p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8 Lecture: </strong><br><p><strong>Media reporting of poverty</strong> -- Levi Obijiofor </p>\n<p> Lecture slides and audio will be posted on Blackboard.</p>\n<p><br/></p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L06</p></div></td>",
             "topic_title": "<strong>Week 8 Lecture: </strong>",
             "topic_description": "Week 8 Lecture: Media reporting of poverty -- Levi Obijiofor Lecture slides and audio will be posted on Blackboard.",
             "learning_outcomes": [
@@ -285,7 +363,7 @@
         {
             "learning_period": "Week 9(27 Apr - 03 May)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9 Lecture:</strong><br/><p><strong>Arab Spring uprisings and the role of social media</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9 Lecture:</strong><br><p><strong>Arab Spring uprisings and the role of social media</strong> -- Levi Obijiofor</p>\n<p>Lecture slides and audio will be posted on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L06</p></div></td>",
             "topic_title": "<strong>Week 9 Lecture:</strong>",
             "topic_description": "Week 9 Lecture: Arab Spring uprisings and the role of social media -- Levi Obijiofor Lecture slides and audio will be posted on Blackboard.",
             "learning_outcomes": [
@@ -298,7 +376,7 @@
         {
             "learning_period": "Week 9(27 Apr - 03 May)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9 Tutorial:</strong><br/><p>This tutorial will examine how the media frame and represent different groups, homeless people, developing countries, etc.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9 Tutorial:</strong><br><p>This tutorial will examine how the media frame and represent different groups, homeless people, developing countries, etc.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
             "topic_title": "<strong>Week 9 Tutorial:</strong>",
             "topic_description": "Week 9 Tutorial: This tutorial will examine how the media frame and represent different groups, homeless people, developing countries, etc.",
             "learning_outcomes": [
