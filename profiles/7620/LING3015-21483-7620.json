@@ -50,11 +50,11 @@
                 }
             ],
             "weighting": "<dd>10%</dd>",
-            "due_date": "<dd><p> 4/03/2026 - 1/04/2026</p>\n<p>\n</p><p>WEEKS 2 - 6</p>\n<p>Throughout semester during Wednesday Workshop. The student's assigned timeslot will be considered the due date and time for this assessment.</p></dd>",
+            "due_date": "<dd><p> 4/03/2026 - 1/04/2026</p>\n<p>\n</p><p>WEEKS 2 - 6</p>\n<p>Throughout semester during Wednesday Seminar. The student's assigned timeslot will be considered the due date and time for this assessment.</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Activity/ Performance, Oral",
             "category": "Presentation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Aspects of Language Contact in...</p>\n<ol>\n<li>Sociohistorical background and language situation</li>\n<li>Aspects of contact in the noun phrase</li>\n<li>Aspects of contact in pronouns</li>\n<li>Aspects of contact in the verb phrase</li>\n</ol>\n<p>Two presentations on one of these four sections of the minor assignment 'Aspects of contact in …'</p>\n<p>These will be presented in the Wednesday Workshop and are worth 10% altogether. It should consist of a <strong>10 minute presentation</strong> of one aspect of the topic for the week.</p>\n<p>Students will be asked to select a contact languages to work on (from a list provided by the lecturer with suggested readings). They then select topics and weeks for the presentations in the first week of class. Sign up for the presentations will be on a google sheet provided by the lecturer in the first week of class.</p>\n<p><strong>Use of Generative AI and Machine Translation</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted in the presentation venue.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies to prepare their presentations, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. </p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their work independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Aspects of Language Contact in...</p>\n<ol>\n<li>Sociohistorical background and language situation</li>\n<li>Aspects of contact in the noun phrase</li>\n<li>Aspects of contact in pronouns</li>\n<li>Aspects of contact in the verb phrase</li>\n</ol>\n<p>Two presentations on one of these four sections of the minor assignment 'Aspects of contact in …'</p>\n<p>These will be presented in the Wednesday Seminar and are worth 10% altogether. It should consist of a <strong>10 minute presentation</strong> of one aspect of the topic for the week.</p>\n<p>Students will be asked to select a contact languages to work on (from a list provided by the lecturer with suggested readings). They then select topics and weeks for the presentations in the first week of class. Sign up for the presentations will be on a google sheet provided by the lecturer in the first week of class.</p>\n<p><strong>Use of Generative AI and Machine Translation</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted in the presentation venue.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies to prepare their presentations, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their work independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
@@ -132,7 +132,7 @@
     "learning_activities": [
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Language Contact</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Introduction to Language Contact</strong>",
             "topic_description": "Introduction to Language Contact",
@@ -146,7 +146,7 @@
         },
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Explanations of Assignment 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Explanations of Assignment 1</strong>",
             "topic_description": "Explanations of Assignment 1",
@@ -160,7 +160,7 @@
         },
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Pidgins and Creoles I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Pidgins and Creoles I</strong>",
             "topic_description": "Pidgins and Creoles I",
@@ -174,7 +174,7 @@
         },
         {
             "learning_period": "Week 1(23 Feb - 01 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>No tutorial</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>No tutorial</strong>",
             "topic_description": "No tutorial",
@@ -188,7 +188,7 @@
         },
         {
             "learning_period": "Week 2(02 Mar - 08 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Pidgins and Creoles II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Pidgins and Creoles II</strong>",
             "topic_description": "Pidgins and Creoles II",
@@ -202,7 +202,7 @@
         },
         {
             "learning_period": "Week 2(02 Mar - 08 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>5-10min Presentations</strong><br/><p>Sociohistorical Background and Current Situation</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>5-10min Presentations</strong>",
             "topic_description": "5-10min Presentations Sociohistorical Background and Current Situation",
@@ -216,7 +216,7 @@
         },
         {
             "learning_period": "Week 2(02 Mar - 08 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Borrowing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Borrowing</strong>",
             "topic_description": "Borrowing",
@@ -230,7 +230,7 @@
         },
         {
             "learning_period": "Week 2(02 Mar - 08 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>5-10min Presentations</strong><br/><p>Sociohistorical Background and Current Situation</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>5-10min Presentations</strong>",
             "topic_description": "5-10min Presentations Sociohistorical Background and Current Situation",
@@ -244,7 +244,7 @@
         },
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Code-switching</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Code-switching</strong>",
             "topic_description": "Code-switching",
@@ -258,7 +258,7 @@
         },
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>5-10min Presentations</strong><br/><p>Noun Phrases</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>5-10min Presentations</strong>",
             "topic_description": "5-10min Presentations Noun Phrases",
@@ -272,7 +272,7 @@
         },
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Mixed Languages I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Mixed Languages I</strong>",
             "topic_description": "Mixed Languages I",
@@ -286,7 +286,7 @@
         },
         {
             "learning_period": "Week 3(09 Mar - 15 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>5-10min Presentations</strong><br/><p>Noun Phrases</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>5-10min Presentations</strong>",
             "topic_description": "5-10min Presentations Noun Phrases",
@@ -300,7 +300,7 @@
         },
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Mixed Languages II</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Mixed Languages II</strong>",
             "topic_description": "Mixed Languages II",
@@ -314,7 +314,7 @@
         },
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>5-10min Presentations</strong><br/><p>Pronouns</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>5-10min Presentations</strong>",
             "topic_description": "5-10min Presentations Pronouns",
@@ -328,7 +328,7 @@
         },
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Metatypy</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Metatypy</strong>",
             "topic_description": "Metatypy",
@@ -342,7 +342,7 @@
         },
         {
             "learning_period": "Week 4(16 Mar - 22 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>5-10min Presentations</strong><br/><p>Pronouns</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>5-10min Presentations</strong>",
             "topic_description": "5-10min Presentations Pronouns",
@@ -356,7 +356,7 @@
         },
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Language Attrition and Obsolescence</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Language Attrition and Obsolescence</strong>",
             "topic_description": "Language Attrition and Obsolescence",
@@ -370,7 +370,7 @@
         },
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>5-10min Presentations</strong><br/><p>Verbs</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>5-10min Presentations</strong>",
             "topic_description": "5-10min Presentations Verbs",
@@ -384,7 +384,7 @@
         },
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Verbs and language contact</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Verbs and language contact</strong>",
             "topic_description": "Verbs and language contact",
@@ -398,7 +398,7 @@
         },
         {
             "learning_period": "Week 5(23 Mar - 29 Mar)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>5-10min Presentations</strong><br/><p>Verbs</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>5-10min Presentations</strong>",
             "topic_description": "5-10min Presentations Verbs",
@@ -412,7 +412,7 @@
         },
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Inflectional morphology and language contact</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Inflectional morphology and language contact</strong>",
             "topic_description": "Inflectional morphology and language contact",
@@ -426,7 +426,7 @@
         },
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>5-10min Presentations</strong><br/><p>Sentences</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>5-10min Presentations</strong>",
             "topic_description": "5-10min Presentations Sentences",
@@ -440,7 +440,7 @@
         },
         {
             "learning_period": "Week 6(30 Mar - 05 Apr)",
-            "activity_type": "Workshop",
+            "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Variation and language contact</strong><br/><p>Public holiday--no class. There will be a pre-recorded lecture available.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Variation and language contact</strong>",
             "topic_description": "Variation and language contact Public holiday--no class. There will be a pre-recorded lecture available.",
