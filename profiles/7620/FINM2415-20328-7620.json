@@ -46,7 +46,7 @@
                 }
             ],
             "weighting": "<dd>25%</dd>",
-            "due_date": "<dd><p>In-semester Saturday</p>\n<p>27/03/2026 - 3/05/2026</p></dd>",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>27/03/2026 - 3/05/2026</p>\n<p>\n</p><p>In-Semester Exam Date Confirmed: Saturday 28th March, 2026.</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Examination",
@@ -186,13 +186,10 @@
         {
             "learning_period": "Week 5",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong><br/><p>Capital structure in imperfect capital markets: Financial distress, incentives, and information</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
-            "topic_title": "<strong>Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong>",
-            "topic_description": "Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information Capital structure in imperfect capital markets: Financial distress, incentives, and information",
-            "learning_outcomes": [
-                "L02",
-                "L05"
-            ]
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday In-semester Exam</strong><br/><p>There will be <strong>no </strong>teaching activities during the in-semester exam week. <strong>NOTE</strong>: The exact exam scheduling will be updated once the University releases the official Saturday exam timetable.</p></p></div></td>",
+            "topic_title": "<strong>Saturday In-semester Exam</strong>",
+            "topic_description": "Saturday In-semester Exam There will be no teaching activities during the in-semester exam week. NOTE : The exact exam scheduling will be updated once the University releases the official Saturday exam timetable.",
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 5",
@@ -208,24 +205,21 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Valuation I</strong><br/><p>Capital budgeting, approaches to corporate valuation, assumptions</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
-            "topic_title": "<strong>Corporate Valuation I</strong>",
-            "topic_description": "Corporate Valuation I Capital budgeting, approaches to corporate valuation, assumptions",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong><br/><p>Capital structure in imperfect capital markets: Financial distress, incentives, and information</p></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong>",
+            "topic_description": "Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information Capital structure in imperfect capital markets: Financial distress, incentives, and information",
             "learning_outcomes": [
-                "L03",
+                "L02",
                 "L05"
             ]
         },
         {
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
-            "topic_title": "<strong>T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong>",
-            "topic_description": "T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information",
-            "learning_outcomes": [
-                "L02",
-                "L05"
-            ]
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Tutorial</strong>",
+            "topic_description": "No Tutorial",
+            "learning_outcomes": []
         },
         {
             "learning_period": "Mid-sem break",
@@ -238,18 +232,24 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday In-semester Exam</strong><br/><p>There will be <strong>no </strong>teaching activities during the in-semester exam week. <strong>NOTE</strong>: The exact exam scheduling will be updated once the University releases the official Saturday exam timetable.</p></p></div></td>",
-            "topic_title": "<strong>Saturday In-semester Exam</strong>",
-            "topic_description": "Saturday In-semester Exam There will be no teaching activities during the in-semester exam week. NOTE : The exact exam scheduling will be updated once the University releases the official Saturday exam timetable.",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Corporate Valuation I</strong><br/><p>Capital budgeting, approaches to corporate valuation, assumptions</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
+            "topic_title": "<strong>Corporate Valuation I</strong>",
+            "topic_description": "Corporate Valuation I Capital budgeting, approaches to corporate valuation, assumptions",
+            "learning_outcomes": [
+                "L03",
+                "L05"
+            ]
         },
         {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial</strong><br/></p></div></td>",
-            "topic_title": "<strong>No Tutorial</strong>",
-            "topic_description": "No Tutorial",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
+            "topic_title": "<strong>T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong>",
+            "topic_description": "T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information",
+            "learning_outcomes": [
+                "L02",
+                "L05"
+            ]
         },
         {
             "learning_period": "Week 8",
