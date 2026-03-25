@@ -50,7 +50,7 @@
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
-            "assessment_title": "Weekly Quiz",
+            "assessment_title": "Fortnightly Quiz",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
@@ -62,7 +62,7 @@
                 }
             ],
             "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p> 23/02/2026 - 29/05/2026</p>\n<p>\n</p><p>Details on <a href=\"https://learn.uq.edu.au/ultra/course\">Learn.UQ (Blackboard)</a>. The quiz is due before the end of each respective week of the semester. </p></dd>",
+            "due_date": "<dd><p> 23/02/2026 - 29/05/2026</p>\n<p>\n</p><p>Details on <a href=\"https://learn.uq.edu.au/ultra/course\">Learn.UQ (Blackboard)</a>. The quiz is due before the end of every 2 week of the semester.</p></dd>",
             "learning_objectives": null,
             "mode": "Written",
             "category": "Quiz",
@@ -85,12 +85,12 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "<dd>20%</dd>",
+            "weighting": "<dd>30%</dd>",
             "due_date": "<dd><p>Details and due dates will be provided on <a href=\"https://learn.uq.edu.au/ultra/course\">Learn.UQ (Blackboard)</a></p></dd>",
             "learning_objectives": null,
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Mid-Semester Assignment will be released during Week 1 of the semester. </p>\n<p>Early submission of this assignment is encouraged. The assignment will be marked by Peer Review during the week following submission.</p>\n<p>The assignment  is worth 20% of the final mark for IMED7001.</p>\n<p>The assignment is open book but must be your own original work. Students are <strong>not</strong> to \"pool\" together and share select items from the assignment. Any sources used must be cited. Material must not be copied verbatim. Students will review and provide feedback to their peers via Peer Review.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The Mid-Semester Assignment will be released during Week 1 of the semester. </p>\n<p>Early submission of this assignment is encouraged. The assignment will be marked by Peer Review during the week following submission.</p>\n<p>The assignment is worth 30% of the final mark for IMED7001.</p>\n<p>The assignment is open book but must be your own original work. Students are <strong>not</strong> to \"pool\" together and share select items from the assignment. Any sources used must be cited. Material must not be copied verbatim. Students will review and provide feedback to their peers via Peer Review.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Please refer to <a href=\"https://learn.uq.edu.au/ultra/course\">Learn.UQ (Blackboard)</a></p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
@@ -98,26 +98,6 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
-            "assessment_title": "End-Semester Assignment",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
-                    "special_indicator_text": "Hurdle"
-                }
-            ],
-            "weighting": "<dd>20%</dd>",
-            "due_date": "<dd><p>Due dates will be provided on <a href=\"https://learn.uq.edu.au/ultra/course\">Learn.UQ (Blackboard)</a></p></dd>",
-            "learning_objectives": null,
-            "mode": "Written",
-            "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The End of Semester Assignment will be released during Week 8 of the semester.</p>\n<p>Early submission of this assignment is encouraged. The assignment will be marked by Peer Review during the week following submission.</p>\n<p>The assignment  is worth 20% of the final mark for IMED7001.</p>\n<p>The assignment is open book but must be your own original work. Students are <strong>not</strong> to \"pool\" together and share select items from the assignment. Any sources used must be cited. Material must not be copied verbatim. Students will review and provide feedback to their peers via Peer Review.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Please refer to <a href=\"https://learn.uq.edu.au/ultra/course\">Learn.UQ (Blackboard)</a></p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
-        },
-        {
-            "assessment_detail_section_id": "assessment-detail-3",
             "assessment_title": "End of Semester Exam",
             "special_indicators": [
                 {
@@ -129,7 +109,7 @@
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "<dd>30%</dd>",
+            "weighting": "<dd>40%</dd>",
             "due_date": "<dd><p> 6/06/2026 - 20/06/2026</p></dd>",
             "learning_objectives": null,
             "mode": "Written",
