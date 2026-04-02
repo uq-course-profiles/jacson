@@ -198,9 +198,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploratory Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
-            "topic_title": "<strong>Exploratory Analysis</strong>",
-            "topic_description": "Exploratory Analysis",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No lecture: Good Friday Public Holiday April 3rd</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>No lecture: Good Friday Public Holiday April 3rd</strong>",
+            "topic_description": "No lecture: Good Friday Public Holiday April 3rd",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -228,9 +228,9 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Predictive Analytics Report (A2) - Lecture Briefing</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Predictive Analytics Report (A2) - Lecture Briefing</strong>",
-            "topic_description": "Predictive Analytics Report (A2) - Lecture Briefing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Exploratory Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Exploratory Analysis</strong>",
+            "topic_description": "Exploratory Analysis",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -242,6 +242,30 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Predictive Analytics Report (A2) - Tutorial Briefing</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Predictive Analytics Report (A2) - Tutorial Briefing</strong>",
+            "topic_description": "Predictive Analytics Report (A2) - Tutorial Briefing",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Regression</strong>",
+            "topic_description": "Regression",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Exploratory Analysis</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Exploratory Analysis</strong>",
             "topic_description": "Exploratory Analysis",
@@ -252,30 +276,6 @@
             ]
         },
         {
-            "learning_period": "Week 8",
-            "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Regression</strong>",
-            "topic_description": "Regression",
-            "learning_outcomes": [
-                "L03",
-                "L04",
-                "L05"
-            ]
-        },
-        {
-            "learning_period": "Week 8",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Regression</strong>",
-            "topic_description": "Regression",
-            "learning_outcomes": [
-                "L03",
-                "L04",
-                "L05"
-            ]
-        },
-        {
             "learning_period": "Week 9",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Dealing with Missing Data</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
@@ -290,9 +290,9 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Dealing with Missing Data</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Dealing with Missing Data</strong>",
-            "topic_description": "Dealing with Missing Data",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Regression</strong>",
+            "topic_description": "Regression",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -301,10 +301,10 @@
         },
         {
             "learning_period": "Week 10",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Model Validation</strong><br/><p><strong>Labour Day Public Holiday - Monday 4th May 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Model Validation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Model Validation</strong>",
-            "topic_description": "Model Validation Labour Day Public Holiday - Monday 4th May 2026 - Check Blackboard for announcements about affected classes.",
+            "topic_description": "Model Validation",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -314,9 +314,9 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Model Validation</strong><br/><p><strong>Labour Day Public Holiday - Monday 4th May 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Model Validation</strong>",
-            "topic_description": "Model Validation Labour Day Public Holiday - Monday 4th May 2026 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Dealing with Missing Data</strong><br/><p><strong>Labour Day Public Holiday - Monday 4th May 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Dealing with Missing Data</strong>",
+            "topic_description": "Dealing with Missing Data Labour Day Public Holiday - Monday 4th May 2026 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -338,9 +338,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Making Predictions</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Making Predictions</strong>",
-            "topic_description": "Making Predictions",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Model Validation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Model Validation</strong>",
+            "topic_description": "Model Validation",
             "learning_outcomes": [
                 "L03",
                 "L04",
@@ -364,9 +364,9 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision Topics</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Revision Topics</strong>",
-            "topic_description": "Revision Topics",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Making predictions</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Making predictions</strong>",
+            "topic_description": "Making predictions",
             "learning_outcomes": [
                 "L03",
                 "L04",
