@@ -111,17 +111,9 @@
     ],
     "learning_activities": [
         {
-            "learning_period": "Mid Sem break",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
-            "topic_title": "<strong>In-Semester Break</strong>",
-            "topic_description": "In-Semester Break",
-            "learning_outcomes": []
-        },
-        {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1 Introduction &amp; Audit objectives</strong><br/><p>In Week 1, we will discuss what an audit is about, different types of audits and auditors, and the various audit objectives. Relevant readings: Arens (Chapters 1 and 4).</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 1 Introduction &amp; Audit objectives</strong><br><p>In Week 1, we will discuss what an audit is about, different types of audits and auditors, and the various audit objectives. Relevant readings: Arens (Chapters 1 and 4).</p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
             "topic_title": "<strong>Topic 1 Introduction &amp; Audit objectives</strong>",
             "topic_description": "Topic 1 Introduction & Audit objectives In Week 1, we will discuss what an audit is about, different types of audits and auditors, and the various audit objectives. Relevant readings: Arens (Chapters 1 and 4).",
             "learning_outcomes": [
@@ -245,6 +237,14 @@
             ]
         },
         {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 7",
             "activity_type": "No student involvement (Breaks, information)",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Teaching Break</strong><br/><p>We will take a teaching break this week with no lecture, workshop or consultation.</p></p></div></td>",
@@ -314,9 +314,9 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9: Completing the audit</strong><br/><p>On Topic 9, we identify audit procedures to complete the audit process, including identifying and assessing subsequent events and contingent liabilities. Relevant Reading: Arens (Chapter 17).</p></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9: Completing the audit</strong><br/><p>On Topic 9, we identify audit procedures to complete the audit process, including identifying and assessing subsequent events and contingent liabilities. </p>\n<p>We will also briefly discuss how auditors could sensibly use the work of others (ISAs 600-620).</p>\n<p>Relevant Reading: Arens (Chapter 17).</p></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
             "topic_title": "<strong>Topic 9: Completing the audit</strong>",
-            "topic_description": "Topic 9: Completing the audit On Topic 9, we identify audit procedures to complete the audit process, including identifying and assessing subsequent events and contingent liabilities. Relevant Reading: Arens (Chapter 17).",
+            "topic_description": "Topic 9: Completing the audit On Topic 9, we identify audit procedures to complete the audit process, including identifying and assessing subsequent events and contingent liabilities. We will also briefly discuss how auditors could sensibly use the work of others (ISAs 600-620). Relevant Reading: Arens (Chapter 17).",
             "learning_outcomes": [
                 "L05",
                 "L06"
@@ -336,9 +336,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 10 Audit reports</strong><br/><p>In Topic 10, we will demonstrate what the end product of the audit processes - an audit report - looks like, and conditions under which each type of audit report are issued. Relevant reading: Arens (Chapter 18)</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 10 Audit reports</strong><br/><p>In Topic 10, we will demonstrate what the end product of the audit processes - an audit report - looks like, and conditions under which each type of audit report are issued. </p>\n<p>We will also discuss the key elements of the audit quality management and engagement quality reviews (ISQM 1 Quality management for firms that perform audits or reviews of financial statements, or other assurance or related services engagements and ISQM 2 Engagement quality reviews). </p>\n<p>Additionally, we will also briefly discuss the scope and the key characteristics of ISAE 3000 (Revised) Assurance Engagements other than audits or reviews of historical financial information and the newly introduced ISSA 5000 Sustainability Assurance Standard.</p>\n<p>Relevant reading: Arens (Chapter 18)</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
             "topic_title": "<strong>Topic 10 Audit reports</strong>",
-            "topic_description": "Topic 10 Audit reports In Topic 10, we will demonstrate what the end product of the audit processes - an audit report - looks like, and conditions under which each type of audit report are issued. Relevant reading: Arens (Chapter 18)",
+            "topic_description": "Topic 10 Audit reports In Topic 10, we will demonstrate what the end product of the audit processes - an audit report - looks like, and conditions under which each type of audit report are issued. We will also discuss the key elements of the audit quality management and engagement quality reviews (ISQM 1 Quality management for firms that perform audits or reviews of financial statements, or other assurance or related services engagements and ISQM 2 Engagement quality reviews). Additionally, we will also briefly discuss the scope and the key characteristics of ISAE 3000 (Revised) Assurance Engagements other than audits or reviews of historical financial information and the newly introduced ISSA 5000 Sustainability Assurance Standard. Relevant reading: Arens (Chapter 18)",
             "learning_outcomes": [
                 "L01",
                 "L05"
