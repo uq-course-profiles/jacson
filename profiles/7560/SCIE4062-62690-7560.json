@@ -34,18 +34,27 @@
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
-            "assessment_title": "Proposal/progress presentations",
-            "special_indicators": [],
+            "assessment_title": "Proposal and Final Presentations",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
             "weighting": "<dd> Pass/fail </dd>",
-            "due_date": "<dd><p> 18/09/2025</p></dd>",
+            "due_date": "<dd><p>Progress Presentation: 18/09/2025</p>\n<p>Final Presentation: 19/05/2026</p></dd>",
             "learning_objectives": "L01, L02, L04",
             "mode": "Oral",
             "category": "Presentation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students will provide a presentation on their project in week 8 of their first semester.</p>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>There is no digital submission. You are required to only present to your supervisor.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to deliver two presentations. Students must deliver both presentations in order to pass the course.</p>\n<p>(1) Proposal presentation: to be delivered in Week 8 in the first semester</p>\n<p>(2) Final research presentation: to be delivered in Week 12 in the second semester.</p>\n<p>Details on scheduling will be announced during the semester. Please refer to the Blackboard announcement for the assessment scheduled time and location.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
@@ -97,7 +106,7 @@
         {
             "learning_period": "Not scheduled",
             "activity_type": "Workshop",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact sessions</strong><br><p>In the first semester, three to four contact sessions will be scheduled to check on the progress of your research and explain assignment tasks. Details will be posted on course Blackboard site.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Contact sessions</strong><br/><p>In the first semester, three to four contact sessions will be scheduled to check on the progress of your research and explain assignment tasks. Details will be posted on course Blackboard site.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
             "topic_title": "<strong>Contact sessions</strong>",
             "topic_description": "Contact sessions In the first semester, three to four contact sessions will be scheduled to check on the progress of your research and explain assignment tasks. Details will be posted on course Blackboard site.",
             "learning_outcomes": [
