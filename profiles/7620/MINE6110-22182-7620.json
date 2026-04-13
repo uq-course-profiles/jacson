@@ -9,6 +9,19 @@
     "class_code": "22182",
     "semester_code": "7620",
     "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "course_contacts": [
+        {
+            "role": "Course coordinator",
+            "role_slug": "course_coordinator",
+            "name": "Professor Italo Onederra",
+            "phone": "+61 7 3365 4780",
+            "phone_uri": "tel:+61 7 3365 4780",
+            "email": "i.onederra@uq.edu.au",
+            "email_uri": "mailto:i.onederra@uq.edu.au",
+            "notes_html": "<div class=\"contact-card__notes\"><p>Please email to arrange consultation.</p></div>",
+            "notes_text": "Please email to arrange consultation."
+        }
+    ],
     "learning_outcomes": [
         {
             "number": "LO1.",
