@@ -9,6 +9,19 @@
     "class_code": "22181",
     "semester_code": "7620",
     "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "course_contacts": [
+        {
+            "role": "Course coordinator",
+            "role_slug": "course_coordinator",
+            "name": "Dr Micah Nehring",
+            "phone": "+61 7 3365 3664",
+            "phone_uri": "tel:+61 7 3365 3664",
+            "email": "m.nehring@uq.edu.au",
+            "email_uri": "mailto:m.nehring@uq.edu.au",
+            "notes_html": "<div class=\"contact-card__notes\"><p>Wednesdays 9:00am-11:00am or by appointment in 47A-806.</p></div>",
+            "notes_text": "Wednesdays 9:00am-11:00am or by appointment in 47A-806."
+        }
+    ],
     "learning_outcomes": [
         {
             "number": "LO1.",
