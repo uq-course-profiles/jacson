@@ -1,14 +1,43 @@
 {
-    "course_title": "Organisational Behaviour",
-    "study_period": "Sem 1 2026",
-    "location": "St Lucia",
-    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS1601-20353-7620",
-    "full_course_code": "MGTS1601-20353-7620",
+    "scraped_at": "2026-04-15T00:44:44.320242+00:00",
     "course_code": "MGTS1601",
     "class_code": "20353",
     "semester_code": "7620",
-    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "full_course_code": "MGTS1601-20353-7620",
+    "course_title": "Organisational Behaviour",
+    "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "study_level": "Undergraduate",
+    "location": "St Lucia",
+    "attendance_mode": "In Person",
+    "units": "2",
+    "administrative_campus": "St Lucia",
+    "coordinating_unit": "Business School",
+    "course_description": "Introduction to organisational behaviour, developing understanding of employee personalities and attitudes, motivation and leadership, power, group dynamics and culture on employee attitudes and behaviour.\n\nThis introductory course is designed to introduce you to some of the core theories and concepts in the study of Organisational Behaviour. The course will cover historical theories and concepts as well as those most recent developments applicable to contemporary organisations. Seminars and tutorials will include case studies, role plays, videos, team-building activities, and small group discussion designed to facilitate collaboration and critical discussion. The assessment items in this course are designed to help you to develop a high level of communication and critical thinking skills, as well as experience working in a diverse team.\n\nAs an introduction to Organisational Behaviour, no prior knowledge is assumed. However, it is expected that you will read all required course materials as part of your engagement with the course, and also read selected materials thoughtfully and critically.\n\nThe study load expected for a #2 course at the University of Queensland is 8-10 hours per week on average throughout the full semester. This involves attendance at seminars and tutorials as well as independent study (e.g., completing weekly textbook chapter readings, working on assessment tasks, attending team meetings, etc.).\n\nA substantial component of this course involves discussions in seminars and working with your workshop team in weekly tutorials, and tutorial activities are directly linked to assessment tasks. If you cannot commit to weekly attendance at seminars and tutorials, you should not undertake this course.\n\nA large component of the course involves your ability and willingness to work as a member of a team. Indeed, many of the assessment tasks will involve teamwork, and in turn analysing how your team functioned throughout the semester. It is essential that you join a team in your tutorials early in the semester and attend all subsequent tutorials to engage with your team members and complete team activities on a weekly basis. If you do not join a team in the first three tutorials and do not have a valid reason for your absence (accompanied by relevant documentation e.g., a medical certificate), you will receive zero for the relevant assessment tasks.\n\nAny goal-directed organisation expects professional behaviour from its managers and employees. This course is similar to a goal-directed organisation, in that you are participating in a large course that requires a great deal of logistical support and coordination. For the organisation to succeed and achieve the desired outcomes, your cooperation is essential. As course coordinators and staff, we are attempting to run this course professionally and provide for your learning enjoyment. In response, we are expecting a professional approach from students in regard to seminar and tutorial participation.\n\nContact Information\n\nPlease ensure that you use your official UQ student email address for all communication and include your name and student number in all emails.\n\nWe will endeavour to respond to all emails within two working days.\n\nWe expect that you will be polite and professional in all communication with course staff, including tutors and markers.\n\nTo contact course staff with administrative queries, please use the course email address: mgts1601@business.uq.edu.au\n\nCourse Changes in Response to Previous Student Feedback\n\nIn response to feedback, we have modified the first report as well as the structure of the final examination.",
+    "requirements": {
+        "incompatible": [
+            "You can't enrol in this course if you've already completed the following:",
+            "MGTS7601"
+        ]
+    },
+    "course_contacts": [
+        {
+            "role": "Course coordinator",
+            "role_slug": "course_coordinator",
+            "name": "Dr Marissa Edwards",
+            "email": "m.edwards@business.uq.edu.au",
+            "email_uri": "mailto:m.edwards@business.uq.edu.au"
+        }
+    ],
+    "course_staff": [
+        {
+            "role": "Lecturer",
+            "name": "Dr Marissa Edwards",
+            "email": "m.edwards@business.uq.edu.au"
+        }
+    ],
+    "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+    "course_aims": "The aim of MGTS1601 is to introduce you to the field of Organisational Behaviour as a whole, and to highlight some of the key concepts, theories, and empirical findings relevant to organisations today, with a particular focus on effective teamwork. For many of you, this course may be different to any that you may have encountered to date, and you may need to accommodate some new ways of learning. The key is to develop a better understanding of human behaviour in organisational settings. To achieve this, it will be necessary for you to consciously experience some of the important concepts, rather than just sit back and try to absorb them passively. This will be accomplished through participation in workshops, activities and case studies in tutorials, and active involvement in seminars and online modules where possible. Participation in these aspects of the course is critical if you wish to benefit fully from this course.",
     "learning_outcomes": [
         {
             "number": "LO1.",
@@ -33,8 +62,17 @@
     ],
     "assessments": [
         {
-            "assessment_detail_section_id": "assessment-detail-0",
+            "category": "Paper/ Report/ Annotation",
             "assessment_title": "Individual and Team Profile Report",
+            "weighting": "20%",
+            "due_date": "2/04/2026 2:00 pm",
+            "special_indicators": []
+        },
+        {
+            "category": "Tutorial/ Problem Set",
+            "assessment_title": "Team Workshop",
+            "weighting": "20%",
+            "due_date": "in tutorial Week 7,; in tutorial Week 8,; in tutorial Week 9,",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
@@ -44,21 +82,61 @@
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 }
-            ],
-            "weighting": "<dd>20%</dd>",
-            "due_date": "<dd><p> 2/04/2026 2:00 pm</p>\n<p>\n</p></dd>",
-            "learning_objectives": "L01, L02, L04",
+            ]
+        },
+        {
+            "category": "Paper/ Report/ Annotation",
+            "assessment_title": "Team Evaluation Report",
+            "weighting": "30%",
+            "due_date": "8/05/2026 2:00 pm",
+            "special_indicators": []
+        },
+        {
+            "category": "Examination",
+            "assessment_title": "Final Examination",
+            "weighting": "30%",
+            "due_date": "End of Semester Exam Period; 7/06/2026 - 21/06/2026",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ]
+        }
+    ],
+    "assessment_details": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Individual and Team Profile Report",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The purpose of this report is to gain knowledge about both yourself and your team and use this to improve your personal and team effectiveness. In order to do this, you will need to complete the Big Five Personality Inventory and discuss the implications of your results using evidence from the scholarly literature. You will also need to describe and analyse your team, considering both its strengths and weaknesses, and identify how you might mitigate potential weaknesses. Again, evidence from the scholarly literature will be required. Please see Blackboard for further information about this task.</p>\n<p>Word length: 1500 words (+/- 10%)</p>\n<p><strong><em>Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 4. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks.</em></strong></p>\n<p><strong>Statement on Use of Artificial Intelligence (AI)</strong></p>\n<p>The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:</p>\n<ul>\n<li>You should ensure that you keep drafts of your written work to demonstrate your progress over time.</li>\n<li>You must clearly reference any use of AI in each instance, including any AI writing tools.</li>\n<li>A failure to reference AI use may constitute student misconduct under the Student Code of Conduct</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Online via the Turnitin submission link at Blackboard.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "weighting": "20%",
+            "due_date": "2/04/2026 2:00 pm",
+            "learning_objectives": "L01, L02, L04",
+            "task_description": "The purpose of this report is to gain knowledge about both yourself and your team and use this to improve your personal and team effectiveness. In order to do this, you will need to complete the Big Five Personality Inventory and discuss the implications of your results using evidence from the scholarly literature. You will also need to describe and analyse your team, considering both its strengths and weaknesses, and identify how you might mitigate potential weaknesses. Again, evidence from the scholarly literature will be required. Please see Blackboard for further information about this task. Word length: 1500 words (+/- 10%) Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 4. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks. Statement on Use of Artificial Intelligence (AI) The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following: You should ensure that you keep drafts of your written work to demonstrate your progress over time. You must clearly reference any use of AI in each instance, including any AI writing tools. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct Read full task description Hide full task description",
+            "submission_guidelines": "Online via the Turnitin submission link at Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "The purpose of this report is to gain knowledge about both yourself and your team and use this to improve your personal and team effectiveness. In order to do this, you will need to complete the Big Five Personality Inventory and discuss the implications of your results using evidence from the scholarly literature. You will also need to describe and analyse your team, considering both its strengths and weaknesses, and identify how you might mitigate potential weaknesses. Again, evidence from the scholarly literature will be required. Please see Blackboard for further information about this task. Word length: 1500 words (+/- 10%) Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 4. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks. Statement on Use of Artificial Intelligence (AI) The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following: You should ensure that you keep drafts of your written work to demonstrate your progress over time. You must clearly reference any use of AI in each instance, including any AI writing tools. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct Read full task description Hide full task description\nStatement on Use of Artificial Intelligence (AI)\nThe assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:\nYou must clearly reference any use of AI in each instance, including any AI writing tools."
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Team Workshop",
+            "mode": "Activity/ Performance, Written",
+            "category": "Tutorial/ Problem Set",
+            "weighting": "20%",
+            "due_date": "in tutorial Week 7, in tutorial Week 8, in tutorial Week 9,",
+            "other_conditions": "Peer assessed. See the conditions definitions",
+            "learning_objectives": "L01, L02, L03",
+            "task_description": "Students join only one workshop team. Teams are marked out of 20. Workshops will be conducted in tutorials. Workshops are for approximately 30 minutes on selected topics. Topics will be provided following the Week 2 tutorial and supporting materials will be made available at Blackboard. Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 4. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks. Peer Assessment: Buddycheck will be used to evaluate team members' individual contribution to the assessment task. If team members indicate that the other members generally contributed equally, all team members will receive the same mark. If team members indicate that one or more team members contributed less than others, these students' marks will be adjusted to reflect their average peer-rated percentage contribution to the workshop. Statement on Use of Artificial Intelligence (AI) The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following: You should ensure that you keep drafts of your written work to demonstrate your progress over time. You must clearly reference any use of AI in each instance, including any AI writing tools. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+            "submission_guidelines": "Each team will present their workshop in their tutorial. Also, one team member must upload a copy of the PowerPoint slides, Task Allocation Sheet and Reference List to Blackboard on or before their workshop presentation date, on behalf of the whole team. This material must be submitted to Blackboard or the workshop cannot be marked.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAll workshops must be delivered in tutorials on the assigned day and time. If a team member cannot attend their workshop for a valid reason (e.g., illness), they must provide appropriate documentation to their tutor (i.e., medical certificate) and they will be marked according to peer review of their contribution to the task.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "Students join only one workshop team. Teams are marked out of 20. Workshops will be conducted in tutorials. Workshops are for approximately 30 minutes on selected topics. Topics will be provided following the Week 2 tutorial and supporting materials will be made available at Blackboard. Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 4. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks. Peer Assessment: Buddycheck will be used to evaluate team members' individual contribution to the assessment task. If team members indicate that the other members generally contributed equally, all team members will receive the same mark. If team members indicate that one or more team members contributed less than others, these students' marks will be adjusted to reflect their average peer-rated percentage contribution to the workshop. Statement on Use of Artificial Intelligence (AI) The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following: You should ensure that you keep drafts of your written work to demonstrate your progress over time. You must clearly reference any use of AI in each instance, including any AI writing tools. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nStatement on Use of Artificial Intelligence (AI)\nThe assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:\nYou must clearly reference any use of AI in each instance, including any AI writing tools.",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
@@ -68,45 +146,36 @@
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 }
-            ],
-            "weighting": "<dd>20%</dd>",
-            "due_date": "<dd><p>in tutorial Week 7,</p>\n<p>in tutorial Week 8,</p>\n<p>in tutorial Week 9,</p></dd>",
-            "learning_objectives": "L01, L02, L03",
-            "mode": "Activity/ Performance, Written",
-            "category": "Tutorial/ Problem Set",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Students join only one workshop team. Teams are marked out of 20.</strong></p>\n<p>Workshops will be conducted in tutorials. Workshops are for approximately 30 minutes on selected topics. Topics will be provided following the Week 2 tutorial and supporting materials will be made available at Blackboard.</p>\n<p><strong><em>Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 4. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks.</em></strong></p>\n<p><strong>Peer Assessment: </strong>Buddycheck will be used to evaluate team members' individual contribution to the assessment task. If team members indicate that the other members generally contributed equally, all team members will receive the same mark. If team members indicate that one or more team members contributed less than others, these students' marks will be adjusted to reflect their average peer-rated percentage contribution to the workshop.</p>\n<p><strong>Statement on Use of Artificial Intelligence (AI)</strong></p>\n<p>The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:</p>\n<ul>\n<li>You should ensure that you keep drafts of your written work to demonstrate your progress over time.</li>\n<li>You must clearly reference any use of AI in each instance, including any AI writing tools.</li>\n<li>A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Each team will present their workshop in their tutorial. Also, one team member must upload a copy of the PowerPoint slides, Task Allocation Sheet and Reference List to Blackboard on or before their workshop presentation date, on behalf of the whole team. This material must be submitted to Blackboard or the workshop cannot be marked.</p>",
-            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+            ]
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Team Evaluation Report",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
-                },
-                {
-                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
-                    "special_indicator_text": "In-person"
-                }
-            ],
-            "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p> 8/05/2026 2:00 pm</p></dd>",
-            "learning_objectives": "L01, L02, L04, L05",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During the semester you will work in a workshop team to develop an interactive workshop to deliver in your MGTS1601 tutorial. In this report, you are required to write an evaluative report about the effectiveness of your team, and analyse the factors that most affected your team's effectiveness. Please see Blackboard for more information about this task.</p>\n<p><strong>You must use at least six peer-reviewed journal articles published between 2010 and 2026 in your report otherwise your mark will be restricted to 14/30. </strong>Please see Blackboard for more information about this task.</p>\n<p>Word length: 2000 words (+/- 10%)</p>\n<p><strong><em>Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 4. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks.</em></strong></p>\n<p><strong>Statement on Use of Artificial Intelligence (AI)</strong></p>\n<p>The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:</p>\n<ul>\n<li>You should ensure that you keep drafts of your written work to demonstrate your progress over time.</li>\n<li>You must clearly reference any use of AI in each instance, including any AI writing tools.</li>\n<li>A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Online via the Turnitin submission link at Blackboard.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "weighting": "30%",
+            "due_date": "8/05/2026 2:00 pm",
+            "learning_objectives": "L01, L02, L04, L05",
+            "task_description": "During the semester you will work in a workshop team to develop an interactive workshop to deliver in your MGTS1601 tutorial. In this report, you are required to write an evaluative report about the effectiveness of your team, and analyse the factors that most affected your team's effectiveness. Please see Blackboard for more information about this task. You must use at least six peer-reviewed journal articles published between 2010 and 2026 in your report otherwise your mark will be restricted to 14/30. Please see Blackboard for more information about this task. Word length: 2000 words (+/- 10%) Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 4. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks. Statement on Use of Artificial Intelligence (AI) The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following: You should ensure that you keep drafts of your written work to demonstrate your progress over time. You must clearly reference any use of AI in each instance, including any AI writing tools. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+            "submission_guidelines": "Online via the Turnitin submission link at Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "During the semester you will work in a workshop team to develop an interactive workshop to deliver in your MGTS1601 tutorial. In this report, you are required to write an evaluative report about the effectiveness of your team, and analyse the factors that most affected your team's effectiveness. Please see Blackboard for more information about this task. You must use at least six peer-reviewed journal articles published between 2010 and 2026 in your report otherwise your mark will be restricted to 14/30. Please see Blackboard for more information about this task. Word length: 2000 words (+/- 10%) Please note that you MUST be a member of a workshop team in order to complete these assessment tasks. Preliminary allocation to workshop teams will take place in the first tutorial in Week 2 and teams will be finalised in Week 4. Students who do not attend tutorials in Week 2 or 3 and do not notify course staff by the end of Week 3 with an adequate reason for their absence with appropriate documentation will not be allocated to a team and will receive zero for these assessment tasks. Statement on Use of Artificial Intelligence (AI) The assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following: You should ensure that you keep drafts of your written work to demonstrate your progress over time. You must clearly reference any use of AI in each instance, including any AI writing tools. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nStatement on Use of Artificial Intelligence (AI)\nThe assessment in this course has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. When completing assessment tasks, you should be aware of the following:\nYou must clearly reference any use of AI in each instance, including any AI writing tools."
         },
         {
             "assessment_detail_section_id": "assessment-detail-3",
             "assessment_title": "Final Examination",
+            "mode": "Written",
+            "category": "Examination",
+            "weighting": "30%",
+            "due_date": "End of Semester Exam Period 7/06/2026 - 21/06/2026",
+            "other_conditions": "Time limited, Secure. See the conditions definitions",
+            "learning_objectives": "L01, L02",
+            "task_description": "The final examination will consist of MCQs (Multiple Choice Questions). It will cover major concepts and theories in the course, and questions will be drawn from all course content, including textbook chapters, seminar slides and discussions, tutorial materials, and any other required activities/readings. More information will be provided in seminars and on the course Blackboard site. AI Statement This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+            "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+            "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+            "deferral_or_extension": "You may be able to defer this exam .",
+            "ai_statement": "The final examination will consist of MCQs (Multiple Choice Questions). It will cover major concepts and theories in the course, and questions will be drawn from all course content, including textbook chapters, seminar slides and discussions, tutorial materials, and any other required activities/readings. More information will be provided in seminars and on the course Blackboard site. AI Statement This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
@@ -116,26 +185,17 @@
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 }
-            ],
-            "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2026 - 21/06/2026</p></dd>",
-            "learning_objectives": "L01, L02",
-            "mode": "Written",
-            "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination will consist of MCQs (Multiple Choice Questions). It will cover major concepts and theories in the course, and questions will be drawn from all course content, including textbook chapters, seminar slides and discussions, tutorial materials, and any other required activities/readings. More information will be provided in seminars and on the course Blackboard site.</p>\n<p><strong>AI Statement</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "late_submission": null,
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+            ]
         }
     ],
+    "learning_resources": {
+        "library_resources": "Library resources are available on the UQ Library website ."
+    },
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Organisational Behaviour (OB)</strong><br/><p>In this seminar we will provide an overview of the course and discuss the importance of Organisational Behaviour (OB) today.</p>\n<p>Required reading Robbins et al. Chapter 1.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Introduction to Organisational Behaviour (OB)</strong>",
-            "topic_description": "Introduction to Organisational Behaviour (OB) In this seminar we will provide an overview of the course and discuss the importance of Organisational Behaviour (OB) today. Required reading Robbins et al. Chapter 1.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -145,8 +205,6 @@
             "learning_period": "Week 2",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Groups and Teams</strong><br/><p>In this seminar we will discuss the role of groups and teams in contemporary organisations.</p>\n<p>Required readings Robbins et al. Chapters 8 and 9.</p></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
-            "topic_title": "<strong>Groups and Teams</strong>",
-            "topic_description": "Groups and Teams In this seminar we will discuss the role of groups and teams in contemporary organisations. Required readings Robbins et al. Chapters 8 and 9.",
             "learning_outcomes": [
                 "L04",
                 "L05"
@@ -156,8 +214,6 @@
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction and Preliminary Team Formation</strong><br/><p>In this tutorial your tutor will introduce the tutorial program and help students form preliminary workshop teams.</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
-            "topic_title": "<strong>Introduction and Preliminary Team Formation</strong>",
-            "topic_description": "Introduction and Preliminary Team Formation In this tutorial your tutor will introduce the tutorial program and help students form preliminary workshop teams.",
             "learning_outcomes": [
                 "L01",
                 "L04",
@@ -168,8 +224,6 @@
             "learning_period": "Week 3",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Personality and Individual Differences</strong><br/><p>In this seminar we will consider major theories of personality as well as the role of individual differences at work.</p>\n<p>Required reading Robbins et al. Chapters 2 and 4.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Personality and Individual Differences</strong>",
-            "topic_description": "Personality and Individual Differences In this seminar we will consider major theories of personality as well as the role of individual differences at work. Required reading Robbins et al. Chapters 2 and 4.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -179,8 +233,6 @@
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Team Experiential Exercise</strong><br/><p>In this tutorial your tutor will help teams engage in an experiential exercise. You will also discuss your personality test results in class.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
-            "topic_title": "<strong>Team Experiential Exercise</strong>",
-            "topic_description": "Team Experiential Exercise In this tutorial your tutor will help teams engage in an experiential exercise. You will also discuss your personality test results in class.",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -190,8 +242,6 @@
             "learning_period": "Week 4",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment Task Discussion</strong><br/><p>In this seminar we will discuss the major assessment tasks in this course.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Assessment Task Discussion</strong>",
-            "topic_description": "Assessment Task Discussion In this seminar we will discuss the major assessment tasks in this course.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -200,9 +250,7 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong> Assessment Task Discussion</strong><br/><p>In this tutorial your tutor will provide key information and important tips to help you complete assessment tasks.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
-            "topic_title": "<strong> Assessment Task Discussion</strong>",
-            "topic_description": "Assessment Task Discussion In this tutorial your tutor will provide key information and important tips to help you complete assessment tasks.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong> Assessment Task Discussion</strong><br/><p>In this tutorial your tutor will provide key information and important tips to help you complete assessment tasks.</p></p><p><strong>Learning outcomes:</strong> L01, L04</p></div></td>",
             "learning_outcomes": [
                 "L01",
                 "L04"
@@ -212,8 +260,6 @@
             "learning_period": "Week 5",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Attitudes at Work</strong><br/><p>In this seminar we will consider the importance of understanding employee attitudes at work.</p>\n<p>Required reading Robbins et al. Chapter 3.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Attitudes at Work</strong>",
-            "topic_description": "Attitudes at Work In this seminar we will consider the importance of understanding employee attitudes at work. Required reading Robbins et al. Chapter 3.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -223,8 +269,6 @@
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Tutor-Facilitated Workshop</strong><br/><p>In this tutorial your tutor will demonstrate a workshop and share tips to success when delivering your own.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
-            "topic_title": "<strong>Tutor-Facilitated Workshop</strong>",
-            "topic_description": "Tutor-Facilitated Workshop In this tutorial your tutor will demonstrate a workshop and share tips to success when delivering your own.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -235,8 +279,6 @@
             "learning_period": "Week 6",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Emotions in Organisations</strong><br/><p>In this seminar we will focus on the role of emotions, affect and moods in organisations today.</p>\n<p>Required reading Robbins et al. Chapter 5. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Emotions in Organisations</strong>",
-            "topic_description": "Emotions in Organisations In this seminar we will focus on the role of emotions, affect and moods in organisations today. Required reading Robbins et al. Chapter 5.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -246,8 +288,6 @@
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Workshop Development Tutorial </strong><br/><p>In this tutorial you will have the opportunity to work on your workshop in class and receive feedback from your tutor.</p>\n<p>Your tutor will check in with Teams 1 and 2.</p>\n<p><strong>Good Friday Public Holiday - Friday 3rd April 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
-            "topic_title": "<strong>Workshop Development Tutorial </strong>",
-            "topic_description": "Workshop Development Tutorial In this tutorial you will have the opportunity to work on your workshop in class and receive feedback from your tutor. Your tutor will check in with Teams 1 and 2. Good Friday Public Holiday - Friday 3rd April 2026 - Check Blackboard for announcements about affected classes.",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -256,17 +296,12 @@
         {
             "learning_period": "Mid-sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
-            "topic_title": "<strong>In-Semester Break</strong>",
-            "topic_description": "In-Semester Break",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>"
         },
         {
             "learning_period": "Week 7",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Perception and Individual Decision-Making</strong><br/><p>In this seminar we will consider major theories of perception and different models of decision-making in organisations, as well as decision-making biases and errors.</p>\n<p>Required reading Robbins et al. Chapter 6.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Perception and Individual Decision-Making</strong>",
-            "topic_description": "Perception and Individual Decision-Making In this seminar we will consider major theories of perception and different models of decision-making in organisations, as well as decision-making biases and errors. Required reading Robbins et al. Chapter 6.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -275,9 +310,7 @@
         {
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Workshop Assessment</strong><br/><p>This tutorial involves workshop assessment in class:</p>\n<ul>\n<li>Student Team Workshop 1</li>\n<li>Student Team Workshop 2</li>\n</ul>\n<p>Your tutor will check in with Teams 3 and 4</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
-            "topic_title": "<strong>Team Workshop Assessment</strong>",
-            "topic_description": "Team Workshop Assessment This tutorial involves workshop assessment in class: Student Team Workshop 1 Student Team Workshop 2 Your tutor will check in with Teams 3 and 4",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Workshop Assessment</strong><br/><p>This tutorial involves workshop assessment in class:</p>\n<ul>\n<li>Student Team Workshop 1</li>\n<li>Student Team Workshop 2</li>\n</ul>\n<p>Your tutor will check in with Teams 3 and 4</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -287,8 +320,6 @@
             "learning_period": "Week 8",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Business Ethics</strong><br/><p>In this seminar we will discuss the importance of ethics and ethical decision-making in organisations today.</p>\n<p>Required readings will be provided at Blackboard. </p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Business Ethics</strong>",
-            "topic_description": "Business Ethics In this seminar we will discuss the importance of ethics and ethical decision-making in organisations today. Required readings will be provided at Blackboard.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -298,8 +329,6 @@
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Team Workshop Assessment</strong><br/><p>This tutorial involves <strong>workshop assessment </strong>in class:</p>\n<ul>\n<li>Student Team Workshop 3</li>\n<li>Student Team Workshop 4</li>\n</ul>\n<p>Your tutor will check in with Teams 5 and 6.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
-            "topic_title": "<strong>Team Workshop Assessment</strong>",
-            "topic_description": "Team Workshop Assessment This tutorial involves workshop assessment in class: Student Team Workshop 3 Student Team Workshop 4 Your tutor will check in with Teams 5 and 6.",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -309,8 +338,6 @@
             "learning_period": "Week 9",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Motivation at Work</strong><br/><p>In this seminar we will consider the importance of motivation in contemporary organisations, as well as major models and theories of motivation today.</p>\n<p>Required reading Robbins et al. Chapter 7.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Motivation at Work</strong>",
-            "topic_description": "Motivation at Work In this seminar we will consider the importance of motivation in contemporary organisations, as well as major models and theories of motivation today. Required reading Robbins et al. Chapter 7.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -320,8 +347,6 @@
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Team Workshop Assessment</strong><br/><p>This tutorial involves <strong>workshop assessment </strong>in class:</p>\n<ul>\n<li>Student Team Workshop 5</li>\n<li>Student Team Workshop 6</li>\n</ul></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
-            "topic_title": "<strong>Team Workshop Assessment</strong>",
-            "topic_description": "Team Workshop Assessment This tutorial involves workshop assessment in class: Student Team Workshop 5 Student Team Workshop 6",
             "learning_outcomes": [
                 "L02",
                 "L03"
@@ -331,8 +356,6 @@
             "learning_period": "Week 10",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Organisational Change and Stress Management at Work</strong><br/><p>In this seminar we will consider the importance of managing stress and preventing burnout in contemporary organisations, especially in the context of change.</p>\n<p>Required reading Robbins et al. Chapter 16.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Organisational Change and Stress Management at Work</strong>",
-            "topic_description": "Organisational Change and Stress Management at Work In this seminar we will consider the importance of managing stress and preventing burnout in contemporary organisations, especially in the context of change. Required reading Robbins et al. Chapter 16.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -341,9 +364,7 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Evaluation Report Consultation</strong><br/><p>In this tutorial you will have the opportunity to ask final questions about the Team Evaluation Report.</p>\n<p><strong>Note: Labour Day Public Holiday - Monday 4th May 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
-            "topic_title": "<strong>Team Evaluation Report Consultation</strong>",
-            "topic_description": "Team Evaluation Report Consultation In this tutorial you will have the opportunity to ask final questions about the Team Evaluation Report. Note: Labour Day Public Holiday - Monday 4th May 2026 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Team Evaluation Report Consultation</strong><br/><p>In this tutorial you will have the opportunity to ask final questions about the Team Evaluation Report.</p>\n<p><strong>Note: Labour Day Public Holiday - Monday 4th May 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
             "learning_outcomes": [
                 "L05"
             ]
@@ -352,8 +373,6 @@
             "learning_period": "Week 11",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Organisational Culture</strong><br/><p>In this seminar we will discuss the role of organisational culture in shaping employee attitudes and behaviours.</p>\n<p>Required reading Robbins et al. Chapter 15.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Organisational Culture</strong>",
-            "topic_description": "Organisational Culture In this seminar we will discuss the role of organisational culture in shaping employee attitudes and behaviours. Required reading Robbins et al. Chapter 15.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -363,8 +382,6 @@
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Stress and Wellbeing at Work</strong><br/><p>In this tutorial you will participate in experiential activities designed to help you learn to manage stress and support wellbeing at work.</p>\n<p>Required readings will be provided at Blackboard.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Managing Stress and Wellbeing at Work</strong>",
-            "topic_description": "Managing Stress and Wellbeing at Work In this tutorial you will participate in experiential activities designed to help you learn to manage stress and support wellbeing at work. Required readings will be provided at Blackboard.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -374,8 +391,6 @@
             "learning_period": "Week 12",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Preparing for the 21st Century Workplace</strong><br/><p>In this seminar we will discuss some of the major opportunities and challenges in the 21st-century workforce, with a particular focus on Artificial Intelligence, and you will also hear from a guest speaker.</p>\n<p>Please see Blackboard for required readings.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Preparing for the 21st Century Workplace</strong>",
-            "topic_description": "Preparing for the 21st Century Workplace In this seminar we will discuss some of the major opportunities and challenges in the 21st-century workforce, with a particular focus on Artificial Intelligence, and you will also hear from a guest speaker. Please see Blackboard for required readings.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -385,8 +400,6 @@
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Enhancing Your Employability and Satisfaction at Work</strong><br/><p>In this tutorial, we will complete activities to help you gain clarity about your future career and employability skills and improve your person-job fit and person-organisation fit.</p>\n<p>Please see Blackboard for required readings.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Enhancing Your Employability and Satisfaction at Work</strong>",
-            "topic_description": "Enhancing Your Employability and Satisfaction at Work In this tutorial, we will complete activities to help you gain clarity about your future career and employability skills and improve your person-job fit and person-organisation fit. Please see Blackboard for required readings.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -396,8 +409,6 @@
             "learning_period": "Week 13",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review</strong><br/><p>In this seminar we will review the major concepts and theories in the course and provide information about the final examination.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Course Review</strong>",
-            "topic_description": "Course Review In this seminar we will review the major concepts and theories in the course and provide information about the final examination.",
             "learning_outcomes": [
                 "L01",
                 "L02"
@@ -407,12 +418,11 @@
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review </strong><br/><p>In this tutorial you will review course content and discuss exam details.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Course Review </strong>",
-            "topic_description": "Course Review In this tutorial you will review course content and discuss exam details.",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         }
-    ]
+    ],
+    "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
 }
