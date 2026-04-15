@@ -1,27 +1,65 @@
 {
-    "course_title": "Mining Systems and Automation",
-    "study_period": "Sem 2 2025",
-    "location": "St Lucia",
-    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MINE4126-60081-7560",
-    "full_course_code": "MINE4126-60081-7560",
+    "scraped_at": "2026-04-15T00:44:15.543341+00:00",
     "course_code": "MINE4126",
     "class_code": "60081",
     "semester_code": "7560",
-    "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "full_course_code": "MINE4126-60081-7560",
+    "course_title": "Mining Systems and Automation",
+    "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+    "study_level": "Undergraduate",
+    "location": "St Lucia",
+    "attendance_mode": "In Person",
+    "units": "2",
+    "administrative_campus": "St Lucia",
+    "coordinating_unit": "Mech & Mine Engineering School",
+    "course_description": "This course presents a systems approach to the principles, design and application of the major surface and underground mining methods together with the associated equipment, services and infrastructure. Furthermore, the course provides an introductory overview of automation and its diverse applications in both surface and underground mining contexts.\n\nThis course provides an in-depth exploration of major mining methods, the associated equipment, and essential support infrastructure. Students will gain the skills and knowledge to:\n\nBy the end of the course, students will be equipped with a comprehensive understanding of mining systems, enabling them to make informed decisions that promote sustainable and responsible mining operations.",
+    "requirements": {
+        "assumed_background": [
+            "This course assumes that students have a good understanding of mining terms and descriptions, have been exposed to surface and underground mining methods and are familiar with mining development, operations and production."
+        ],
+        "incompatible": [
+            "You can't enrol in this course if you've already completed the following:",
+            "MINE3122"
+        ]
+    },
     "course_contacts": [
         {
             "role": "Course coordinator",
             "role_slug": "course_coordinator",
             "name": "Associate Professor Mehmet Kizil",
-            "phone": "+61 7 3365 4499",
-            "phone_uri": "tel:+61 7 3365 4499",
             "email": "m.kizil@uq.edu.au",
             "email_uri": "mailto:m.kizil@uq.edu.au",
-            "notes_html": "<div class=\"contact-card__notes\"><p>Tue 11:00 - 12:00 or email for an appointment.</p></div>",
-            "notes_text": "Tue 11:00 - 12:00 or email for an appointment."
+            "phone": "+61 7 3365 4499",
+            "phone_uri": "tel:+61 7 3365 4499",
+            "notes_text": "Tue 11:00 - 12:00 or email for an appointment.",
+            "notes_html": "<div class=\"contact-card__notes\"><p>Tue 11:00 - 12:00 or email for an appointment.</p></div>"
         }
     ],
+    "course_staff": [
+        {
+            "role": "Lecturer",
+            "name": "Associate Professor Mehmet Kizil",
+            "email": "m.kizil@uq.edu.au"
+        },
+        {
+            "role": "Lecturer",
+            "name": "Adjunct Professor Warren Seib",
+            "email": "w.seib@uq.edu.au"
+        },
+        {
+            "role": "Teaching staff",
+            "name": "Mr Henry Hall",
+            "email": "henry.hall@uq.edu.au"
+        },
+        {
+            "role": "Teaching staff",
+            "name": "Fiona McGann",
+            "email": "f.mcgann@student.uq.edu.au"
+        }
+    ],
+    "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+    "course_aims": "The aim of this course is to provide students with the capability to select the appropriate mining method, together with its associated equipment, services and infrastructure, for a given deposit as well as comprehend the technological developments in mineﾠautomation.ﾠ",
     "learning_outcomes": [
         {
             "number": "LO1.",
@@ -54,93 +92,130 @@
     ],
     "assessments": [
         {
-            "assessment_detail_section_id": "assessment-detail-0",
+            "category": "Paper/ Report/ Annotation, Project",
             "assessment_title": "Group Assignment - Surface Mining",
+            "weighting": "35%",
+            "due_date": "5/09/2025 1:00 pm",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
                     "special_indicator_text": "Team or group-based"
                 }
-            ],
-            "weighting": "<dd>35%</dd>",
-            "due_date": "<dd><p> 5/09/2025 1:00 pm</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05, L07",
-            "mode": "Written",
-            "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project assignment is about a selection, design and productivity estimate of a surface mining system across different commodities. Students are required to work in groups, share the project workload, have weekly meetings and discussions and share the outcome of their project in a formal group report. </p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p>Marking criteria will be provided on Blackboard.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Each team should submit one copy electronically through Turnitin on Blackboard. A peer review is also required to determine each student's contribution to the project.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            ]
         },
         {
-            "assessment_detail_section_id": "assessment-detail-1",
+            "category": "Paper/ Report/ Annotation, Project",
             "assessment_title": "Group Assignment - Underground Mining",
+            "weighting": "35%",
+            "due_date": "17/10/2025 1:00 pm",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
                     "special_indicator_text": "Team or group-based"
                 }
-            ],
-            "weighting": "<dd>35%</dd>",
-            "due_date": "<dd><p> 17/10/2025 1:00 pm</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05, L07",
-            "mode": "Written",
-            "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This project assignment is about a selection, design and productivity estimate of an underground mining system across different commodities. Students are required to work in groups, share the project workload, have weekly meetings and discussions and share the outcome of their project in a formal group report. </p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p>Marking criteria will be provided on Blackboard.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Each team should submit one copy electronically through Turnitin on Blackboard. A peer review is also required to determine each student's contribution to the project.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            ]
         },
         {
-            "assessment_detail_section_id": "assessment-detail-2",
+            "category": "Paper/ Report/ Annotation, Project",
             "assessment_title": "Individual Assignment with pass/fail presentation (oral examination) - Mining Technology",
+            "weighting": "30%",
+            "due_date": "31/10/2025 1:00 pm",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
                     "special_indicator_text": "Hurdle"
                 }
-            ],
-            "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p> 31/10/2025 1:00 pm</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05, L06",
-            "mode": "Written",
-            "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment is about mining technology and automation across different commodities. This is an individual assignment and students are required to share the outcome of their project in a formal report and through a pass/fail oral examination to defend their project.</p>\n<p>Marking criteria will be provided on Blackboard.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Submit your report via Turnitin.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            ]
         }
     ],
+    "assessment_details": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Group Assignment - Surface Mining",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "weighting": "35%",
+            "due_date": "5/09/2025 1:00 pm",
+            "other_conditions": "Peer assessed. See the conditions definitions",
+            "learning_objectives": "L01, L02, L03, L04, L05, L07",
+            "task_description": "This project assignment is about a selection, design and productivity estimate of a surface mining system across different commodities. Students are required to work in groups, share the project workload, have weekly meetings and discussions and share the outcome of their project in a formal group report. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Marking criteria will be provided on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+            "submission_guidelines": "Each team should submit one copy electronically through Turnitin on Blackboard. A peer review is also required to determine each student's contribution to the project.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions impact other members of the team. Feedback is provided to students following 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "This project assignment is about a selection, design and productivity estimate of a surface mining system across different commodities. Students are required to work in groups, share the project workload, have weekly meetings and discussions and share the outcome of their project in a formal group report. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Marking criteria will be provided on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ]
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Group Assignment - Underground Mining",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "weighting": "35%",
+            "due_date": "17/10/2025 1:00 pm",
+            "other_conditions": "Peer assessed. See the conditions definitions",
+            "learning_objectives": "L01, L02, L03, L04, L05, L07",
+            "task_description": "This project assignment is about a selection, design and productivity estimate of an underground mining system across different commodities. Students are required to work in groups, share the project workload, have weekly meetings and discussions and share the outcome of their project in a formal group report. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Marking criteria will be provided on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+            "submission_guidelines": "Each team should submit one copy electronically through Turnitin on Blackboard. A peer review is also required to determine each student's contribution to the project.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions impact other members of the team. Feedback is provided to students following 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "This project assignment is about a selection, design and productivity estimate of an underground mining system across different commodities. Students are required to work in groups, share the project workload, have weekly meetings and discussions and share the outcome of their project in a formal group report. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Marking criteria will be provided on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ]
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Individual Assignment with pass/fail presentation (oral examination) - Mining Technology",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "weighting": "30%",
+            "due_date": "31/10/2025 1:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "task_description": "This assignment is about mining technology and automation across different commodities. This is an individual assignment and students are required to share the outcome of their project in a formal report and through a pass/fail oral examination to defend their project. Marking criteria will be provided on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+            "submission_guidelines": "Submit your report via Turnitin.\nThe oral examination will be scheduled at a mutually agreeable time in Week 13.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nIf you are applying for an extension to the oral examination please ensure you have your correct date and time in your request. You must provide evidence in your request that demonstrates your inability to attend the oral examination at your scheduled date and time. As the oral examination is timed assessment, discretionary extensions and extensions based on Student Access Plans (SAPs) will not be accepted for the laboratory session.\nFeedback is provided to students following 14 calendar days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nFailure to conduct the oral examination at the scheduled date and time, without an approved extension will result in a 100% penalty.",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "This assignment is about mining technology and automation across different commodities. This is an individual assignment and students are required to share the outcome of their project in a formal report and through a pass/fail oral examination to defend their project. Marking criteria will be provided on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ]
+        }
+    ],
+    "learning_resources": {
+        "library_resources": "Library resources are available on the UQ Library website ."
+    },
     "learning_activities": [
         {
-            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "learning_period": "Week 1 (28 Jul - 03 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>General Lecture I</strong><br/><p>Introduction to course including course outline, course content, weekly schedules, learning outcomes, assessment, expectations, guidelines and teaching and learning strategy. Systems engineering concepts.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
-            "topic_title": "<strong>General Lecture I</strong>",
-            "topic_description": "General Lecture I Introduction to course including course outline, course content, weekly schedules, learning outcomes, assessment, expectations, guidelines and teaching and learning strategy. Systems engineering concepts.",
             "learning_outcomes": [
                 "L05"
             ]
         },
         {
-            "learning_period": "Week 1(28 Jul - 03 Aug)",
+            "learning_period": "Week 1 (28 Jul - 03 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>General Lecture II</strong><br/><p>Mine services and infrastructure. Surface vs underground mining method selection.</p></p><p><strong>Learning outcomes:</strong> L05</p></div></td>",
-            "topic_title": "<strong>General Lecture II</strong>",
-            "topic_description": "General Lecture II Mine services and infrastructure. Surface vs underground mining method selection.",
             "learning_outcomes": [
                 "L05"
             ]
         },
         {
-            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "learning_period": "Week 2 (04 Aug - 10 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Surface Mining I</strong><br/><p>Open pit mining: Introduction and principles. Open pit mining: Loading and hauling equipment.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Surface Mining I</strong>",
-            "topic_description": "Surface Mining I Open pit mining: Introduction and principles. Open pit mining: Loading and hauling equipment.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -150,11 +225,9 @@
             ]
         },
         {
-            "learning_period": "Week 2(04 Aug - 10 Aug)",
+            "learning_period": "Week 2 (04 Aug - 10 Aug)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class </strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -165,11 +238,9 @@
             ]
         },
         {
-            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "learning_period": "Week 3 (11 Aug - 17 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Surface Mining II</strong><br/><p>Strip mining: Introduction and principles. Strip mining: Draglines, bucket wheel excavators, and dozers.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Surface Mining II</strong>",
-            "topic_description": "Surface Mining II Strip mining: Introduction and principles. Strip mining: Draglines, bucket wheel excavators, and dozers.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -179,11 +250,9 @@
             ]
         },
         {
-            "learning_period": "Week 3(11 Aug - 17 Aug)",
+            "learning_period": "Week 3 (11 Aug - 17 Aug)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class</strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -194,11 +263,9 @@
             ]
         },
         {
-            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "learning_period": "Week 4 (18 Aug - 24 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Surface Mining III</strong><br/><p>Haul roads and waste dumps. Highwall mining.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Surface Mining III</strong>",
-            "topic_description": "Surface Mining III Haul roads and waste dumps. Highwall mining.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -208,11 +275,9 @@
             ]
         },
         {
-            "learning_period": "Week 4(18 Aug - 24 Aug)",
+            "learning_period": "Week 4 (18 Aug - 24 Aug)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class</strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -223,11 +288,9 @@
             ]
         },
         {
-            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "learning_period": "Week 5 (25 Aug - 31 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Surface Mining IV</strong><br/><p>Surface miners. Solution mining and other mining methods.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Surface Mining IV</strong>",
-            "topic_description": "Surface Mining IV Surface miners. Solution mining and other mining methods.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -237,11 +300,9 @@
             ]
         },
         {
-            "learning_period": "Week 5(25 Aug - 31 Aug)",
+            "learning_period": "Week 5 (25 Aug - 31 Aug)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class</strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -252,11 +313,9 @@
             ]
         },
         {
-            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "learning_period": "Week 6 (01 Sep - 07 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Underground Mining I</strong><br/><p>Underground mine access and development. Underground mine method selection.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Underground Mining I</strong>",
-            "topic_description": "Underground Mining I Underground mine access and development. Underground mine method selection.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -266,11 +325,9 @@
             ]
         },
         {
-            "learning_period": "Week 6(01 Sep - 07 Sep)",
+            "learning_period": "Week 6 (01 Sep - 07 Sep)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class </strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -281,11 +338,9 @@
             ]
         },
         {
-            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "learning_period": "Week 7 (08 Sep - 14 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Underground Mining II</strong><br/><p>Underground coal: Introduction and longwall mining.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Underground Mining II</strong>",
-            "topic_description": "Underground Mining II Underground coal: Introduction and longwall mining.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -295,11 +350,9 @@
             ]
         },
         {
-            "learning_period": "Week 7(08 Sep - 14 Sep)",
+            "learning_period": "Week 7 (08 Sep - 14 Sep)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class</strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -310,11 +363,9 @@
             ]
         },
         {
-            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "learning_period": "Week 8 (15 Sep - 21 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Underground Mining III</strong><br/><p>Underground coal: Thick seam coal mining.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Underground Mining III</strong>",
-            "topic_description": "Underground Mining III Underground coal: Thick seam coal mining.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -324,11 +375,9 @@
             ]
         },
         {
-            "learning_period": "Week 8(15 Sep - 21 Sep)",
+            "learning_period": "Week 8 (15 Sep - 21 Sep)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class </strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -339,11 +388,9 @@
             ]
         },
         {
-            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "learning_period": "Week 9 (22 Sep - 28 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Underground Mining IV</strong><br/><p>Bord (coal) and room (metal) and pillar mining. Underground metal: Cut and fill stoping.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Underground Mining IV</strong>",
-            "topic_description": "Underground Mining IV Bord (coal) and room (metal) and pillar mining. Underground metal: Cut and fill stoping.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -353,11 +400,9 @@
             ]
         },
         {
-            "learning_period": "Week 9(22 Sep - 28 Sep)",
+            "learning_period": "Week 9 (22 Sep - 28 Sep)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class </strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -368,11 +413,9 @@
             ]
         },
         {
-            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "learning_period": "Week 10 (06 Oct - 12 Oct)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Underground Mining V</strong><br/><p>Underground metal: Sublevel stoping. Underground metal: Narrow vein mining.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Underground Mining V</strong>",
-            "topic_description": "Underground Mining V Underground metal: Sublevel stoping. Underground metal: Narrow vein mining.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -382,11 +425,9 @@
             ]
         },
         {
-            "learning_period": "Week 10(06 Oct - 12 Oct)",
+            "learning_period": "Week 10 (06 Oct - 12 Oct)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class</strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -397,11 +438,9 @@
             ]
         },
         {
-            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "learning_period": "Week 11 (13 Oct - 19 Oct)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Underground Mining VI</strong><br/><p>Underground metal: Caving methods.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Underground Mining VI</strong>",
-            "topic_description": "Underground Mining VI Underground metal: Caving methods.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -411,11 +450,9 @@
             ]
         },
         {
-            "learning_period": "Week 11(13 Oct - 19 Oct)",
+            "learning_period": "Week 11 (13 Oct - 19 Oct)",
             "activity_type": "Team Based Learning",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class</strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -426,11 +463,9 @@
             ]
         },
         {
-            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "learning_period": "Week 12 (20 Oct - 26 Oct)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to Automation in Mining</strong><br/><p>Automation in Mining</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
-            "topic_title": "<strong>Introduction to Automation in Mining</strong>",
-            "topic_description": "Introduction to Automation in Mining Automation in Mining",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -441,11 +476,9 @@
             ]
         },
         {
-            "learning_period": "Week 12(20 Oct - 26 Oct)",
+            "learning_period": "Week 12 (20 Oct - 26 Oct)",
             "activity_type": "Workshop",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class</strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -457,11 +490,9 @@
             ]
         },
         {
-            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "learning_period": "Week 13 (27 Oct - 02 Nov)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applications of Automation in Mining</strong><br/><p>Applications of Automation in Mining</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
-            "topic_title": "<strong>Applications of Automation in Mining</strong>",
-            "topic_description": "Applications of Automation in Mining Applications of Automation in Mining",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -472,11 +503,9 @@
             ]
         },
         {
-            "learning_period": "Week 13(27 Oct - 02 Nov)",
+            "learning_period": "Week 13 (27 Oct - 02 Nov)",
             "activity_type": "Workshop",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07</p></div></td>",
-            "topic_title": "<strong>Applied Class</strong>",
-            "topic_description": "Applied Class",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -487,5 +516,6 @@
                 "L07"
             ]
         }
-    ]
+    ],
+    "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
 }
