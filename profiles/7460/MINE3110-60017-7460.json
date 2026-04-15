@@ -1,14 +1,55 @@
 {
-    "course_title": "Integrated Orebody Knowledge",
-    "study_period": "Sem 2 2024",
-    "location": "St Lucia",
-    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MINE3110-60017-7460",
-    "full_course_code": "MINE3110-60017-7460",
+    "scraped_at": "2026-04-15T00:44:14.268133+00:00",
     "course_code": "MINE3110",
     "class_code": "60017",
     "semester_code": "7460",
-    "semester_details": "Semester 2, 2024 (22/07/2024 - 16/11/2024)",
+    "full_course_code": "MINE3110-60017-7460",
+    "course_title": "Integrated Orebody Knowledge",
+    "study_period": "Semester 2, 2024 (22/07/2024 - 16/11/2024)",
+    "study_level": "Undergraduate",
+    "location": "St Lucia",
+    "attendance_mode": "In Person",
+    "units": "2",
+    "administrative_campus": "St Lucia",
+    "coordinating_unit": "Mech & Mine Engineering School",
+    "course_description": "This course will introduce the concepts of resource and reserve estimation in both coal and metalliferous deposits. This represents a critical component in the life cycle of a mine and provides the link between the processes of exploration geology and mine planning.\n\nIntegrated Orebody Knowledge lays the foundations for the mine planning process. It emphasises the importance of geological inputs in defining reliable resource and reserve estimates, which are used to develop mine plans, final mine designs and feasibility studies. The course applies various techniques to resource estimation including traditional and modern geostatistical methods. The topics covered in this course include rock types, mineral-rock relationships, geochemistry, earth processes, deposit types, rock fabrics and orientations, structural geology, exploration, carbonaceous systems, interpretation of drillhole data, sampling techniques and data collection, data compositing, principles of resource and reserve estimation, traditional estimation techniques, geostatistical estimation methods, block modelling andﾠthe Joint Ore Reserves Committee (JORC) Code.",
+    "requirements": {
+        "assumed_background": [
+            "This course assumes the students have a basic knowledge of statistics and a strong interest in the extraction of the earth's mineral resources to meet societal needs."
+        ],
+        "incompatible": [
+            "You can't enrol in this course if you've already completed the following:",
+            "MINE3120"
+        ]
+    },
+    "course_contacts": [
+        {
+            "role": "Course coordinator",
+            "role_slug": "course_coordinator",
+            "name": "Dr Micah Nehring",
+            "email": "m.nehring@uq.edu.au",
+            "email_uri": "mailto:m.nehring@uq.edu.au",
+            "phone": "+61 7 3365 3664",
+            "phone_uri": "tel:+61 7 3365 3664",
+            "notes_text": "Consultations Wednesdays 10:00am-12:00pm weekly or by appointment.",
+            "notes_html": "<div class=\"contact-card__notes\"><p>Consultations Wednesdays 10:00am-12:00pm weekly or by appointment. </p></div>"
+        }
+    ],
+    "course_staff": [
+        {
+            "role": "Lecturer",
+            "name": "Dr Micah Nehring",
+            "email": "m.nehring@uq.edu.au"
+        },
+        {
+            "role": "Lecturer",
+            "name": "Professor Italo Onederra",
+            "email": "i.onederra@uq.edu.au"
+        }
+    ],
+    "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+    "course_aims": "The aim of this course is to introduce students to the principles of geology, deposit types and resource and reserve estimation for metalliferous and coal deposits as the basis from which to commence the mine planning process.",
     "learning_outcomes": [
         {
             "number": "LO1.",
@@ -77,8 +118,31 @@
     ],
     "assessments": [
         {
-            "assessment_detail_section_id": "assessment-detail-0",
+            "category": "Quiz",
             "assessment_title": "Quiz 1 (Individual)",
+            "weighting": "10%",
+            "due_date": "27/08/2024 12:00 pm",
+            "special_indicators": []
+        },
+        {
+            "category": "Quiz",
+            "assessment_title": "Quiz 2 (Individual)",
+            "weighting": "10%",
+            "due_date": "1/10/2024 12:00 pm",
+            "special_indicators": []
+        },
+        {
+            "category": "Project",
+            "assessment_title": "Group Assignment",
+            "weighting": "30%",
+            "due_date": "25/10/2024 4:00 pm",
+            "special_indicators": []
+        },
+        {
+            "category": "Examination",
+            "assessment_title": "Final Exam (Individual)",
+            "weighting": "50% Hurdle Rate: 40%",
+            "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
@@ -88,69 +152,61 @@
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
                     "special_indicator_text": "Identity Verified"
                 }
-            ],
-            "weighting": "<dd>10%</dd>",
-            "due_date": "<dd><p> 27/08/2024 12:00 pm</p></dd>",
-            "learning_objectives": "L01, L02, L03, L08, L09, L10, L11, L12, L13, L14",
+            ]
+        }
+    ],
+    "assessment_details": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Quiz 1 (Individual)",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Quiz containing a combination of multiple choice, short answer, and simple calculation questions covering content of the first few weeks.<br/>\nNormal university regulations for examinations will apply to the quiz.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Quiz will be conducted during normal class time - tutorial in week 6. Question and answer sheets will be collected at the end of the allocated time.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+            "weighting": "10%",
+            "due_date": "27/08/2024 12:00 pm",
+            "learning_objectives": "L01, L02, L03, L08, L09, L10, L11, L12, L13, L14",
+            "task_description": "Quiz containing a combination of multiple choice, short answer, and simple calculation questions covering content of the first few weeks. Normal university regulations for examinations will apply to the quiz. Read full task description Hide full task description",
+            "submission_guidelines": "Quiz will be conducted during normal class time - tutorial in week 6. Question and answer sheets will be collected at the end of the allocated time.\nDeferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nQuiz is time limited and within the tutorial. It cannot be submitted late.",
+            "deferral_or_extension": "You may be able to defer this exam .",
+            "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Quiz 2 (Individual)",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
-                    "special_indicator_text": "Hurdle"
-                },
-                {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
-                }
-            ],
-            "weighting": "<dd>10%</dd>",
-            "due_date": "<dd><p> 1/10/2024 12:00 pm</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Quiz containing a combination of multiple choice, short answer, and simple calculation questions covering content of weeks 7 - 10.</p>\n<p> Normal university regulations for examinations will apply to the quiz.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Quiz will be conducted during normal class time - tutorial in week 10. Question and answer sheets will be collected at the end of the allocated time.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+            "weighting": "10%",
+            "due_date": "1/10/2024 12:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
+            "task_description": "Quiz containing a combination of multiple choice, short answer, and simple calculation questions covering content of weeks 7 - 10. Normal university regulations for examinations will apply to the quiz. Read full task description Hide full task description",
+            "submission_guidelines": "Quiz will be conducted during normal class time - tutorial in week 10. Question and answer sheets will be collected at the end of the allocated time.\nDeferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nQuiz is time limited and within the tutorial. It cannot be submitted late.",
+            "deferral_or_extension": "You may be able to defer this exam .",
+            "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Group Assignment",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
-                    "special_indicator_text": "Hurdle"
-                },
-                {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
-                }
-            ],
-            "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p> 25/10/2024 4:00 pm</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16",
             "mode": "Written",
             "category": "Project",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Estimation of a mineral resource in keeping with JORC parameters. A detailed task sheet for this assignment will be issued in class.</p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Submit via TurnItIn on Blackboard.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "weighting": "30%",
+            "due_date": "25/10/2024 4:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16",
+            "task_description": "Estimation of a mineral resource in keeping with JORC parameters. A detailed task sheet for this assignment will be issued in class. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Read full task description Hide full task description",
+            "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtension impacts on other students in team. Feedback is provided to students following 7 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
         },
         {
             "assessment_detail_section_id": "assessment-detail-3",
             "assessment_title": "Final Exam (Individual)",
+            "mode": "Written",
+            "category": "Examination",
+            "weighting": "50% Hurdle Rate: 40%",
+            "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
+            "task_description": "This will be a comprehensive two hour closed book examination on all topics addressed in this course throughout the semester. Questions will assess your theoretical knowledge and the application of this on practical problem based questions that will require you to draw meaningful conclusions from calculations. Exam questions will be in both short answer and problem solving format. Read full task description Hide full task description",
+            "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+            "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+            "deferral_or_extension": "You may be able to defer this exam .",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
@@ -160,26 +216,17 @@
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
                     "special_indicator_text": "Identity Verified"
                 }
-            ],
-            "weighting": "<dd>50% Hurdle Rate: 40% </dd>",
-            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>2/11/2024 - 16/11/2024</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
-            "mode": "Written",
-            "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This will be a comprehensive two hour closed book examination on all topics addressed in this course throughout the semester. Questions will assess your theoretical knowledge and the application of this on practical problem based questions that will require you to draw meaningful conclusions from calculations. Exam questions will be in both short answer and problem solving format. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "late_submission": null,
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+            ]
         }
     ],
+    "learning_resources": {
+        "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+    },
     "learning_activities": [
         {
-            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "learning_period": "Week 1 (22 Jul - 28 Jul)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1</strong><br><p>Course introduction. Key aspects of mineral-rock relationships.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Week 1</strong>",
-            "topic_description": "Week 1 Course introduction. Key aspects of mineral-rock relationships.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -188,11 +235,9 @@
             ]
         },
         {
-            "learning_period": "Week 1(22 Jul - 28 Jul)",
+            "learning_period": "Week 1 (22 Jul - 28 Jul)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1</strong><br><p>The description of minerals and rocks, geochemistry and the concept of 'grade'.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Week 1</strong>",
-            "topic_description": "Week 1 The description of minerals and rocks, geochemistry and the concept of 'grade'.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -201,11 +246,9 @@
             ]
         },
         {
-            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "learning_period": "Week 2 (29 Jul - 04 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2</strong><br><p>Earth processes: understanding the planet. The concept of an ore deposit.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L12, L13, L14</p></div></td>",
-            "topic_title": "<strong>Week 2</strong>",
-            "topic_description": "Week 2 Earth processes: understanding the planet. The concept of an ore deposit.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -217,11 +260,9 @@
             ]
         },
         {
-            "learning_period": "Week 2(29 Jul - 04 Aug)",
+            "learning_period": "Week 2 (29 Jul - 04 Aug)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2</strong><br><p>The vast array of ore deposits - unifying concepts. Australian and some global examples.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L12, L13, L14</p></div></td>",
-            "topic_title": "<strong>Week 2</strong>",
-            "topic_description": "Week 2 The vast array of ore deposits - unifying concepts. Australian and some global examples.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -233,11 +274,9 @@
             ]
         },
         {
-            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "learning_period": "Week 3 (05 Aug - 11 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3</strong><br><p>Rock fabrics and orientations: geometric relations play a crucial role in the mining process.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
-            "topic_title": "<strong>Week 3</strong>",
-            "topic_description": "Week 3 Rock fabrics and orientations: geometric relations play a crucial role in the mining process.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -245,11 +284,9 @@
             ]
         },
         {
-            "learning_period": "Week 3(05 Aug - 11 Aug)",
+            "learning_period": "Week 3 (05 Aug - 11 Aug)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3</strong><br><p>Structural geology and an introduction to the drilling rig.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
-            "topic_title": "<strong>Week 3</strong>",
-            "topic_description": "Week 3 Structural geology and an introduction to the drilling rig.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -257,11 +294,9 @@
             ]
         },
         {
-            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "learning_period": "Week 4 (12 Aug - 18 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4</strong><br><p>Exploration geology regional and 'near-mine' exploration; geophysics and remote sensing.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
-            "topic_title": "<strong>Week 4</strong>",
-            "topic_description": "Week 4 Exploration geology regional and 'near-mine' exploration; geophysics and remote sensing.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -269,11 +304,9 @@
             ]
         },
         {
-            "learning_period": "Week 4(12 Aug - 18 Aug)",
+            "learning_period": "Week 4 (12 Aug - 18 Aug)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4</strong><br><p>Exploration geology.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
-            "topic_title": "<strong>Week 4</strong>",
-            "topic_description": "Week 4 Exploration geology.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -281,11 +314,9 @@
             ]
         },
         {
-            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "learning_period": "Week 5 (19 Aug - 25 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5</strong><br><p>Carbonaceous systems: coal, oil and gas.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L11, L12</p></div></td>",
-            "topic_title": "<strong>Week 5</strong>",
-            "topic_description": "Week 5 Carbonaceous systems: coal, oil and gas.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -295,11 +326,9 @@
             ]
         },
         {
-            "learning_period": "Week 5(19 Aug - 25 Aug)",
+            "learning_period": "Week 5 (19 Aug - 25 Aug)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5</strong><br><p>Interpreting and displaying drill hole data.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L11, L12</p></div></td>",
-            "topic_title": "<strong>Week 5</strong>",
-            "topic_description": "Week 5 Interpreting and displaying drill hole data.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -309,11 +338,9 @@
             ]
         },
         {
-            "learning_period": "Week 6(26 Aug - 01 Sep)",
+            "learning_period": "Week 6 (26 Aug - 01 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6</strong><br/><p>The mine planning process. Mineral resources - their distribution and strategic importance.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L08, L09, L10</p></div></td>",
-            "topic_title": "<strong>Week 6</strong>",
-            "topic_description": "Week 6 The mine planning process. Mineral resources - their distribution and strategic importance.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -323,11 +350,9 @@
             ]
         },
         {
-            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "learning_period": "Week 7 (02 Sep - 08 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7</strong><br/><p>Data Compositing.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
-            "topic_title": "<strong>Week 7</strong>",
-            "topic_description": "Week 7 Data Compositing.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -335,11 +360,9 @@
             ]
         },
         {
-            "learning_period": "Week 7(02 Sep - 08 Sep)",
+            "learning_period": "Week 7 (02 Sep - 08 Sep)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7</strong><br/><p>Data Compositing.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06</p></div></td>",
-            "topic_title": "<strong>Week 7</strong>",
-            "topic_description": "Week 7 Data Compositing.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -347,11 +370,9 @@
             ]
         },
         {
-            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "learning_period": "Week 8 (09 Sep - 15 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8</strong><br/><p>Traditional Estimation Methods.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08, L09</p></div></td>",
-            "topic_title": "<strong>Week 8</strong>",
-            "topic_description": "Week 8 Traditional Estimation Methods.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -362,11 +383,9 @@
             ]
         },
         {
-            "learning_period": "Week 8(09 Sep - 15 Sep)",
+            "learning_period": "Week 8 (09 Sep - 15 Sep)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8</strong><br/><p>Traditional Estimation Methods.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08, L09</p></div></td>",
-            "topic_title": "<strong>Week 8</strong>",
-            "topic_description": "Week 8 Traditional Estimation Methods.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -377,11 +396,9 @@
             ]
         },
         {
-            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "learning_period": "Week 9 (16 Sep - 22 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9</strong><br/><p>JORC</p></p><p><strong>Learning outcomes:</strong> L08, L09, L10, L11</p></div></td>",
-            "topic_title": "<strong>Week 9</strong>",
-            "topic_description": "Week 9 JORC",
             "learning_outcomes": [
                 "L08",
                 "L09",
@@ -390,11 +407,9 @@
             ]
         },
         {
-            "learning_period": "Week 9(16 Sep - 22 Sep)",
+            "learning_period": "Week 9 (16 Sep - 22 Sep)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9</strong><br/><p>JORC</p></p><p><strong>Learning outcomes:</strong> L08, L09, L10, L11</p></div></td>",
-            "topic_title": "<strong>Week 9</strong>",
-            "topic_description": "Week 9 JORC",
             "learning_outcomes": [
                 "L08",
                 "L09",
@@ -403,11 +418,9 @@
             ]
         },
         {
-            "learning_period": "Week 10(30 Sep - 06 Oct)",
+            "learning_period": "Week 10 (30 Sep - 06 Oct)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10</strong><br/><p>Introduction to Geostatistics.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08</p></div></td>",
-            "topic_title": "<strong>Week 10</strong>",
-            "topic_description": "Week 10 Introduction to Geostatistics.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -417,11 +430,9 @@
             ]
         },
         {
-            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "learning_period": "Week 11 (07 Oct - 13 Oct)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11</strong><br/><p>Ordinary Kriging Equations</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08</p></div></td>",
-            "topic_title": "<strong>Week 11</strong>",
-            "topic_description": "Week 11 Ordinary Kriging Equations",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -431,11 +442,9 @@
             ]
         },
         {
-            "learning_period": "Week 11(07 Oct - 13 Oct)",
+            "learning_period": "Week 11 (07 Oct - 13 Oct)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11</strong><br/><p>Ordinary Kriging Equations.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08</p></div></td>",
-            "topic_title": "<strong>Week 11</strong>",
-            "topic_description": "Week 11 Ordinary Kriging Equations.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -445,11 +454,9 @@
             ]
         },
         {
-            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "learning_period": "Week 12 (14 Oct - 20 Oct)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12</strong><br/><p>Orebody Modelling Part 1.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16</p></div></td>",
-            "topic_title": "<strong>Week 12</strong>",
-            "topic_description": "Week 12 Orebody Modelling Part 1.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -467,11 +474,9 @@
             ]
         },
         {
-            "learning_period": "Week 12(14 Oct - 20 Oct)",
+            "learning_period": "Week 12 (14 Oct - 20 Oct)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12</strong><br/><p>Orebody Modelling.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16</p></div></td>",
-            "topic_title": "<strong>Week 12</strong>",
-            "topic_description": "Week 12 Orebody Modelling.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -489,11 +494,9 @@
             ]
         },
         {
-            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "learning_period": "Week 13 (21 Oct - 27 Oct)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13</strong><br/><p>Orebody modelling - part 2.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16</p></div></td>",
-            "topic_title": "<strong>Week 13</strong>",
-            "topic_description": "Week 13 Orebody modelling - part 2.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -511,11 +514,9 @@
             ]
         },
         {
-            "learning_period": "Week 13(21 Oct - 27 Oct)",
+            "learning_period": "Week 13 (21 Oct - 27 Oct)",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13</strong><br/><p>Orebody modelling.</p></p><p><strong>Learning outcomes:</strong> L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16</p></div></td>",
-            "topic_title": "<strong>Week 13</strong>",
-            "topic_description": "Week 13 Orebody modelling.",
             "learning_outcomes": [
                 "L04",
                 "L05",
@@ -532,5 +533,6 @@
                 "L16"
             ]
         }
-    ]
+    ],
+    "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
 }
