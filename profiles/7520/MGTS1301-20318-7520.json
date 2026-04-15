@@ -1,14 +1,49 @@
 {
-    "course_title": "Introduction to Management",
-    "study_period": "Sem 1 2025",
-    "location": "St Lucia",
-    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS1301-20318-7520",
-    "full_course_code": "MGTS1301-20318-7520",
+    "scraped_at": "2026-04-15T00:44:40.496964+00:00",
     "course_code": "MGTS1301",
     "class_code": "20318",
     "semester_code": "7520",
-    "semester_details": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "full_course_code": "MGTS1301-20318-7520",
+    "course_title": "Introduction to Management",
+    "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+    "study_level": "Undergraduate",
+    "location": "St Lucia",
+    "attendance_mode": "In Person",
+    "units": "2",
+    "administrative_campus": "St Lucia",
+    "coordinating_unit": "Business School",
+    "course_description": "This course provides an introduction to the fundamental principles of managing business organisations including key management concepts, models and contexts. The course covers the functions of management, strategic frameworks and responsible management.\n\nThis course is designed to provide an introduction to the fundamental principles of managing business organisations. It will allow for the critical exploration of management concepts, models and contexts using a team-based approach. While working in teams, students will learn how to apply management theory and research evidence in analysing and creatively solving real-life management problems. Students will also learn how to critically and ethically evaluate managerial decisions while considering the organisation's context in a culturally diverse and internationalised world. The unit draws upon a range of academic, practical and pop cultural sources to engage students in authentic ways of learning about management.\n\nSustainable Development Goals - UQ Business School is a proud supporter and Advanced Signatory of the United Nations Principles for Responsible Management Education (UN PRME) . As part of the largest global collaboration between business schools and the UN, the school emphasises its role in empowering students to drive societal transformation through the Sustainable Development Goals . The SDGs highlight that a thriving economy relies on a healthy environment, aiming to balance economic growth, social well-being, and environmental protection for a sustainable future.",
+    "requirements": {
+        "assumed_background": [
+            "MGTS1301",
+            "MGTS1601",
+            "ACCT1101",
+            "ECON1011"
+        ]
+    },
+    "course_contacts": [
+        {
+            "role": "Course coordinator",
+            "role_slug": "course_coordinator",
+            "name": "Dr Gemma Irving",
+            "email": "g.irving@business.uq.edu.au",
+            "email_uri": "mailto:g.irving@business.uq.edu.au"
+        }
+    ],
+    "course_staff": [
+        {
+            "role": "Lecturer",
+            "name": "Dr Gemma Irving",
+            "email": "g.irving@business.uq.edu.au"
+        },
+        {
+            "role": "Tutor",
+            "name": "Dr Jemaine Tsoi"
+        }
+    ],
+    "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name,\nStudent ID, and\nthe Course Code",
+    "course_aims": "The aim of this course is that you have a good overview of the management discipline and you will have acquired some of the foundational knowledge and skills necessary to become a more effective manager.",
     "learning_outcomes": [
         {
             "number": "LO1.",
@@ -29,8 +64,10 @@
     ],
     "assessments": [
         {
-            "assessment_detail_section_id": "assessment-detail-0",
+            "category": "Tutorial/ Problem Set",
             "assessment_title": "Team-based tutorial assessment",
+            "weighting": "20% Best 3 of 5",
+            "due_date": "Tutorials in:; Week 6; Week 8; Week 9; Week 10; Week 11; Week 12",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
@@ -40,45 +77,86 @@
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 }
-            ],
-            "weighting": "<dd>20% Best 3 of 5 </dd>",
-            "due_date": "<dd><p>Tutorials in: </p>\n<p>\n</p><ul>\n<li>Week 6</li>\n<li>Week 8</li>\n<li>Week 9</li>\n<li>Week 10</li>\n<li>Week 11</li>\n<li>Week 12</li>\n</ul></dd>",
-            "learning_objectives": "L02, L03, L04",
+            ]
+        },
+        {
+            "category": "Paper/ Report/ Annotation",
+            "assessment_title": "Management Issue Report",
+            "weighting": "30%",
+            "due_date": "14/04/2025 1:00 pm",
+            "special_indicators": []
+        },
+        {
+            "category": "Examination",
+            "assessment_title": "Final Exam",
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ]
+        }
+    ],
+    "assessment_details": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Team-based tutorial assessment",
             "mode": "Written",
             "category": "Tutorial/ Problem Set",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Working in teams during tutorials, you will discuss different case studies across the semester. You will discuss the case in class and develop an answer as a team.</p>\n<p>The best three (3) marks out of five (5) will be taken in consideration for your final grade in this assessment. </p>\n<p>Members of the group will be required to submit a Peer Assessment of the other members of the group. Peer Assessment results may be used to adjust students' individual group assignment results.</p>\n<p>Further details will be available within your scheduled classes and on Blackboard</p>\n<p><strong><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Assessment will be submitted via Blackboard.</p>",
-            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+            "weighting": "20% Best 3 of 5",
+            "due_date": "Tutorials in: Week 6 Week 8 Week 9 Week 10 Week 11 Week 12",
+            "other_conditions": "Peer assessment factor. See the conditions definitions",
+            "learning_objectives": "L02, L03, L04",
+            "task_description": "Working in teams during tutorials, you will discuss different case studies across the semester. You will discuss the case in class and develop an answer as a team. The best three (3) marks out of five (5) will be taken in consideration for your final grade in this assessment. Members of the group will be required to submit a Peer Assessment of the other members of the group. Peer Assessment results may be used to adjust students' individual group assignment results. Further details will be available within your scheduled classes and on Blackboard This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+            "submission_guidelines": "Assessment will be submitted via Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe team-based tutorial assessment is conducted in class. Teams are graded on their ability to discuss and apply theory as well as their ability to work as a team. Tutors guide student in their understanding and application of theory. They also mentor teams to help students work together effectively across the semester. Students must attend their tutorial and work in their allocated team to be assessed. As only 3 of 5 tutorials are counted towards the final grade, students can miss up to two assessed tutorials without an impact on their grade.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "Working in teams during tutorials, you will discuss different case studies across the semester. You will discuss the case in class and develop an answer as a team. The best three (3) marks out of five (5) will be taken in consideration for your final grade in this assessment. Members of the group will be required to submit a Peer Assessment of the other members of the group. Peer Assessment results may be used to adjust students' individual group assignment results. Further details will be available within your scheduled classes and on Blackboard This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ]
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Management Issue Report",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
-                },
-                {
-                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
-                    "special_indicator_text": "In-person"
-                }
-            ],
-            "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p> 14/04/2025 1:00 pm</p></dd>",
-            "learning_objectives": "L02, L03",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will research news articles to identify a management problem.</p>\n<p>You will then research the scholarly management literature related to your chosen problem.</p>\n<p>In your written assignment you will apply the insights you found in the scholarly literature and make recommendations about the management problem you identified.</p>\n<p><strong><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></strong></p>\n<p><strong><em>A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.</em></strong></p>\n<p><strong><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.</em></strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Submit the assignment through the Online Submission folder in the Assessment section of the course Blackboard site.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "weighting": "30%",
+            "due_date": "14/04/2025 1:00 pm",
+            "learning_objectives": "L02, L03",
+            "task_description": "You will research news articles to identify a management problem. You will then research the scholarly management literature related to your chosen problem. In your written assignment you will apply the insights you found in the scholarly literature and make recommendations about the management problem you identified. This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description",
+            "submission_guidelines": "Submit the assignment through the Online Submission folder in the Assessment section of the course Blackboard site.\nEnsure you receive a Turnitin submission ID and retain this number as proof of submission. If you do not receive proof of submission, you should regard your submission as unsuccessful and take steps to address the issue. It is your responsibility to ensure the assignment has been successfully submitted. Any requests to waive the late submission penalty without proof of submission will not be considered under any circumstances.\nDeferral or extension\nYou may be able to apply for an extension .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "You will research news articles to identify a management problem. You will then research the scholarly management literature related to your chosen problem. In your written assignment you will apply the insights you found in the scholarly literature and make recommendations about the management problem you identified. This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Final Exam",
+            "mode": "Written",
+            "category": "Examination",
+            "weighting": "50%",
+            "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+            "other_conditions": "Time limited. See the conditions definitions",
+            "learning_objectives": "L01, L02",
+            "task_description": "The exam will include short answer and case study questions. If you are unable to sit your exam, you must apply for a deferred exam. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+            "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+            "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+            "deferral_or_extension": "You may be able to defer this exam .",
+            "ai_statement": "The exam will include short answer and case study questions. If you are unable to sit your exam, you must apply for a deferred exam. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
@@ -88,26 +166,17 @@
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 }
-            ],
-            "weighting": "<dd>50%</dd>",
-            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/06/2025 - 21/06/2025</p></dd>",
-            "learning_objectives": "L01, L02",
-            "mode": "Written",
-            "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam will include short answer and case study questions. </p>\n<p>If you are unable to sit your exam, you must apply for a deferred exam.</p>\n<p><strong><em>This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.</em></strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "late_submission": null,
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+            ]
         }
     ],
+    "learning_resources": {
+        "library_resources": "Library resources are available on the UQ Library website ."
+    },
     "learning_activities": [
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>What is Management? </strong><br/><p>We will provide an overview of the course and assessments and do activities based on the online module. </p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>What is Management? </strong>",
-            "topic_description": "What is Management? We will provide an overview of the course and assessments and do activities based on the online module.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -116,8 +185,6 @@
             "learning_period": "Week 2",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Managing across Time and Cultures</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Managing across Time and Cultures</strong>",
-            "topic_description": "Managing across Time and Cultures We will do activities based on the online module.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -125,17 +192,12 @@
         {
             "learning_period": "Week 2",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to the Team-Based Tutorial Approach</strong><br/></p></div></td>",
-            "topic_title": "<strong>Introduction to the Team-Based Tutorial Approach</strong>",
-            "topic_description": "Introduction to the Team-Based Tutorial Approach",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to the Team-Based Tutorial Approach</strong><br/></p></div></td>"
         },
         {
             "learning_period": "Week 3",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics and Social Inclusion</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
-            "topic_title": "<strong>Ethics and Social Inclusion</strong>",
-            "topic_description": "Ethics and Social Inclusion We will do activities based on the online module.",
             "learning_outcomes": [
                 "L01",
                 "L03"
@@ -144,25 +206,17 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Grotesque Quest</strong><br/></p></div></td>",
-            "topic_title": "<strong>Grotesque Quest</strong>",
-            "topic_description": "Grotesque Quest",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Grotesque Quest</strong><br/></p></div></td>"
         },
         {
             "learning_period": "Week 4",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Guidance</strong><br/><p>We will discuss the requirements and expectations of the assignment.</p></p></div></td>",
-            "topic_title": "<strong>Assignment Guidance</strong>",
-            "topic_description": "Assignment Guidance We will discuss the requirements and expectations of the assignment.",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Guidance</strong><br/><p>We will discuss the requirements and expectations of the assignment.</p></p></div></td>"
         },
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Ethics and Social Inclusion</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
-            "topic_title": "<strong>Ethics and Social Inclusion</strong>",
-            "topic_description": "Ethics and Social Inclusion",
             "learning_outcomes": [
                 "L02"
             ]
@@ -171,8 +225,6 @@
             "learning_period": "Week 5",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Planning and Controlling</strong><br/><p>We will do activities based on the online module. </p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Planning and Controlling</strong>",
-            "topic_description": "Planning and Controlling We will do activities based on the online module.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -181,8 +233,6 @@
             "learning_period": "Week 5",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Assignment Guidance</strong><br/><p>Team-based tutorial activity.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Assignment Guidance</strong>",
-            "topic_description": "Assignment Guidance Team-based tutorial activity.",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -193,8 +243,6 @@
             "learning_period": "Week 6",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Leading</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Leading</strong>",
-            "topic_description": "Leading We will do activities based on the online module.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -203,8 +251,6 @@
             "learning_period": "Week 6",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>ASSESSMENT: Planning and Controlling</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
-            "topic_title": "<strong>ASSESSMENT: Planning and Controlling</strong>",
-            "topic_description": "ASSESSMENT: Planning and Controlling ASSESSMENT OF TUTORIAL ACTIVITY",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -214,8 +260,6 @@
             "learning_period": "Week 7",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>External and Internal Environment</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>External and Internal Environment</strong>",
-            "topic_description": "External and Internal Environment We will do activities based on the online module.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -224,8 +268,6 @@
             "learning_period": "Week 7",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Leading</strong><br/><p>Team-Based Tutorial.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
-            "topic_title": "<strong>Leading</strong>",
-            "topic_description": "Leading Team-Based Tutorial.",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -235,8 +277,6 @@
             "learning_period": "Week 8",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Strategic Management</strong><br/><p>We will do activities based on the online module. </p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Strategic Management</strong>",
-            "topic_description": "Strategic Management We will do activities based on the online module.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -244,9 +284,7 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>ASSESSMENT: External and Internal Environment (Monday to Thursday) and NO TUTORIAL (Friday)</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY (MONDAY TO THURSDAY TUTORIALS)</p>\n<p>Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
-            "topic_title": "<strong>ASSESSMENT: External and Internal Environment (Monday to Thursday) and NO TUTORIAL (Friday)</strong>",
-            "topic_description": "ASSESSMENT: External and Internal Environment (Monday to Thursday) and NO TUTORIAL (Friday) ASSESSMENT OF TUTORIAL ACTIVITY (MONDAY TO THURSDAY TUTORIALS) Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ASSESSMENT: External and Internal Environment (Monday to Thursday) and NO TUTORIAL (Friday)</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY (MONDAY TO THURSDAY TUTORIALS)</p>\n<p>Good Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -255,17 +293,12 @@
         {
             "learning_period": "Mid-sem break",
             "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>MID-SEMESTER BREAK</strong><br/><p>NO CLASSES THIS WEEK</p></p></div></td>",
-            "topic_title": "<strong>MID-SEMESTER BREAK</strong>",
-            "topic_description": "MID-SEMESTER BREAK NO CLASSES THIS WEEK",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>MID-SEMESTER BREAK</strong><br/><p>NO CLASSES THIS WEEK</p></p></div></td>"
         },
         {
             "learning_period": "Week 9",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Organising</strong><br/><p>We will do activities based on the online module</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Organising</strong>",
-            "topic_description": "Organising We will do activities based on the online module",
             "learning_outcomes": [
                 "L01"
             ]
@@ -274,8 +307,6 @@
             "learning_period": "Week 9",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>ASSESSMENT: Strategic Management (Monday to Thursday) and ASSESSMENT: External and Internal (Friday)</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY </p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
-            "topic_title": "<strong>ASSESSMENT: Strategic Management (Monday to Thursday) and ASSESSMENT: External and Internal (Friday)</strong>",
-            "topic_description": "ASSESSMENT: Strategic Management (Monday to Thursday) and ASSESSMENT: External and Internal (Friday) ASSESSMENT OF TUTORIAL ACTIVITY",
             "learning_outcomes": [
                 "L02"
             ]
@@ -284,8 +315,6 @@
             "learning_period": "Week 10",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Sustainability</strong><br/><p>We will do activities based on the online module</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Sustainability</strong>",
-            "topic_description": "Sustainability We will do activities based on the online module",
             "learning_outcomes": [
                 "L01"
             ]
@@ -293,9 +322,7 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>ASSESSMENT: Strategic Management (Friday) and NO TUTORIAL (Monday to Thursday)</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY.</p>\n<p>Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
-            "topic_title": "<strong>ASSESSMENT: Strategic Management (Friday) and NO TUTORIAL (Monday to Thursday)</strong>",
-            "topic_description": "ASSESSMENT: Strategic Management (Friday) and NO TUTORIAL (Monday to Thursday) ASSESSMENT OF TUTORIAL ACTIVITY. Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>ASSESSMENT: Strategic Management (Friday) and NO TUTORIAL (Monday to Thursday)</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY.</p>\n<p>Labour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -305,8 +332,6 @@
             "learning_period": "Week 11",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Innovation and Entrepreneurship</strong><br/><p>We will do activities based on the online module.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
-            "topic_title": "<strong>Innovation and Entrepreneurship</strong>",
-            "topic_description": "Innovation and Entrepreneurship We will do activities based on the online module.",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -316,8 +341,6 @@
             "learning_period": "Week 11",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>ASSESSMENT: Organising</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY.</p></p><p><strong>Learning outcomes:</strong> L02, L04</p></div></td>",
-            "topic_title": "<strong>ASSESSMENT: Organising</strong>",
-            "topic_description": "ASSESSMENT: Organising ASSESSMENT OF TUTORIAL ACTIVITY.",
             "learning_outcomes": [
                 "L02",
                 "L04"
@@ -327,8 +350,6 @@
             "learning_period": "Week 12",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Managing Change</strong><br/><p>We will do activities based on the online module. </p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Managing Change</strong>",
-            "topic_description": "Managing Change We will do activities based on the online module.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -337,8 +358,6 @@
             "learning_period": "Week 12",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>ASSESSMENT: Sustainability</strong><br/><p>ASSESSMENT OF TUTORIAL ACTIVITY</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>ASSESSMENT: Sustainability</strong>",
-            "topic_description": "ASSESSMENT: Sustainability ASSESSMENT OF TUTORIAL ACTIVITY",
             "learning_outcomes": [
                 "L02",
                 "L03",
@@ -349,8 +368,6 @@
             "learning_period": "Week 13",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Exam Requirements</strong><br/><p>We will review the course content and also discuss requirements and expectations of the final exam.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Course Review and Exam Requirements</strong>",
-            "topic_description": "Course Review and Exam Requirements We will review the course content and also discuss requirements and expectations of the final exam.",
             "learning_outcomes": [
                 "L01"
             ]
@@ -359,12 +376,11 @@
             "learning_period": "Week 13",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Exam Preparation</strong><br/><p>This tutorial will provide exam guidance.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Course Review and Exam Preparation</strong>",
-            "topic_description": "Course Review and Exam Preparation This tutorial will provide exam guidance.",
             "learning_outcomes": [
                 "L01",
                 "L02"
             ]
         }
-    ]
+    ],
+    "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
 }
