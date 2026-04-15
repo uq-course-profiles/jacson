@@ -1,14 +1,46 @@
 {
-    "course_title": "Surface Mine Drilling and Blasting",
-    "study_period": "Sem 1 2026",
-    "location": "St Lucia",
-    "attendance": "In Person",
     "url": "https://course-profiles.uq.edu.au/course-profiles/MINE6110-22182-7620",
-    "full_course_code": "MINE6110-22182-7620",
+    "scraped_at": "2026-04-15T00:44:24.646209+00:00",
     "course_code": "MINE6110",
     "class_code": "22182",
     "semester_code": "7620",
-    "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "full_course_code": "MINE6110-22182-7620",
+    "course_title": "Surface Mine Drilling and Blasting",
+    "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+    "study_level": "Postgraduate Coursework",
+    "location": "St Lucia",
+    "attendance_mode": "In Person",
+    "units": "2",
+    "administrative_campus": "St Lucia",
+    "coordinating_unit": "Mech & Mine Engineering School",
+    "course_description": "This course covers the critical activity of drilling and blasting (D&B) in surface mining; addressing the importance of the engineering design and continuous improvement process. The course focuses on the impacts of drilling and blasting on downstream activities underpinned by a clear understanding of design principles; analysis; performance monitoring; process optimisation; safety; compliance and sustainability. These areas are supplemented by examining the role of current and emerging D&B technologies in the mining value chain.\n\nThe course consists of seven online modules, each focusing on key aspects of the drilling and blasting process, including foundational knowledge of rock blasting, design analysis and modelling techniques, and implementation practices. The modules covered are:\n\nThe design and analysis module will be further supported by the application of the JKSIMBLAST (2DBench) software package. Details and access to the software will be provided to students at the start of the course. Students will also be encouraged to utilise the drill and blast design software tools available to them at their respective sites, if need be.",
+    "requirements": {
+        "assumed_background": [
+            "Background knowledge in surface mining systems."
+        ]
+    },
+    "course_contacts": [
+        {
+            "role": "Course coordinator",
+            "role_slug": "course_coordinator",
+            "name": "Professor Italo Onederra",
+            "email": "i.onederra@uq.edu.au",
+            "email_uri": "mailto:i.onederra@uq.edu.au",
+            "phone": "+61 7 3365 4780",
+            "phone_uri": "tel:+61 7 3365 4780",
+            "notes_text": "Please email to arrange consultation.",
+            "notes_html": "<div class=\"contact-card__notes\"><p>Please email to arrange consultation.</p></div>"
+        }
+    ],
+    "course_staff": [
+        {
+            "role": "Lecturer",
+            "name": "Professor Italo Onederra",
+            "email": "i.onederra@uq.edu.au"
+        }
+    ],
+    "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThe course is delivered in a hybrid mode, comprising:\nSelf-paced online modules that include written materials, videos, formative activities, and quizzes.\nFace-to-face drop-in sessions, online, to support the learning process.\nA two-day face-to-face workshop to briefly review course content, but primarily serve as a platform for idea exchange, experience sharing, and general discussion.",
+    "course_aims": "The aim of this course is to equip professionals in the minerals industry with the knowledge and skills necessary to design and evaluate surface drilling and blasting (D&B) practices within the broader context of the mining value chain. Participants will learn to identify vulnerabilities of the design and implementation of D&B operations, assess their impact on subsequent stages of the mining process, and support the development of continuous improvement strategies across various mineral commodities.",
     "learning_outcomes": [
         {
             "number": "LO1.",
@@ -33,8 +65,10 @@
     ],
     "assessments": [
         {
-            "assessment_detail_section_id": "assessment-detail-0",
+            "category": "Presentation",
             "assessment_title": "Proposal Pitch Presentation",
+            "weighting": "5%",
+            "due_date": "6/03/2026 5:00 pm",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
@@ -44,41 +78,25 @@
                     "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
                     "special_indicator_text": "Online"
                 }
-            ],
-            "weighting": "<dd>5%</dd>",
-            "due_date": "<dd><p> 6/03/2026 5:00 pm</p></dd>",
-            "learning_objectives": "L02, L03, L05",
-            "mode": "Oral",
-            "category": "Presentation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This component involves pitching your D&amp;B continuous improvement project proposal via a PowerPoint presentation of no more than 10 minutes covering the following elements:</p>\n<ul>\n<li>Background</li>\n<li>Aim and scope</li>\n<li>Value proposition </li>\n<li>Proposed Methodology</li>\n<li>Key Risks</li>\n<li>Work Plan (Gantt chart)</li>\n</ul>\n<p>This presentation will be an opportunity to offer feedback and guidance for the successful scoping of your CI project.</p>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Submission will be via Teams.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            ]
         },
         {
-            "assessment_detail_section_id": "assessment-detail-1",
+            "category": "Paper/ Report/ Annotation",
             "assessment_title": "Project Brief",
+            "weighting": "20%",
+            "due_date": "13/03/2026 5:00 pm",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
                     "special_indicator_text": "Online"
                 }
-            ],
-            "weighting": "<dd>20%</dd>",
-            "due_date": "<dd><p> 13/03/2026 5:00 pm</p></dd>",
-            "learning_objectives": "L02, L03, L05",
-            "mode": "Written",
-            "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This component involves the review and selection of a D&amp;B design under implementation or previously implemented at your operation. If you are not in an operational setting, a real case study will be made available. You will be required to submit a two-page project brief using the available fillable PDF template.</p>\n<p>The project brief provides basic information of the design evaluation and improvement project that you will be conducting and includes the following:</p>\n<ul>\n<li><strong>Background:</strong> Provide a brief description of the operation, mining method and current D&amp;B activities</li>\n<li><strong>Problem statement:</strong> Provide context on a selected design and specific performance issue that would benefit from a revision and evaluation. Consultation with your colleagues and supervisors is expected.</li>\n<li><strong>Project Objectives:</strong> Outline the main objectives of this design evaluation and improvement project.</li>\n<li><strong>Value proposition:</strong> Outline the potential benefits of this design evaluation project.</li>\n<li><strong>Project methodology: </strong>Outline the scope of the design evaluation and briefly describe the approach required to achieve the key objectives. Describe any data collection requirements and any assumptions or limitations.</li>\n<li><strong>Project plan and risks:</strong> Briefly provide a delivery plan and identify the risks to completing this project.</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Submission will be via Turn-it-in on Blackboard.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            ]
         },
         {
-            "assessment_detail_section_id": "assessment-detail-2",
+            "category": "Presentation",
             "assessment_title": "Presentation of Report Findings and Q&A",
+            "weighting": "25%",
+            "due_date": "13/04/2026 9:00 am",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
@@ -88,46 +106,119 @@
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 }
-            ],
-            "weighting": "<dd>25%</dd>",
-            "due_date": "<dd><p> 13/04/2026 9:00 am</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05",
-            "mode": "Oral",
-            "category": "Presentation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this component you will be required to prepare a 10 minute presentation to be delivered during the workshop on campus. This final presentation will provide an opportunity to share experiences and generate discussion between the course participants. This task also involves an additional 5 minute Q&amp;A component to examine the participants acquired knowledge in the area.</p>\n<p>This presentation should include the following:</p>\n<ul>\n<li>Introduction with a brief description of the project (i.e. details of D&amp;B design evaluated)</li>\n<li>Description of methodology and assumptions</li>\n<li>Results of evaluation and design improvements</li>\n<li>Summary of an implementation plan including a description of a process map highlighting key sign off, QA/QC and performance evaluation processes required</li>\n<li>Conclusions and recommendations</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Presentation to be delivered during the workshop on campus.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            ]
         },
         {
-            "assessment_detail_section_id": "assessment-detail-3",
+            "category": "Paper/ Report/ Annotation",
             "assessment_title": "Final Report",
+            "weighting": "50%",
+            "due_date": "27/04/2026 5:00 pm",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
                     "special_indicator_text": "Hurdle"
                 }
-            ],
-            "weighting": "<dd>50%</dd>",
-            "due_date": "<dd><p> 27/04/2026 5:00 pm</p></dd>",
-            "learning_objectives": "L01, L02, L03, L04, L05",
-            "mode": "Written",
-            "category": "Paper/ Report/ Annotation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A final report of no more than 10 pages (excluding coversheet, table of contents/figures and appendices) must be submitted and should include but is not limited to:</p>\n<ul>\n<li>A one-page executive summary</li>\n<li>Introduction with a brief description of the operation and D&amp;B activities implemented.</li>\n<li>Description the selected D&amp;B design evaluated</li>\n<li>Description of methodology and assumptions.</li>\n<li>Results of design evaluation and improvement recommendations</li>\n<li>Implementation plan</li>\n<li>Process map highlighting key QA/QC and performance evaluation processes</li>\n<li>Final conclusions and recommendations</li>\n<li>Relevant references and appendices</li>\n</ul>\n<p>Please refer to Blackboard for a detailed marking criteria.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Submission will be via turn-it-in on Blackboard.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            ]
         }
     ],
+    "assessment_details": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Proposal Pitch Presentation",
+            "mode": "Oral",
+            "category": "Presentation",
+            "weighting": "5%",
+            "due_date": "6/03/2026 5:00 pm",
+            "learning_objectives": "L02, L03, L05",
+            "task_description": "This component involves pitching your D&B continuous improvement project proposal via a PowerPoint presentation of no more than 10 minutes covering the following elements: Background Aim and scope Value proposition Proposed Methodology Key Risks Work Plan (Gantt chart) This presentation will be an opportunity to offer feedback and guidance for the successful scoping of your CI project. Please refer to Blackboard for a detailed marking criteria. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+            "submission_guidelines": "Submission will be via Teams.\nDeferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAs this is timed-assessment, Student Access Plans (SAPs) are not suitable supporting documentation. Students must provide evidence that demonstrates their inability to attend the assessment at the scheduled time.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice around presentations to clients/industry partners, no late submissions will be accepted and a 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic).",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+            "ai_statement": "This component involves pitching your D&B continuous improvement project proposal via a PowerPoint presentation of no more than 10 minutes covering the following elements: Background Aim and scope Value proposition Proposed Methodology Key Risks Work Plan (Gantt chart) This presentation will be an opportunity to offer feedback and guidance for the successful scoping of your CI project. Please refer to Blackboard for a detailed marking criteria. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ]
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Project Brief",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "weighting": "20%",
+            "due_date": "13/03/2026 5:00 pm",
+            "learning_objectives": "L02, L03, L05",
+            "task_description": "This component involves the review and selection of a D&B design under implementation or previously implemented at your operation. If you are not in an operational setting, a real case study will be made available. You will be required to submit a two-page project brief using the available fillable PDF template. The project brief provides basic information of the design evaluation and improvement project that you will be conducting and includes the following: Background: Provide a brief description of the operation, mining method and current D&B activities Problem statement: Provide context on a selected design and specific performance issue that would benefit from a revision and evaluation. Consultation with your colleagues and supervisors is expected. Project Objectives: Outline the main objectives of this design evaluation and improvement project. Value proposition: Outline the potential benefits of this design evaluation project. Project methodology: Outline the scope of the design evaluation and briefly describe the approach required to achieve the key objectives. Describe any data collection requirements and any assumptions or limitations. Project plan and risks: Briefly provide a delivery plan and identify the risks to completing this project. Please refer to Blackboard for a detailed marking criteria. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+            "submission_guidelines": "Submission will be via Turn-it-in on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "This component involves the review and selection of a D&B design under implementation or previously implemented at your operation. If you are not in an operational setting, a real case study will be made available. You will be required to submit a two-page project brief using the available fillable PDF template. The project brief provides basic information of the design evaluation and improvement project that you will be conducting and includes the following: Background: Provide a brief description of the operation, mining method and current D&B activities Problem statement: Provide context on a selected design and specific performance issue that would benefit from a revision and evaluation. Consultation with your colleagues and supervisors is expected. Project Objectives: Outline the main objectives of this design evaluation and improvement project. Value proposition: Outline the potential benefits of this design evaluation project. Project methodology: Outline the scope of the design evaluation and briefly describe the approach required to achieve the key objectives. Describe any data collection requirements and any assumptions or limitations. Project plan and risks: Briefly provide a delivery plan and identify the risks to completing this project. Please refer to Blackboard for a detailed marking criteria. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ]
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Presentation of Report Findings and Q&A",
+            "mode": "Oral",
+            "category": "Presentation",
+            "weighting": "25%",
+            "due_date": "13/04/2026 9:00 am",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "task_description": "For this component you will be required to prepare a 10 minute presentation to be delivered during the workshop on campus. This final presentation will provide an opportunity to share experiences and generate discussion between the course participants. This task also involves an additional 5 minute Q&A component to examine the participants acquired knowledge in the area. This presentation should include the following: Introduction with a brief description of the project (i.e. details of D&B design evaluated) Description of methodology and assumptions Results of evaluation and design improvements Summary of an implementation plan including a description of a process map highlighting key sign off, QA/QC and performance evaluation processes required Conclusions and recommendations Please refer to Blackboard for a detailed marking criteria. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+            "submission_guidelines": "Presentation to be delivered during the workshop on campus.\nDeferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAs this is timed-assessment, Student Access Plans (SAPs) are not suitable supporting documentation. Students must provide evidence that demonstrates their inability to attend the assessment at the scheduled time.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice, presentation is scheduled and timebound.\nThis has been approved by the Associate Dean (Academic).",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+            "ai_statement": "For this component you will be required to prepare a 10 minute presentation to be delivered during the workshop on campus. This final presentation will provide an opportunity to share experiences and generate discussion between the course participants. This task also involves an additional 5 minute Q&A component to examine the participants acquired knowledge in the area. This presentation should include the following: Introduction with a brief description of the project (i.e. details of D&B design evaluated) Description of methodology and assumptions Results of evaluation and design improvements Summary of an implementation plan including a description of a process map highlighting key sign off, QA/QC and performance evaluation processes required Conclusions and recommendations Please refer to Blackboard for a detailed marking criteria. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ]
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Report",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "weighting": "50%",
+            "due_date": "27/04/2026 5:00 pm",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "task_description": "A final report of no more than 10 pages (excluding coversheet, table of contents/figures and appendices) must be submitted and should include but is not limited to: A one-page executive summary Introduction with a brief description of the operation and D&B activities implemented. Description the selected D&B design evaluated Description of methodology and assumptions. Results of design evaluation and improvement recommendations Implementation plan Process map highlighting key QA/QC and performance evaluation processes Final conclusions and recommendations Relevant references and appendices Please refer to Blackboard for a detailed marking criteria. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+            "submission_guidelines": "Submission will be via turn-it-in on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "deferral_or_extension": "You may be able to apply for an extension .",
+            "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+            "ai_statement": "A final report of no more than 10 pages (excluding coversheet, table of contents/figures and appendices) must be submitted and should include but is not limited to: A one-page executive summary Introduction with a brief description of the operation and D&B activities implemented. Description the selected D&B design evaluated Description of methodology and assumptions. Results of design evaluation and improvement recommendations Implementation plan Process map highlighting key QA/QC and performance evaluation processes Final conclusions and recommendations Relevant references and appendices Please refer to Blackboard for a detailed marking criteria. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ]
+        }
+    ],
+    "learning_resources": {
+        "library_resources": "Library resources are available on the UQ Library website ."
+    },
     "learning_activities": [
         {
-            "learning_period": "O-week(16 Feb - 22 Feb)",
+            "learning_period": "O-week (16 Feb - 22 Feb)",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Online kick off meeting</strong><br><p>Online kick off meeting prior to the commencement of the course to discuss the course, assessment, expectations around engagement and how to access the different tools available (Blackboard, Ed discussion board and Blasting Software)</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
-            "topic_title": "<strong>Online kick off meeting</strong>",
-            "topic_description": "Online kick off meeting Online kick off meeting prior to the commencement of the course to discuss the course, assessment, expectations around engagement and how to access the different tools available (Blackboard, Ed discussion board and Blasting Software)",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -137,28 +228,20 @@
             ]
         },
         {
-            "learning_period": "Multiple weeksFrom Week 1 To Week 6",
+            "learning_period": "Multiple weeks From Week 1 To Week 6",
             "activity_type": "Not Timetabled",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Self paced online modules</strong><br/><p>Students muct complete seven self paced online modules from Week1 until Week 6. The modules cover the following topics:</p>\n<ul>\n<li>Mining Value Chain</li>\n<li>Rock Blasting Fundamentals</li>\n<li>Drilling, Explosives and Initiation Systems</li>\n<li>Practical blast damage and fragmentation modelling</li>\n<li>Blast deisgn and analysis</li>\n<li>Environmental impacts of blasting</li>\n<li>Design implemenetation and operational considerations</li>\n</ul></p></div></td>",
-            "topic_title": "<strong>Self paced online modules</strong>",
-            "topic_description": "Self paced online modules Students muct complete seven self paced online modules from Week1 until Week 6. The modules cover the following topics: Mining Value Chain Rock Blasting Fundamentals Drilling, Explosives and Initiation Systems Practical blast damage and fragmentation modelling Blast deisgn and analysis Environmental impacts of blasting Design implemenetation and operational considerations",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self paced online modules</strong><br/><p>Students muct complete seven self paced online modules from Week1 until Week 6. The modules cover the following topics:</p>\n<ul>\n<li>Mining Value Chain</li>\n<li>Rock Blasting Fundamentals</li>\n<li>Drilling, Explosives and Initiation Systems</li>\n<li>Practical blast damage and fragmentation modelling</li>\n<li>Blast deisgn and analysis</li>\n<li>Environmental impacts of blasting</li>\n<li>Design implemenetation and operational considerations</li>\n</ul></p></div></td>"
         },
         {
-            "learning_period": "Multiple weeksFrom Week 1 To Week 6",
+            "learning_period": "Multiple weeks From Week 1 To Week 6",
             "activity_type": "General contact hours",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Online one hour drop-in Q&amp;A sessions</strong><br/><p>Weekly Q&amp;A Drop-in online sessions to support the learning process. Please review Blackboard instance for times and links</p></p></div></td>",
-            "topic_title": "<strong>Online one hour drop-in Q&amp;A sessions</strong>",
-            "topic_description": "Online one hour drop-in Q&A sessions Weekly Q&A Drop-in online sessions to support the learning process. Please review Blackboard instance for times and links",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Online one hour drop-in Q&amp;A sessions</strong><br/><p>Weekly Q&amp;A Drop-in online sessions to support the learning process. Please review Blackboard instance for times and links</p></p></div></td>"
         },
         {
             "learning_period": "Week 7",
             "activity_type": "Workshop",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>On campus workshop - Monday 13 April 2026 </strong><br/><p>Two-day design and blast workshop on campus. </p></p></div></td>",
-            "topic_title": "<strong>On campus workshop - Monday 13 April 2026 </strong>",
-            "topic_description": "On campus workshop - Monday 13 April 2026 Two-day design and blast workshop on campus.",
-            "learning_outcomes": []
+            "topic": "<td data-title=\"Topic\"><div><p><strong>On campus workshop - Monday 13 April 2026 </strong><br/><p>Two-day design and blast workshop on campus. </p></p></div></td>"
         }
-    ]
+    ],
+    "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
 }
