@@ -35,12 +35,7 @@
         {
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Mid-semester exam",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
-                    "special_indicator_text": "In-person"
-                }
-            ],
+            "special_indicators": [],
             "weighting": "<dd>20% twenty per cent </dd>",
             "due_date": "<dd><p> 14/04/2026 4:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05",
