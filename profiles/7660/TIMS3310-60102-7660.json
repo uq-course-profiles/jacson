@@ -33,7 +33,7 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "<dd>20%</dd>",
+            "weighting": "<dd>25%</dd>",
             "due_date": "<dd><p> 26/09/2025 5:00 pm</p></dd>",
             "learning_objectives": "L01, L03",
             "mode": "Product/ Artefact/ Multimedia",
@@ -53,7 +53,7 @@
                     "special_indicator_text": "Team or group-based"
                 }
             ],
-            "weighting": "<dd>30%</dd>",
+            "weighting": "<dd>35%</dd>",
             "due_date": "<dd><p> 31/10/2025 5:00 pm</p></dd>",
             "learning_objectives": "L01, L03",
             "mode": "Oral",
@@ -68,7 +68,7 @@
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Personal Development",
             "special_indicators": [],
-            "weighting": "<dd>50%</dd>",
+            "weighting": "<dd>40%</dd>",
             "due_date": "<dd><p> 10/11/2025 5:00 pm</p></dd>",
             "learning_objectives": "L02",
             "mode": "Written",
@@ -232,9 +232,9 @@
         {
             "learning_period": "Week 13",
             "activity_type": "Workshop",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment 3 Workshop</strong><br/><p>Our final class now is devoted to working through Assessment 3 with an example</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment 3 Workshop</strong><br/><p>Our last class is devoted to working through an Assessment 3 example</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
             "topic_title": "<strong>Assessment 3 Workshop</strong>",
-            "topic_description": "Assessment 3 Workshop Our final class now is devoted to working through Assessment 3 with an example",
+            "topic_description": "Assessment 3 Workshop Our last class is devoted to working through an Assessment 3 example",
             "learning_outcomes": [
                 "L02"
             ]
