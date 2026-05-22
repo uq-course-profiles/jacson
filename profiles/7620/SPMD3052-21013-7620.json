@@ -71,16 +71,7 @@
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "In-Semester Examination",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
-                    "special_indicator_text": "Hurdle"
-                },
-                {
-                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
-                    "special_indicator_text": "In-person"
-                }
-            ],
+            "special_indicators": [],
             "weighting": "<dd>30%</dd>",
             "due_date": "<dd><p> 28/04/2026</p>\n<p>\n</p><p>During timetabled workshop activity.</p></dd>",
             "learning_objectives": "L01, L02, L06, L07",
