@@ -9,7 +9,48 @@
     "class_code": "63323",
     "semester_code": "7460",
     "semester_details": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Appropriately apply basic quantitative techniques from the physical sciences to biological systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Describe the structures and phenomena of basic cell & molecular biology, such as lipid membranes, protein structure, and DNA."
+        },
+        {
+            "number": "LO3.",
+            "description": "Describe how biological systems are structured at the molecular and cellular level; the primary, secondary, tertiary and quaternary structure of proteins, and how proteins, nucleic acids and lipids assemble into functional complexes."
+        },
+        {
+            "number": "LO4.",
+            "description": "Describe how length, time and energy scales are relevant to molecular and cellular structures."
+        },
+        {
+            "number": "LO5.",
+            "description": "Describe how dynamics and thermodynamics governing living systems."
+        },
+        {
+            "number": "LO6.",
+            "description": "Explain how biological macromolecules interact with visible light, magnetic fields, radio frequency radiation, gravity, and other physical stimuli and environmental factors."
+        },
+        {
+            "number": "LO7.",
+            "description": "Describe the underlying theoretical principles of experimental techniques used to study biological systems"
+        },
+        {
+            "number": "LO8.",
+            "description": "Identify whether a particular experimental approach is appropriate for studying a given biological problem."
+        },
+        {
+            "number": "LO9.",
+            "description": "Use experimental results to calculate and interpret biological data in a quantitative manner."
+        },
+        {
+            "number": "LO10.",
+            "description": "Explain the physical basis of a range of biophysical techniques and their application in an experimental setting."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
