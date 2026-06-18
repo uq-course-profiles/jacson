@@ -1,0 +1,310 @@
+{
+    "course_title": "Earth Observation: Advanced Image Processing & Modelling",
+    "study_period": "Sem 2 2026",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/GEOM7001-62235-7660",
+    "full_course_code": "GEOM7001-62235-7660",
+    "course_code": "GEOM7001",
+    "class_code": "62235",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply the fundamental concepts of remote sensing, including spatial, spectral, radiometric, and temporal resolutions, and their applications in various geographical and professional environments."
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrate proficiency in fundamental image processing operations for extracting information from remotely sensed data, including pre-processing, corrections, enhancements, classification, biophysical modelling, and accuracy assessment."
+        },
+        {
+            "number": "LO3.",
+            "description": "Design, plan, and execute a complete remote sensing project, from data acquisition to analysis and presentation, integrating field data and non-image data within GIS or image processing environments."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate the appropriateness of various remotely sensed data sets and ancillary data for specific applications."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply big data Earth Observation analytic platforms for modern remote sensing applications."
+        },
+        {
+            "number": "LO6.",
+            "description": "Analyse advanced remote sensing data types, including hyperspectral, LiDAR, and RADAR images, as well as conduct multi-temporal analyses."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Remote Sensing Project Proposal",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 4/09/2026 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will work individually to design an image processing project based on the material covered in weeks 1-5 of the course. </p>\n<p>This project involves selecting a topic, using GenAI to generate initial literature content, critically evaluating and refining that output, and outlining an image processing sequence (including geometric and radiometric corrections, spectral and spatial enhancements, image classification, and accuracy assessment). Note that some corrections may already be applied to the imagery available for use in this project, so please outline these in enough detail to demonstrate your understanding of their purpose and necessity.</p>\n<p>You may choose an application area of personal interest (land-use, agriculture, vegetation, geomorphology, soils, geology, urban form and condition, or another topic). If you do not have an interest in a particular topic, a land-cover classification project may be suitable. While the choice of problem is flexible, the project's focus must remain on remote sensing and image processing (as opposed to GIS or ecological modelling, for example).</p>\n<p>The project will outline an image processing sequence of remote sensing data for an area of your choice. The area extent is suggested to be up to ~25 km² (with a large degree of freedom, noting that smaller may be better for targeted insights) to provide an informed analysis. You will need to select a suitable mapping or modelling application to apply. Please speak with the teaching team for recommendations. GenAI use is mandatory for initial literature generation but must adhere to course restrictions: all outputs (if used for the final proposal submission) must be verified and disclosed.</p>\n<p>See the supplied Proposal Brief and Proposal Template and follow these for the submission.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Remote Sensing Project Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 30/10/2026 2:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Notebook/ Logbook, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>After submitting your Assessment task 1: Project Proposal, you will utilise the theoretical and practicals skills taught throughout the semester (together with any feedback received on your Task 1 submission) to complete this Project Report as Assessment 2 – your image processing project.</p>\n<p>Your project will be communicated as a report, building on the content of your Proposal - see <strong>Report Template</strong> (on Blackboard) for a breakdown of sections and detailed requirements.</p>\n<p>You may directly use material from your Proposal - this is the intention.</p>\n<p><strong>Report Structure and Requirements</strong></p>\n<p>Your report must contain the sections below, in order. The word guides indicate the expected depth of each section and are guides, not hard limits; the overall limit of 3500 ±20% words (excluding references, appendices, the data processing log, and the GenAI statement) is the binding constraint. The Report Template (on Blackboard) demonstrates how to lay out each section and provides worked guidance for the elements listed here.</p>\n<p><strong>Title page and contents: </strong> Short informative title (what, where, when, which data); one-sentence research-question subtitle; table of contents.</p>\n<p><strong>Abstract (</strong>~300 words): Concise summary of the project and main findings (a structured summary-paragraph format is recommended).</p>\n<p><strong>Introduction and background </strong> (~1000 words): Importance of the topic; why remote sensing is appropriate; literature review of prior studies (data, methods, level of success); research gap(s) and future directions; synthesis linking to your research question. May be carried forward and extended from the Proposal. A comparison table of prior studies is encouraged.</p>\n<p><strong>Aims and objectives </strong> (~150 words): Primary and secondary objectives addressing your research question, plus a brief outline of the main steps you followed.</p>\n<p><strong>Data and methodology</strong> (incl. study site, datasets, methods flowchart, error assessment) (~950 words)</p>\n<p><strong>Results and Discussion </strong>(~1100 words): Meaningful figures and maps that answer the research question (not thumbnails of every image); findings discussed against prior work; agreement, surprises; strengths and limitations of the methods and results. This is the most heavily weighted part of the report.</p>\n<p><strong>Conclusions and future work </strong> (~400 words): Summary of the work and its implications; explicit answers to your aims/research question; recommendations and future work.</p>\n<p><strong>Appendix, data processing log, GenAI statement, references </strong>(Not counted in word count): Supporting material referenced in the body only; a shared link to your data processing log or notebook(s); a GenAI disclosure statement; and a reference list of at least 10 peer-reviewed references (GEOM3001) or at least 15 (GEOM7001) in a consistent style (APA 7th recommended).</p>\n<p><strong>Key Instructions</strong></p>\n<p>·        Consult the supplied<strong> Report Template </strong>(on BB) for detailed instructions.</p>\n<p>·        Consult the detailed<strong> Assessment 1 &amp; 2 Guidance document </strong>(on BB)<strong> </strong>with more information.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "End of Semester Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>This exam requires attendance on campus, or at an approved off-campus exam centre. You must be able to attend one of these venues. Please refer to the </strong><a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/off-campus-exams\"><strong>Off-Campus exams information page</strong></a><strong> for further information. Please note a digital exam is not available for this assessment.</strong></p>\n<p>This task is completed under central examination conditions and schedules. It is the only individually verified, closed-book component of the course, and it assesses your knowledge and abilities to reason and apply Earth-observation image-processing workflows without reference to notes, software, or AI tools.</p>\n<p>The exam builds directly on the lectures and practicals and on the knowledge and skills you built and applied in your project assessment. Where the project asks you to design and execute a workflow over a semester, the exam asks you to demonstrate the underlying understanding under time constraints - to recognise sound and flawed practice, and to justify your own choices. The focus of the exam:</p>\n<p>•   <strong>Workflow critique and applied design. </strong>The major section, built on a single scenario in two parts. In the first part you critique a plausible but flawed end-to-end workflow: you identify its most significant methodological problems, explain why each is a problem, and propose corrections. In the second part you design and defend your own approach to the same problem (i.e. data, processing sequence, and accuracy assessment) justifying your choices against the stated constraints and the obvious alternatives.</p>\n<p>Across the paper you will be expected to:</p>\n<p>•   apply the fundamental concepts of remote sensing, including spatial, spectral, radiometric and temporal resolution, to specific problems;</p>\n<p>•   evaluate image-processing operations (e.g. pre-processing, corrections, enhancements, classification, biophysical modelling, and accuracy assessment) and recognise where they are misapplied;</p>\n<p>•   judge the appropriateness of different remotely sensed and ancillary datasets for a stated application;</p>\n<p>•   reason about advanced data types and multi-temporal analysis; and</p>\n<p>•   explain the strengths, limitations, and sources of error in the data and methods you discuss.</p>\n<p>Grading criteria are based on correct reasoning and justification, not length or restatement of the question. Indicative marks are shown beside each question on the paper. An example paper will be made available, and exam expectations will be discussed toward the end of semester.</p>\n<p><strong>GEOM3001 and GEOM7001. </strong>Both cohorts sit a single paper of the same total mark value over the same duration. Some questions carry an additional or extended part marked “GEOM7001 only” reflecting the more advanced standard expected at postgraduate level; where GEOM7001 students answer an extended part, the corresponding common part is reduced so that the section totals are the same for both cohorts. </p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(27 Jul - 02 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 1: Course introduction and overview</strong><br/><p>Course introduction and overview</p></p></div></td>",
+            "topic_title": "<strong>Lecture 1: Course introduction and overview</strong>",
+            "topic_description": "Lecture 1: Course introduction and overview Course introduction and overview",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1(27 Jul - 02 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 1: code based computing for geospatial data. Part 1: basic python and Sandbox/Planetary PC. intro to data cubes (Digital Earth Aus P1)</strong><br/><p>code based computing for geospatial data: intro to data cubes (Digital Earth Aus P1)</p></p></div></td>",
+            "topic_title": "<strong>Practical 1: code based computing for geospatial data. Part 1: basic python and Sandbox/Planetary PC. intro to data cubes (Digital Earth Aus P1)</strong>",
+            "topic_description": "Practical 1: code based computing for geospatial data. Part 1: basic python and Sandbox/Planetary PC. intro to data cubes (Digital Earth Aus P1) code based computing for geospatial data: intro to data cubes (Digital Earth Aus P1)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(03 Aug - 09 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 2: Digital earths &amp; multi-temporal data analysis</strong><br/><p>Digital earths &amp; multi-temporal data analysis</p></p></div></td>",
+            "topic_title": "<strong>Lecture 2: Digital earths &amp; multi-temporal data analysis</strong>",
+            "topic_description": "Lecture 2: Digital earths & multi-temporal data analysis Digital earths & multi-temporal data analysis",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(03 Aug - 09 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 2: code based computing for geospatial data: DEA Part 2 - multitemporal data</strong><br/><p>code based computing for geospatial data: DEA P2 - multitemporal</p></p></div></td>",
+            "topic_title": "<strong>Practical 2: code based computing for geospatial data: DEA Part 2 - multitemporal data</strong>",
+            "topic_description": "Practical 2: code based computing for geospatial data: DEA Part 2 - multitemporal data code based computing for geospatial data: DEA P2 - multitemporal",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(10 Aug - 16 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 3: code based computing for geospatial data: DEA Part 3</strong><br/><p>code based computing for geospatial data: DEA P3 - reading in external data</p></p></div></td>",
+            "topic_title": "<strong>Practical 3: code based computing for geospatial data: DEA Part 3</strong>",
+            "topic_description": "Practical 3: code based computing for geospatial data: DEA Part 3 code based computing for geospatial data: DEA P3 - reading in external data",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(17 Aug - 23 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 3: Open and Online (big) Data Science for Earth Observation (Part 1), Drone processing workflows (Part 2)</strong><br/><p>Open and Online (big) Data Science for Earth Observation (Part 1), Drone processing workflows (Part 2)</p></p></div></td>",
+            "topic_title": "<strong>Lecture 3: Open and Online (big) Data Science for Earth Observation (Part 1), Drone processing workflows (Part 2)</strong>",
+            "topic_description": "Lecture 3: Open and Online (big) Data Science for Earth Observation (Part 1), Drone processing workflows (Part 2) Open and Online (big) Data Science for Earth Observation (Part 1), Drone processing workflows (Part 2)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(17 Aug - 23 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 4: Introduction to ENVI with new image types</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 4: Introduction to ENVI with new image types</strong>",
+            "topic_description": "Practical 4: Introduction to ENVI with new image types",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(24 Aug - 30 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 4: Image data pre-processing (Geometric, Radiometric, atmospheric corrections)</strong><br/><p>Pre-processing (Geometric, Radiometric, atmospheric corrections)</p></p></div></td>",
+            "topic_title": "<strong>Lecture 4: Image data pre-processing (Geometric, Radiometric, atmospheric corrections)</strong>",
+            "topic_description": "Lecture 4: Image data pre-processing (Geometric, Radiometric, atmospheric corrections) Pre-processing (Geometric, Radiometric, atmospheric corrections)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5(24 Aug - 30 Aug)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 5: Pre-processing Operations (ENVI)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 5: Pre-processing Operations (ENVI)</strong>",
+            "topic_description": "Practical 5: Pre-processing Operations (ENVI)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(31 Aug - 06 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 5: Thematic information extraction (across platforms)</strong><br/><p>Thematic information extraction (across platforms)</p></p></div></td>",
+            "topic_title": "<strong>Lecture 5: Thematic information extraction (across platforms)</strong>",
+            "topic_description": "Lecture 5: Thematic information extraction (across platforms) Thematic information extraction (across platforms)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6(31 Aug - 06 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 6: Supervised and unsupervised image classifications (ENVI)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 6: Supervised and unsupervised image classifications (ENVI)</strong>",
+            "topic_description": "Practical 6: Supervised and unsupervised image classifications (ENVI)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(07 Sep - 13 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 6: Biophysical information extraction &amp; error and accuracy assessment</strong><br/><p>Biophysical information extraction &amp; error and accuracy assessment</p></p></div></td>",
+            "topic_title": "<strong>Lecture 6: Biophysical information extraction &amp; error and accuracy assessment</strong>",
+            "topic_description": "Lecture 6: Biophysical information extraction & error and accuracy assessment Biophysical information extraction & error and accuracy assessment",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7(07 Sep - 13 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 7: Accuracy assessment with reference thematic map and data points (ENVI)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 7: Accuracy assessment with reference thematic map and data points (ENVI)</strong>",
+            "topic_description": "Practical 7: Accuracy assessment with reference thematic map and data points (ENVI)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(14 Sep - 20 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 7: LiDAR image processing &amp; radiative transfer model applications</strong><br/><p>LiDAR image processing &amp; radiative transfer model applications</p></p></div></td>",
+            "topic_title": "<strong>Lecture 7: LiDAR image processing &amp; radiative transfer model applications</strong>",
+            "topic_description": "Lecture 7: LiDAR image processing & radiative transfer model applications LiDAR image processing & radiative transfer model applications",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8(14 Sep - 20 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 8: code based computing for geospatial data - other data and tools (Part 1)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 8: code based computing for geospatial data - other data and tools (Part 1)</strong>",
+            "topic_description": "Practical 8: code based computing for geospatial data - other data and tools (Part 1)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(21 Sep - 27 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 8: Aquatic remote sensing</strong><br/><p>Aquatic remote sensing</p></p></div></td>",
+            "topic_title": "<strong>Lecture 8: Aquatic remote sensing</strong>",
+            "topic_description": "Lecture 8: Aquatic remote sensing Aquatic remote sensing",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9(21 Sep - 27 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 9: code based computing for geospatial data &amp; project support</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 9: code based computing for geospatial data &amp; project support</strong>",
+            "topic_description": "Practical 9: code based computing for geospatial data & project support",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(05 Oct - 11 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 9: Project review discussion</strong><br/><p>Project review discussion</p></p></div></td>",
+            "topic_title": "<strong>Lecture 9: Project review discussion</strong>",
+            "topic_description": "Lecture 9: Project review discussion Project review discussion",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(05 Oct - 11 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 10: project support</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 10: project support</strong>",
+            "topic_description": "Practical 10: project support",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(12 Oct - 18 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 10: Drones for Earth Observation</strong><br/></p></div></td>",
+            "topic_title": "<strong>Lecture 10: Drones for Earth Observation</strong>",
+            "topic_description": "Lecture 10: Drones for Earth Observation",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(12 Oct - 18 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 11: project support</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 11: project support</strong>",
+            "topic_description": "Practical 11: project support",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(19 Oct - 25 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 11: Radar image processing and applications</strong><br/><p>Radar image processing and applications</p></p></div></td>",
+            "topic_title": "<strong>Lecture 11: Radar image processing and applications</strong>",
+            "topic_description": "Lecture 11: Radar image processing and applications Radar image processing and applications",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(19 Oct - 25 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 12: project support</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 12: project support</strong>",
+            "topic_description": "Practical 12: project support",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture 12: Class discussion: job ready skills and the future trajectory of space and spatial</strong><br/><p>Class discussion: job ready skills and the future trajectory of space and spatial</p></p></div></td>",
+            "topic_title": "<strong>Lecture 12: Class discussion: job ready skills and the future trajectory of space and spatial</strong>",
+            "topic_description": "Lecture 12: Class discussion: job ready skills and the future trajectory of space and spatial Class discussion: job ready skills and the future trajectory of space and spatial",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical 12: project support</strong><br/></p></div></td>",
+            "topic_title": "<strong>Practical 12: project support</strong>",
+            "topic_description": "Practical 12: project support",
+            "learning_outcomes": []
+        }
+    ]
+}
