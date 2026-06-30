@@ -9,7 +9,28 @@
     "class_code": "22198",
     "semester_code": "7620",
     "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Record built environment information using a range of media and technologies."
+        },
+        {
+            "number": "LO2.",
+            "description": "Create models, drawings and visualisations using a range of digital media and apply critical thinking."
+        },
+        {
+            "number": "LO3.",
+            "description": "Integrate and translate between drawings, models and visualisations created in different digital mediums."
+        },
+        {
+            "number": "LO4.",
+            "description": "Select appropriate architectural communication technologies, representation modes, conventions and qualities."
+        },
+        {
+            "number": "LO5.",
+            "description": "Prepare a set of architectural representations that convey context and design information."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
