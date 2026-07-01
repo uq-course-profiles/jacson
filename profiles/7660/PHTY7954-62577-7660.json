@@ -57,8 +57,8 @@
             "due_date": "<dd><p> 14/10/2026 9:00 am</p></dd>",
             "learning_objectives": "L01, L02, L03, L04",
             "mode": "Oral",
-            "category": "Examination, Presentation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students’ knowledge and understanding of the webcast content and associated readings will be assessed. Students will undergo an oral examination which will consist of a 7-minute presentation followed by 3 minutes of questions by the examiner. The oral examination question will be provided to all student 1 week prior to the examination as this is an open book examination.</p>\n<p>This assessment task is to be completed online.</p>\n<p>When a student is required to complete an oral or practical assessment item worth 20% or more, the performance will be recorded and retained per Appendix 1. (Assessment Procedure (95) )</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students’ knowledge and understanding of the webcast content and associated readings will be assessed. Students will be given a question and provided with 10 minutes to prepare a response. During the oral examination, students will have 7 minutes to answer the question followed by 3 minutes of questions by the examiner.</p>\n<p>This assessment task is to be completed online.</p>\n<p>When a student is required to complete an oral or practical assessment item worth 20% or more, the performance will be recorded and retained per Appendix 1. (Assessment Procedure (95)).</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
@@ -69,16 +69,12 @@
             "assessment_title": "Critical Appraisal Assignment",
             "special_indicators": [
                 {
-                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
-                    "special_indicator_text": "Hurdle"
-                },
-                {
                     "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
                     "special_indicator_text": "Online"
                 }
             ],
-            "weighting": "<dd>30% MUST PASS </dd>",
-            "due_date": "<dd><p> 18/09/2026 5:00 pm</p></dd>",
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 21/09/2026 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L03, L05",
             "mode": "Written",
             "category": "Essay/ Critique",
@@ -91,9 +87,14 @@
         {
             "assessment_detail_section_id": "assessment-detail-2",
             "assessment_title": "Case Report",
-            "special_indicators": [],
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
             "weighting": "<dd>40%</dd>",
-            "due_date": "<dd><p> 30/10/2026 5:00 pm</p></dd>",
+            "due_date": "<dd><p> 30/10/2026 2:00 pm</p></dd>",
             "learning_objectives": "L06, L07",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation, Project",
@@ -108,9 +109,9 @@
         {
             "learning_period": "Multiple weeksFrom Week 1 To Week 10(27 Jul - 11 Oct)",
             "activity_type": "Not Timetabled",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Webcasts regarding research design and translation to practice</strong><br><p>Students will watch a series of webcasts describing different research methodologies (e.g., quantitative, qualitative, clinical trials, etc) with the intent of better informing their interpretation and application of research literature to practice. Students will be assessed at the end of the semester as to their learning/knowledge from the webcasts. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Webcasts regarding research design and translation to practice</strong><br><p>Students will watch a series of webcasts describing different research methodologies (e.g., quantitative, qualitative, clinical trials, etc) with the intent of better informing their interpretation and application of research literature to practice. Students will be assessed on their learning/knowledge from the webcasts.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
             "topic_title": "<strong>Webcasts regarding research design and translation to practice</strong>",
-            "topic_description": "Webcasts regarding research design and translation to practice Students will watch a series of webcasts describing different research methodologies (e.g., quantitative, qualitative, clinical trials, etc) with the intent of better informing their interpretation and application of research literature to practice. Students will be assessed at the end of the semester as to their learning/knowledge from the webcasts.",
+            "topic_description": "Webcasts regarding research design and translation to practice Students will watch a series of webcasts describing different research methodologies (e.g., quantitative, qualitative, clinical trials, etc) with the intent of better informing their interpretation and application of research literature to practice. Students will be assessed on their learning/knowledge from the webcasts.",
             "learning_outcomes": [
                 "L01",
                 "L02",
