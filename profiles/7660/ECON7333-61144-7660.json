@@ -1,0 +1,265 @@
+{
+    "course_title": "Big Data and Machine Learning for Economics and Finance",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7333-61144-7660",
+    "full_course_code": "ECON7333-61144-7660",
+    "course_code": "ECON7333",
+    "class_code": "61144",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the concept of statistical learning."
+        },
+        {
+            "number": "LO2.",
+            "description": "Learn how to use the R computing framework."
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand the difference between parametric and non-parametric estimation."
+        },
+        {
+            "number": "LO4.",
+            "description": "Learn about some major classification techniques in machine learning."
+        },
+        {
+            "number": "LO5.",
+            "description": "Learn about some major regression techniques in machine learning."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Solving, Data Analysis and Short Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35% (Best 4 of 6) </dd>",
+            "due_date": "<dd><p>Periodic Assessments Throughout the Semester</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Computer Code, Quiz, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Take-home quizzes throughout the semester, with the first assignment due on Friday in Week 4. There will be 6 quizzes in total.</p>\n<p>Each quiz will consist of short-answer questions and R-exercises related to the material covered in lectures and tutorials. Students are <strong><em>STRICTLY REQUIRED to use R-MARKDOWN </em></strong>to \"<strong><em>KNIT</em></strong>\" a <strong><em>PDF file</em></strong> and submit it online via Blackboard.</p>\n<p>Marks will be awarded as indicated for each question on the quiz. The <strong><em>top 4 scores</em></strong> across 6 quizzes will count toward a student's final grade for the course. Students will be given the opportunity to obtain partial marks for incorrect final answers by explaining the steps taken in the derivations and clearly identifying where the error occurred.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online via Blackboard.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p> 21/09/2026 10:00 am</p>\n<p>\n</p><p>The exam will take place during the regular lecture time.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a closed-book exam and will cover statistical learning methods up to week 8.</p>\n<p>Marks will be shown on the paper next to each question. Up to half marks will be awarded for incorrect numerical answers, provided correct methods/formulas have been used.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Research Project",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 30/10/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The assignment will contain a set of practical and theoretical questions that guide students to write<strong> a research report</strong>. The contents will cover topics from previous lectures and tutorials. Answers and discussions, including the solution to each part of the project and the computer output, need to be provided. Students are <strong><em>STRICTLY REQUIRED to use R-MARKDOWN </em></strong>to \"<strong><em>KNIT</em></strong>\" a <strong><em>PDF file</em></strong> and submit it online via Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online submission via BB.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(27 Jul - 02 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Basics of machine learning</strong><br/><p>Introduction to the Framework of Statistical Learning</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Basics of machine learning</strong>",
+            "topic_description": "Basics of machine learning Introduction to the Framework of Statistical Learning",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Aug - 09 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S.L. 1</strong><br/><p>Statistical Learning: Classification and Regression Models 1.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>S.L. 1</strong>",
+            "topic_description": "S.L. 1 Statistical Learning: Classification and Regression Models 1.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Aug - 16 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S.L. 2</strong><br/><p>Statistical Learning: Classification and Regression Models 2.</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>S.L. 2</strong>",
+            "topic_description": "S.L. 2 Statistical Learning: Classification and Regression Models 2.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Aug - 23 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S.L.3</strong><br/><p>Statistical Learning: Classification and Regression Models 3.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>S.L.3</strong>",
+            "topic_description": "S.L.3 Statistical Learning: Classification and Regression Models 3.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Aug - 30 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S.L. 4</strong><br/><p>Statistical Learning: Classification and Regression Models 4</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>S.L. 4</strong>",
+            "topic_description": "S.L. 4 Statistical Learning: Classification and Regression Models 4",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Aug - 06 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S.L. and R.S. 1</strong><br/><p>Statistical Learning: Further Inferential Aspects 1</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>S.L. and R.S. 1</strong>",
+            "topic_description": "S.L. and R.S. 1 Statistical Learning: Further Inferential Aspects 1",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Sep - 13 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S.L and R.S. 2</strong><br/><p>Statistical Learning: Further Inferential Aspects 2</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>S.L and R.S. 2</strong>",
+            "topic_description": "S.L and R.S. 2 Statistical Learning: Further Inferential Aspects 2",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Sep - 20 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S.L. and H.D. 1</strong><br/><p>Statistical Learning: Extensions 1</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>S.L. and H.D. 1</strong>",
+            "topic_description": "S.L. and H.D. 1 Statistical Learning: Extensions 1",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(21 Sep - 27 Sep)",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester Examination</strong><br/><p>See Assessment section for more details.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>In-semester Examination</strong>",
+            "topic_description": "In-semester Examination See Assessment section for more details.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break(28 Sep - 04 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/><p>No Classes during the break.</p></p></div></td>",
+            "topic_title": "<strong>Mid-Semester Break</strong>",
+            "topic_description": "Mid-Semester Break No Classes during the break.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(05 Oct - 11 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>King's Birthday - no lecture and tutorials</strong><br/></p></div></td>",
+            "topic_title": "<strong>King's Birthday - no lecture and tutorials</strong>",
+            "topic_description": "King's Birthday - no lecture and tutorials",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(12 Oct - 18 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S.L. and F.T. 1</strong><br/><p>Statistical Learning: Further Topics 1.</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>S.L. and F.T. 1</strong>",
+            "topic_description": "S.L. and F.T. 1 Statistical Learning: Further Topics 1.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 Oct - 25 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>S.L. and F.T 2</strong><br/><p>Statistical Learning: Further Topics 2.</p></p><p><strong>Learning outcomes:</strong> L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>S.L. and F.T 2</strong>",
+            "topic_description": "S.L. and F.T 2 Statistical Learning: Further Topics 2.",
+            "learning_outcomes": [
+                "L02",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review (no tutorials)</strong><br/><p>Review Topics</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Review (no tutorials)</strong>",
+            "topic_description": "Review (no tutorials) Review Topics",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
