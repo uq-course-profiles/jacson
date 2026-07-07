@@ -9,7 +9,28 @@
     "class_code": "20291",
     "semester_code": "7620",
     "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the role of financial accounting in the business world including financial accounting framework, processes and reporting ethics."
+        },
+        {
+            "number": "LO2.",
+            "description": "Prepare accounting records and financial reports."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply relevant accounting standards to accounting issues."
+        },
+        {
+            "number": "LO4.",
+            "description": "Perform basic financial statement analysis."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate financial accounting information to make business decisions."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
