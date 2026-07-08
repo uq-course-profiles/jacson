@@ -259,10 +259,11 @@
         {
             "learning_period": "Week 8",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Guest Lecture: Industry Speaker</strong><br/></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
-            "topic_title": "<strong>Guest Lecture: Industry Speaker</strong>",
-            "topic_description": "Guest Lecture: Industry Speaker",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7: Behavioural Corporate Finance</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L06</p></div></td>",
+            "topic_title": "<strong>Tutorial 7: Behavioural Corporate Finance</strong>",
+            "topic_description": "Tutorial 7: Behavioural Corporate Finance",
             "learning_outcomes": [
+                "L04",
                 "L06"
             ]
         },
@@ -279,12 +280,11 @@
         {
             "learning_period": "Week 9",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 7: Behavioural Corporate Finance</strong><br/></p><p><strong>Learning outcomes:</strong> L04, L06</p></div></td>",
-            "topic_title": "<strong>Tutorial 7: Behavioural Corporate Finance</strong>",
-            "topic_description": "Tutorial 7: Behavioural Corporate Finance",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 8: Behavioural Explanations for Anomalies</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 8: Behavioural Explanations for Anomalies</strong>",
+            "topic_description": "Topic 8: Behavioural Explanations for Anomalies",
             "learning_outcomes": [
-                "L04",
-                "L06"
+                "L03"
             ]
         },
         {
@@ -309,9 +309,9 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 8: Behavioural Explanations for Anomalies</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
-            "topic_title": "<strong>Topic 8: Behavioural Explanations for Anomalies</strong>",
-            "topic_description": "Topic 8: Behavioural Explanations for Anomalies",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9: Behavioural Factors and Stock Market Puzzles</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 9: Behavioural Factors and Stock Market Puzzles</strong>",
+            "topic_description": "Topic 9: Behavioural Factors and Stock Market Puzzles",
             "learning_outcomes": [
                 "L03"
             ]
@@ -329,9 +329,9 @@
         {
             "learning_period": "Week 11",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 9: Behavioural Factors and Stock Market Puzzles</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
-            "topic_title": "<strong>Topic 9: Behavioural Factors and Stock Market Puzzles</strong>",
-            "topic_description": "Topic 9: Behavioural Factors and Stock Market Puzzles",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 10: Behavioural Investing</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Topic 10: Behavioural Investing</strong>",
+            "topic_description": "Topic 10: Behavioural Investing",
             "learning_outcomes": [
                 "L03"
             ]
@@ -349,11 +349,11 @@
         {
             "learning_period": "Week 12",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Topic 10: Behavioural Investing</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
-            "topic_title": "<strong>Topic 10: Behavioural Investing</strong>",
-            "topic_description": "Topic 10: Behavioural Investing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Guest Lecture: Industry Speaker</strong><br/></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong>Guest Lecture: Industry Speaker</strong>",
+            "topic_description": "Guest Lecture: Industry Speaker",
             "learning_outcomes": [
-                "L03"
+                "L06"
             ]
         },
         {
