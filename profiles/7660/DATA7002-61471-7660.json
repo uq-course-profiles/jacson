@@ -1,0 +1,304 @@
+{
+    "course_title": "Responsible Data Science",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/DATA7002-61471-7660",
+    "full_course_code": "DATA7002-61471-7660",
+    "course_code": "DATA7002",
+    "class_code": "61471",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify the key ethical, legal and technical considerations that are intrinsic to integrity in data science practice."
+        },
+        {
+            "number": "LO2.",
+            "description": "Gain practical skills in predicting, identifying, assessing, evaluating and responding to the ethical conflicts and dilemmas that are likely to occur within data science."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the different legal and ethics approaches that underpin the application of data science."
+        },
+        {
+            "number": "LO4.",
+            "description": "Apply relevant Australian and international law and ethics theory to contemporary data science problems."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate the effectiveness of different legal and ethics approaches relevant to the application of data science."
+        },
+        {
+            "number": "LO6.",
+            "description": "Ability to identify relevant ethics and legal aspects of data science and apply appropriate techniques and algorithms for data de-identification to ensure privacy and non-disclosure when required."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Quizzes to be held in Tutorials",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 5/08/2026 - 9/10/2026</p></dd>",
+            "learning_objectives": "L01, L02, L04, L06",
+            "mode": "Activity/ Performance",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be a small quiz in each of the first eight tutorials. It is important that you attend the tutorials and have a device on which to access Blackboard with you.</p>\n<p><br/></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Most quizzes will be conducted in class, either online or on paper. One of the quizzes will be entirely online without attendance required. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Plan for Major Assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 25/09/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is a 'scaffolded writing assignment,' which requires students to complete written sections of a fillable Word document that will be provided on Blackboard. Each section of the fillable Word document will represent a single component of what would traditionally be included in an essay, such as a thesis statement, an introduction, main paragraphs, and a bibliography. Each section will provide instructions concerning how to complete it, including the word limits for responses.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission will be through a Turnitin portal.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Group Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 14/10/2026 - 30/10/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are allocated to groups. Each group will be required to identify key ethical, legal and technical considerations relating to a real-life data science problem. Each group will choose their own problem. Each group will create a presentation for 5 minutes followed by a 15 minute question time. The presentation should be comprised of a brief introduction to the real-life problem, and the identification of key ethical, legal and technical concerns.</p>\n<p>This group assessment task will use BuddyCheck peer assessment factoring. Each team will get a single grade for their presentation, however individual grades may vary somewhat depending on whether the group judges the individual to have been a good team member.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Each group will present in weeks 11 or 12 (or 13 if necessary) and submit the presentation summary and ppt via a link on the e-learning site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Essay",
+            "special_indicators": [],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 2/11/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will write a scaffolded essay identifying and applying key ethical, legal and technical issues relating to a real-life data science case study. Each student is expected to consider (a) what ethical, legal and technical solutions could have been implemented to ameliorate/stop the problem and (b) reflect on the importance of ethics, law and technical perspectives, in light of what they have learned about the case study/real life problem and their learning on the course. The focus of the analysis should be on demonstrating an ability to identify, describe relevant issues and apply course learnings. There will be extensive discussion of how to do this task in class, and students will be expected to have familiarity with these discussions.</p>\n<p>Texts and references should be cited according to the University guidelines. In line with common writing practices in philosophy, law and ethics, students may write in first or third person.</p>\n<p><strong>Word Count:</strong> 2000 words. A word count that is within ±10% of the set length (word limit) is acceptable. Word count does not include the bibliography or referencing footnotes, however discursive footnotes are included in the word count. A word count that is outside these 10% will receive a proportionate penalty and will be graded against the grading criteria.</p>\n<p><strong>Referencing and bibliography</strong></p>\n<ul>\n<li>Include all cited works in a bibliography.</li>\n<li>There is no standard referencing style for this course. Check the referencing style guides: https://web.library.uq.edu.au/research-tools-techniques/referencing/referencing-style-guides. You are permitted any recognized referencing style you wish, so long as it includes page numbers where possible (i.e. where the source itself includes page numbers, and where the reference is for specific points attributable to other authors, page numbers must be included).</li>\n</ul>\n<p><br/></p>\n<p><strong><em>Use of AI Permitted</em></strong></p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<p>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You must submit an electronic copy only through Turnitin. All students must ensure they receive their Turnitin receipt on submission of any assessments. A valid Turnitin receipt will be the only evidence accepted if assessments are missing. In the event of Turnitin technical difficulties, immediately send a copy of your essay to course staff so they can see that it was completed on time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(27 Jul - 02 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction and course foundations; theoretical tools of ethical analysis</strong><br><p>Week one is an introduction to the course, including expectations regarding assessment. We will then consider how ethics is relevant to data science. An introduction to practical ethics and the nature of moral inquiry and philosophical analysis will follow.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Introduction and course foundations; theoretical tools of ethical analysis</strong>",
+            "topic_description": "Introduction and course foundations; theoretical tools of ethical analysis Week one is an introduction to the course, including expectations regarding assessment. We will then consider how ethics is relevant to data science. An introduction to practical ethics and the nature of moral inquiry and philosophical analysis will follow.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Aug - 09 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Privacy and Responsibility; Assessment Preparation and Case Studies</strong><br><p>In the lecture this week we will consider ethical reasoning, some key approaches to philosophical ethics and then practical decision-making and problem solving. Over the next few weeks we will progress from personal ethics, to professional ethics, to large-scale challenges in our social system.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Privacy and Responsibility; Assessment Preparation and Case Studies</strong>",
+            "topic_description": "Privacy and Responsibility; Assessment Preparation and Case Studies In the lecture this week we will consider ethical reasoning, some key approaches to philosophical ethics and then practical decision-making and problem solving. Over the next few weeks we will progress from personal ethics, to professional ethics, to large-scale challenges in our social system.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Aug - 16 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Classes: EKKA Public Holiday</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Classes: EKKA Public Holiday</strong>",
+            "topic_description": "No Classes: EKKA Public Holiday",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(17 Aug - 23 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction to legal issues; ethics and the law</strong><br><p>Introduction to law and legal issues relevant to data science Introduction to law and data science What is law?, Jurisdiction, sources of law, and legal reasoning; law and technological change.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Introduction to legal issues; ethics and the law</strong>",
+            "topic_description": "Introduction to legal issues; ethics and the law Introduction to law and legal issues relevant to data science Introduction to law and data science What is law?, Jurisdiction, sources of law, and legal reasoning; law and technological change.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Aug - 30 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Intellectual Property and Contract Law</strong><br><p>Intellectual property and contract law</p>\n<p>Copyright, patents, and trademarks</p>\n<p>Law of contracts</p>\n<p>Open access, open source, and open data</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Intellectual Property and Contract Law</strong>",
+            "topic_description": "Intellectual Property and Contract Law Intellectual property and contract law Copyright, patents, and trademarks Law of contracts Open access, open source, and open data",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Aug - 06 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Privacy and Cybersecurity Law</strong><br><p>The legal concept of privacy; Information privacy law Law and cybersecurity</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Privacy and Cybersecurity Law</strong>",
+            "topic_description": "Privacy and Cybersecurity Law The legal concept of privacy; Information privacy law Law and cybersecurity",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Sep - 13 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Indigenous Data Sovereignty </strong><br><p>Collective ownership of data and work with indigenous communities. This class draws together a number of threads from the ethics and law sections. </p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Indigenous Data Sovereignty </strong>",
+            "topic_description": "Indigenous Data Sovereignty Collective ownership of data and work with indigenous communities. This class draws together a number of threads from the ethics and law sections.",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Sep - 20 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Technical: Responsible statistical practice I</strong><br><p>Students will learn to recognize some common misuses of statistics through case studies involving various statistical techniques ranging from statistical graphics, hypothesis testing to regression models. </p></br></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Technical: Responsible statistical practice I</strong>",
+            "topic_description": "Technical: Responsible statistical practice I Students will learn to recognize some common misuses of statistics through case studies involving various statistical techniques ranging from statistical graphics, hypothesis testing to regression models.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9(21 Sep - 27 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Technical Strategies for Responsible DataSc: Responsible Statistical Practice Part II and Machine Learning Part I</strong><br/><p>The statistical framework Responsible statistical practice Part II: Students will learn general guidelines on responsible uses of statistics and how to do this. </p>\n<p>Responsible Machine Learning Part I: In this part of the course we will introduce the ethical considerations in machine learning research and practice. </p></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Technical Strategies for Responsible DataSc: Responsible Statistical Practice Part II and Machine Learning Part I</strong>",
+            "topic_description": "Technical Strategies for Responsible DataSc: Responsible Statistical Practice Part II and Machine Learning Part I The statistical framework Responsible statistical practice Part II: Students will learn general guidelines on responsible uses of statistics and how to do this. Responsible Machine Learning Part I: In this part of the course we will introduce the ethical considerations in machine learning research and practice.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 Oct - 11 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Responsible Machine Learning Part II</strong><br/><p>In this part of the course we will explore various biases and discrimination issues in machine learning and introduce actionable strategies to mitigate these biases and realize fairness-aware machine learning. Cognitive Biases, Human Biases in Machine Learning, Actionable Strategies to Mitigate Biases. </p></p><p><strong>Learning outcomes:</strong> L01, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Responsible Machine Learning Part II</strong>",
+            "topic_description": "Responsible Machine Learning Part II In this part of the course we will explore various biases and discrimination issues in machine learning and introduce actionable strategies to mitigate these biases and realize fairness-aware machine learning. Cognitive Biases, Human Biases in Machine Learning, Actionable Strategies to Mitigate Biases.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 Oct - 18 Oct)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Integrated seminar presentations</strong><br/><p>Presentations will be assessed in the lecture and tutorial times of this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Integrated seminar presentations</strong>",
+            "topic_description": "Integrated seminar presentations Presentations will be assessed in the lecture and tutorial times of this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 Oct - 25 Oct)",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Integrated seminar presentations</strong><br/><p>Presentations will be assessed in the lecture and tutorial times of this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Integrated seminar presentations</strong>",
+            "topic_description": "Integrated seminar presentations Presentations will be assessed in the lecture and tutorial times of this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Future Directions and Course Summary</strong><br/><p>Discussion for final assessment, addressing what we have learned through the semester.</p>\n<p>Presentations may be assessed in the tutorial times of this week.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Future Directions and Course Summary</strong>",
+            "topic_description": "Future Directions and Course Summary Discussion for final assessment, addressing what we have learned through the semester. Presentations may be assessed in the tutorial times of this week.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
