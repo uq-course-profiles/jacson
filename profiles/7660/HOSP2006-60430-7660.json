@@ -1,0 +1,405 @@
+{
+    "course_title": "Revenue Management",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/HOSP2006-60430-7660",
+    "full_course_code": "HOSP2006-60430-7660",
+    "course_code": "HOSP2006",
+    "class_code": "60430",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain and apply the fundamental principles of revenue management."
+        },
+        {
+            "number": "LO2.",
+            "description": "Analyse customer-perceived value based on the principle of revenue management."
+        },
+        {
+            "number": "LO3.",
+            "description": "Critically assess the creation of demand and revenue forecasts based on operational data."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop revenue management strategies in a simulated environment as part of a team."
+        },
+        {
+            "number": "LO5.",
+            "description": "Evaluate the revenue management efforts using different key performance indices (KPIs)."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Simulation Report and Reflection",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>Written Reflection -  25/09/2026 1:00 pm</p>\n<p>Oral Check-in / Viva -  26/10/2026</p>\n<p>\n</p><p><strong>Oral Check-in </strong>during your lecture or tutorial in Week 13. If not all Oral Check-ins can be completed within class hours, additional slots will be scheduled outside class hours on Monday in Week 13, so you must ensure your availability during this time.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L05",
+            "mode": "Oral, Written",
+            "category": "Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>After the Round 2 simulation results are released, you are expected to prepare a <strong>3,000-word individual reflection</strong> on your hotel's performance.</p>\n<p>Although your hotel's operations are based on your team's decisions, this reflection is your own. It asks you to develop <strong>a narrative of how your hotel performed </strong>across the two rounds (Rounds 1 and 2; the practice round is excluded), using key performance indices (KPIs). These KPIs include, but are not limited to, the figures reported in the Key Figures section of the simulation and the metrics discussed in the lecture on performance analysis.</p>\n<p>Your narrative should identify and explain <strong>where your hotel outperformed competitors</strong> and <strong>where it needs to improve</strong>. Do not simply restate the raw figures; <strong>interpret</strong> the KPIs and <strong>draw out what they reveal</strong> about your hotel's performance. You should also <strong>propose actionable measures</strong> to achieve sustainable and profitable growth in the upcoming rounds, informed by the strengths and weaknesses you identify.  </p>\n<p>Finally, consider <strong>how the course material shaped your decisions</strong> during the simulation. Refer to relevant lecture topics, such as Lecture Topic 1 or Lecture Topic 3, and identify the specific learning points that influenced your understanding and decision-making.</p>\n<p>In summary, the key elements of this reflection are:</p>\n<ul>\n<li>The strengths of your hotel relative to other teams, and how you will sustain them.</li>\n<li>The weaknesses of your hotel relative to other teams, and the area needing improvement.</li>\n<li>Strategies to maintain your competitive position and address those weaknesses in upcoming rounds.</li>\n<li>Your reflection on what you learned and how you applied it during the simulation</li>\n</ul>\n<p><br/></p>\n<p><strong>A Oral Check-in</strong></p>\n<p>To ensure academic integrity, this assignment includes <strong>a 5-minute oral check-in, held in Week 13</strong>. After submitting your individual reflection, you are required to participate in an oral check-in session during your lecture or tutorial in Week 13. If not all oral check-ins can be completed within class hours, additional slots will be scheduled outside class hours on Monday in Week 13, so you must ensure your availability during this time. In this session, the teaching team will ask questions about your reflection. As the oral check-in is held approximately one month after the written submission is due, you are strongly encouraged to review your submission beforehand and be ready to discuss your decisions and reflections. The oral check-in is assessed against specific criteria of the assessment rubric. Students who make no attempt to complete the oral check-in will receive a 0 for these criteria. The oral check-in must be completed for the written marks to be finalised.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Written document submitted to the course Blackboard. Viva will be held week 13.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Weekly Online Simulation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p>Prior to the current round result is announced Week 7, Mon 11:59 pm</p>\n<p>Prior to the current round result is announced Week 8, Mon 11:59 pm</p>\n<p>Prior to the current round result is announced Week 9, Mon 11:59 pm</p>\n<p>Prior to the current round result is announced Week 11, Mon 11:59 pm</p>\n<p>Prior to the current round result is announced Week 12, Mon 11:59 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Role play/ Simulation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In the simulation, you and your team members will manage a hotel together over five (5) rounds, with each round presenting a different scenario that calls for new business decisions. Each round stays for one week; closing dates will be explained in the tutorial.</p>\n<p>This assessment asks one thing of you: as evidence of your own work, <strong>take a screenshot of your decision checklist for each round and submit it to Blackboard before that round closes </strong>(instructions on how to locate it will be provided during the tutorial). Before your team's weekly tutorial meeting, complete the round on your own and capture your screenshot. Your team will then discuss everyone's decisions and agree on a final set for the round. Note that decisions cannot be changed once a round has closed. </p>\n<p>The simulation records the time each member spends, so the teaching team can see how long you worked on each round. You must spend at least 50 minutes per round; failing to do so will result in a mark of zero for that round even if you submitted a screenshot.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Team Video Presentation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 9/11/2026 1:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>When all scheduled simulation rounds are completed, each team is required to present how they have managed their hotel for the five rounds. Given the mixed learning mode, each team is required to create a 25-minute video presentation. Please be reminded that any decisions made by you or your team after the round is closed will not affect the performance of past, present, or future rounds. Missing a round is irreversible and will significantly affect completing this assignment. Therefore, please ensure that you and your team finish each round before it closes. </p>\n<p><strong>What to Present</strong></p>\n<p>Your team's performance is evaluated based on cumulative earnings, which can be located under 'Key Figures' in the 'Results' tab within the simulation. It's mandatory for your team to <strong>elucidate the strategies implemented (e.g., causes) and how they contributed to these cumulative earnings (e.g., effects)</strong>. Your team should scrutinise the scenarios (as seen in 'Outlook' in the situation) to validate the strategies employed in each round. Given that the decisions made in one round impact the performance in subsequent rounds, your team is expected to examine how these decisions influence cumulative earnings and other Key Performance Indicators (KPIs) over time.</p>\n<p>Please consider this presentation scenario; a presentation to the Board Members of the parent company. In real life, a good presentation can elevate the perception of a team's performance.</p>\n<p><strong>Format</strong></p>\n<ul>\n<li>This presentation does not require a presentation in class. Instead, your team will <strong>create a recorded PowerPoint slideshow (maximum 25 minutes) with video on</strong>, as if presenting to a live audience. </li>\n<li><strong>All team members</strong> must appear in the video presentation. When presenting, each member is required to record both <strong>their physical appearance and voice (narration)</strong>. </li>\n<li>Each team needs to <strong>submit one file</strong> to the course Blackboard site. A team representative should be appointed to submit the file on behalf of all members. Only one submission per team is required; individual submissions are not necessary. </li>\n<li>The <strong>MS PowerPoint file format (i.e., pptx)</strong> is strongly recommended for the video presentation. If alternative software is used, it is the team's responsibility to ensure successful submission and accessibility for the teaching team without requiring additional software. Uploading a video file (e.g., MP4) directly to Blackboard is likely to result in submission failure.</li>\n<li>Please note that the file submission will take time, particularly when submitting close to the deadline. Without approved extension, <strong>any file submission after the due date will incur late submission penalty</strong>. Plan your submission accordingly. </li>\n<li>Blackboard has a file-size limit. If your PPTX file is too large to upload, please reduce its size before submitting. Even within the limit, large PPTX files may not be playable on the web. This is acceptable. The teaching team will download and review submitted files offline. As long as your submission record is visible in Blackboard, your submission will be considered valid. <strong>Please ensure that all your team members retain the submission record. </strong></li>\n<li>The teaching team will <strong>mark the file submitted to the system as it stands,</strong> whether or not it is complete or correct. It is your responsibility to submit the correct, complete file on time. Since marks for this assignment will not be released to you/your team until the semester grade release date, you will not have an opportunity to identify and correct a submission error beforehand.</li>\n</ul>\n<p><br/></p>\n<p><strong>Peer Evaluation</strong></p>\n<p>A peer evaluation is required for this group assignment. Your mark will be moderated based on your individual contribution to the assessment task as indicated by your peers through a Peer Assessment tool. Individual grades will be calculated as the team score weighted by the peer evaluation score.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>To be submitted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction</strong><br><p>This lecture introduces the foundations of revenue management (RM) and its application within the hotel industry. Topics include the core principles and definition of RM, the conditions required for its effective application, and approaches to market segmentation and sales mix. </p></br></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction</strong>",
+            "topic_description": "Introduction This lecture introduces the foundations of revenue management (RM) and its application within the hotel industry. Topics include the core principles and definition of RM, the conditions required for its effective application, and approaches to market segmentation and sales mix.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Fundamentals of Pricing Hotel Guests</strong><br><p>This lecture covers the fundamentals of room pricing, including how segmentation and desired guest experience inform pricing decisions. Students will also learn to interpret price positioning against a competitive set and discuss tactics used to maximise revenue.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>The Fundamentals of Pricing Hotel Guests</strong>",
+            "topic_description": "The Fundamentals of Pricing Hotel Guests This lecture covers the fundamentals of room pricing, including how segmentation and desired guest experience inform pricing decisions. Students will also learn to interpret price positioning against a competitive set and discuss tactics used to maximise revenue.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>The Fundamentals Exercise</strong><br/><p>This tutorial reviews key performance indicators (KPIs) and their use in evaluating property performance, including hands-on computation and discussion. Students will also examine booking pace and the booking curve, and practise constructing a booking curve from sample data.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>The Fundamentals Exercise</strong>",
+            "topic_description": "The Fundamentals Exercise This tutorial reviews key performance indicators (KPIs) and their use in evaluating property performance, including hands-on computation and discussion. Students will also examine booking pace and the booking curve, and practise constructing a booking curve from sample data.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Evolving Hotel Segmentation</strong><br/><p>This lecture defines the major market segments used by hotels and explains the role of fencing discounts in managing them. Students will also learn to determine the profitability of different segments and identify the importance of evaluating group, contract, and special corporate business.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Evolving Hotel Segmentation</strong>",
+            "topic_description": "Evolving Hotel Segmentation This lecture defines the major market segments used by hotels and explains the role of fencing discounts in managing them. Students will also learn to determine the profitability of different segments and identify the importance of evaluating group, contract, and special corporate business.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cesim Simulation Overview - Part I</strong><br/><p>This tutorial guides students through creating their Cesim account and forming teams for the simulation. Students will also begin familiarising themselves with the Cesim platform ahead of upcoming decision-making rounds.</p></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
+            "topic_title": "<strong>Cesim Simulation Overview - Part I</strong>",
+            "topic_description": "Cesim Simulation Overview - Part I This tutorial guides students through creating their Cesim account and forming teams for the simulation. Students will also begin familiarising themselves with the Cesim platform ahead of upcoming decision-making rounds.",
+            "learning_outcomes": [
+                "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Key Hotel Distribution Channels</strong><br/><p>This lecture introduces the key distribution channels used in the hotel industry and differentiates their respective benefits and drawbacks. Students will also examine the booking process and explore the factors driving ongoing change in distribution channels.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Key Hotel Distribution Channels</strong>",
+            "topic_description": "Key Hotel Distribution Channels This lecture introduces the key distribution channels used in the hotel industry and differentiates their respective benefits and drawbacks. Students will also examine the booking process and explore the factors driving ongoing change in distribution channels.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cesim Simulation Practice Round</strong><br/><p>This tutorial explains the tasks students are required to complete for the Cesim practice round, preparing them for live decision-making rounds in the simulation.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Cesim Simulation Practice Round</strong>",
+            "topic_description": "Cesim Simulation Practice Round This tutorial explains the tasks students are required to complete for the Cesim practice round, preparing them for live decision-making rounds in the simulation.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Competitive Analysis in Hotel Revenue Management</strong><br/><p>This lecture covers the design of a competitive set for an individual hotel and the use of SWOT analysis and value offering analysis to compare against competitors. Students will also construct a rate value matrix to validate hotel strategy, identify business opportunities through competitor performance analysis, and apply competitive assessment methodologies to hotel development feasibility studies.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Competitive Analysis in Hotel Revenue Management</strong>",
+            "topic_description": "Competitive Analysis in Hotel Revenue Management This lecture covers the design of a competitive set for an individual hotel and the use of SWOT analysis and value offering analysis to compare against competitors. Students will also construct a rate value matrix to validate hotel strategy, identify business opportunities through competitor performance analysis, and apply competitive assessment methodologies to hotel development feasibility studies.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cesim Simulation Practice Round Recap I</strong><br/><p>This tutorial introduces the team decision-making process for the Cesim practice round, preparing students for collaborative decision-making in the simulation.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Cesim Simulation Practice Round Recap I</strong>",
+            "topic_description": "Cesim Simulation Practice Round Recap I This tutorial introduces the team decision-making process for the Cesim practice round, preparing students for collaborative decision-making in the simulation.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Hotel Revenue Management: Forecast &amp; Budget</strong><br/><p>This lecture relates accurate forecasting to effective revenue management and defines unconstrained demand, including the various ways forecast data can be presented. Students will build a booking curve, create a pickup forecast, and calculate forecast error using two different methods, alongside a discussion of the impact of errors on forecasting. The lecture also covers the construction and use of a demand-control chart.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Hotel Revenue Management: Forecast &amp; Budget</strong>",
+            "topic_description": "Hotel Revenue Management: Forecast & Budget This lecture relates accurate forecasting to effective revenue management and defines unconstrained demand, including the various ways forecast data can be presented. Students will build a booking curve, create a pickup forecast, and calculate forecast error using two different methods, alongside a discussion of the impact of errors on forecasting. The lecture also covers the construction and use of a demand-control chart.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cesim Simulation Practice Round Recap II</strong><br/><p>This tutorial reviews key performance indicators (KPIs) and applies them to evaluate team performance from the Cesim practice round. Each member begins Round 1</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Cesim Simulation Practice Round Recap II</strong>",
+            "topic_description": "Cesim Simulation Practice Round Recap II This tutorial reviews key performance indicators (KPIs) and applies them to evaluate team performance from the Cesim practice round. Each member begins Round 1",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Performance Analysis in Hotel Revenue Mgmt</strong><br/><p>This lecture examines key performance indicators for revenue management in greater depth and applies performance metrics to create and measure the effectiveness of a strategy. Students will also identify opportunities in pace statistics to drive market share results, and evaluate performance through a strategy critique that establishes measurable, monitorable goals.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Performance Analysis in Hotel Revenue Mgmt</strong>",
+            "topic_description": "Performance Analysis in Hotel Revenue Mgmt This lecture examines key performance indicators for revenue management in greater depth and applies performance metrics to create and measure the effectiveness of a strategy. Students will also identify opportunities in pace statistics to drive market share results, and evaluate performance through a strategy critique that establishes measurable, monitorable goals.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cesim Simulation Round 1 - Team Decision</strong><br/><p>Finalise the team decision for Round 1 </p></p><p><strong>Learning outcomes:</strong> L01, L03, L05</p></div></td>",
+            "topic_title": "<strong>Cesim Simulation Round 1 - Team Decision</strong>",
+            "topic_description": "Cesim Simulation Round 1 - Team Decision Finalise the team decision for Round 1",
+            "learning_outcomes": [
+                "L01",
+                "L03",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Market Data for Hotel Revenue Management</strong><br/><p>This lecture differentiates between the two design purposes of data modelling — reporting and analysis — and interprets historic competitive set benchmarking data to explain hotel performance. Students will also source forward-looking market benchmarking intelligence to inform revenue strategy, identify the broad array of alternative market data used to improve pricing, yielding, and digital marketing efforts, and learn to communicate data as a story tailored to the audience.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Market Data for Hotel Revenue Management</strong>",
+            "topic_description": "Market Data for Hotel Revenue Management This lecture differentiates between the two design purposes of data modelling — reporting and analysis — and interprets historic competitive set benchmarking data to explain hotel performance. Students will also source forward-looking market benchmarking intelligence to inform revenue strategy, identify the broad array of alternative market data used to improve pricing, yielding, and digital marketing efforts, and learn to communicate data as a story tailored to the audience.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cesim Simulation Round 2 - Team Decision</strong><br/><p>Finalise the team decision for Round 2</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Cesim Simulation Round 2 - Team Decision</strong>",
+            "topic_description": "Cesim Simulation Round 2 - Team Decision Finalise the team decision for Round 2",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Restaurant Revenue Management: Basic Concept</strong><br/><p>This lecture applies revenue management principles to the restaurant context, including how to explain and calculate RevPASH. Students will analyse a food service operation as a system through which customers flow, calculate the throughput time and throughput rate for a simple service system, and perform a restaurant revenue management (RRM) analysis by establishing a baseline, collecting data, and developing RRM solutions.</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Restaurant Revenue Management: Basic Concept</strong>",
+            "topic_description": "Restaurant Revenue Management: Basic Concept This lecture applies revenue management principles to the restaurant context, including how to explain and calculate RevPASH. Students will analyse a food service operation as a system through which customers flow, calculate the throughput time and throughput rate for a simple service system, and perform a restaurant revenue management (RRM) analysis by establishing a baseline, collecting data, and developing RRM solutions.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cesim Simulation Round 3 - Team Decision</strong><br/><p>Finalise the team decision for Round 3 </p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Cesim Simulation Round 3 - Team Decision</strong>",
+            "topic_description": "Cesim Simulation Round 3 - Team Decision Finalise the team decision for Round 3",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-paced Learning (Public Holiday)</strong><br/><p>Use the time to review materials and topics in past weeks.</p>\n<p><strong>King’s Birthday Public Holiday - Monday 5th October 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Self-paced Learning (Public Holiday)</strong>",
+            "topic_description": "Self-paced Learning (Public Holiday) Use the time to review materials and topics in past weeks. King’s Birthday Public Holiday - Monday 5th October 2026 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Self-paced Learning (Public Holiday)</strong><br/><p>Use the time to recap simulations 1, 2, and 3</p>\n<p><strong>King’s Birthday Public Holiday - Monday 5th October 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Self-paced Learning (Public Holiday)</strong>",
+            "topic_description": "Self-paced Learning (Public Holiday) Use the time to recap simulations 1, 2, and 3 King’s Birthday Public Holiday - Monday 5th October 2026 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Restaurant Revenue Management: Demand Management</strong><br/><p>This lecture explains the ways in which restaurant demand impacts operations and how managing demand fits within restaurant revenue management (RRM). Students will evaluate demand management techniques across different operational situations, describe variable pricing and apply it through practices such as price fences and couponing, and examine data-based menu engineering as a means of determining menu price.</p></p><p><strong>Learning outcomes:</strong> L01, L04, L05</p></div></td>",
+            "topic_title": "<strong>Restaurant Revenue Management: Demand Management</strong>",
+            "topic_description": "Restaurant Revenue Management: Demand Management This lecture explains the ways in which restaurant demand impacts operations and how managing demand fits within restaurant revenue management (RRM). Students will evaluate demand management techniques across different operational situations, describe variable pricing and apply it through practices such as price fences and couponing, and examine data-based menu engineering as a means of determining menu price.",
+            "learning_outcomes": [
+                "L01",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cesim Simulation Round 4 - Team Decision</strong><br/><p>Finalise the team decision for Round 4</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Cesim Simulation Round 4 - Team Decision</strong>",
+            "topic_description": "Cesim Simulation Round 4 - Team Decision Finalise the team decision for Round 4",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Restaurant Revenue Management: Supply Management</strong><br/><p>This lecture relates capacity planning and management to restaurant revenue management and explains how optimising capacity usage leads to maximised revenue. Students will perform an analysis of both occupancy and dining duration, and construct and carry out a table mix analysis.</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Restaurant Revenue Management: Supply Management</strong>",
+            "topic_description": "Restaurant Revenue Management: Supply Management This lecture relates capacity planning and management to restaurant revenue management and explains how optimising capacity usage leads to maximised revenue. Students will perform an analysis of both occupancy and dining duration, and construct and carry out a table mix analysis.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Cesim Simulation Round 5 - Team Decision</strong><br/><p>Finalise the team decision for Round 5</p></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Cesim Simulation Round 5 - Team Decision</strong>",
+            "topic_description": "Cesim Simulation Round 5 - Team Decision Finalise the team decision for Round 5",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Oral Check-in</strong><br/><p>Individual oral check-in sessions will be held.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Oral Check-in</strong>",
+            "topic_description": "Oral Check-in Individual oral check-in sessions will be held.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Oral Check-in</strong><br/><p>Individual oral check-in sessions will be held.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Oral Check-in</strong>",
+            "topic_description": "Oral Check-in Individual oral check-in sessions will be held.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
