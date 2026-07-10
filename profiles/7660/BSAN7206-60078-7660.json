@@ -1,0 +1,355 @@
+{
+    "course_title": "Business Data Management",
+    "study_period": "Sem 2 2026",
+    "location": "External",
+    "attendance": "Online",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7206-60078-7660",
+    "full_course_code": "BSAN7206-60078-7660",
+    "course_code": "BSAN7206",
+    "class_code": "60078",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply fundamental concepts to model, design, and manage organisational data."
+        },
+        {
+            "number": "LO2.",
+            "description": "Manipulate and retrieve data using SQL."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop skills to generate insights from organisational data."
+        },
+        {
+            "number": "LO4.",
+            "description": "Solve challenges and leverage opportunities in dealing with Big Data."
+        },
+        {
+            "number": "LO5.",
+            "description": "Collaborate effectively as part of a team to implement data warehousing solutions and generate business insights that enable value creation from data."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Data Warehousing Project - Part 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p> 18/09/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment has two sections. The first part focuses on modelling a schema and tests students' ability to capture important aspects of multiple systems that need to be stored in a data warehousing database.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted within the course's Learn.UQ site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Data Warehousing Project - Part 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p> 9/11/2026 3:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment has two sections. The second part focuses on the implementation of the model designed in part 1, with the students demonstrating the ETL.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment will be submitted on the course's Learn.UQ site.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.1 Relational Data Modelling and SQL - Course overview</strong><br/><p>This topic first introduces relational databases and database management systems. It then introduces conceptual modelling using ER diagram</p>\n<p><strong>Live session:</strong> This session will focus on staff and student introductions, outlining course objectives, reviewing assessments, and discussing conceptual modelling.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 1.1 Relational Data Modelling and SQL - Course overview</strong>",
+            "topic_description": "Module 1.1 Relational Data Modelling and SQL - Course overview This topic first introduces relational databases and database management systems. It then introduces conceptual modelling using ER diagram Live session: This session will focus on staff and student introductions, outlining course objectives, reviewing assessments, and discussing conceptual modelling. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.1 Bootcamp</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 1.1 Bootcamp</strong>",
+            "topic_description": "Module 1.1 Bootcamp",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.2 Relational Databases and Normalisation</strong><br/><p>This topic introduces the relational model including its main concept and components, integrity constraints, and how ER diagrams can be mapped into relational models.</p>\n<p><strong>Live Session:</strong> Entity Relational Diagrams (ERD), Normalisation, and Structured Query Language (SQL) will be introduced.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Module 1.2 Relational Databases and Normalisation</strong>",
+            "topic_description": "Module 1.2 Relational Databases and Normalisation This topic introduces the relational model including its main concept and components, integrity constraints, and how ER diagrams can be mapped into relational models. Live Session: Entity Relational Diagrams (ERD), Normalisation, and Structured Query Language (SQL) will be introduced. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.2 Bootcamp </strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 1.2 Bootcamp </strong>",
+            "topic_description": "Module 1.2 Bootcamp",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.3 Introduction to SQL (part 1)</strong><br/><p>Structured Query Language (SQL) will be presented in more depth. Different types of data retrieval and manipulation will be explored.</p>\n<p><strong>Live Session: </strong>This overview of relational database management systems focuses on their core components and functionalities. It then examines conceptual modelling, introducing the widely used Entity-Relationship (ER) diagram, its constraints, and its extension, the Extended ER diagram. Finally, it discusses how design choices inform trade-offs in database design.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p>\n<p><strong>Ekka Public Holiday - Wednesday 12th August 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 1.3 Introduction to SQL (part 1)</strong>",
+            "topic_description": "Module 1.3 Introduction to SQL (part 1) Structured Query Language (SQL) will be presented in more depth. Different types of data retrieval and manipulation will be explored. Live Session: This overview of relational database management systems focuses on their core components and functionalities. It then examines conceptual modelling, introducing the widely used Entity-Relationship (ER) diagram, its constraints, and its extension, the Extended ER diagram. Finally, it discusses how design choices inform trade-offs in database design. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Ekka Public Holiday - Wednesday 12th August 2026 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.3 Bootcamp</strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 1.3 Bootcamp</strong>",
+            "topic_description": "Module 1.3 Bootcamp",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.4 Introduction to SQL (part 2)</strong><br/><p>Structured Query Language (SQL) will be presented in more depth. This topic focuses on advanced SQL queries based on subqueries, division and views.</p>\n<p><strong>Live Session: </strong>This session introduces the relational data model and its key concepts in database systems. It then examines integrity constraints that ensure data consistency, and concludes with the mapping of ER diagrams to relational schemas.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Module 1.4 Introduction to SQL (part 2)</strong>",
+            "topic_description": "Module 1.4 Introduction to SQL (part 2) Structured Query Language (SQL) will be presented in more depth. This topic focuses on advanced SQL queries based on subqueries, division and views. Live Session: This session introduces the relational data model and its key concepts in database systems. It then examines integrity constraints that ensure data consistency, and concludes with the mapping of ER diagrams to relational schemas. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 1.4 Bootcamp</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 1.4 Bootcamp</strong>",
+            "topic_description": "Module 1.4 Bootcamp",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.1 Dimension Modelling</strong><br/><p>This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.</p>\n<p><strong>Live Session: </strong>This section introduces the dimensional model, a core design approach in analytical systems and data warehouses. It organises data into fact and dimension tables to support efficient querying, reporting, and multidimensional analysis for decision-making.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 2.1 Dimension Modelling</strong>",
+            "topic_description": "Module 2.1 Dimension Modelling This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This section introduces the dimensional model, a core design approach in analytical systems and data warehouses. It organises data into fact and dimension tables to support efficient querying, reporting, and multidimensional analysis for decision-making. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.1 Bootcamp</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 2.1 Bootcamp</strong>",
+            "topic_description": "Module 2.1 Bootcamp",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.2 Advanced Dimension Modelling</strong><br/><p>This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.</p>\n<p><strong>Live Session: </strong>This session explores the role of dimensions in describing and analyzing fact measures within a data warehouse. It covers the structure of dimensional tables—typically wide, flat, and descriptive—and introduces key design techniques, including surrogate keys, calendar dimensions, hierarchies, slowly changing dimensions, and conformed dimensions.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Module 2.2 Advanced Dimension Modelling</strong>",
+            "topic_description": "Module 2.2 Advanced Dimension Modelling This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This session explores the role of dimensions in describing and analyzing fact measures within a data warehouse. It covers the structure of dimensional tables—typically wide, flat, and descriptive—and introduces key design techniques, including surrogate keys, calendar dimensions, hierarchies, slowly changing dimensions, and conformed dimensions. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.2 Bootcamp</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Module 2.2 Bootcamp</strong>",
+            "topic_description": "Module 2.2 Bootcamp",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.3 ETL and Metadata (part 1)</strong><br/><p>This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.</p>\n<p><strong>Live Session: </strong>This session provides a high-level view of various design choices in creating a data warehouse and walks you through the process of data integration required for creating a data warehouse.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2.3 ETL and Metadata (part 1)</strong>",
+            "topic_description": "Module 2.3 ETL and Metadata (part 1) This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This session provides a high-level view of various design choices in creating a data warehouse and walks you through the process of data integration required for creating a data warehouse. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.3 Bootcamp</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2.3 Bootcamp</strong>",
+            "topic_description": "Module 2.3 Bootcamp",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.4 ETL and Metadata (part 2)</strong><br/><p>This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.</p>\n<p><strong>Live Session: </strong>This session presents a deeper view of critical design decisions in data warehouse development, with a focus on data integration processes. It covers key components such as ETL (Extract, Transform, Load) workflows and the role of metadata in ensuring consistency, traceability, and effective data management.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2.4 ETL and Metadata (part 2)</strong>",
+            "topic_description": "Module 2.4 ETL and Metadata (part 2) This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This session presents a deeper view of critical design decisions in data warehouse development, with a focus on data integration processes. It covers key components such as ETL (Extract, Transform, Load) workflows and the role of metadata in ensuring consistency, traceability, and effective data management. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.4 Bootcamp</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2.4 Bootcamp</strong>",
+            "topic_description": "Module 2.4 Bootcamp",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.5 Data Warehouse Architecture and ETL</strong><br/><p>This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models.</p>\n<p><strong>Live Session: </strong>This session provides a deeper exploration of data warehouse architecture, focusing on design strategies and the end-to-end ETL (Extract, Transform, Load) process. It also examines the role of metadata in supporting data integration, governance, and the overall effectiveness of data warehouse systems.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 2.5 Data Warehouse Architecture and ETL</strong>",
+            "topic_description": "Module 2.5 Data Warehouse Architecture and ETL This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This session provides a deeper exploration of data warehouse architecture, focusing on design strategies and the end-to-end ETL (Extract, Transform, Load) process. It also examines the role of metadata in supporting data integration, governance, and the overall effectiveness of data warehouse systems. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 2.5  Bootcamp</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Module 2.5  Bootcamp</strong>",
+            "topic_description": "Module 2.5  Bootcamp",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-Semester Break</strong>",
+            "topic_description": "In-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.1 NoSQL (part 1)</strong><br/><p>This topic introduces NoSQL as a solution to the challenges of Big Data, focusing on document-oriented databases. It examines when and why NoSQL is preferred over traditional relational databases, and explores MongoDB as a practical example for handling flexible, scalable data models.</p>\n<p><strong>Live Session</strong>:  NoSQL database, Types of NoSQL, Document-Oriented Databases, MongoDB, MongoDB vs RDBMS, Collection and Data Modelling Strategies and MongoDB Queries</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 3.1 NoSQL (part 1)</strong>",
+            "topic_description": "Module 3.1 NoSQL (part 1) This topic introduces NoSQL as a solution to the challenges of Big Data, focusing on document-oriented databases. It examines when and why NoSQL is preferred over traditional relational databases, and explores MongoDB as a practical example for handling flexible, scalable data models. Live Session :  NoSQL database, Types of NoSQL, Document-Oriented Databases, MongoDB, MongoDB vs RDBMS, Collection and Data Modelling Strategies and MongoDB Queries Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.1 Bootcamp</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 3.1 Bootcamp</strong>",
+            "topic_description": "Module 3.1 Bootcamp",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.2 NoSQL (part 2)</strong><br/><p>This topic introduces NoSQL as a solution to the challenges of Big Data, focusing on document-oriented databases. It examines when and why NoSQL is preferred over traditional relational databases, and explores MongoDB as a practical example for handling flexible, scalable data models.</p>\n<p><strong>Live Session</strong>: NoSQL database, Types of NoSQL, Document-Oriented Databases, MongoDB, MongoDB vs RDBMS, Collection and Data Modelling Strategies and MongoDB Queries</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 3.2 NoSQL (part 2)</strong>",
+            "topic_description": "Module 3.2 NoSQL (part 2) This topic introduces NoSQL as a solution to the challenges of Big Data, focusing on document-oriented databases. It examines when and why NoSQL is preferred over traditional relational databases, and explores MongoDB as a practical example for handling flexible, scalable data models. Live Session : NoSQL database, Types of NoSQL, Document-Oriented Databases, MongoDB, MongoDB vs RDBMS, Collection and Data Modelling Strategies and MongoDB Queries Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.2 Bootcamp</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module 3.2 Bootcamp</strong>",
+            "topic_description": "Module 3.2 Bootcamp",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.3 Big Data</strong><br/><p>This topic presents system architectures to process big data.</p>\n<p><strong>Live Session:</strong> MapReduce Evolution, Apache Spark, Languages/Interfaces, RDD (Resilient Distributed Dataset), Spark Streaming.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to complete this weeks self-directed material before the live session.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 3.3 Big Data</strong>",
+            "topic_description": "Module 3.3 Big Data This topic presents system architectures to process big data. Live Session: MapReduce Evolution, Apache Spark, Languages/Interfaces, RDD (Resilient Distributed Dataset), Spark Streaming. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.3 Bootcamp</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module 3.3 Bootcamp</strong>",
+            "topic_description": "Module 3.3 Bootcamp",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.4 Review</strong><br/><p>There is an opportunity for students to discuss their project and receive feedback.</p>\n<p><strong>Live Session: </strong>This session offers a comprehensive review of the essential topics covered throughout the course.</p>\n<p><strong>Self-Directed Learning:</strong> Students need to progress with their assignment project before the live session.</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
+            "topic_title": "<strong>Module 3.4 Review</strong>",
+            "topic_description": "Module 3.4 Review There is an opportunity for students to discuss their project and receive feedback. Live Session: This session offers a comprehensive review of the essential topics covered throughout the course. Self-Directed Learning: Students need to progress with their assignment project before the live session.",
+            "learning_outcomes": [
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Module 3.4 Bootcamp</strong><br/></p></div></td>",
+            "topic_title": "<strong>Module 3.4 Bootcamp</strong>",
+            "topic_description": "Module 3.4 Bootcamp",
+            "learning_outcomes": []
+        }
+    ]
+}
