@@ -288,6 +288,18 @@
         },
         {
             "learning_period": "Week 10",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial due to public holiday</strong><br/><p><strong>King’s Birthday Public Holiday - Monday 5th October 2026</strong> - Check Blackboard for announcements about affected classes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
+            "topic_title": "<strong>No Tutorial due to public holiday</strong>",
+            "topic_description": "No Tutorial due to public holiday King’s Birthday Public Holiday - Monday 5th October 2026 - Check Blackboard for announcements about affected classes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 10",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz Preparation &amp; Discipline Review</strong><br/><p>The lecture this week will help you prepare for the Week Eleven Quiz, and will cover two separate aspects:</p>\n<ol>\n<li>the Quiz details - format, timing, types of questions with examples, what to bring with you, etc  </li>\n<li>the Quiz content - this will provide a review of the discipline-related knowledge covered throughout all the lectures this semester</li>\n</ol></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
             "topic_title": "<strong>Quiz Preparation &amp; Discipline Review</strong>",
@@ -298,7 +310,7 @@
             ]
         },
         {
-            "learning_period": "Week 10",
+            "learning_period": "Week 11",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Philosophy / Ethics</strong><br/><p>This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of Philosophy / Ethics.</p></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
             "topic_title": "<strong>Philosophy / Ethics</strong>",
@@ -320,7 +332,7 @@
             ]
         },
         {
-            "learning_period": "Week 11",
+            "learning_period": "Week 12",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>History</strong><br/><p>This tutorial will further develop your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the discipline of History.</p>\n<p>Furthermore, these final tutorials align with the last assessment task - the Final Exam.</p>\n<p>In this tutorial your group will review aspects of a journal article that includes Ecotourism and History, as well other disciplines, considering the contributions from the various disciplines.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
             "topic_title": "<strong>History</strong>",
@@ -340,7 +352,7 @@
             "learning_outcomes": []
         },
         {
-            "learning_period": "Week 12",
+            "learning_period": "Week 13",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Education</strong><br/><p>This tutorial will still progress your understanding of how an issue, such as Ecotourism, should be considered using various disciplinary approaches as we add the contributions from the final discipline of Education.</p>\n<p>Furthermore, these final tutorials align with the last assessment task - the Final Exam.</p>\n<p>In this tutorial your group will review aspects of a journal article that includes Ecotourism and Education, as well other disciplines, considering the contributions from the various disciplines.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
             "topic_title": "<strong>Education</strong>",
@@ -357,18 +369,6 @@
             "topic": "<td data-title=\"Topic\"><div><p><strong>Inter-Disciplinary Approaches to TH&amp;E (Part Two)</strong><br/><p>The final lecture will continue the focus on inter-disciplinary approaches to tourism, hospitality and events.</p>\n<p>This lecture will assist in your preparation for the final exam, in which you will review a journal article presenting inter-disciplinary research. </p>\n<p>The lecture will cover the exam details, format, timing, what to bring with you, etc; as well as understanding the task / questions; how to prepare your ‘one-pager’ to bring with you into the exam; and tips for maximising your marks.</p>\n<p>Plus final words - keep in touch!</p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
             "topic_title": "<strong>Inter-Disciplinary Approaches to TH&amp;E (Part Two)</strong>",
             "topic_description": "Inter-Disciplinary Approaches to TH&E (Part Two) The final lecture will continue the focus on inter-disciplinary approaches to tourism, hospitality and events. This lecture will assist in your preparation for the final exam, in which you will review a journal article presenting inter-disciplinary research. The lecture will cover the exam details, format, timing, what to bring with you, etc; as well as understanding the task / questions; how to prepare your ‘one-pager’ to bring with you into the exam; and tips for maximising your marks. Plus final words - keep in touch!",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L04"
-            ]
-        },
-        {
-            "learning_period": "Week 13",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Inter-Disciplinary Research and the Final Exam</strong><br/><p>In this last tutorial you will practice working through a ‘mock’ exam to assist your preparation for the final assessment. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L04</p></div></td>",
-            "topic_title": "<strong>Inter-Disciplinary Research and the Final Exam</strong>",
-            "topic_description": "Inter-Disciplinary Research and the Final Exam In this last tutorial you will practice working through a ‘mock’ exam to assist your preparation for the final assessment.",
             "learning_outcomes": [
                 "L01",
                 "L02",
