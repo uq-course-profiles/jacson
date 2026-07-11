@@ -1,0 +1,187 @@
+{
+    "course_title": "Cloud Computing",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/INFS3208-61117-7660",
+    "full_course_code": "INFS3208-61117-7660",
+    "course_code": "INFS3208",
+    "class_code": "61117",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe the benefit of using X-as-a-Service (XaaS) in Cloud Computing, such as SaaS (Software as a Service), IaaS (Infrastructure as a Service), and PaaS (Platform as a Service) in developing modern information systems."
+        },
+        {
+            "number": "LO2.",
+            "description": "Interpret the key features and building blocks of Cloud-Computing based information systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Build applications based on Cloud Computing architecture and tools."
+        },
+        {
+            "number": "LO4.",
+            "description": "Implement Software-as-a-Service (SaaS) with a recommended Cloud Computing platform."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate and solve the performance and technical issues in Cloud Computing such as cloud storage, cloud data management, scalability, privacy preservation and security."
+        },
+        {
+            "number": "LO6.",
+            "description": "Explain the ecosystem of Cloud Computing."
+        },
+        {
+            "number": "LO7.",
+            "description": "Explain implementation techniques of Cloud Computing such as clusters and in-memory computing."
+        },
+        {
+            "number": "LO8.",
+            "description": "Discuss the roles played by Cloud Computing in Big Data Analytics and identify the trends in Cloud Computing."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Individual Programming Tasks",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Programming Task 1 2/09/2026 3:00 pm</p>\n<p>Programming Task 2 16/09/2026 3:00 pm</p>\n<p>Programming Task 3 14/10/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L03, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Computer Code",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Programming assignments are used to assess the practical skills of students on non-trivial but reasonably well-defined problems. You are required to complete three programming tasks, and more details will be available on the course website. </p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online Submission.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Individual Project Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>5%</dd>",
+            "due_date": "<dd><p> 21/10/2026 3:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L07, L08",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The goal of this assessment is for students to develop and communicate the design of an individual cloud computing system. Students are required to submit a written project report that describes the intended cloud application, system architecture, selected cloud technologies, data storage approach, scalability considerations, and implementation plan. The report should demonstrate that students understand the requirements of the individual project and can justify appropriate design decisions for developing a cloud computing application. Further details of the assessment requirements, expected structure, and marking criteria will be provided in the individual project specification file on Blackboard.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Individual Project Implementation",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                },
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 21/10/2026 3:00 pm</p>\n<p>\n</p><p>Students are required to attend an in-person code demonstration session in Week 13.</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L07, L08",
+            "mode": "Activity/ Performance, Written",
+            "category": "Computer Code, Practical/ Demonstration, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The goal of this assessment is for students to implement a cloud computing system that demonstrates their ability to set up scalable platforms, use scalable databases, and develop cloud computing applications. Students are required to submit their implementation code online. Students are also required to attend a 10-minute in-person code demonstration session with a casual academic, which generally takes place in the scheduled Week 13 session. During this session, students will demonstrate the functionality of their submitted implementation and answer brief technical questions about their design decisions, technical implementation, and submitted work. The code demonstration forms part of the implementation assessment and will be used to assess students’ understanding of their submitted work and their ability to explain and justify their implementation. Further details of the assessment requirements, expected implementation functionality, submission requirements, and marking criteria will be provided in the individual project specification file on Blackboard.</p>\n<p>Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Online Submission.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": "L01, L05, L06, L07, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam assesses students’ ability to demonstrate conceptual and applied understanding of cloud computing concepts, algorithms, architectures, and tools introduced in this course. Students will be expected to explain and compare key technologies, apply relevant principles to practical scenarios, analyse the trade-offs of alternative cloud computing solutions, and evaluate the appropriateness of selected methods, platforms, or tools in different system and application contexts.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lecture</strong><br><p>Lectures will cover 1). Cloud Computing concepts, technologies, and applications; 2). Virtualisation technologies and Docker; 3). Apache Spark framework, programming, and applications; 4). Distributed file systems; 5). Google file system and BigTable; 6). Databases in Cloud Computing; 7). Hadoop and MapReduce; 8). Cloud Computing advanced topics: networking, load balancing, security, and privacy. The lectures will be delivered on campus.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Lecture</strong>",
+            "topic_description": "Lecture Lectures will cover 1). Cloud Computing concepts, technologies, and applications; 2). Virtualisation technologies and Docker; 3). Apache Spark framework, programming, and applications; 4). Distributed file systems; 5). Google file system and BigTable; 6). Databases in Cloud Computing; 7). Hadoop and MapReduce; 8). Cloud Computing advanced topics: networking, load balancing, security, and privacy. The lectures will be delivered on campus.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br/><p>Weekly applied classes aim to enhance the understanding of lectures and provide an opportunity for students to receive feedback.</p></p><p><strong>Learning outcomes:</strong> L01, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class Weekly applied classes aim to enhance the understanding of lectures and provide an opportunity for students to receive feedback.",
+            "learning_outcomes": [
+                "L01",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practical</strong><br/><p>Weekly practicals aim to enhance the learned technologies including Docker, NoSQL, Hadoop, and Spark programming on Google Cloud Platform (GCP) and develop the individual project. Weekly applied classes aim to enhance the understanding of lectures. Should the on-campus practical not be possible, the backup plan consists of an online session.</p></p><p><strong>Learning outcomes:</strong> L03, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>Practical</strong>",
+            "topic_description": "Practical Weekly practicals aim to enhance the learned technologies including Docker, NoSQL, Hadoop, and Spark programming on Google Cloud Platform (GCP) and develop the individual project. Weekly applied classes aim to enhance the understanding of lectures. Should the on-campus practical not be possible, the backup plan consists of an online session.",
+            "learning_outcomes": [
+                "L03",
+                "L05",
+                "L06",
+                "L07",
+                "L08"
+            ]
+        }
+    ]
+}
