@@ -109,6 +109,10 @@
             "assessment_title": "Final Exam",
             "special_indicators": [
                 {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
                     "special_indicator_text": "Identity Verified"
                 },
