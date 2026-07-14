@@ -1,0 +1,118 @@
+{
+    "course_title": "Problems & Applications in Modern Statistics",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7500-62103-7660",
+    "full_course_code": "STAT7500-62103-7660",
+    "course_code": "STAT7500",
+    "class_code": "62103",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "build an appropriate statistical model to represent the process generating the data."
+        },
+        {
+            "number": "LO2.",
+            "description": "apply likelihood based methods to problems of estimation and hypothesis testing."
+        },
+        {
+            "number": "LO3.",
+            "description": "apply regression diagnostics in order to verify model assumptions."
+        },
+        {
+            "number": "LO4.",
+            "description": "recognise the limitations of linear models and generalized linear models."
+        },
+        {
+            "number": "LO5.",
+            "description": "apply Monte Carlo methods and Bayesian statistics"
+        },
+        {
+            "number": "LO6.",
+            "description": "use the statistical package R appropriately for the analysis and graphical representation of data."
+        },
+        {
+            "number": "LO7.",
+            "description": "communicate the results of statistical analysis clearly and accurately."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignments",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60% 15% each </dd>",
+            "due_date": "<dd><p>Assignment 1: 21/08/2026 4:00 pm</p>\n<p>Assignment 2: 11/09/2026 4:00 pm</p>\n<p>Assignment 3: 9/10/2026 4:00 pm</p>\n<p>Assignment 4: 30/10/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assignment will be on work covered in the lectures up to the setting of the assignment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submission via Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "End of Semester examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The end of semester examination in this course will be held during the end-of-semester examination period.</p>\n<p>It will be an in-person, invigilated exam held on campus.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Modern Statistics</strong><br/><p>Applied classes start in the second week of semester, they involve a mix of theoretical and practical problems. You should bring your own laptop to these with R/R Studio and/or Python installed.</p></p></div></td>",
+            "topic_title": "<strong>Modern Statistics</strong>",
+            "topic_description": "Modern Statistics Applied classes start in the second week of semester, they involve a mix of theoretical and practical problems. You should bring your own laptop to these with R/R Studio and/or Python installed.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Modern Statistics</strong><br/><p>Monte Carlo methods, Bayesian statistics, generalized linear models, generalised estimating equations and time series analysis.</p></p></div></td>",
+            "topic_title": "<strong>Modern Statistics</strong>",
+            "topic_description": "Modern Statistics Monte Carlo methods, Bayesian statistics, generalized linear models, generalised estimating equations and time series analysis.",
+            "learning_outcomes": []
+        }
+    ]
+}
