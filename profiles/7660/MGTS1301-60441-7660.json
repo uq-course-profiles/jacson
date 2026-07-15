@@ -70,7 +70,7 @@
                 }
             ],
             "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p> 24/09/2026 1:00 pm</p>\n<p>\n</p><p>Thursday 10/09/2026 at 1:00pm</p></dd>",
+            "due_date": "<dd><p> 24/09/2026 1:00 pm</p></dd>",
             "learning_objectives": null,
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
@@ -94,7 +94,7 @@
                 }
             ],
             "weighting": "<dd>20% Best 3 of 5 </dd>",
-            "due_date": "<dd><p> Week 8 - Week 12</p>\n<p>\n</p><p>During Class;</p>\n<ul>\n<li>Week 4</li>\n<li>Week 7</li>\n<li>Week 9</li>\n<li>Week 11</li>\n<li>Week 12</li>\n</ul></dd>",
+            "due_date": "<dd><p> Week 4 - Week 12</p>\n<p>\n</p><p>During Class:</p>\n<ul>\n<li>Week 4</li>\n<li>Week 7</li>\n<li>Week 9</li>\n<li>Week 11</li>\n<li>Week 12</li>\n</ul></dd>",
             "learning_objectives": null,
             "mode": "Activity/ Performance, Written",
             "category": "Tutorial/ Problem Set",
@@ -285,9 +285,9 @@
         {
             "learning_period": "Week 10",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>NO TUTORIAL - PUBLIC HOLIDAY</strong><br/><p><strong>King’s Birthday Public Holiday - Monday 5th October 2026</strong> - Check Blackboard for announcements about affected classes.</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>NO TUTORIAL - PUBLIC HOLIDAY</strong><br/><p><strong>King’s Birthday Public Holiday - Monday 5th October 2026</strong></p></p></div></td>",
             "topic_title": "<strong>NO TUTORIAL - PUBLIC HOLIDAY</strong>",
-            "topic_description": "NO TUTORIAL - PUBLIC HOLIDAY King’s Birthday Public Holiday - Monday 5th October 2026 - Check Blackboard for announcements about affected classes.",
+            "topic_description": "NO TUTORIAL - PUBLIC HOLIDAY King’s Birthday Public Holiday - Monday 5th October 2026",
             "learning_outcomes": []
         },
         {
