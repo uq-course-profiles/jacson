@@ -9,7 +9,24 @@
     "class_code": "62179",
     "semester_code": "7660",
     "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Collect, analyse and interpret physiological data and effectively communicate the results to a broader audience"
+        },
+        {
+            "number": "LO2.",
+            "description": "Demonstrate the ability to work effectively in small groups during the collection and analysis of experimental data"
+        },
+        {
+            "number": "LO3.",
+            "description": "Understand the importance of the environment in shaping the ecology and physiology of organisms in their natural habitat"
+        },
+        {
+            "number": "LO4.",
+            "description": "Appreciate the range of responses organisms possess to compensate for natural and human-induced environmental change"
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
