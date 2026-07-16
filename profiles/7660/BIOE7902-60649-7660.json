@@ -1,0 +1,130 @@
+{
+    "course_title": "Biomedical Signal Processing",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE7902-60649-7660",
+    "full_course_code": "BIOE7902-60649-7660",
+    "course_code": "BIOE7902",
+    "class_code": "60649",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand and describe properties of selected biomedical signals, including how these may affect related clinical applications."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify appropriate solutions for specific problems in biomedical engineering by considering the benefits and limitations of various digital signal processing approaches."
+        },
+        {
+            "number": "LO3.",
+            "description": "Implement signal processing algorithms for practical problems involving biomedical signals."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse selected physiological data with a particular focus on detecting events in biomedical signals."
+        },
+        {
+            "number": "LO5.",
+            "description": "Demonstrate the need for digital signal processing in certain medical devices and clinical procedures."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Bio-Signal Processing Tasks",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 27/07/2026 - 19/10/2026</p>\n<p>\n</p><p>These are scheduled in-class practical activities. </p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+            "category": "Computer Code, Performance",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are expected to attend and actively participate in each practical session. Marks will be awarded for satisfactory completion of the scheduled in-class practical activities. Each practical session contributes towards the final course grade, for a total of 30%. While doing this practical coding task, students must not look at anyone else's code or show anyone else their own code. They must also refrain from copying code from the internet or other sources. The use of generative artificial intelligence (GenAI) tools or other AI-assisted technologies are permitted for these lab based assessment.</p>\n<p>After the first task, initial feedback will be given to students about their performance. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students are required to attend the practical session and complete the exercise during class. The completed work must be demonstrated to the tutor before the end of the session for verification of satisfactory completion.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-semester In-class Assessment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 22/09/2026 2:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The in-semester examination is an individual, time-limited, paper-based assessment designed to evaluate students' understanding of the theoretical and fundamental concepts of biomedical signal processing covered throughout the course. The examination assesses students' knowledge of signal processing principles, analytical techniques, and their ability to apply these concepts to biomedical engineering problems.</p>\n<p>The examination may include multiple-choice, short-answer, and analytical questions requiring students to interpret biomedical signals, analyse signal processing methods, explain theoretical concepts, perform calculations, and justify the selection of appropriate techniques for specific biomedical applications.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students must complete the assessment during the scheduled session. At the conclusion of the session, all written responses, must be submitted to the course teaching team. </p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final examination is an individual, paper-based assessment designed to evaluate students' understanding of the fundamental principles and theoretical concepts of biomedical signal processing covered throughout the course. The examination assesses students' ability to analyse biomedical signals, interpret signal processing techniques, explain algorithmic concepts, evaluate the suitability of different processing methods, and apply theoretical knowledge to solve engineering problems.</p>\n<p>Questions may require students to perform analytical calculations, interpret biomedical signal characteristics, explain the operation and limitations of signal processing algorithms, compare alternative processing approaches, and justify the selection of appropriate techniques for specific biomedical applications.</p>\n<p>This assessment task is to be completed in-person. The use of  generative Artificial Intelligence (AI) or Machine Translation  (MT) tools will not be permitted. Any attempted use of AI or MT  may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/><p>Lecture on all topics addressed in the course. Furthermore, informal feedback will be provided on a weekly basis during the practical sessions.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures Lecture on all topics addressed in the course. Furthermore, informal feedback will be provided on a weekly basis during the practical sessions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practicals</strong><br/><p>There will be weekly practical sessions starting in week 2.</p>\n<p>The practical will be based on real-world biomedical signal processing. Gaining hands-on experience with real-world signals, including how to process them, remove noise, detect different abnormalities, and classify them. </p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Practicals</strong>",
+            "topic_description": "Practicals There will be weekly practical sessions starting in week 2. The practical will be based on real-world biomedical signal processing. Gaining hands-on experience with real-world signals, including how to process them, remove noise, detect different abnormalities, and classify them.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
