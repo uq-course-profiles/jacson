@@ -42,11 +42,11 @@
                 }
             ],
             "weighting": "<dd>16%</dd>",
-            "due_date": "<dd><p> 6/08/2026 - 23/10/2026</p></dd>",
+            "due_date": "<dd><p> 6/08/2026 - 21/08/2026</p>\n<p> 3/09/2026 - 23/10/2026</p></dd>",
             "learning_objectives": "L01, L04, L05",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be short, in-class, closed-book quizzes in the tutorials. The questions could include multiple-choice, true-false, or short answer. They are designed to test the extent to which students are keeping up with and understanding lecture content and set readings. More detailed advice will be available in the \"Assessment\" folder on the Blackboard online teaching page regarding preparation for these quizzes and the content they cover. Tutorials run during weeks 2-12 and are face-to-face. This is an in-person assessment not permitting use of notes or AI. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please see assessment criteria below under \"Additional Course Grading information\".</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be short, in-class, closed-book quizzes in the tutorials. The questions could include multiple-choice, true-false, or short answer. They are designed to test the extent to which students are keeping up with and understanding lecture content and set readings. More detailed advice will be available in the \"Assessment\" folder on the Blackboard online teaching page regarding preparation for these quizzes and the content they cover. Tutorials run during weeks 2-4, and weeks 6-12 and are face-to-face. This is an in-person assessment not permitting use of notes or AI. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Please see assessment criteria below under \"Additional Course Grading information\".</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Quizzes will be conducted in class on paper.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
@@ -115,19 +115,6 @@
     ],
     "learning_activities": [
         {
-            "learning_period": "Multiple weeks",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials Occur in Weeks 2-12</strong><br><p>Tutorials commence in Week 2, and will be held in Weeks 2, 4-12.  Choose a tutorial time on Allocate.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
-            "topic_title": "<strong>Tutorials Occur in Weeks 2-12</strong>",
-            "topic_description": "Tutorials Occur in Weeks 2-12 Tutorials commence in Week 2, and will be held in Weeks 2, 4-12.  Choose a tutorial time on Allocate.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L04",
-                "L05"
-            ]
-        },
-        {
             "learning_period": "Week 1(27 Jul - 02 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction: What is Philosophy?</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L05</p></div></td>",
@@ -135,6 +122,19 @@
             "topic_description": "Introduction: What is Philosophy?",
             "learning_outcomes": [
                 "L01",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12(03 Aug - 25 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorials Occur in Weeks 2-4; 6-12</strong><br><p>Tutorials commence in Week 2, and will be held in Weeks 2-4; 6-12. Choose a tutorial time on Allocate.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L04, L05</p></div></td>",
+            "topic_title": "<strong>Tutorials Occur in Weeks 2-4; 6-12</strong>",
+            "topic_description": "Tutorials Occur in Weeks 2-4; 6-12 Tutorials commence in Week 2, and will be held in Weeks 2-4; 6-12. Choose a tutorial time on Allocate.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L04",
                 "L05"
             ]
         },
