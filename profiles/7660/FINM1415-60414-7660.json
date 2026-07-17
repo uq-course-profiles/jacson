@@ -54,7 +54,7 @@
             "learning_objectives": "L01, L02, L03, L04, L05",
             "mode": "Oral",
             "category": "Presentation, Project",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to work in teams of 4–5 people (preferably 5), formed with students <strong>from their allocated tutorial</strong>. Groups will be formed in <strong>Teaching Week 1</strong>.</p>\n<p>Each team will be provided with practical issues to collaboratively analyse and solve <strong>outside class time</strong>. The assessments will be introduced and explained during lecture time. Every team is expected to deliver two presentations during their allocated tutorial sessions: the first presentation in <strong>Teaching Week 6 or 7</strong> and the second presentation in <strong>Teaching Week 12</strong>. Each team must submit the presentation slides and preparation notes to Blackboard by the end of the relevant presentation week. The topics and the detailed schedule will be published on Blackboard.</p>\n<p>Upon completing the team project, you must also complete a <strong>Peer Assessment</strong> individually by 5<strong> pm on Wednesday of Week 13, 28 October</strong>. Peer Assessment will be used to calculate your final grade for the team project. Completing the Peer Assessment is <strong>mandatory</strong>. If you do not submit a Peer Assessment form, you will receive a score of <strong>zero</strong> on the team project. Peer Assessment will be completed on Blackboard. Further details will be discussed during the semester. Your presentations will be recorded for marking purposes per UQ Policy.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are required to work in teams of 4–5 people (preferably 5), formed with students <strong>from their allocated tutorial</strong>. Groups will be formed in <strong>Teaching Week 1</strong>.</p>\n<p>Each team will be provided with practical issues to collaboratively analyse and solve <strong>outside class time</strong>. The assessments will be introduced and explained during lecture time. Every team is expected to deliver two presentations during their allocated tutorial sessions: the first in <strong>Teaching Week 6 (or Teaching Week 7 for students who received approvals for assessment adjustments, i.e., SAP)</strong> and the second in <strong>Teaching Week 12 (or Teaching Week 13 Monday to Wednesday for students who received approvals for assessment adjustments, i.e., SAP)</strong>. Each team must submit the presentation slides and preparation notes to Blackboard by the end of the relevant presentation week. The topics and the detailed schedule will be published on Blackboard.</p>\n<p>Upon completing the team project, you must also complete a <strong>Peer Assessment</strong> individually by 5<strong> pm on Wednesday of Week 13, 28 October</strong>. Peer Assessment will be used to calculate your final grade for the team project. Completing the Peer Assessment is <strong>mandatory</strong>. Peer Assessment will be completed on Blackboard. Further details will be discussed during the semester. Your presentations will be recorded for marking purposes per UQ Policy.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>The presentation slides and preparation notes are submitted using the course Blackboard site. For more details, refer to the \"Assessment Guidelines\" on Blackboard.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
@@ -172,9 +172,9 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>T3: Time value of Money (II) </strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
-            "topic_title": "<strong>T3: Time value of Money (II) </strong>",
-            "topic_description": "T3: Time value of Money (II)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>T3: Time Value of Money (II) </strong><br/></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>T3: Time Value of Money (II) </strong>",
+            "topic_description": "T3: Time Value of Money (II)",
             "learning_outcomes": [
                 "L02"
             ]
@@ -204,9 +204,9 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>L6: Case Study 1</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
-            "topic_title": "<strong>L6: Case Study 1</strong>",
-            "topic_description": "L6: Case Study 1",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>L6: Case Study I</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L05</p></div></td>",
+            "topic_title": "<strong>L6: Case Study I</strong>",
+            "topic_description": "L6: Case Study I",
             "learning_outcomes": [
                 "L01",
                 "L02",
