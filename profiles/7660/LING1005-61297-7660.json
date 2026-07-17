@@ -58,7 +58,7 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-1",
-            "assessment_title": "Mid-semester Examination",
+            "assessment_title": "In-semester Examination",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
@@ -70,11 +70,11 @@
                 }
             ],
             "weighting": "<dd>40%</dd>",
-            "due_date": "<dd><p>In-semester Saturday</p>\n<p>5/09/2026 - 20/09/2026</p></dd>",
-            "learning_objectives": "L01, L02, L03, L05",
+            "due_date": "<dd><p>In-semester Saturday</p>\n<p>5/09/2026 - 20/09/2026</p>\n<p>\n</p><p>Please note the University may need to extend examination scheduling to additional days and/or evening sessions to ensure all examinations can be accommodated at the St Lucia campus. This means the exam may be scheduled on a Friday evening or a Sunday.</p>\n<p> </p></dd>",
+            "learning_objectives": "L01, L02, L03, L05, L06",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an in-person <strong>60-minute </strong>examination on material covered in WEEKS 1-6. This assessment will involve a combination of multiple-choice questions and short answer questions.</p>\n<p>This assessment task is to be completed in-person in the in-semester Saturday exam period.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This is an in-person <strong>60-minute </strong>examination on material covered in WEEKS 1-6. This assessment will involve a combination of multiple-choice questions and short answer questions.</p>\n<p>This assessment task is to be completed in-person in the in-semester exam period.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
