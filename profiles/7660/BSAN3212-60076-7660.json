@@ -1,0 +1,218 @@
+{
+    "course_title": "Deep Learning for Business",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN3212-60076-7660",
+    "full_course_code": "BSAN3212-60076-7660",
+    "course_code": "BSAN3212",
+    "class_code": "60076",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Understand the basic concepts of deep learning and AI and explain their relationship to and application in business."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply the methods of deep learning in a Python-based software environment, with an emphasis on artificial neural networks."
+        },
+        {
+            "number": "LO3.",
+            "description": "Compare and critically evaluate the various approaches to artificial neural networks and assess their value for decision making."
+        },
+        {
+            "number": "LO4.",
+            "description": "Develop an understanding of how deep learning will change business, government, and society, and the associated costs and benefits."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Deep Learning for Business Essay (A1)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 21/08/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The use of deep learning methods is increasingly being adopted across various sectors of the economy, and as a result, business and society are likely to undergo significant changes. </p>\n<p>In a 2000-word essay, explore how a particular business or industry is likely to respond to these changes. When analysing your case study you will need to consider both the potential benefits and the potential challenges, including ethical considerations. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via link on BlackBoard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Deep Learning Coding Project Journal (A2)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>50%</dd>",
+            "due_date": "<dd><p> 9/10/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Notebook/ Logbook",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>As you complete the in-class deep learning projects, you are asked to produce a coding project journal that details your experience completing these projects. </p>\n<p>More details about the format, style, etc. will be discussed in class and provided on Blackboard. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via link on BlackBoard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Building upon the ideas and concepts explored in the course and your practical experience with machine learning projects from A2, the exam will assess your knowledge of machine learning methods and your ability to apply this knowledge to realistic business applications.  </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course introduction and A1 overview</strong><br/></p></div></td>",
+            "topic_title": "<strong>Course introduction and A1 overview</strong>",
+            "topic_description": "Course introduction and A1 overview",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Preparation for Deep Learning</strong><br/></p></div></td>",
+            "topic_title": "<strong>Preparation for Deep Learning</strong>",
+            "topic_description": "Preparation for Deep Learning",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>AI and Society</strong><br/></p></div></td>",
+            "topic_title": "<strong>AI and Society</strong>",
+            "topic_description": "AI and Society",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Neural Network Theory</strong><br/></p></div></td>",
+            "topic_title": "<strong>Neural Network Theory</strong>",
+            "topic_description": "Neural Network Theory",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 5",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Convolutional Neural Networks (CNNs)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Convolutional Neural Networks (CNNs)</strong>",
+            "topic_description": "Convolutional Neural Networks (CNNs)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 6",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Autoencoders</strong><br/></p></div></td>",
+            "topic_title": "<strong>Autoencoders</strong>",
+            "topic_description": "Autoencoders",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 7",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Recurrent Neural Networks (RNNs)</strong><br/></p></div></td>",
+            "topic_title": "<strong>Recurrent Neural Networks (RNNs)</strong>",
+            "topic_description": "Recurrent Neural Networks (RNNs)",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Text Analytics</strong><br/></p></div></td>",
+            "topic_title": "<strong>Text Analytics</strong>",
+            "topic_description": "Text Analytics",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Reviewing the Fundamentals of Deep Learning</strong><br/></p></div></td>",
+            "topic_title": "<strong>Reviewing the Fundamentals of Deep Learning</strong>",
+            "topic_description": "Reviewing the Fundamentals of Deep Learning",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Mid-sem break",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>In-semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>In-semester Break</strong>",
+            "topic_description": "In-semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Generative AI and other real world applications</strong><br/></p></div></td>",
+            "topic_title": "<strong>Generative AI and other real world applications</strong>",
+            "topic_description": "Generative AI and other real world applications",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Building a business case for AI and ML</strong><br/></p></div></td>",
+            "topic_title": "<strong>Building a business case for AI and ML</strong>",
+            "topic_description": "Building a business case for AI and ML",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessing Model Performance</strong><br/></p></div></td>",
+            "topic_title": "<strong>Assessing Model Performance</strong>",
+            "topic_description": "Assessing Model Performance",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Course Review and Recap</strong><br/></p></div></td>",
+            "topic_title": "<strong>Course Review and Recap</strong>",
+            "topic_description": "Course Review and Recap",
+            "learning_outcomes": []
+        }
+    ]
+}
