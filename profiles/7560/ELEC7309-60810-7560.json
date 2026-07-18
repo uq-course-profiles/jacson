@@ -9,7 +9,52 @@
     "class_code": "60810",
     "semester_code": "7560",
     "semester_details": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Construct a basic modelling of power system components for reliability evaluation and planning"
+        },
+        {
+            "number": "LO2.",
+            "description": "Design methodologies to solve power system generation system reliability calculation and generation planning."
+        },
+        {
+            "number": "LO3.",
+            "description": "Investigate calculation of reliability indices for combined generation and transmission systems."
+        },
+        {
+            "number": "LO4.",
+            "description": "Formulate reliability concepts to transmission, distribution and interconnected systems, especially in planning."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design power systems reliability and planning in the context of the deregulated environment."
+        },
+        {
+            "number": "LO6.",
+            "description": "Develop load forecasting models for short-term and long-term power system planning"
+        },
+        {
+            "number": "LO7.",
+            "description": "Construct transmission and generation expansion models for both regulated and deregulated power systems."
+        },
+        {
+            "number": "LO8.",
+            "description": "Develop a simple peer-to-peer energy trading algorithm for distribution system planning analysis."
+        },
+        {
+            "number": "LO9.",
+            "description": "Select suitable technology options for generation and transmission planning problems using cost-benefit analysis."
+        },
+        {
+            "number": "LO10.",
+            "description": "Investigate challenges and tools for solving large-scale power system planning problems."
+        },
+        {
+            "number": "LO11.",
+            "description": "Construct small-scale planning/reliability problems using power system packages and toolboxes."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
