@@ -1,0 +1,283 @@
+{
+    "course_title": "Modern Asset Management and Condition Monitoring in Power System",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC6320-62541-7660",
+    "full_course_code": "ELEC6320-62541-7660",
+    "course_code": "ELEC6320",
+    "class_code": "62541",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify critical situations where high system stresses can occur and specify measures to reduce these stresses or alleviate their effect"
+        },
+        {
+            "number": "LO2.",
+            "description": "Describe the failure modes of the main types of assets, which are the key components in large high voltage electric power systems."
+        },
+        {
+            "number": "LO3.",
+            "description": "Choose the most appropriate types of condition monitoring techniques to identify impending failures of the in-service assets."
+        },
+        {
+            "number": "LO4.",
+            "description": "Design a suite of electrical tests that will give confidence that dangerously high potential rises will not occur on exposed conducting parts of high voltage systems"
+        },
+        {
+            "number": "LO5.",
+            "description": "Analyse collected datasets to the management of large populations of similar electrical power system assets."
+        },
+        {
+            "number": "LO6.",
+            "description": "Evaluate strategic asset management policies for electricity transmission and distribution networks."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment submissions",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 21/08/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Problem-solving assignments will be uploaded to Blackboard. Students are required to submit their completed solutions via Blackboard by the specified due dates and times. Each assignment carries equal weighting.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through Blackboard</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Research Report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 16/10/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>1. Topic Selection</strong></p>\n<p>Students are required to select one power system asset along with one condition assessment technique as the focus of their study. The chosen asset may include, but is not limited to, power transformers, high or medium-voltage underground cables, circuit breakers, insulators, rotating machines such as generators and motors, or overhead transmission lines. Corresponding condition assessment techniques may include Partial discharge (PD) monitoring, dissolved gas analysis (DGA), frequency response analysis (FRA), dielectric spectroscopy, thermal imaging or infrared thermography, acoustic emission methods, phasor measurement units or smart meters, or other appropriate techniques. The selected combination should allow for meaningful technical discussion and critical analysis.</p>\n<p><strong>2. Report Structure </strong></p>\n<p><strong>Introduction</strong></p>\n<p>The report should begin with an introduction that provides a brief description of the selected power system asset and outlines its role within the electrical network. It should highlight the importance of condition assessment in ensuring asset reliability, safety, and operational efficiency. The introduction should also establish the motivation for the study, which may include factors such as ageing infrastructure, increasing reliability requirements, exposure to climate-related stresses, and the growing role of digitalisation and smart monitoring technologies.</p>\n<p><strong>Critical Literature Review </strong></p>\n<p>The report must include a critical review of existing literature related to the selected condition assessment technique. This section should identify and discuss key established methods, compare findings across different studies, and evaluate the strengths and weaknesses of each approach. Students are expected to examine how techniques have evolved over time and to organise the literature into coherent categories, such as conventional diagnostic methods versus advanced or AI-driven approaches. Rather than simply summarising prior work, the review should demonstrate critical thinking by analysing methodological differences, limitations, and trends. For example, the discussion may contrast traditional diagnostic tools, such as standard-based DGA methods, with advanced signal processing techniques and emerging data-driven or machine learning approaches.</p>\n<p><strong>Detailed Description of Techniques</strong></p>\n<p>A detailed technical description of the selected technique should be provided. The report should clearly explain the diagnostic problem being addressed, along with any relevant mathematical or physical principles, key variables, and underlying assumptions. This should be followed by a description of the methodology, including measurement principles, data acquisition processes, and any signal processing or feature extraction methods used. Finally, this section should synthesise results reported in the literature, highlighting key findings, performance metrics such as accuracy and sensitivity, and relevant case studies.</p>\n<p><strong>Limitations and Improvements </strong></p>\n<p>The report should critically examine the limitations of existing condition assessment methods. Building on this analysis, students are expected to propose potential improvements. These may include the integration of hybrid modelling approaches that combine physical understanding with artificial intelligence, the development of real-time or online monitoring systems, and the use of data fusion techniques to integrate information from multiple sensors.</p>\n<p><strong>Conclusion</strong></p>\n<p>The conclusion should summarise the key insights obtained from the report, including the most effective and promising techniques identified. It should highlight major findings from the literature review and technical analysis, and provide a concise discussion of future research directions in the area of condition assessment for power system assets.</p>\n<p><strong>Bibliography </strong></p>\n<p>A complete bibliography must be included at the end of the report, listing all references cited throughout the document. A consistent referencing style, such as IEEE, should be used. Every claim or piece of information presented in the report must be supported by appropriate citations. References should include a mix of high-quality sources such as peer-reviewed journal papers, relevant standards (e.g., IEEE or IEC), conference proceedings, and authoritative textbooks.</p>\n<p><strong>3.Report Format</strong></p>\n<p>At least TEN pages (excluding title page) are required (in font Times New Roman size 12, single column, double line space). Page Margins - Top - 2.54 cm ; Bottom - 2.54 cm ; Outside - 2.54 cm ; Inside - 3.18 cm</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</p>\n<p>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Report must be submitted via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Viva voce",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 26/10/2026 - 30/10/2026</p>\n<p>\n</p><p>Viva voce will take place in week 13. The schedule will be advised on Backboard in Week 12.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A <strong>viva voce (oral examination)</strong> is organized in which a student presents and defends their research report through a face-to-face discussion with the lecturer. The viva is based on the student’s research report on the condition assessment technique for a selected power system asset. The purpose is to evaluate the student’s understanding of the topic, ability to explain key concepts clearly, and capacity to critically analyse existing methods, limitations, and proposed improvements. Students are expected to answer questions about their chosen asset, the diagnostic techniques, the supporting literature, and the technical reasoning behind their conclusions.</p>\n<p>Each student will take a 10 minutes in-person viva.</p>\n<p>DATE FOR THE VIVA VOCE IN THE LAST WEEK OF SEMESTER WILL BE ADVISED VIA BLACKBOARD.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>This is an in-person assessment.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Final examination will be based on the material covered throughout the course. This is an invigilated exam on campus. </p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(27 Jul - 02 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1: Introduction to Power System Asset Management</strong><br><p>Introduction to the course and review modern electricity networks and asset management.</p></br></p><p><strong>Learning outcomes:</strong> L06</p></div></td>",
+            "topic_title": "<strong>Week 1: Introduction to Power System Asset Management</strong>",
+            "topic_description": "Week 1: Introduction to Power System Asset Management Introduction to the course and review modern electricity networks and asset management.",
+            "learning_outcomes": [
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12(03 Aug - 25 Oct)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Class</strong><br><p>Starting from Week 2. More information will be available through Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Applied Class</strong>",
+            "topic_description": "Applied Class Starting from Week 2. More information will be available through Blackboard.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Aug - 09 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2: Abnormal Currents and Temperature Rise</strong><br/><p>Factors affecting load and fault currents. Calculation of short-time temperature rise in assets.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Week 2: Abnormal Currents and Temperature Rise</strong>",
+            "topic_description": "Week 2: Abnormal Currents and Temperature Rise Factors affecting load and fault currents. Calculation of short-time temperature rise in assets.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 3 To Week 4(10 Aug - 23 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3 and Week 4: High Voltage (HV) Insulation</strong><br><p>Introduction to properties of insulation including gas, liquid and solid dielectrics.  Discussion on composite insulation and characteristics of insulation aging.</p></br></p><p><strong>Learning outcomes:</strong> L02</p></div></td>",
+            "topic_title": "<strong>Week 3 and Week 4: High Voltage (HV) Insulation</strong>",
+            "topic_description": "Week 3 and Week 4: High Voltage (HV) Insulation Introduction to properties of insulation including gas, liquid and solid dielectrics.  Discussion on composite insulation and characteristics of insulation aging.",
+            "learning_outcomes": [
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Aug - 30 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5: Abnormal Voltages and Travelling Waves</strong><br/><p>Discussion on resonant, harmonic, ferroresonant, switching and lightning overvoltage. Introduction of travelling waves and calculation of lightning and switching surges.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Week 5: Abnormal Voltages and Travelling Waves</strong>",
+            "topic_description": "Week 5: Abnormal Voltages and Travelling Waves Discussion on resonant, harmonic, ferroresonant, switching and lightning overvoltage. Introduction of travelling waves and calculation of lightning and switching surges.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Aug - 06 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6: Surge Arrester and Insulation Coordination</strong><br/><p>Surge arresters fundamentals and its condition assessment. Discussion on surge arrester placement and co-ordination of other power system assets.</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 6: Surge Arrester and Insulation Coordination</strong>",
+            "topic_description": "Week 6: Surge Arrester and Insulation Coordination Surge arresters fundamentals and its condition assessment. Discussion on surge arrester placement and co-ordination of other power system assets.",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 8(07 Sep - 20 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7 and Week 8: High Voltage Testing and Diagnostic Methods of Insulation</strong><br><p>Purpose, types, requirements and standards of high voltage (HV) testing, HV measurement systems, and condition monitoring of power system assets at field.</p></br></p><p><strong>Learning outcomes:</strong> L04, L05</p></div></td>",
+            "topic_title": "<strong>Week 7 and Week 8: High Voltage Testing and Diagnostic Methods of Insulation</strong>",
+            "topic_description": "Week 7 and Week 8: High Voltage Testing and Diagnostic Methods of Insulation Purpose, types, requirements and standards of high voltage (HV) testing, HV measurement systems, and condition monitoring of power system assets at field.",
+            "learning_outcomes": [
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 7 To Week 12(07 Sep - 25 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Insulation condition monitoring Demo</strong><br><p>Laboratory demonstration on various asset condition monitoring techniques. Laboratory notes will be uploaded to Blackboard. More information will be provided on Blackboard.</p></br></p><p><strong>Learning outcomes:</strong> L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Insulation condition monitoring Demo</strong>",
+            "topic_description": "Insulation condition monitoring Demo Laboratory demonstration on various asset condition monitoring techniques. Laboratory notes will be uploaded to Blackboard. More information will be provided on Blackboard.",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Week 9(21 Sep - 27 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9: Power Transformers</strong><br/><p>Introduction to power transformer technology including construction, windings, insulation, tap changers. Voltage and current transformers. Failure modes, testing and special condition monitoring methods.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 9: Power Transformers</strong>",
+            "topic_description": "Week 9: Power Transformers Introduction to power transformer technology including construction, windings, insulation, tap changers. Voltage and current transformers. Failure modes, testing and special condition monitoring methods.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 Oct - 11 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10: Power System Earthing Fundamentals</strong><br/><p>Earthing methods, earthing resistance measurements, power system earthing principles, failure and condition assessment of earthing systems.</p></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Week 10: Power System Earthing Fundamentals</strong>",
+            "topic_description": "Week 10: Power System Earthing Fundamentals Earthing methods, earthing resistance measurements, power system earthing principles, failure and condition assessment of earthing systems.",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 Oct - 18 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11: Arcs and Circuit Breakers</strong><br/><p>Characteristics of arcs. Current interruption by circuit breakers and switches.Modern types of circuit breakers and their failure modes.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 11: Arcs and Circuit Breakers</strong>",
+            "topic_description": "Week 11: Arcs and Circuit Breakers Characteristics of arcs. Current interruption by circuit breakers and switches.Modern types of circuit breakers and their failure modes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 Oct - 25 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12: Data Analytics for Power System Asset Condition Monitoring; Maintenance of Power System Assets</strong><br/><p>Data Analytics for Power System Asset Condition Monitoring; Maintenance of Power System Assets</p></p><p><strong>Learning outcomes:</strong> L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 12: Data Analytics for Power System Asset Condition Monitoring; Maintenance of Power System Assets</strong>",
+            "topic_description": "Week 12: Data Analytics for Power System Asset Condition Monitoring; Maintenance of Power System Assets Data Analytics for Power System Asset Condition Monitoring; Maintenance of Power System Assets",
+            "learning_outcomes": [
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13: Viva on Research Report</strong><br/><p>A <strong>viva (oral examination)</strong> is organized in which a student presents and defends their research report through a face-to-face discussion with the lecturer. The viva is based on the student’s reseaech report on the condition assessment technique for a selected power system asset. The purpose is to evaluate the student’s understanding of the topic, ability to explain key concepts clearly, and capacity to critically analyse existing methods, limitations, and proposed improvements. Students are expected to answer questions about their chosen asset, the diagnostic techniques, the supporting literature, and the technical reasoning behind their conclusions.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Week 13: Viva on Research Report</strong>",
+            "topic_description": "Week 13: Viva on Research Report A viva (oral examination) is organized in which a student presents and defends their research report through a face-to-face discussion with the lecturer. The viva is based on the student’s reseaech report on the condition assessment technique for a selected power system asset. The purpose is to evaluate the student’s understanding of the topic, ability to explain key concepts clearly, and capacity to critically analyse existing methods, limitations, and proposed improvements. Students are expected to answer questions about their chosen asset, the diagnostic techniques, the supporting literature, and the technical reasoning behind their conclusions.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
