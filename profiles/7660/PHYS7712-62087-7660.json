@@ -1,0 +1,139 @@
+{
+    "course_title": "Project A",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS7712-62087-7660",
+    "full_course_code": "PHYS7712-62087-7660",
+    "course_code": "PHYS7712",
+    "class_code": "62087",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Be able to plan, develop and carry out an independent research project."
+        },
+        {
+            "number": "LO2.",
+            "description": "Obtain an in-depth knowledge of the specific topic area through a thorough literature review."
+        },
+        {
+            "number": "LO3.",
+            "description": "Develop research skills and be able to locate and use information sources."
+        },
+        {
+            "number": "LO4.",
+            "description": "Present results of research in a written thesis."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Outline of research",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd> pass/resubmit/fail (100% penalty for fail/non-completion) </dd>",
+            "due_date": "<dd><p> 7/08/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L03",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Write a research proposal of up to, but not more than, one page, describing the background and aims of your project. Make sure you include the project title, your name, and that of your supervisor. Please show this to your supervisor for feedback before you submit it.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard through the assessment item.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Weekly project reports",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 9/11/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Notebook/ Logbook",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Students are requested to meet weekly with their supervisors and provide an update on progress. This should be summarised in a written format electronically and shared with your supervisor each week for review. The report should include the following:</p>\n<ol>\n<li>Last week’s goals and progress to date</li>\n<li>Goals for the following week</li>\n<li>Brief summary of what is discussed</li>\n</ol>\n<p><br/></p>\n<p>Students may also include any relevant data as they see fit. Please append each weekly summaries into the same shared document, so that at the end of the semester there is a continuous record of progress on the project in a single document. If the meeting cannot be held due to unavailability, then this should be noted.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard through the assessment item.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Research report",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>70%</dd>",
+            "due_date": "<dd><p> 9/11/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The student will write a formal, referenced report on their work for the semester. It will be examined by the supervisor and by one examiner allocated by the course coordinator. The supervisor and examiner mark contribute 50% each towards the final mark.</p>\n<p>This is a #2 unit course. The report is expected to be a 7-10 page single column industry-style report. Guidelines on the report formatting are provided on Blackboard.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard through the assessment item.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Oral defense",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>20% (100% penalty for fail/non-completion) </dd>",
+            "due_date": "<dd><p> 9/11/2026 - 20/11/2026</p></dd>",
+            "learning_objectives": "L02, L04",
+            "mode": "Oral",
+            "category": "Presentation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>During the exam period after you hand in your report you will attend in person an oral defense with the examiners and your project supervisor. The course coordinator may also attend. You will need to discuss a suitable date and venue with your project supervisor, examiners, and course coordinator. Examiners or supervisors may join the exam via video conferencing if necessary.</p>\n<p>The expert examiner shall lead the examination, with the supervisor (and course coordinator, if they attend) as observers. </p>\n<p>The oral defense is designed to complement the written report by providing an authentic assessment of each student’s understanding of, and intellectual contribution to, the research project. It gives students an opportunity to explain their work, present results and their interpretation, and respond to questions from examiners with different levels of familiarity with the research area.</p>\n<p>The defense also supports academic integrity by allowing the examiners to confirm that the student understands and can independently discuss the work presented in the report. This is particularly important because the use of generative artificial intelligence and other forms of external assistance in the preparation of written work can be difficult to identify or control. The oral defense does not assess whether a particular tool was used; rather, it assesses the student’s demonstrated ownership, understanding, critical judgement, and ability to communicate the submitted work.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Not Timetabled",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Research Project: Independent study leading to a report.</strong><br><p>Independent study leading to a report.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Research Project: Independent study leading to a report.</strong>",
+            "topic_description": "Research Project: Independent study leading to a report. Independent study leading to a report.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        }
+    ]
+}
