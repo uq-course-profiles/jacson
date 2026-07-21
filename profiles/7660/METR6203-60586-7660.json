@@ -1,0 +1,178 @@
+{
+    "course_title": "Control Engineering 2",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/METR6203-60586-7660",
+    "full_course_code": "METR6203-60586-7660",
+    "course_code": "METR6203",
+    "class_code": "60586",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "State space modelling & simulation - Construct, linearise, discretise and simulate state-space models of linear and nonlinear dynamic systems using MATLAB and Simulink to analyse behaviour, stability and modelling limitations practically."
+        },
+        {
+            "number": "LO2.",
+            "description": "Reachability & observability -\tEvaluate reachability and observability in linear state-space systems using rank tests and Gramians, interpreting modes and implications for feedback, observers and practical engineering design decisions."
+        },
+        {
+            "number": "LO3.",
+            "description": "State feedback design - Design state-feedback controllers for linear SISO and MIMO systems using pole placement, LQR and integral action, assessing stability, accuracy, robustness and implementation constraints in practical contexts"
+        },
+        {
+            "number": "LO4.",
+            "description": "Observer design & output feedback - Design Luenberger observers and output-feedback controllers, applying separation principles, feedforward strategies and digital implementation to estimate states, reject disturbances and evaluate closed-loop performance in applications."
+        },
+        {
+            "number": "LO5.",
+            "description": "Optimal control (LQR) - Derive and apply continuous and discrete LQR methods, selecting weighting matrices to meet objectives, relating outcomes to pole placement, and evaluating uncertainty and implementation limitations."
+        },
+        {
+            "number": "LO6.",
+            "description": "Optimal estimation (Kalman filter) - Derive and implement continuous and discrete Kalman filters for linear Gaussian systems, interpreting noise covariances and evaluating estimation accuracy, sensitivity and modelling assumptions in practice."
+        },
+        {
+            "number": "LO7.",
+            "description": "LQG synthesis - Synthesise LQG regulators by combining LQR and Kalman filter designs using separation, implementing controllers and evaluating robustness, performance and practical constraints against alternative control designs."
+        },
+        {
+            "number": "LO8.",
+            "description": "Integrated design & evaluation - Apply state-space modelling, LQR feedback and LQG synthesis to open-ended control problems, comparing robustness, evaluating performance, justifying trade-offs and communicating professional findings for engineering decisions."
+        },
+        {
+            "number": "LO9.",
+            "description": "Collaborate in Engineering Teams - Collaborate effectively in engineering teams to solve control problems by defining roles, managing tasks, communicating professionally and resolving technical and interpersonal challenges constructively during projects."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Problem Based Assignment",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20% (PBA1: 3%, PBA2: 7%, PBA3: 7%, PBA4: 3%) </dd>",
+            "due_date": "<dd><p>Problem Based Assignment 1 17/08/2026 4:00 pm</p>\n<p>Problem Based Assignment 2 31/08/2026 4:00 pm</p>\n<p>Problem Based Assignment 3 14/09/2026 4:00 pm</p>\n<p>Problem Based Assignment 4 12/10/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The problem-based assignment series consists of a collection of concise assignments designed to help you grasp fundamental concepts. These concepts are subsequently put into practice through the Control Systems Implementation Projects.</p>\n<p><strong>Problem Based Assignment 1 (LO 1)</strong> will require you to develop a Matlab/Simulink model of a system and conduct simulations to analyse the system's response to various inputs.</p>\n<p><strong>Problem Based Assignment 2 (LO 1) </strong>will require you to utilise Matlab for generating and analysing a phase portrait of a given system. Additionally, you will be tasked with determining a Lyapunov function for the system and using it to perform a qualitative analysis of system stability.</p>\n<p><strong>Problem Based Assignment 3 (LO 2) </strong>involves the following tasks: (i) Creating a Simulink model of a balance system. (ii) Computing a linearisation of the system and comparing it with numerical functions available in MATLAB. (iii) Designing a stabilising control law for the linearised systems using state feedback. (iv) Developing a simulation that applies the designed stabilising control law to demonstrate its local asymptotic stabilisation of the system.</p>\n<p><strong>Problem Based Assignment 4 (LO 2, 3)</strong> aims to enhance your proficiency in utilising the MATLAB Control Systems Toolbox, specifically in constructing state observers and state feedback controllers using the toolbox's available methods. The assignment emphasizes the application of state feedback for system stabilisation and provides an opportunity to explore the balance between observer poles and feedback poles.</p>\n<p>To access the detailed instructions and assessment criteria for each assignment, please refer to the assignment description provided on Blackboard.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit through turn-it-in via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Control System Implementation 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>25%</dd>",
+            "due_date": "<dd><p> 23/09/2026 - 24/09/2026</p>\n<p>\n</p><p>Demo times will be made available for sign up.</p></dd>",
+            "learning_objectives": "L01, L02, L05",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration, Presentation, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this assignment, you will collaborate in groups to implement a control system using state feedback on physical hardware. Your performance will be evaluated through a demonstration of your control system and a presentation on its overall performance.</p>\n<p>As part of the assessment, you must also include an individual personal reflection. This reflection should explain your specific contribution to the project, the responsibilities you undertook, the technical or practical challenges you encountered, and how you addressed them. You should also reflect on your experience of working with the group, including communication, collaboration, decision-making, task allocation, and any lessons you learned from the process. The reflection should clearly distinguish your individual contribution from the collective work of the group.</p>\n<p>Demo slots for the demonstrations will be made available for sign-up on Blackboard.</p>\n<p>To access the specific details and requirements of the assignment, please refer to the assignment description available on Blackboard.</p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Control System Implementation 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle icon-text--small",
+                    "special_indicator_text": "Team or group-based"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p> 28/10/2026 - 29/07/2026</p>\n<p>\n</p><p>Demo times will be made available for sign up.</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05",
+            "mode": "Activity/ Performance",
+            "category": "Practical/ Demonstration, Presentation, Reflection",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>For this assignment, you will collaborate in groups to design and implement an optimal control system using output feedback on physical hardware. Your performance will be assessed through a demonstration of the control system and a presentation evaluating its design, implementation, and overall performance.</p>\n<p>As part of the assessment, you must also include an individual personal reflection. This reflection should explain your specific contribution to the project, the responsibilities you undertook, the technical or practical challenges you encountered, and how you addressed them. You should also reflect on your experience of working with the group, including communication, collaboration, decision-making, task allocation, and any lessons you learned from the process. The reflection should clearly distinguish your individual contribution from the collective work of the group.</p>\n<p>Demo slots for the demonstrations will be made available for sign-up on Blackboard.</p>\n<p>To access the specific details and requirements of the assignment, please refer to the assignment description available on Blackboard.</p>\n<p><em>If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support.</em></p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                }
+            ],
+            "weighting": "<dd>35%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will test your understanding of the course material through problem solving.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(27 Jul - 01 Nov)",
+            "activity_type": "Workshop",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Problem based learning workshops and contacts</strong><br><p>Weekly problem based workshops that develops understanding of the learning outcomes.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Problem based learning workshops and contacts</strong>",
+            "topic_description": "Problem based learning workshops and contacts Weekly problem based workshops that develops understanding of the learning outcomes.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 12(03 Aug - 25 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Laboratory</strong><br><p>Implementation of control systems on laboratory equipment as a team</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05</p></div></td>",
+            "topic_title": "<strong>Laboratory</strong>",
+            "topic_description": "Laboratory Implementation of control systems on laboratory equipment as a team",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05"
+            ]
+        }
+    ]
+}
