@@ -1,0 +1,143 @@
+{
+    "course_title": "Machine Element Design",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2100-60781-7660",
+    "full_course_code": "MECH2100-60781-7660",
+    "course_code": "MECH2100",
+    "class_code": "60781",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Interpret design problems for machine elements within a structural integrity framework by tracing the flow of loads through structures and assemblies, and selecting appropriate methods for analysis."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply a connected taxonomy of failure modes (yield, fatigue, and fracture) to identify governing failure mechanisms for machine elements under realistic loading conditions"
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain how the mechanical properties of engineering materials govern the onset and progression of failure, and apply this knowledge to inform material selection for machine elements."
+        },
+        {
+            "number": "LO4.",
+            "description": "Select and justify design margins and safety factors with reference to uncertainty in loading and material data, consequence of failure, and the inspection and maintenance regime."
+        },
+        {
+            "number": "LO5.",
+            "description": "Design rotating shaft and gear transmission systems for structural integrity by applying gear design, combined loading analysis, fatigue life estimation, and bearing selection, using relevant standards and computer aided design tools."
+        },
+        {
+            "number": "LO6.",
+            "description": "Design bolted joints and threaded fasteners against failure by analysing preload, joint stiffness, fatigue and the influence of assembly practice on joint performance."
+        },
+        {
+            "number": "LO7.",
+            "description": "Assess the structural integrity of welded joints by analysing the effect of the fabrication process on material properties and stress concentration, and estimating the fatigue life using relevant standards."
+        },
+        {
+            "number": "LO8.",
+            "description": "Communicate design decisions for machine elements through systematic, evidence-based documentation."
+        },
+        {
+            "number": "LO9.",
+            "description": "Apply professional engineering practice including ethical, safety and environmental responsibilities."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Assignment 1 Structural Modelling and Failure Prediction (Submission #1)",
+            "special_indicators": [],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 24/08/2026 12:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, you will solve practical problems in structural integrity and failure modes in the form of short-answer/analysis questions. Each student will receive a worksheet with customised questions to complete and submit through Blackboard. This assignment has one submission, i.e., Submission #1. You will use the Applied Classes as the consultation time for this assessment.</p>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit the Worksheet in PDF format through Blackboard. One submission for this assessment: Submission #1.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Assignment 2 Transmission System Design (Submissions #2 and #3)",
+            "special_indicators": [],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Submission #2 14/09/2026 12:00 pm</p>\n<p>Submission #3 6/10/2026 12:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Product/ Design, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, you will follow the steps to design a transmission gearbox, including gears, shafts, bearings, etc. Each student will have customised design parameters. Please read through the assignment description, requirements, and hints in the given Assignment Brief, and work out the design and answer the related questions in the Worksheets. You only need to submit your completed Worksheets. This assignment includes two sequential submissions, i.e., Submissions #2 and #3. You will use the Applied Classes as the consultation time for this assessment.</p>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic, and complex. Whilst students may use AI and/or MT technologies, successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em>Failure to reference the use of generative AI or MT may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em>To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit the Worksheets in PDF format through Blackboard. Two submissions for this assessment: Submission #2 and #3.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Assignment 3 Bolted and Welded Joint Design (Submission #4)",
+            "special_indicators": [],
+            "weighting": "<dd>10%</dd>",
+            "due_date": "<dd><p> 19/10/2026 12:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Product/ Design, Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assignment, you will analyze the forces and the joint stresses in a bolted and welded structure, as well as assess the fatigue strength of the structure in the form of short-answer/analysis questions.  Each student will receive a worksheet with customized questions to complete and submit through Blackboard. This assignment has one submission, i.e., Submission #4. You will use the Applied Classes as the consultation time for this assessment.</p>\n<p>Please refer to Blackboard for detailed marking criteria.</p>\n<p><em>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.</em></p>\n<p><em> A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</em></p>\n<p><em> To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit the Worksheet in PDF format through Blackboard. One submission for this assessment: Submission #5.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>55%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The exam comprises short-answer, multiple-choice, and calculation questions.  The exam script will include formula sheets. </p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(27 Jul - 01 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br><p>The lectures will cover fundamental theories of structural integrity and mechanical element design, and then apply this knowledge to the design of bolts, welds, gears, shafts, and related components. The designer's professional responsibilities will be emphasized. The lecture schedule and notes will be posted on Blackboard.</p></br></p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures The lectures will cover fundamental theories of structural integrity and mechanical element design, and then apply this knowledge to the design of bolts, welds, gears, shafts, and related components. The designer's professional responsibilities will be emphasized. The lecture schedule and notes will be posted on Blackboard.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(03 Aug - 01 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Classes</strong><br><p>The Applied Classes will demonstrate example problems and provide one-on-one consultation/assistance with the Assignments. Be sure you attend them, especially if you have questions.</p></br></p></div></td>",
+            "topic_title": "<strong>Applied Classes</strong>",
+            "topic_description": "Applied Classes The Applied Classes will demonstrate example problems and provide one-on-one consultation/assistance with the Assignments. Be sure you attend them, especially if you have questions.",
+            "learning_outcomes": []
+        }
+    ]
+}
