@@ -1,0 +1,251 @@
+{
+    "course_title": "Econometric Theory",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7331-60654-7660",
+    "full_course_code": "ECON7331-60654-7660",
+    "course_code": "ECON7331",
+    "class_code": "60654",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain matrix algebra proficiently to derive properties of (and compute) various econometric estimators."
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate the theory behind the General Linear Regression Model."
+        },
+        {
+            "number": "LO3.",
+            "description": "Explain the numerical and statistical properties of the OLS, GLS and IV estimators."
+        },
+        {
+            "number": "LO4.",
+            "description": "Demonstrate the finite sample and asymptotic properties of the OLS, GLS and IV estimators."
+        },
+        {
+            "number": "LO5.",
+            "description": "Use statistical packages such as R-Studio to compute the various estimators on real world datasets."
+        },
+        {
+            "number": "LO6.",
+            "description": "Examine the learned theory and methods to the real world."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-Person Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60% Each quiz is worth 20 points. The best 3 scores will count toward the final grade. </dd>",
+            "due_date": "<dd><p>In lecture 21/08/2026 10:45 am</p>\n<p>In lecture 4/09/2026 10:45 am</p>\n<p>In lecture 25/09/2026 10:45 am</p>\n<p>In lecture 23/10/2026 10:45 am</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task is to be completed in-person. Student IDs are mandatory. Students must present a valid photo ID card to be admitted into the room for the quiz, i.e. a university-issued ID card, a current passport, or current Australian driver’s licence or government ID card.</p>\n<p>Students should be at the venue for your quiz on time in the weeks of assessment. If you arrive late, you will not receive additional time to complete the quiz.</p>\n<p>The quizzes will contain MCQs, scenarios (sequential series of MCQs), and short answers. Incorrect answers will not be subject to penalties.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>40-minute in-person quizzes during the lecture time.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Research Project",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>40% The project is worth 40 points. </dd>",
+            "due_date": "<dd><p> 13/11/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Computer Code, Paper/ Report/ Annotation, Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Details of the Research Project will be posted on the Blackboard site by Week 12 Friday (23/10) 4pm.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via Blackboard by the due date and time.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(27 Jul - 02 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction + Review on Linear Algebra </strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Introduction + Review on Linear Algebra </strong>",
+            "topic_description": "Introduction + Review on Linear Algebra",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Aug - 09 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Review on Linear Algebra </strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Review on Linear Algebra </strong>",
+            "topic_description": "Review on Linear Algebra",
+            "learning_outcomes": [
+                "L01"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Aug - 16 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Geometry of Linear Regression</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03</p></div></td>",
+            "topic_title": "<strong>Geometry of Linear Regression</strong>",
+            "topic_description": "Geometry of Linear Regression",
+            "learning_outcomes": [
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Aug - 23 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 1 + Statistical Properties of OLS 1</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Quiz 1 + Statistical Properties of OLS 1</strong>",
+            "topic_description": "Quiz 1 + Statistical Properties of OLS 1",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Aug - 30 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Statistical Properties of OLS 2</strong><br/></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Statistical Properties of OLS 2</strong>",
+            "topic_description": "Statistical Properties of OLS 2",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Aug - 06 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 2 + Hypothesis Testing and Confidence Interval</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Quiz 2 + Hypothesis Testing and Confidence Interval</strong>",
+            "topic_description": "Quiz 2 + Hypothesis Testing and Confidence Interval",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Sep - 13 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Generalized Least Squares 1</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Generalized Least Squares 1</strong>",
+            "topic_description": "Generalized Least Squares 1",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Sep - 20 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Generalized Least Squares 2</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Generalized Least Squares 2</strong>",
+            "topic_description": "Generalized Least Squares 2",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 9(21 Sep - 27 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 3 + Maximum Likelihood Estimation 1</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Quiz 3 + Maximum Likelihood Estimation 1</strong>",
+            "topic_description": "Quiz 3 + Maximum Likelihood Estimation 1",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 Oct - 11 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Maximum Likelihood Estimation 2 </strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Maximum Likelihood Estimation 2 </strong>",
+            "topic_description": "Maximum Likelihood Estimation 2",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 Oct - 18 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Instrumental Variable Regression  </strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Instrumental Variable Regression  </strong>",
+            "topic_description": "Instrumental Variable Regression",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 Oct - 25 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Quiz 4 + Review of Method of Moments Estimation</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Quiz 4 + Review of Method of Moments Estimation</strong>",
+            "topic_description": "Quiz 4 + Review of Method of Moments Estimation",
+            "learning_outcomes": [
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Revision</strong>",
+            "topic_description": "Revision",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
