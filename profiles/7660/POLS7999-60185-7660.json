@@ -50,18 +50,13 @@
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Research Essay",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
-                    "special_indicator_text": "Hurdle"
-                }
-            ],
-            "weighting": "<dd>50%</dd>",
+            "special_indicators": [],
+            "weighting": "<dd>40%</dd>",
             "due_date": "<dd><p> 7/10/2026 2:00 pm</p></dd>",
             "learning_objectives": null,
-            "mode": "Oral, Written",
+            "mode": "Written",
             "category": "Essay/ Critique, Participation/ Student contribution",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will write a research essay of 2500 words (excluding reference list) on a topic you can choose from a <strong>list of questions </strong>provided during the early weeks of the course.</p>\n<p>To successfully complete this assignment, there are two steps:</p>\n<p>1) Prepare and<strong> submit your research essay (</strong>via Turnitin) by the specified due date.</p>\n<p>2) Attend a meeting with the course convenor and a Teaching Assistant to discuss your essay <em>after </em>submission. The meeting is to determine how well you understand your own essay, including for instance with regard to your argument, use of theory or evidence, debates, or accuracy of your use of sources. The meeting will be scheduled for about 5 minutes. Students who do not pass the hurdle assessment (Oral) can only receive a grade of 3 or less for the course. If you receive an overall grade of 3 in the course, you will be eligible to apply for a supplementary assessment.</p>\n<p>Please note: You should have a <strong>full draft</strong> of your essay ready two weeks before submission to give yourself time to reflect on and improve your submission.</p>\n<p>The essay needs to clearly state the essay question up front. The layout should use double-spacing. The word-count needs to be provided at the end of the essay's text, before the reference list. <strong>You are required to engage with the mandatory and recommended readings from the course reading list as relevant for your question in addition to any other sources you may wish to consult.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will write a research essay of 2500 words (excluding reference list) on a topic you can choose from a <strong>list of questions </strong>provided during the early weeks of the course.</p>\n<p>Prepare and<strong> submit your research essay (</strong>via Turnitin) by the specified due date.</p>\n<p>Please note: You should have a <strong>full draft</strong> of your essay ready two weeks before submission to give yourself time to reflect on and improve your submission.</p>\n<p>The essay needs to clearly state the essay question up front. The layout should use double-spacing. The word-count needs to be provided at the end of the essay's text, before the reference list. <strong>You are required to engage with the mandatory and recommended readings from the course reading list as relevant for your question in addition to any other sources you may wish to consult.</strong></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Assignments for this course (Research Essay) will be submitted electronically via Blackboard and using <em>Turnitin</em>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
@@ -69,18 +64,27 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
-            "assessment_title": "Briefing Paper",
-            "special_indicators": [],
-            "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p> 29/10/2026 2:00 pm</p></dd>",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
             "learning_objectives": null,
             "mode": "Written",
-            "category": "Paper/ Report/ Annotation, Project",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will write a Briefing Paper of no more that <strong>1000 words</strong> (and no less than 900) based on a prompt from a question about one of the topics from the second half of the course. Questions (prompts) will be made available via Blackboard (you will receive an Announcement).</p>\n<p>The task is to provide analytical advise supported by research, evidence and logic in order to explain a complex set of concerns over decolonial thought and practice to your reader.</p>\n<p>Your report will be excellent if it is a) clearly structured; b) introduces the key issues and concerns lucidly; c) renders complexities accessibly and accurately; and d) supports its key points with sources and/or evidence transparently, meeting excellent academic standards. </p>\n<p>A full word-count for the Report has to be included at the bottom of the main text. This word-count should exclude the Reference List!</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Assignments for this course (Briefing Paper) will be submitted electronically via Blackboard and using <em>Turnitin</em>.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>You will need to select and answer two questions from a list of six by writing discursive analytical essays. Ensure that your response is well-structured, logical, and presents your arguments in a progressive and integrated manner.</p>\n<p>Your exam and the available questions enable you to synthesize the knowledge you have gained throughout the course. Please make sure to address the chosen question(s) explicitly, clearly, and comprehensively. Since this is a 'closed book' exam, where you reference materials from memory, we do not expect your information to be comprehensive or fully accurate (for example, 'verbatim citations' or the correct year of publication).</p>\n<p>Be sure to write legibly and organize your arguments before you begin writing. Take the time to plan your paragraphs and build a logical progression in your essay.</p>\n<p><em>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</em></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
