@@ -102,7 +102,7 @@
                 }
             ],
             "weighting": "<dd>30%</dd>",
-            "due_date": "<dd><p>Content Tutorial 1 Week 2 Wed - Week 2 Fri</p>\n<p>Content Tutorial 2 Week 4 Wed - Week 4 Fri</p>\n<p>Content Tutorial 3 Week 6 Wed - Week 6 Fri</p>\n<p>Content Tutorial 4 Week 7 Wed - Week 7 Fri</p>\n<p>Content Tutorial 5 Week 8 Wed - Week 8 Fri</p>\n<p>Content Tutorial 7 Week 11 Wed - Week 11 Fri</p>\n<p>Content Tutorial 8 Week 12 Wed - Week 12 Fri</p></dd>",
+            "due_date": "<dd><p>Content Tutorial 1 Week 2 Mon - Week 2 Fri</p>\n<p>Content Tutorial 2 Week 4 Mon - Week 4 Fri</p>\n<p>Content Tutorial 3 Week 6 Mon - Week 6 Fri</p>\n<p>Content Tutorial 4 Week 7 Mon - Week 7 Fri</p>\n<p>Content Tutorial 5 Week 8 Mon - Week 8 Fri</p>\n<p>Content Tutorial 7 Week 11 Mon - Week 11 Fri</p>\n<p>Content Tutorial 8 Week 12 Mon - Week 12 Fri</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
             "mode": "Written",
             "category": "Tutorial/ Problem Set",
@@ -470,9 +470,9 @@
         {
             "learning_period": "Week 13(26 Oct - 01 Nov)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Revision</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06, L07, L08</p></div></td>",
-            "topic_title": "<strong>Revision</strong>",
-            "topic_description": "Revision",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>no lecture</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L04, L05, L06, L07, L08</p></div></td>",
+            "topic_title": "<strong>no lecture</strong>",
+            "topic_description": "no lecture",
             "learning_outcomes": [
                 "L03",
                 "L04",
