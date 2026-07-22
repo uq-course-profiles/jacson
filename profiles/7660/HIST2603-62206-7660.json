@@ -115,22 +115,6 @@
     ],
     "learning_activities": [
         {
-            "learning_period": "Not scheduled",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Ekka Public Holidaty - No Classes</strong><br/></p></div></td>",
-            "topic_title": "<strong>Ekka Public Holidaty - No Classes</strong>",
-            "topic_description": "Ekka Public Holidaty - No Classes",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Mid Sem break",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/></p></div></td>",
-            "topic_title": "<strong>Mid-Semester Break</strong>",
-            "topic_description": "Mid-Semester Break",
-            "learning_outcomes": []
-        },
-        {
             "learning_period": "Week 1(27 Jul - 02 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1: Introduction</strong><br><p>In Week 1, you will be introduced to some of the key ideas in histories of sexuality, and we will think carefully about how we find gender, sex, and sexuality in the past. </p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
@@ -170,6 +154,14 @@
             ]
         },
         {
+            "learning_period": "Week 3(10 Aug - 16 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ekka Public Holidaty - No Classes</strong><br/></p></div></td>",
+            "topic_title": "<strong>Ekka Public Holidaty - No Classes</strong>",
+            "topic_description": "Ekka Public Holidaty - No Classes",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 4(17 Aug - 23 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4: Pathological Bodies</strong><br><p>Week 4 looks at the new practice of Sexology in the late-nineteenth century, and how that led to the \"invention\" of the homosexual. We will closely consider ideas of medical history, and how this led to different understandings of 'normal' and 'abnormal'.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
@@ -185,9 +177,9 @@
         {
             "learning_period": "Week 4(17 Aug - 23 Aug)",
             "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3: Pathological Bodies</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Week 3: Pathological Bodies</strong>",
-            "topic_description": "Week 3: Pathological Bodies",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4: Pathological Bodies</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 4: Pathological Bodies</strong>",
+            "topic_description": "Week 4: Pathological Bodies",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -224,22 +216,9 @@
         {
             "learning_period": "Week 6(31 Aug - 06 Sep)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6: Understanding Reproduction</strong><br><p>In Week 6, we enter the twentieth century through looking at the ways reproduction was conceptualised and actualised. We will focus on sex education, venereal disease, and abortion to better understand embodied sexualities.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Week 6: Understanding Reproduction</strong>",
-            "topic_description": "Week 6: Understanding Reproduction In Week 6, we enter the twentieth century through looking at the ways reproduction was conceptualised and actualised. We will focus on sex education, venereal disease, and abortion to better understand embodied sexualities.",
-            "learning_outcomes": [
-                "L01",
-                "L02",
-                "L03",
-                "L04"
-            ]
-        },
-        {
-            "learning_period": "Week 6(31 Aug - 06 Sep)",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6: Understanding Reproduction</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Week 6: Understanding Reproduction</strong>",
-            "topic_description": "Week 6: Understanding Reproduction",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6: Primary Source Analysis Exam</strong><br><p>Your Primary Source Analysis Exam will take place during the Lecture in Week 6.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 6: Primary Source Analysis Exam</strong>",
+            "topic_description": "Week 6: Primary Source Analysis Exam Your Primary Source Analysis Exam will take place during the Lecture in Week 6.",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -250,9 +229,22 @@
         {
             "learning_period": "Week 7(07 Sep - 13 Sep)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7: Primary Source Analysis Exam</strong><br/><p>Your Primary Source Analysis Exam will take place during the Lecture in Week 7.</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
-            "topic_title": "<strong>Week 7: Primary Source Analysis Exam</strong>",
-            "topic_description": "Week 7: Primary Source Analysis Exam Your Primary Source Analysis Exam will take place during the Lecture in Week 7.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7: Understanding Reproduction</strong><br><p>In Week 7, we enter the twentieth century through looking at the ways reproduction was conceptualised and actualised. We will focus on sex education, venereal disease, and abortion to better understand embodied sexualities.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 7: Understanding Reproduction</strong>",
+            "topic_description": "Week 7: Understanding Reproduction In Week 7, we enter the twentieth century through looking at the ways reproduction was conceptualised and actualised. We will focus on sex education, venereal disease, and abortion to better understand embodied sexualities.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Sep - 13 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7: Understanding Reproduction</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04</p></div></td>",
+            "topic_title": "<strong>Week 7: Understanding Reproduction</strong>",
+            "topic_description": "Week 7: Understanding Reproduction",
             "learning_outcomes": [
                 "L01",
                 "L02",
@@ -311,6 +303,14 @@
                 "L03",
                 "L04"
             ]
+        },
+        {
+            "learning_period": "Mid-sem break(28 Sep - 04 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid-Semester Break</strong>",
+            "topic_description": "Mid-Semester Break",
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 10(05 Oct - 11 Oct)",
