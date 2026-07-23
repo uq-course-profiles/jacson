@@ -62,7 +62,7 @@
             "learning_objectives": "L03, L04",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In-semester exam covering lectures from start of semester up to and including the lectures on week 6. Note, this is the <strong>due date </strong>for the exam. The exam will be run <strong>during lecture time before this date </strong>depending on when lectures are timetabled.</p>\n<p>Exam will run for 50 minutes. There is no choice in exam questions. The exam is considered open book, where you can access the course learning materials, however the timing of the exam means you will not have time to search for answers. The assessment item is designed to test your knowledge of the first half of the course as well as provide an opportunity to familiarise yourselves with the type of exam questions that will be in the final exam.</p>\n<p>This will be an online exam using Inspera. Details of the exam, and how to access it, will be covered in lectures and posted as announcements on Blackboard.  </p>\n<p>The assessment item will include written assessment which students will complete using their own device. Further details, including an introduction to Inspera functionality, practice opportunities, and where to go for support, will be provided in the Blackboard site for this course during the semester.</p>\n<p>If you don't have a suitable device for your assessment, please go to the Library site for information on <a href=\"https://web.library.uq.edu.au/library-services/students/short-term-laptop-loans\">Short-Term Laptop loans</a>.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Academic integrity is a core value of the UQ community and as such high academic integrity expectations apply to all examinations, whether undertaken face-to-face or online.</p>\n<p>This means:</p>\n<ul>\n<li>You are allowed to refer to the permitted materials for this open book exam, but you cannot cut-and-paste material other than your own work as answers, this includes AI generated text.</li>\n<li>You are not permitted to consult any other person – whether directly, online, or through any other means – about any aspect of this examination during the period that it is available.</li>\n<li>If it is found that you have given or sought outside assistance with this examination, then that will be deemed to be cheating.</li>\n</ul>\n<p>Undertaking this examination deems your commitment to UQ’s academic integrity pledge as summarised in the following declaration:</p>\n<p><em>“I certify that I have completed this examination in an honest, fair and trustworthy manner, that my submitted answers are entirely my own work, and that I have neither given nor received any unauthorised assistance on this examination”.</em> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In-semester exam covering lectures from start of semester up to and including the lectures on week 6. Note, this is the <strong>due date </strong>for the exam. The exam will be run <strong>during lecture time before this date </strong>depending on when lectures are timetabled.</p>\n<p>Exam will run for 50 minutes. There is no choice in exam questions. The exam is considered open book, where you can access the course learning materials, however the timing of the exam means you will <strong>not</strong> have time to search for answers. The assessment item is designed to test your knowledge of the first half of the course as well as provide an opportunity to familiarise yourselves with the type of exam questions that will be in the final exam.</p>\n<p>This will be an online exam using Inspera. Details of the exam, and how to access it, will be covered in lectures and posted as announcements on Blackboard.  </p>\n<p>The assessment item will include written assessment which students will complete using their own device. Further details, including an introduction to Inspera functionality, practice opportunities, and where to go for support, will be provided in the Blackboard site for this course during the semester.</p>\n<p>If you don't have a suitable device for your assessment, please go to the Library site for information on <a href=\"https://web.library.uq.edu.au/library-services/students/short-term-laptop-loans\">Short-Term Laptop loans</a>.</p>\n<p><strong>Use of Artificial Intelligence (AI) and Machine Translation (MT)</strong></p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<p>Academic integrity is a core value of the UQ community and as such high academic integrity expectations apply to all examinations, whether undertaken face-to-face or online.</p>\n<p>This means:</p>\n<ul>\n<li>You are allowed to refer to the permitted materials for this open book exam, but you cannot cut-and-paste material other than your own work as answers, this includes AI generated text.</li>\n<li>You are not permitted to consult any other person – whether directly, online, or through any other means – about any aspect of this examination during the period that it is available.</li>\n<li>If it is found that you have given or sought outside assistance with this examination, then that will be deemed to be cheating.</li>\n</ul>\n<p>Undertaking this examination deems your commitment to UQ’s academic integrity pledge as summarised in the following declaration:</p>\n<p><em>“I certify that I have completed this examination in an honest, fair and trustworthy manner, that my submitted answers are entirely my own work, and that I have neither given nor received any unauthorised assistance on this examination”.</em> </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>The exam will only be available in Inspera Assessment for the duration of your exam. You will not be permitted to click START until the official start time of the exam.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
@@ -78,7 +78,7 @@
                 }
             ],
             "weighting": "<dd>18%</dd>",
-            "due_date": "<dd><p> 30/10/2026 4:00 pm</p></dd>",
+            "due_date": "<dd><p> 6/11/2026 4:00 pm</p></dd>",
             "learning_objectives": "L01, L02",
             "mode": "Written",
             "category": "Paper/ Report/ Annotation",
@@ -358,6 +358,17 @@
             ]
         },
         {
+            "learning_period": "Multiple weeksFrom Week 8 To Week 9(14 Sep - 27 Sep)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Thermal sensitivity of aerobic metabolism in crayfish </strong><br><p>Elucidating the effects of temperature on crayfish metabolism</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Thermal sensitivity of aerobic metabolism in crayfish </strong>",
+            "topic_description": "Thermal sensitivity of aerobic metabolism in crayfish Elucidating the effects of temperature on crayfish metabolism",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 8(14 Sep - 20 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Metabolism 2: Metabolic survival strategies in a changing world </strong><br/><p><em>Physiological Concept</em>: Hypometabolism, thermal physiology</p>\n<p><em>Case Examples</em>: aestivating frogs and hibernating mammals</p>\n<p>Louise Kuchel</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
@@ -390,17 +401,6 @@
             ]
         },
         {
-            "learning_period": "Week 8(14 Sep - 20 Sep)",
-            "activity_type": "Practical",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Thermal sensitivity of aerobic metabolism in crayfish </strong><br/><p>Elucidating the effects of temperature on crayfish metabolism</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Thermal sensitivity of aerobic metabolism in crayfish </strong>",
-            "topic_description": "Thermal sensitivity of aerobic metabolism in crayfish Elucidating the effects of temperature on crayfish metabolism",
-            "learning_outcomes": [
-                "L01",
-                "L02"
-            ]
-        },
-        {
             "learning_period": "Week 9(21 Sep - 27 Sep)",
             "activity_type": "No student involvement (Breaks, information)",
             "topic": "<td data-title=\"Topic\"><div><p><strong>3rd year teaching-free week</strong><br/></p></div></td>",
@@ -415,6 +415,17 @@
             "topic_title": "<strong>Mid-semester break</strong>",
             "topic_description": "Mid-semester break",
             "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 10 To Week 11(05 Oct - 18 Oct)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Osmoregulatory physiology of crayfish</strong><br><p>Practical investigation into the effects of salinity on crayfish. Robbie Wilson</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Osmoregulatory physiology of crayfish</strong>",
+            "topic_description": "Osmoregulatory physiology of crayfish Practical investigation into the effects of salinity on crayfish. Robbie Wilson",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
         },
         {
             "learning_period": "Week 10(05 Oct - 11 Oct)",
@@ -436,17 +447,6 @@
             "learning_outcomes": [
                 "L03",
                 "L04"
-            ]
-        },
-        {
-            "learning_period": "Week 10(05 Oct - 11 Oct)",
-            "activity_type": "Practical",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Osmoregulatory physiology of crayfish</strong><br/><p>Practical investigation into the effects of salinity on crayfish. Robbie Wilson</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Osmoregulatory physiology of crayfish</strong>",
-            "topic_description": "Osmoregulatory physiology of crayfish Practical investigation into the effects of salinity on crayfish. Robbie Wilson",
-            "learning_outcomes": [
-                "L01",
-                "L02"
             ]
         },
         {
@@ -483,6 +483,17 @@
             ]
         },
         {
+            "learning_period": "Multiple weeksFrom Week 12 To Week 13(19 Oct - 01 Nov)",
+            "activity_type": "Practical",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Influence of hypoxia on the aerobic performance of fish </strong><br><p>Showing how hypoxia affects aerobic capacity in fish.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Influence of hypoxia on the aerobic performance of fish </strong>",
+            "topic_description": "Influence of hypoxia on the aerobic performance of fish Showing how hypoxia affects aerobic capacity in fish.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
             "learning_period": "Week 12(19 Oct - 25 Oct)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Locomotion and performance physiology</strong><br/><p>Physiological Concepts: Muscle energetics, aerobic and anaerobic performance, biomechanics. Case Examples: tuna, migratory birds, insect flight. Robbie Wilson</p></p><p><strong>Learning outcomes:</strong> L03, L04</p></div></td>",
@@ -502,17 +513,6 @@
             "learning_outcomes": [
                 "L03",
                 "L04"
-            ]
-        },
-        {
-            "learning_period": "Week 12(19 Oct - 25 Oct)",
-            "activity_type": "Practical",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Influence of hypoxia on the aerobic performance of fish </strong><br/><p>Showing how hypoxia affects aerobic capacity in fish.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Influence of hypoxia on the aerobic performance of fish </strong>",
-            "topic_description": "Influence of hypoxia on the aerobic performance of fish Showing how hypoxia affects aerobic capacity in fish.",
-            "learning_outcomes": [
-                "L01",
-                "L02"
             ]
         },
         {
