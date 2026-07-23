@@ -1,0 +1,162 @@
+{
+    "course_title": "Space Science & Stellar Astrophysics",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS2082-62003-7660",
+    "full_course_code": "PHYS2082-62003-7660",
+    "course_code": "PHYS2082",
+    "class_code": "62003",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Demonstrate understanding of physics conceptsTOOLS OF ASTRONOMY: Describe different kinds of astronomical telescope and instruments (including imagers, spectrographs, and interferometers, operating at different wavelengths), why some are in Earth and in space, understand their important uses, and understand quantitatively the resolution limits imposed by seeing and diffraction.PROPERTIES OF STARS AND PLANETS: calculate the properties of stars and planets in binary orbits, analyse the greenhouse effect. Describe how exoplanets are detected; calculate redshift and recession velocity. Calculate parallax distances to stars. Use distance to convert between flux & luminosity; use the magnitude scale. describe and contrast the main types of binary star system; calculate masses of stars in binary systems. Explain the Harvard system of spectral classification and spectral class, explain how spectral line strengths depend on temperature. Describe the Hertzsprung-Russell diagram in detail and explain luminosity class. Describe the equilibrium equations of a stellar model and the possible energy sources for a star, describe the mechanisms of energy transport in stars; explain the Solar neutrino problem and how it was solved (chapters 7, 8, 9, 10, 11).EVOLUTION OF STARS: Describe interstellar dust extinction and hydrogen 21cm radiation, the ionization of Strömgren spheres. Describe star formation by gas cloud collapse, including the Jeans Mass and the radius. Describe exoplanet formation. Describe the evolution of sun-like stars. Calculate the distances of variable stars and explain Eddington's valve mechanism (chapters 12, 13, 14, 15, 23).STELLAR REMNANTS: Describe the structure of white dwarfs, and the Chandrasekhar mass. Describe the properties of a neutron star, how they are supported and their X-ray emission. Describe pulsars and core-collapse supernovae. Black hole escape velocity and Schwarzshild radius. Types of novae & supernovae; using supernovae as standard candles. Gravitational waves. (chapters 15, 16, 17, 18)."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply physics principles to solve problems - Solve straightforward numerical problems on the topics discussed in this course and solve complex problems that require the application of multiple physics concepts from the course and a high degree of initiative."
+        },
+        {
+            "number": "LO3.",
+            "description": "Collect and analyse experimental data - Use data analysis tools to collate data and carry out subsequent analysis with due regard to the uncertainties."
+        },
+        {
+            "number": "LO4.",
+            "description": "Use effective language to communicate physics - Write a clear and concise technical report for a general reader."
+        },
+        {
+            "number": "LO5.",
+            "description": "Work effectively and ethically in scientific areas - Write scientific reports that properly cite material quoted from other sources and that are all your own work and work effectively as part of a team to complete a larger project."
+        },
+        {
+            "number": "LO6.",
+            "description": "Learn in a reflective and self-directed way - Develop skills to read about a topic, then reflect on what you do and do not understand."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "In-class Tests",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p>Test 1: 28/08/2026</p>\n<p>Test 2: 25/09/2026</p>\n<p>Test 3: 23/10/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>There will be three in-class tests during the semester, which are mandatory to attend. Each test will be worth 10% of the final grade. The tests will be carried out during the applied classes, and consist of one hour answering questions independently, followed by a group discussion and reflection exercise around the questions. </p>\n<p>The first, independent, hour of the tests is carried out under standard examination conditions – closed book, with one double-sided sheet of handwritten notes permitted, and no electronic devices other a calculator allowed.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Standard examination answer booklets will be provided and collected at the end of the applied class.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Mystery Planet Part 1",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 10/09/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>An individual written report based on your research on the Mystery Planet project. You will work in groups to analyse the planetary data, but must submit an individual report detailing your methodology, the results you found most relevant and your own personal conclusions.</p>\n<p>Your report should be no longer than 8 pages in length and include appropriate figures, derivations and discussion. An appendix with calculations may be attached, and does not count towards the page limit.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>A Turnitin link for the submission of the Mystery Planet 1 project report will be provided on Blackboard. Students will be given the chance to submit a draft for plagiarism checking prior to submission of their final report.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Mystery Planet Part 2",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>15%</dd>",
+            "due_date": "<dd><p> 29/10/2026 4:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Oral",
+            "category": "Project",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>A individual recorded presentation based on your research on the Mystery Planet part 2 project, You will work in groups to analyse the planetary data, but must submit an individual presentation detailing your methodology, the results you found most relevant and your own personal conclusions.</p>\n<p>Your presentation should be no longer than 10 minutes in length.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>A Turnitin link for the submission of the Mystery Planet 2 project presentation will be provided on Blackboard. Submissions by any other means (e.g., email, YouTube or cloud storage link) will not be accepted. Please note that Turnitin submissions have a maximum filesize of 100MB – guidelines for video compression will be provided by the lecturers.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "End of Semester Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The End of Semester Examination will be an in-person, paper-based exam for all students. Students will sit the exam at the St. Lucia Campus.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Class work on Mystery Planet projects</strong><br><p>In-class session for group work on the Mystery Planet projects. These will be during the weekly 2hr applied classes, except in weeks 1 (which will be used instead for the telescope viewing session) and in weeks 5, 8 and 12, which will be used instead for the in-class test assessment items.</p></br></p></div></td>",
+            "topic_title": "<strong>Class work on Mystery Planet projects</strong>",
+            "topic_description": "Class work on Mystery Planet projects In-class session for group work on the Mystery Planet projects. These will be during the weekly 2hr applied classes, except in weeks 1 (which will be used instead for the telescope viewing session) and in weeks 5, 8 and 12, which will be used instead for the in-class test assessment items.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(27 Jul - 01 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>PHYS2082 Lectures</strong><br><p>2 x 1 hr weekly lectures covering the course content. Pre-reading will be provided prior to each week's lectures. It is strongly recommended this be completed, as prior exposure to the content will be assumed.</p></br></p></div></td>",
+            "topic_title": "<strong>PHYS2082 Lectures</strong>",
+            "topic_description": "PHYS2082 Lectures 2 x 1 hr weekly lectures covering the course content. Pre-reading will be provided prior to each week's lectures. It is strongly recommended this be completed, as prior exposure to the content will be assumed.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 1(27 Jul - 02 Aug)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Telescope Viewing</strong><br><p>Solar telescope viewing in the great court to kick-off the semester. Scheduled during the the week 1 applied class slot.</p></br></p></div></td>",
+            "topic_title": "<strong>Telescope Viewing</strong>",
+            "topic_description": "Telescope Viewing Solar telescope viewing in the great court to kick-off the semester. Scheduled during the the week 1 applied class slot.",
+            "learning_outcomes": []
+        }
+    ]
+}
