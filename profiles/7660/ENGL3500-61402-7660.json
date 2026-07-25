@@ -105,8 +105,8 @@
             "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
             "learning_objectives": "L01, L02, L03, L04, L05, L07",
             "mode": "Written",
-            "category": "Essay/ Critique",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This in-person final examination will cover the third and fourth modules of the course.</p>\n<p><br/></p>\n<p><strong>Rationale:</strong></p>\n<p>This exam examines your understanding of the required readings and theoretical approaches in modules three and four, textual analysis abilities, and writing skills under exam conditions. It is also an identity-verified form of assessment.</p>\n<p><br/></p>\n<p><strong>Format:</strong></p>\n<ul>\n<li>120 minutes, 10 minutes perusal.</li>\n<li>The examination has two questions requiring you to write a short essay in response. Each essay is worth 20 marks (or 20 per cent of your marks for the course)</li>\n</ul>\n<p><br/></p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This in-person final examination will cover the third and fourth modules of the course.</p>\n<p><strong>Rationale:</strong></p>\n<p>This exam examines your understanding of the required readings and theoretical approaches in modules three and four, textual analysis abilities, and writing skills under exam conditions. It is also an identity-verified form of assessment.</p>\n<p><strong>Format:</strong></p>\n<ul>\n<li>120 minutes, 10 minutes perusal.</li>\n<li>The examination has two questions requiring you to write a short essay in response. Each essay is worth 20 marks (or 20 per cent of your marks for the course)</li>\n</ul>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": null,
@@ -318,7 +318,7 @@
         {
             "learning_period": "Week 10(05 Oct - 11 Oct)",
             "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10: Module Three: Writing the Self, Writing Difference</strong><br><p><strong>Seminar:</strong> Maggie Nelson, <em>The Argonauts</em></p>\n<p><strong>Critical Reading:</strong> Wittig, Monique. “The Straight Mind.” <em>Feminist Issues</em> Summer 1980: pp.103-111.</p></br></p><p><strong>Learning outcomes:</strong> L01, L03, L05, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10: Module Three: Writing the Self, Writing Difference</strong><br/><p><strong>Seminar:</strong> Maggie Nelson, <em>The Argonauts</em></p>\n<p><strong>Critical Reading:</strong> Wittig, Monique. “The Straight Mind.” <em>Feminist Issues</em> Summer 1980: pp.103-111.</p></p><p><strong>Learning outcomes:</strong> L01, L03, L05, L06</p></div></td>",
             "topic_title": "<strong>Week 10: Module Three: Writing the Self, Writing Difference</strong>",
             "topic_description": "Week 10: Module Three: Writing the Self, Writing Difference Seminar: Maggie Nelson, The Argonauts Critical Reading: Wittig, Monique. “The Straight Mind.” Feminist Issues Summer 1980: pp.103-111.",
             "learning_outcomes": [
@@ -331,7 +331,7 @@
         {
             "learning_period": "Week 11(12 Oct - 18 Oct)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11: Module Four: Women and Popular Fiction: Playing with Genres?</strong><br><p><strong>Lecture 4: </strong>Feminism, gender, and popular fiction</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11: Module Four: Women and Popular Fiction: Playing with Genres?</strong><br/><p><strong>Lecture 4: </strong>Feminism, gender, and popular fiction</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L05, L06</p></div></td>",
             "topic_title": "<strong>Week 11: Module Four: Women and Popular Fiction: Playing with Genres?</strong>",
             "topic_description": "Week 11: Module Four: Women and Popular Fiction: Playing with Genres? Lecture 4: Feminism, gender, and popular fiction",
             "learning_outcomes": [
