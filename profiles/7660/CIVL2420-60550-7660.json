@@ -1,0 +1,154 @@
+{
+    "course_title": "Fundamentals of Transportation Engineering",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL2420-60550-7660",
+    "full_course_code": "CIVL2420-60550-7660",
+    "course_code": "CIVL2420",
+    "class_code": "60550",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Describe the interactions between infrastructure and human behaviour in transport systems, identify challenges the urban transport systems are facing, and explain the role of transport and traffic engineering"
+        },
+        {
+            "number": "LO2.",
+            "description": "Explain the key parameters of vehicular traffic flow and their relationships using the fundamental diagram."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply statistical and probabilistic models and queueing theory to analyse vehicle arrival processes and delays."
+        },
+        {
+            "number": "LO4.",
+            "description": "Describe the methods to collect, analyse, and visualise traffic data for the purpose of transport planning and traffic management."
+        },
+        {
+            "number": "LO5.",
+            "description": "Explain the basic principles of the design and operation of signalised and unsignalised intersections and roundabouts."
+        },
+        {
+            "number": "LO6.",
+            "description": "Apply the four-step process of trip generation, trip distribution, modal split and traffic assignment to forecast travel demand."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Computer Exercise Submission",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
+                    "special_indicator_text": "Online"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Week 2 Computer Exercise 7/08/2026 5:00 pm</p>\n<p>Week 3 Computer Exercise 14/08/2026 5:00 pm</p>\n<p>Week 4 Computer Exercise 21/08/2026 5:00 pm</p>\n<p>Week 5 Computer Exercise 28/08/2026 5:00 pm</p>\n<p>Week 6 Computer Exercise 4/09/2026 5:00 pm</p>\n<p>Week 7 Computer Exercise 11/09/2026 5:00 pm</p>\n<p>Week 8 Computer Exercise 18/09/2026 5:00 pm</p>\n<p>Week 9 Computer Exercise 25/09/2026 5:00 pm</p>\n<p>Week 10 Computer Exercise 9/10/2026 5:00 pm</p>\n<p>Week 11 Computer Exercise 16/10/2026 5:00 pm</p>\n<p>Week 12 Computer Exercise 23/10/2026 5:00 pm</p>\n<p>Week 13 Computer Exercise 30/10/2026 5:00 pm</p></dd>",
+            "learning_objectives": "L02, L03, L04, L05, L06",
+            "mode": "Product/ Artefact/ Multimedia, Written",
+            "category": "Computer Code, Paper/ Report/ Annotation",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each week, students will be given a computer exercise task and asked to upload their completed files to Blackboard. The detailed instructions and due dates will be given in the task description.</p>\n<p>A total of 12 computer exercises will be conducted between week 2 and week 13, and the best 10 scores will be counted toward the final grade. Each of these 10 exercises is worth 2%, making the total weight of the in-class quiz component 20%.</p>\n<p>Students may appropriately use AI and/or MT in completing this assessment task.<strong> Students must clearly reference any use of AI or MT in each instance. </strong>A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Assessment must be submitted through the course BlackBoard site</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "In-class Quizzes",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20%</dd>",
+            "due_date": "<dd><p>Week 2 Quiz 4/08/2026</p>\n<p>Week 3 Quiz 11/08/2026</p>\n<p>Week 4 Quiz 18/08/2026</p>\n<p>Week 5 Quiz 25/08/2026</p>\n<p>Week 6 Quiz 1/09/2026</p>\n<p>Week 7 Quiz 8/09/2026</p>\n<p>Week 8 Quiz 15/09/2026</p>\n<p>Week 9 Quiz 22/09/2026</p>\n<p>Week 10 Quiz 6/10/2026</p>\n<p>Week 11 Quiz 13/10/2026</p>\n<p>Week 12 Quiz 20/10/2026</p>\n<p>Week 13 Quiz 27/10/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Quiz",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each week, an in-class quiz will be conducted during the tutorial session to assess students' understanding of the material covered in lectures and tutorials so far. The quiz will consist of a set of questions designed to reinforce key concepts and provide ongoing feedback on students' progress. Students are required to complete and submit their responses during the tutorial session on-site.</p>\n<p>A total of 12 quizzes will be conducted between week 2 and week 13, and the best 8 scores will be counted toward the final grade. Each of these 8 quizzes is worth 2.5%, making the total weight of the in-class quiz component 20%.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. </p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Students are required to complete and submit their responses during the tutorial session on-site.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Final Exam",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>60%</dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03, L04, L05, L06",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The final exam will include a combination of problem-solving questions.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Multiple weeksFrom Week 1 To Week 13(27 Jul - 01 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(03 Aug - 01 Nov)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial Sessions</strong><br><p>Tutorial sessions to be held throughout the semester.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Tutorial Sessions</strong>",
+            "topic_description": "Tutorial Sessions Tutorial sessions to be held throughout the semester.",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeksFrom Week 2 To Week 13(03 Aug - 01 Nov)",
+            "activity_type": "IT Computing",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Computer Exercise Sessions</strong><br/><p>Computer exercise tasks are to be completed throughout the semester. A number of different software tools will be used in this course (e.g., Python, QGIS, and SIDRA).</p></p><p><strong>Learning outcomes:</strong> L02, L03, L04, L05, L06</p></div></td>",
+            "topic_title": "<strong>Computer Exercise Sessions</strong>",
+            "topic_description": "Computer Exercise Sessions Computer exercise tasks are to be completed throughout the semester. A number of different software tools will be used in this course (e.g., Python, QGIS, and SIDRA).",
+            "learning_outcomes": [
+                "L02",
+                "L03",
+                "L04",
+                "L05",
+                "L06"
+            ]
+        }
+    ]
+}
