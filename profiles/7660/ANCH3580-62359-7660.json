@@ -115,22 +115,6 @@
     ],
     "learning_activities": [
         {
-            "learning_period": "Not scheduled",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Social Status, Dress, and Adornment in Ancient Rome</strong><br><p>Information will be provided on Blackboard.</p></br></p></div></td>",
-            "topic_title": "<strong>Tutorial 4: Social Status, Dress, and Adornment in Ancient Rome</strong>",
-            "topic_description": "Tutorial 4: Social Status, Dress, and Adornment in Ancient Rome Information will be provided on Blackboard.",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Not scheduled",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Constructing Memory in the Ancient and Modern Worlds</strong><br><p>Further Information will be provided on Blackboard</p></br></p></div></td>",
-            "topic_title": "<strong>Tutorial 10: Constructing Memory in the Ancient and Modern Worlds</strong>",
-            "topic_description": "Tutorial 10: Constructing Memory in the Ancient and Modern Worlds Further Information will be provided on Blackboard",
-            "learning_outcomes": []
-        },
-        {
             "learning_period": "Week 1(27 Jul - 02 Aug)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Introduction: Life, Death, and Entertainment in the Ancient World</strong><br><p>Topics:</p>\n<p>Course Introduction: Studying Lives in the Ancient World</p>\n<p>Cultural Storytelling</p>\n<p><br/></p></br></p></div></td>",
@@ -195,6 +179,14 @@
             "learning_outcomes": []
         },
         {
+            "learning_period": "Week 5(24 Aug - 30 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 4: Social Status, Dress, and Adornment in Ancient Rome</strong><br><p>Information will be provided on Blackboard.</p></br></p></div></td>",
+            "topic_title": "<strong>Tutorial 4: Social Status, Dress, and Adornment in Ancient Rome</strong>",
+            "topic_description": "Tutorial 4: Social Status, Dress, and Adornment in Ancient Rome Information will be provided on Blackboard.",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 6(31 Aug - 06 Sep)",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Assaults on the Body: Violence, Injury, and Illness</strong><br><p>Topics:</p>\n<p>Assaults on the Body: Violence, Injury, and Illness</p></br></p></div></td>",
@@ -213,7 +205,7 @@
         {
             "learning_period": "Week 7(07 Sep - 13 Sep)",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Ancient Gender and Sexuality</strong><br/><p>Topics:</p>\n<p>Gender, Sex, and Sexuality in Ancient Rome</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Ancient Gender and Sexuality</strong><br><p>Topics:</p>\n<p>Gender, Sex, and Sexuality in Ancient Rome</p></br></p></div></td>",
             "topic_title": "<strong>Ancient Gender and Sexuality</strong>",
             "topic_description": "Ancient Gender and Sexuality Topics: Gender, Sex, and Sexuality in Ancient Rome",
             "learning_outcomes": []
@@ -304,6 +296,14 @@
             "topic": "<td data-title=\"Topic\"><div><p><strong>Constructing Memory</strong><br/><p>Topics:</p>\n<p>Constructing Memory: The Art of Remembering and Forgetting</p></p></div></td>",
             "topic_title": "<strong>Constructing Memory</strong>",
             "topic_description": "Constructing Memory Topics: Constructing Memory: The Art of Remembering and Forgetting",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Tutorial 10: Constructing Memory in the Ancient and Modern Worlds</strong><br/><p>Further Information will be provided on Blackboard</p></p></div></td>",
+            "topic_title": "<strong>Tutorial 10: Constructing Memory in the Ancient and Modern Worlds</strong>",
+            "topic_description": "Tutorial 10: Constructing Memory in the Ancient and Modern Worlds Further Information will be provided on Blackboard",
             "learning_outcomes": []
         }
     ]
