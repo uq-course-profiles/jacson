@@ -1,0 +1,413 @@
+{
+    "course_title": "World Literature",
+    "study_period": "Sem 2 2026",
+    "location": "St Lucia",
+    "attendance": "In Person",
+    "url": "https://course-profiles.uq.edu.au/course-profiles/ENGL2080-61401-7660",
+    "full_course_code": "ENGL2080-61401-7660",
+    "course_code": "ENGL2080",
+    "class_code": "61401",
+    "semester_code": "7660",
+    "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Read, interpret, and discuss world literature at university level."
+        },
+        {
+            "number": "LO2.",
+            "description": "Learn how literature from diverse cultures can engage productively with diverse communities and contribute to positive social change."
+        },
+        {
+            "number": "LO3.",
+            "description": "Present your analysis and research by demonstrating key disciplinary skills such as human-authored critical reading, textual interpretation, original analysis, and independent research."
+        }
+    ],
+    "assessments": [
+        {
+            "assessment_detail_section_id": "assessment-detail-0",
+            "assessment_title": "Management of Learning",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>10% Pass/Fail weekly task </dd>",
+            "due_date": "<dd><p> Week 2 - Week 13</p>\n<p>\n</p><p>Each week in tutorials students will complete a 10 minute writing task in response to a question based on that week's readings.</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Tutorial/ Problem Set",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Each week in tutorials we will set a 10 minute writing task, in which you write a response to a question based on that week's readings. Responses will be submitted through an online portal in Blackboard. These are marked on a pass/fail basis and can earn you 1% towards your final grade.</p>\n<p><strong>Rationale: </strong>Consistent preparation and participation lead to better learning outcomes and more productive and enjoyable learning experiences. Through participation, humanities students gain a highly valued and distinctive skill set in human-authored critical thinking, discipline mastery, evidence-based learning, and collaboration. These skills are required by many workplaces. The ability to write on a set topic and within a short time frame is a valuable academic and vocational skill, and it helps you to track your learning and prepare for written assessment tasks. Finally, this assessment item provides basic weekly feedback throughout the semester.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Responses will be submitted through an online portal in Blackboard and must be submitted during your tutorial.</p>",
+            "deferral_or_extension": "<p>You cannot defer or apply for an extension for this assessment.</p>",
+            "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You cannot defer or apply for an extension for this assessment.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-1",
+            "assessment_title": "Examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>30%</dd>",
+            "due_date": "<dd><p> 2/09/2026 9:30 am</p>\n<p>\n</p><p>This is an in-semester exam held in the standard lecture time and location. </p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment item will require a close engagement with the short readings discussed in week 2 AND Chimamanda Ngozi Adichie's novel <em>Americanah</em>. Examination preparation will be thoroughly discussed in tutorials and lectures, and your weekly writing tasks will develop the necessary skills and knowledge.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-2",
+            "assessment_title": "Research Essay",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>40% 2000 words (excluding quotations) </dd>",
+            "due_date": "<dd><p> 14/10/2026 4:00 pm</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Written",
+            "category": "Essay/ Critique",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Essay 2 requires students to engage with scholarly criticism and selected literary texts from weeks 7-10 in the course. Essay topics will be made available in Blackboard during semester. The essay must be correctly formatted with a Works Cited in MLA 9th edition, guidelines for which are accessible through the UQ Library. Care should be given to expression, punctuation, and grammar.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit via TurnItIn.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Oral examination",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20% 5-minute presentation </dd>",
+            "due_date": "<dd><p> 9/11/2026 - 16/11/2026</p></dd>",
+            "learning_objectives": "L01, L02, L03",
+            "mode": "Oral",
+            "category": "Performance",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>This assessment task will require you to prepare and deliver a (maximum) 5-minute oral presentation on Patricia Grace’s <em>Baby No-Eyes </em>and decolonisation. This task also gives you the opportunity to reflect critically on key issues studied in the course. Your presentation must focus on <em>Baby No-Eyes</em>, but you may mention in your presentation other texts and ideas that you have studied in this course that demonstrate how your disciplinary knowledge and skills have developed over the semester. </p>\n<p>Students will sign up for an allocated time during the examination period to meet with course staff and deliver a 4-5 minute presentation based on an oral assessment guide that will be available in Blackboard. Following your presentation, up to two additional questions will be asked to enable the student to amplify or clarify their presentation.</p>\n<p>We will build oral skills and confidence throughout the tutorials.</p>\n<p>Note: presentations will be recorded (audio only).</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
+        }
+    ],
+    "learning_activities": [
+        {
+            "learning_period": "Week 1(27 Jul - 02 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 1 Lecture</strong><br><p>Introductory lecture: What is World Literature?</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 1 Lecture</strong>",
+            "topic_description": "Week 1 Lecture Introductory lecture: What is World Literature?",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 1(27 Jul - 02 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>NO TUTORIAL: Tutorials start in Week 2</strong><br/><p>Tutorials start in Week 2</p></p></div></td>",
+            "topic_title": "<strong>NO TUTORIAL: Tutorials start in Week 2</strong>",
+            "topic_description": "NO TUTORIAL: Tutorials start in Week 2 Tutorials start in Week 2",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 2(03 Aug - 09 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2 Lecture</strong><br/><p>Expanding the Western Canon</p>\n<p>3 x short readings available in TALIS</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 2 Lecture</strong>",
+            "topic_description": "Week 2 Lecture Expanding the Western Canon 3 x short readings available in TALIS",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 2(03 Aug - 09 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 2 Tutorials</strong><br/><p>3 x short readings available in TALIS</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 2 Tutorials</strong>",
+            "topic_description": "Week 2 Tutorials 3 x short readings available in TALIS",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 3(10 Aug - 16 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3 NO LECTURE: Reading week</strong><br/><p>READING WEEK - NO LECTURE</p></p></div></td>",
+            "topic_title": "<strong>Week 3 NO LECTURE: Reading week</strong>",
+            "topic_description": "Week 3 NO LECTURE: Reading week READING WEEK - NO LECTURE",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 3(10 Aug - 16 Aug)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 3 NO TUTORIALS: Reading week</strong><br/></p></div></td>",
+            "topic_title": "<strong>Week 3 NO TUTORIALS: Reading week</strong>",
+            "topic_description": "Week 3 NO TUTORIALS: Reading week",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 4(17 Aug - 23 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4 Lecture</strong><br/><p>Women Writers &amp; World Literature: Chimamanda Ngozi Adichie</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 4 Lecture</strong>",
+            "topic_description": "Week 4 Lecture Women Writers & World Literature: Chimamanda Ngozi Adichie",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 4(17 Aug - 23 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 4 Tutorials</strong><br/><p>Chimamanda Ngozi Adichie <em>Americanah</em></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 4 Tutorials</strong>",
+            "topic_description": "Week 4 Tutorials Chimamanda Ngozi Adichie Americanah",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Aug - 30 Aug)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5 Lecture</strong><br/><p>Race after Empire: Chimamanda Ngozi Adichie</p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Week 5 Lecture</strong>",
+            "topic_description": "Week 5 Lecture Race after Empire: Chimamanda Ngozi Adichie",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 5(24 Aug - 30 Aug)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 5 Tutorial</strong><br/><p>Chimamanda Ngozie Adichie <em>Americanah</em></p></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Week 5 Tutorial</strong>",
+            "topic_description": "Week 5 Tutorial Chimamanda Ngozie Adichie Americanah",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Aug - 06 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6 Lecture</strong><br/><p>This is an in-semester exam held in the standard lecture time and location.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 6 Lecture</strong>",
+            "topic_description": "Week 6 Lecture This is an in-semester exam held in the standard lecture time and location.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 6(31 Aug - 06 Sep)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 6 Tutorials: NO TUTORIALS due to in-semester exam held in the standard lecture time</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 6 Tutorials: NO TUTORIALS due to in-semester exam held in the standard lecture time</strong>",
+            "topic_description": "Week 6 Tutorials: NO TUTORIALS due to in-semester exam held in the standard lecture time",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Sep - 13 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7 Lecture</strong><br/><p>Migration and Diaspora</p>\n<p><em>Brick Lane</em></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 7 Lecture</strong>",
+            "topic_description": "Week 7 Lecture Migration and Diaspora Brick Lane",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 7(07 Sep - 13 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 7 Tutorials</strong><br/><p><em>Brick Lane</em></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 7 Tutorials</strong>",
+            "topic_description": "Week 7 Tutorials Brick Lane",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Sep - 20 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8 Lecture</strong><br/><p>The Global South Talks Back</p>\n<p><em>The Reluctant Fundamentalist </em></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 8 Lecture</strong>",
+            "topic_description": "Week 8 Lecture The Global South Talks Back The Reluctant Fundamentalist",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 8(14 Sep - 20 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 8 Tutorials</strong><br/><p><em>The Reluctant Fundamentalist </em></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 8 Tutorials</strong>",
+            "topic_description": "Week 8 Tutorials The Reluctant Fundamentalist",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9(21 Sep - 27 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9 Lecture</strong><br/><p>Beyond Postcolonial Exotic / Marketing Exoticism: Gabriel Garcia Marquez <em>Strange Pilgrims</em></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 9 Lecture</strong>",
+            "topic_description": "Week 9 Lecture Beyond Postcolonial Exotic / Marketing Exoticism: Gabriel Garcia Marquez Strange Pilgrims",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 9(21 Sep - 27 Sep)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 9 Tutorials</strong><br/><p>Gabriel Garcia Marquez <em>Strange Pilgrims</em></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 9 Tutorials</strong>",
+            "topic_description": "Week 9 Tutorials Gabriel Garcia Marquez Strange Pilgrims",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break(28 Sep - 04 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid-Semester Break</strong><br/></p></div></td>",
+            "topic_title": "<strong>Mid-Semester Break</strong>",
+            "topic_description": "Mid-Semester Break",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 10(05 Oct - 11 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10 Lecture</strong><br/><p>Quarreling with History, Re-storing Homeland: Derek Walcott <em>White Egrets</em></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 10 Lecture</strong>",
+            "topic_description": "Week 10 Lecture Quarreling with History, Re-storing Homeland: Derek Walcott White Egrets",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 10(05 Oct - 11 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 10 Tutorial</strong><br/><p>Derek Walcott <em>White Egrets</em></p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 10 Tutorial</strong>",
+            "topic_description": "Week 10 Tutorial Derek Walcott White Egrets",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 Oct - 18 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11: NO LECTURE: Writing week Research Essay due 14 Oct</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Week 11: NO LECTURE: Writing week Research Essay due 14 Oct</strong>",
+            "topic_description": "Week 11: NO LECTURE: Writing week Research Essay due 14 Oct",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 11(12 Oct - 18 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 11: NO TUTORIAL</strong><br/></p><p><strong>Learning outcomes:</strong> L03</p></div></td>",
+            "topic_title": "<strong>Week 11: NO TUTORIAL</strong>",
+            "topic_description": "Week 11: NO TUTORIAL",
+            "learning_outcomes": [
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 Oct - 25 Oct)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12 Lecture</strong><br/><p>Indigenous Writing &amp; World Literature: Patricia Grace <em>Baby No-Eyes</em></p>\n<p><br/></p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 12 Lecture</strong>",
+            "topic_description": "Week 12 Lecture Indigenous Writing & World Literature: Patricia Grace Baby No-Eyes",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 12(19 Oct - 25 Oct)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 12 Tutorials</strong><br><p>Patricia Grace <em>Baby No Eyes</em></p></br></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 12 Tutorials</strong>",
+            "topic_description": "Week 12 Tutorials Patricia Grace Baby No Eyes",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13 Lecture</strong><br/><p>Decolonising World Literature</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Week 13 Lecture</strong>",
+            "topic_description": "Week 13 Lecture Decolonising World Literature",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Week 13 Tutorials</strong><br/><p>Patricia Grace <em>Baby No-Eyes</em> plus 1 critical reading (Linda Tuhiwai Smith's Introduction to <em>Decolonising Methodologies</em>) available in TALIS</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Week 13 Tutorials</strong>",
+            "topic_description": "Week 13 Tutorials Patricia Grace Baby No-Eyes plus 1 critical reading (Linda Tuhiwai Smith's Introduction to Decolonising Methodologies ) available in TALIS",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        }
+    ]
+}
