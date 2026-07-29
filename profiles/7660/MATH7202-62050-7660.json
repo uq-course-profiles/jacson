@@ -149,9 +149,20 @@
         {
             "learning_period": "Multiple weeks",
             "activity_type": "Applied Class",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures/Applied Classes</strong><br/><p>The five hours of contact each week will be highly interactive. Some of this time will be spent discussing the mathematical foundations of the techniques we are using but we will often link this to particular applications and models. All content will be recorded.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
-            "topic_title": "<strong>Lectures/Applied Classes</strong>",
-            "topic_description": "Lectures/Applied Classes The five hours of contact each week will be highly interactive. Some of this time will be spent discussing the mathematical foundations of the techniques we are using but we will often link this to particular applications and models. All content will be recorded.",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Applied Classes</strong><br><p>The five hours of contact each week will be highly interactive. Some of this time will be spent discussing the mathematical foundations of the techniques we are using but we will often link this to particular applications and models. All content will be recorded.</p></br></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Applied Classes</strong>",
+            "topic_description": "Applied Classes The five hours of contact each week will be highly interactive. Some of this time will be spent discussing the mathematical foundations of the techniques we are using but we will often link this to particular applications and models. All content will be recorded.",
+            "learning_outcomes": [
+                "L01",
+                "L02"
+            ]
+        },
+        {
+            "learning_period": "Multiple weeks",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Lectures</strong><br/><p>The five hours of contact each week will be highly interactive. Some of this time will be spent discussing the mathematical foundations of the techniques we are using but we will often link this to particular applications and models. All content will be recorded.</p></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
+            "topic_title": "<strong>Lectures</strong>",
+            "topic_description": "Lectures The five hours of contact each week will be highly interactive. Some of this time will be spent discussing the mathematical foundations of the techniques we are using but we will often link this to particular applications and models. All content will be recorded.",
             "learning_outcomes": [
                 "L01",
                 "L02"
