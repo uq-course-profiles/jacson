@@ -131,16 +131,6 @@
     ],
     "learning_activities": [
         {
-            "learning_period": "Mid Sem break",
-            "activity_type": "No student involvement (Breaks, information)",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid semester break</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
-            "topic_title": "<strong>Mid semester break</strong>",
-            "topic_description": "Mid semester break",
-            "learning_outcomes": [
-                "L01"
-            ]
-        },
-        {
             "learning_period": "Week 1(27 Jul - 02 Aug)",
             "activity_type": "Workshop",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Space, Place, and Country</strong><br/><p>In this week's contact, we apply core geographic concepts of space and place to understand Indigenous geographies and the role of geography in the colonisation of Australia. We develop some new skills in the access and interpretation of geographic data (Mr Jim Walker and Dr Elin Charles-Edwards).</p></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
@@ -248,6 +238,16 @@
                 "L01",
                 "L02",
                 "L03"
+            ]
+        },
+        {
+            "learning_period": "Mid-sem break(28 Sep - 04 Oct)",
+            "activity_type": "No student involvement (Breaks, information)",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Mid semester break</strong><br/></p><p><strong>Learning outcomes:</strong> L01</p></div></td>",
+            "topic_title": "<strong>Mid semester break</strong>",
+            "topic_description": "Mid semester break",
+            "learning_outcomes": [
+                "L01"
             ]
         },
         {
