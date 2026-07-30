@@ -97,6 +97,10 @@
             "assessment_title": "Nutrition and health in a chosen location",
             "special_indicators": [
                 {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
                 },
@@ -118,14 +122,6 @@
         }
     ],
     "learning_activities": [
-        {
-            "learning_period": "Not scheduled",
-            "activity_type": "Applied Class",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Oral presentations</strong><br/></p></div></td>",
-            "topic_title": "<strong>Oral presentations</strong>",
-            "topic_description": "Oral presentations",
-            "learning_outcomes": []
-        },
         {
             "learning_period": "Week 1",
             "activity_type": "Lecture",
@@ -150,7 +146,7 @@
         {
             "learning_period": "Week 3",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Food based dietary Guidelines: design, critique and application</strong><br/><p>Guest: Prof Sarah McNaughton - Chair - Australian Dietary Guidelines Committee 2026</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Food based dietary Guidelines: design, critique and application</strong><br><p>Guest: Prof Sarah McNaughton - Chair - Australian Dietary Guidelines Committee 2026</p></br></p></div></td>",
             "topic_title": "<strong>Food based dietary Guidelines: design, critique and application</strong>",
             "topic_description": "Food based dietary Guidelines: design, critique and application Guest: Prof Sarah McNaughton - Chair - Australian Dietary Guidelines Committee 2026",
             "learning_outcomes": []
@@ -158,7 +154,7 @@
         {
             "learning_period": "Week 4",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Food systems, power and equity</strong><br/><p>Food systems, Globalisation, Nutrition Transition, Commercial determinants, frameworks</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Food systems, power and equity</strong><br><p>Food systems, Globalisation, Nutrition Transition, Commercial determinants, frameworks</p></br></p></div></td>",
             "topic_title": "<strong>Food systems, power and equity</strong>",
             "topic_description": "Food systems, power and equity Food systems, Globalisation, Nutrition Transition, Commercial determinants, frameworks",
             "learning_outcomes": []
@@ -196,11 +192,55 @@
             ]
         },
         {
+            "learning_period": "Week 8(14 Sep - 20 Sep)",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Nutrition and Health: Children and Adolescents </strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02, L03</p></div></td>",
+            "topic_title": "<strong>Nutrition and Health: Children and Adolescents </strong>",
+            "topic_description": "Nutrition and Health: Children and Adolescents",
+            "learning_outcomes": [
+                "L01",
+                "L02",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9(21 Sep - 27 Sep)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Assessment 2</strong><br/><p>Assessment</p></p></div></td>",
+            "topic_title": "<strong>Assessment 2</strong>",
+            "topic_description": "Assessment 2 Assessment",
+            "learning_outcomes": []
+        },
+        {
             "learning_period": "Week 10",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Designing community Programs</strong><br/></p></div></td>",
             "topic_title": "<strong>Designing community Programs</strong>",
             "topic_description": "Designing community Programs",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 11(12 Oct - 18 Oct)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Practice for Assessment #3 oral presentations</strong><br/><p>Oral Presentations</p></p></div></td>",
+            "topic_title": "<strong>Practice for Assessment #3 oral presentations</strong>",
+            "topic_description": "Practice for Assessment #3 oral presentations Oral Presentations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 12(19 Oct - 25 Oct)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Oral presentations</strong><br/><p>Oral Presentations</p></p></div></td>",
+            "topic_title": "<strong>Oral presentations</strong>",
+            "topic_description": "Oral presentations Oral Presentations",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 13(26 Oct - 01 Nov)",
+            "activity_type": "Applied Class",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Oral presentations</strong><br/><p>Oral Presentations</p></p></div></td>",
+            "topic_title": "<strong>Oral presentations</strong>",
+            "topic_description": "Oral presentations Oral Presentations",
             "learning_outcomes": []
         }
     ]
