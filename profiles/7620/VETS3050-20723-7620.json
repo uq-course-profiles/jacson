@@ -90,7 +90,7 @@
                 }
             ],
             "weighting": "<dd>5%</dd>",
-            "due_date": "<dd><p> Week 23 -</p>\n<p>\n</p><p><strong>Week 23 = Week 10 of Semester 2</strong></p></dd>",
+            "due_date": "<dd><p> 8/10/2026 -</p>\n<p>\n</p><p><strong>Week 23 = Week 10 of Semester 2 </strong></p>\n<p><br/></p></dd>",
             "learning_objectives": null,
             "mode": "Written",
             "category": "Quiz",
@@ -157,7 +157,7 @@
         {
             "learning_period": "Multiple weeks",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Pharmacology</strong><br/><p>organ-based pharmacology</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Pharmacology</strong><br><p>organ-based pharmacology</p></br></p></div></td>",
             "topic_title": "<strong>Pharmacology</strong>",
             "topic_description": "Pharmacology organ-based pharmacology",
             "learning_outcomes": []
@@ -165,7 +165,7 @@
         {
             "learning_period": "Multiple weeks",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Specialised lectures and tutorials</strong><br/><p>applied and clinical presentations.</p></p></div></td>",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Specialised lectures and tutorials</strong><br><p>applied and clinical presentations.</p></br></p></div></td>",
             "topic_title": "<strong>Specialised lectures and tutorials</strong>",
             "topic_description": "Specialised lectures and tutorials applied and clinical presentations.",
             "learning_outcomes": []
