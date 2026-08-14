@@ -204,22 +204,6 @@
         {
             "learning_period": "Week 6",
             "activity_type": "Lecture",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday In-semester Exam</strong><br/><p>There will be <strong>no</strong> teaching activities during the in-semester exam week. </p>\n<p><strong>NOTE</strong>: The exact exam timetable will be updated once the University releases the official Saturday exam timetable.</p></p></div></td>",
-            "topic_title": "<strong>Saturday In-semester Exam</strong>",
-            "topic_description": "Saturday In-semester Exam There will be no teaching activities during the in-semester exam week. NOTE : The exact exam timetable will be updated once the University releases the official Saturday exam timetable.",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 6",
-            "activity_type": "Tutorial",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial</strong><br/></p></div></td>",
-            "topic_title": "<strong>No Tutorial</strong>",
-            "topic_description": "No Tutorial",
-            "learning_outcomes": []
-        },
-        {
-            "learning_period": "Week 7",
-            "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>L6: Corporate Valuation I</strong><br/><p>Capital budgeting, approaches to corporate valuation, assumptions</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
             "topic_title": "<strong>L6: Corporate Valuation I</strong>",
             "topic_description": "L6: Corporate Valuation I Capital budgeting, approaches to corporate valuation, assumptions",
@@ -229,7 +213,7 @@
             ]
         },
         {
-            "learning_period": "Week 7",
+            "learning_period": "Week 6",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong><br/></p><p><strong>Learning outcomes:</strong> L02, L05</p></div></td>",
             "topic_title": "<strong>T5: Capital Structure III: Capital Structure with Taxes, Financial Distress, Incentives and Information </strong>",
@@ -240,7 +224,7 @@
             ]
         },
         {
-            "learning_period": "Week 8",
+            "learning_period": "Week 7",
             "activity_type": "Lecture",
             "topic": "<td data-title=\"Topic\"><div><p><strong>L7: Corporate Valuation II</strong><br/><p>Case study of corporate valuation, valuation multiples, business plans and earnings forecast</p></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
             "topic_title": "<strong>L7: Corporate Valuation II</strong>",
@@ -251,7 +235,7 @@
             ]
         },
         {
-            "learning_period": "Week 8",
+            "learning_period": "Week 7",
             "activity_type": "Tutorial",
             "topic": "<td data-title=\"Topic\"><div><p><strong>T6: Corporate Valuation I</strong><br/></p><p><strong>Learning outcomes:</strong> L03, L05</p></div></td>",
             "topic_title": "<strong>T6: Corporate Valuation I</strong>",
@@ -260,6 +244,22 @@
                 "L03",
                 "L05"
             ]
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Lecture",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Saturday In-semester Exam</strong><br/><p>There will be <strong>no</strong> teaching activities during the in-semester exam week.</p></p></div></td>",
+            "topic_title": "<strong>Saturday In-semester Exam</strong>",
+            "topic_description": "Saturday In-semester Exam There will be no teaching activities during the in-semester exam week.",
+            "learning_outcomes": []
+        },
+        {
+            "learning_period": "Week 8",
+            "activity_type": "Tutorial",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>No Tutorial</strong><br/></p></div></td>",
+            "topic_title": "<strong>No Tutorial</strong>",
+            "topic_description": "No Tutorial",
+            "learning_outcomes": []
         },
         {
             "learning_period": "Week 9",
