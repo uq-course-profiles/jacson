@@ -9,7 +9,28 @@
     "class_code": "21135",
     "semester_code": "7620",
     "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Identify and explain the fundamental concepts and theories in judgement and decision making, including heuristics and biases, dual-process theories, metacognition, expertise, and decision making under uncertainty."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply judgement and decision making principles to real-world situations, from everyday choices to high-stakes decisions in medicine, law, and education."
+        },
+        {
+            "number": "LO3.",
+            "description": "Evaluate decision-making strategies—including nudging, choice architecture, and group decision making—and assess their effectiveness and ethical implications."
+        },
+        {
+            "number": "LO4.",
+            "description": "Critically assess research methods used to study judgement and decision making, evaluating the quality, rigour, and reproducibility of empirical claims."
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate and defend evidence-based positions on judgement and decision making through written and verbal presentation."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
