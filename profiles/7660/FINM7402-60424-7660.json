@@ -43,10 +43,6 @@
                 {
                     "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
                     "special_indicator_text": "In-person"
-                },
-                {
-                    "special_indicators_class": "icon--engineering-and-computing--laptop icon-text--small",
-                    "special_indicator_text": "Online"
                 }
             ],
             "weighting": "<dd>20%</dd>",
@@ -54,10 +50,10 @@
             "learning_objectives": "L01, L02, L03",
             "mode": "Written",
             "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester Exam covers Topics 1 to 4. It contains MCQs and short answer questions on theory and problem-solving.  </p>\n<p>This will be a closed-book exam. Students need to come to the class to finish this assessment. Responses to MCQs are required to be submitted via Blackboard online assessment section. Students are required to bring their laptop to class to complete this part of the exam. Students need to make sure that they have adequate access to the Internet to complete this online test. Short answer question segment will be paper-based. Students will submit their responses on the paper supplied to them during the exam.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>You must submit your responses to the MCQ questions within the due time.</p>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>The In-Semester Exam covers Topics 1 to 4. It contains MCQs and short answer questions on theory and problem-solving.  </p>\n<p>This will be a closed-book exam. Students need to come to the class to finish this assessment.</p>\n<p>MCQ and Short answer question segments will be paper-based. Students will submit their responses on the paper supplied to them during the exam.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
-            "late_submission": "<p>Exams submitted after the end of the submission time will incur a <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/requesting-late-penalty-exemption-online-exam\">late penalty</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         },
         {
