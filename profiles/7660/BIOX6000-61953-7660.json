@@ -9,7 +9,24 @@
     "class_code": "61953",
     "semester_code": "7660",
     "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Critically read the scientific literature and be able to recognise papers of great scientific merit in a defined area;"
+        },
+        {
+            "number": "LO2.",
+            "description": "Evaluate work already done in an area and assess where deficiencies in the knowledge of the subject lie;"
+        },
+        {
+            "number": "LO3.",
+            "description": "Critically review a scientific paper to detect its strengths and weaknesses;"
+        },
+        {
+            "number": "LO4.",
+            "description": "Organise ideas derived from other people's work and write a clear, concise, readily understandable critique in an objective manner."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
