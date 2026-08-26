@@ -9,7 +9,40 @@
     "class_code": "60579",
     "semester_code": "7660",
     "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Mitigate project risks by communicating progress, contributing equitably, meeting milestones, and maintaining accountability throughout the duration of a team-based mechanical design project."
+        },
+        {
+            "number": "LO2.",
+            "description": "Generate, evaluate, and select design solutions that meet prescribed system requirements using structured approaches, such as morphological analysis, concept scoring matrices, and design for manufacturability principles."
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify and apply regulations, engineering standards, and industry codes pertaining to safety, design documentation, and design practice throughout the detailed implementation of the mechanical system design."
+        },
+        {
+            "number": "LO4.",
+            "description": "Integrate sustainability principles into design decisions by selecting low environmental-impact materials, designing for maintenance and disassembly, and selecting manufacturing processes that balance performance, cost, and resource efficiency."
+        },
+        {
+            "number": "LO5.",
+            "description": "Apply Computer Aided Design (CAD) tools to create parametric three-dimensional models of mechanical components and assemblies, and Finite Element Analysis (FEA) tools predict structural response to loads and optimise component geometry/assembly layout."
+        },
+        {
+            "number": "LO6.",
+            "description": "Apply Product Lifecycle Management (PLM) methods and tools throughout the system design process to manage design data, maintain version control, facilitate collaborative workflows, and ensure design traceability from requirements through to manufacturing documentation."
+        },
+        {
+            "number": "LO7.",
+            "description": "Build a functional system prototype using the facilities and safe working procedures of an engineering makerspace and perform verification and validation tests to confirm that the prototype meets design and safety requirements."
+        },
+        {
+            "number": "LO8.",
+            "description": "Effectively communicate design decisions, analysis results, verification and validation outcomes, and manufacturing documentation through technical reports, presentations, and technical drawings that meet industry standards for documentation and communication."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
