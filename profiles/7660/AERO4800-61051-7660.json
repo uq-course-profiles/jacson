@@ -9,7 +9,36 @@
     "class_code": "61051",
     "semester_code": "7660",
     "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Explain the environmental and logistical challenges that are unique to space vehicle design."
+        },
+        {
+            "number": "LO2.",
+            "description": "Model and analyse the trajectories of rockets and other space launch vehicles."
+        },
+        {
+            "number": "LO3.",
+            "description": "Determine the orbits of spacecraft orbiting Earth, the sun, and other planets in the solar system to fulfil various mission objectives."
+        },
+        {
+            "number": "LO4.",
+            "description": "Analyse the thermal environment experienced by spacecraft."
+        },
+        {
+            "number": "LO5.",
+            "description": "Model and analyse the trajectories of spacecraft entering the atmospheres of Earth or other planets."
+        },
+        {
+            "number": "LO6.",
+            "description": "Select appropriate spacecraft power systems for different applications."
+        },
+        {
+            "number": "LO7.",
+            "description": "Perform preliminary design calculations and calculate the reliability of different types of spacecraft and space systems."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
