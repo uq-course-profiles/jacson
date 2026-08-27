@@ -82,7 +82,7 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
-            "assessment_title": "Oral Exam",
+            "assessment_title": "Oral Assessment",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
@@ -90,11 +90,11 @@
                 }
             ],
             "weighting": "<dd> pass/fail </dd>",
-            "due_date": "<dd><p> 9/11/2026 - 20/11/2026</p>\n<p>\n</p><p>Oral exams will be held during the exam period; times and dates will be arranged individually. Contact course staff no later than one week after the notification of central exam schedule to arrange a suitable time. No exams will be conducted during times that teaching staff are unavailable due to other commitments.</p>\n<p>All non-centrally timetabled availability clashes between students seeking particular time slots will be resolved by pseudo-random selection using a standard computer algorithm. Applications for Deferred and Supplementary examination must be conducted using standard university procedures.</p></dd>",
+            "due_date": "<dd><p> 9/11/2026 - 20/11/2026</p>\n<p>\n</p><p>Oral assessments will be held during the end of semester exam period; times and dates will be arranged individually. Contact course staff no later than one week after the notification of the exam schedule to arrange a suitable time. No oral assessments will be conducted during times that teaching staff are unavailable due to other commitments.</p>\n<p>All non-centrally timetabled availability clashes between students seeking particular time slots will be resolved by pseudo-random selection using a standard computer algorithm. Applications for Deferred and Supplementary examination must be conducted using standard university procedures.</p></dd>",
             "learning_objectives": "L01, L04, L05",
             "mode": "Oral",
             "category": "Examination",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Satisfactory responses to a combination of mandatory and project-specific questions that demonstrate course graduate attributes. Answers must demonstrate good understanding of course material (numerical methods and programming) using the project as a stimulus for discussion. Projects must be awarded a minimum grade of 3 to be eligible for oral examination.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Satisfactory responses to a combination of mandatory and project-specific questions that demonstrate course graduate attributes. Answers must demonstrate good understanding of course material (numerical methods and programming) using the project as a stimulus for discussion. Projects must be awarded a minimum grade of 3 to be eligible for oral assessment.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": null,
