@@ -35,20 +35,7 @@
         {
             "assessment_detail_section_id": "assessment-detail-0",
             "assessment_title": "Pasture selection assignment",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
-                    "special_indicator_text": "Hurdle"
-                },
-                {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
-                },
-                {
-                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
-                    "special_indicator_text": "In-person"
-                }
-            ],
+            "special_indicators": [],
             "weighting": "<dd>25%</dd>",
             "due_date": "<dd><p> 4/09/2026 2:00 pm</p></dd>",
             "learning_objectives": null,
@@ -63,20 +50,7 @@
         {
             "assessment_detail_section_id": "assessment-detail-1",
             "assessment_title": "Sampling assignment",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
-                    "special_indicator_text": "Hurdle"
-                },
-                {
-                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
-                    "special_indicator_text": "Identity Verified"
-                },
-                {
-                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
-                    "special_indicator_text": "In-person"
-                }
-            ],
+            "special_indicators": [],
             "weighting": "<dd>25%</dd>",
             "due_date": "<dd><p> 9/10/2026 2:00 pm</p></dd>",
             "learning_objectives": null,
