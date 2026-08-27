@@ -46,7 +46,7 @@
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
-            "assessment_title": "Quizzes 1, 2 & 3",
+            "assessment_title": "Quizzes 1 & 2",
             "special_indicators": [
                 {
                     "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
@@ -57,12 +57,12 @@
                     "special_indicator_text": "Identity Verified"
                 }
             ],
-            "weighting": "<dd>50% Individual (Hurdle*) </dd>",
-            "due_date": "<dd><p>Quiz 1 - Biocompatibility 19/08/2026 8:00 am</p>\n<p>Quiz 2 - Mechanical Properties 23/09/2026 8:00 am</p>\n<p>Quiz 3 - Families of Biomaterials (Semester 2 2026 Examination Period) </p></dd>",
+            "weighting": "<dd>30% Individual (Hurdle*) </dd>",
+            "due_date": "<dd><p>Quiz 1 - Biocompatibility 19/08/2026 8:00 am</p>\n<p>Quiz 2 - Mechanical Properties 23/09/2026 8:00 am</p></dd>",
             "learning_objectives": "L01, L06, L08",
             "mode": "Written",
             "category": "Quiz",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Quiz 1 - 15%: Biocompatibility</strong> is a core module, with lecture and tutorial material from weeks 2, 3 and 4 to be tested with a Quiz in Week 4. This is an open book, invigilated in-class Quiz. There will be 5 minutes reading time, followed by a 60 minute Quiz.</p>\n<p><strong>Quiz 2 - 15%: Biomaterials mechanical properties </strong>is a core module to be tested with a Quiz in Week 9. This examines content from the Week 6 lecture and tutorial, plus the Mechanical Properties practical demonstration that you attended in one of Weeks 5, 6, 7 or 8 . This is an open book, invigilated in-class Quiz. There will be 5 minutes reading time, followed by a 60 minute Quiz.</p>\n<p><strong>Quiz 3 - 20%: Families of biomaterials (Polymers, Composites, Metals and Ceramics)</strong> is a core module, with lecture and tutorial material from weeks 7, 8, 10 and 11 to be tested with a final School-administered Quiz run during the Exam Period. This is an open book, invigilated Quiz. There will be 10 mins reading time, followed by a 90 minute Quiz.</p>\n<p>These 3 assessment tasks are to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p><strong>Quiz 1 - 15%: Biocompatibility</strong> is a core module, with lecture and tutorial material from weeks 2, 3 and 4 to be tested with a Quiz in Week 4. This is an open book, invigilated in-class Quiz. There will be 5 minutes reading time, followed by a 60 minute Quiz.</p>\n<p><strong>Quiz 2 - 15%: Biomaterials mechanical properties </strong>is a core module to be tested with a Quiz in Week 9. This examines content from the Week 6 lecture and tutorial, plus the Mechanical Properties practical demonstration that you attended in one of Weeks 5, 6, 7 or 8 . This is an open book, invigilated in-class Quiz. There will be 5 minutes reading time, followed by a 60 minute Quiz.</p>\n<p>These assessment tasks are to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>Quizzes 1 &amp; 2 will be run on paper in the classroom.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
@@ -82,7 +82,7 @@
                 }
             ],
             "weighting": "<dd>20% Individual </dd>",
-            "due_date": "<dd><p>Biocompatibility Prac Reports due 4/09/2026 2:00 pm</p>\n<p>Mechanical Properties of Biomaterials Prac Reports due 25/09/2026 2:00 pm</p></dd>",
+            "due_date": "<dd><p>Prac 01: Biocompatibility Prac (4/08/2026) Reports due -  13/08/2026 2:00 pm</p>\n<p>Prac 02: Biocompatibility Prac (11/08/2026) Reports due - 20/08/2026 2:00 pm</p>\n<p>Prac 03: Biocompatibility Prac (18/08/2026) Reports due -  27/08/2026 2:00 pm</p>\n<p>Prac 04: Biocompatibility Prac (26/08/2026) Reports due -  4/09/2026 2:00 pm</p>\n<p>Prac 01: Mechanical Properties of Biomaterials Prac (25/08/2026) Reports due - 3/09/2026 2:00 pm</p>\n<p>Prac 02: Mechanical Properties of Biomaterials Prac (1/09/2026) Reports due -  10/09/2026 2:00 pm</p>\n<p>Prac 03: Mechanical Properties of Biomaterials Prac (08/09/2026) Reports due - 17/09/2026 2:00 pm</p>\n<p>Prac 04: Mechanical Properties of Biomaterials Prac (16/09/2026) Reports due -  25/09/2026 2:00 pm</p></dd>",
             "learning_objectives": "L01, L02, L05, L06",
             "mode": "Activity/ Performance, Written",
             "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
@@ -115,6 +115,34 @@
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Quiz 3: Families of Biomaterials (Polymers, Composites, Metals and Ceramics)",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                },
+                {
+                    "special_indicators_class": "icon--education--bookmarks-document icon-text--small",
+                    "special_indicator_text": "Identity Verified"
+                },
+                {
+                    "special_indicators_class": "icon--how-youll-learn--multiple-circle-1 icon-text--small",
+                    "special_indicator_text": "In-person"
+                }
+            ],
+            "weighting": "<dd>20% Individual (Hurdle*) </dd>",
+            "due_date": "<dd><p>End of Semester Exam Period</p>\n<p>7/11/2026 - 21/11/2026</p></dd>",
+            "learning_objectives": "L01, L06, L08",
+            "mode": "Written",
+            "category": "Examination",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Families of biomaterials (Polymers, Composites, Metals and Ceramics) is a core module, with lecture and tutorial material from weeks 7, 8, 10 and 11 to be tested with a final centrally administered exam run during the Exam Period. This is an open book, invigilated exam. There will be 10 mins reading time, followed by a 90-minute exam. </p>\n<p>These 3 assessment tasks are to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Quiz 3 will be run on paper in the Exam Period.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>",
+            "late_submission": null,
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam#3\">defer this exam</a>.</p>"
         }
     ],
     "learning_activities": [
