@@ -9,7 +9,28 @@
     "class_code": "60760",
     "semester_code": "7660",
     "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply core theoretical macroeconomic models to explain real world macroeconomic phenomena."
+        },
+        {
+            "number": "LO2.",
+            "description": "Show how aggregate macroeconomic activity is shaped by microeconomic behaviour and equilibrium restrictions."
+        },
+        {
+            "number": "LO3.",
+            "description": "Identify key contemporary macroeconomic issues and discuss possible solutions towards improving current policies."
+        },
+        {
+            "number": "LO4.",
+            "description": "Illustrate the trade-offs present in designing fiscal and monetary policy over the short/medium term."
+        },
+        {
+            "number": "LO5.",
+            "description": "Collect, analyse, and interpret macroeconomic data from Australia and the rest of the world."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
