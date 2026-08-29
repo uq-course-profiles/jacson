@@ -9,7 +9,28 @@
     "class_code": "62399",
     "semester_code": "7660",
     "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use their knowledge and expertise to evaluate biomanufacturing technologies and trouble shoot expression technologies."
+        },
+        {
+            "number": "LO2.",
+            "description": "Critically evaluate the environmental, economic, regulatory, and stakeholder considerations involved in new biomanufacturing processes, and synthesise these perspectives to inform evidence-based decision-making."
+        },
+        {
+            "number": "LO3.",
+            "description": "Critically assess the downstream processing requirements for large-scale biological manufacture, justifying the purpose, sequence, and trade-offs of each stage in the context of process efficiency and product quality."
+        },
+        {
+            "number": "LO4.",
+            "description": "Perform and analyse data generated using key analytical techniques critical in the evaluation of biomanufacturing products and procedures."
+        },
+        {
+            "number": "LO5.",
+            "description": "Interpret and apply current Good Manufacturing Practice (cGMP) requirements in biomanufacturing, and critically evaluate complex scenarios and case studies for regulatory compliance and risk."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
