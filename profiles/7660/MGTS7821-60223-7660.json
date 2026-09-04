@@ -86,17 +86,6 @@
     ],
     "learning_activities": [
         {
-            "learning_period": "Not scheduled",
-            "activity_type": "Seminar",
-            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 9 - Monday - 21/09/2026 - Scaling the opportunity</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
-            "topic_title": "<strong>Day 9 - Monday - 21/09/2026 - Scaling the opportunity</strong>",
-            "topic_description": "Day 9 - Monday - 21/09/2026 - Scaling the opportunity",
-            "learning_outcomes": [
-                "L01",
-                "L03"
-            ]
-        },
-        {
             "learning_period": "Week 1",
             "activity_type": "Seminar",
             "topic": "<td data-title=\"Topic\"><div><p><strong>Day 1 - Monday - 27 July/2026 - From ideas to opportunities: The internal perspective</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L02</p></div></td>",
@@ -180,6 +169,17 @@
             "topic": "<td data-title=\"Topic\"><div><p><strong>Day 8 - Monday - 14/09/2026 - From MVP to going to market</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
             "topic_title": "<strong>Day 8 - Monday - 14/09/2026 - From MVP to going to market</strong>",
             "topic_description": "Day 8 - Monday - 14/09/2026 - From MVP to going to market",
+            "learning_outcomes": [
+                "L01",
+                "L03"
+            ]
+        },
+        {
+            "learning_period": "Week 9",
+            "activity_type": "Seminar",
+            "topic": "<td data-title=\"Topic\"><div><p><strong>Day 9 - Monday - 21/09/2026 - Scaling the opportunity</strong><br/></p><p><strong>Learning outcomes:</strong> L01, L03</p></div></td>",
+            "topic_title": "<strong>Day 9 - Monday - 21/09/2026 - Scaling the opportunity</strong>",
+            "topic_description": "Day 9 - Monday - 21/09/2026 - Scaling the opportunity",
             "learning_outcomes": [
                 "L01",
                 "L03"
