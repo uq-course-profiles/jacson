@@ -9,7 +9,32 @@
     "class_code": "22043",
     "semester_code": "7620",
     "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Locate, synthesize, and critically assess contemporary mathematical and statistical research; identify relevant theories, methods, and open problems using advanced bibliographic tools and databases."
+        },
+        {
+            "number": "LO2.",
+            "description": "Formulate precise research questions, select or develop appropriate analytical, computational, or experimental techniques, and generate valid, reproducible results that withstand mathematical and statistical scrutiny."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply advanced mathematical reasoning, statistical inference, and efficient implementation skills (e.g., coding, simulation, numerical methods) to solve complex problems, justify conclusions, and assess limitations."
+        },
+        {
+            "number": "LO4.",
+            "description": "Deliver a well-structured seminar that informs and engages a general mathematical audience, employing clear logic, illustrative examples, and effective data visualisation."
+        },
+        {
+            "number": "LO5.",
+            "description": "Produce a thesis that is coherent, rigorously argued, and appropriately referenced, situating the work within the broader discipline and comparing alternative approaches."
+        },
+        {
+            "number": "LO6.",
+            "description": "Articulate and justify methodological choices and findings in a formal defense; respond thoughtfully to critique, reflect on the project's significance and limitations, and propose meaningful directions for future research."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
