@@ -9,7 +9,28 @@
     "class_code": "62037",
     "semester_code": "7660",
     "semester_details": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Apply rigorous mathematical reasoning, draw conclusions from empirical evidence, and efficiently implement relevant mathematical and statistical techniques."
+        },
+        {
+            "number": "LO2.",
+            "description": "Communication ideas clearly using examples, counterexamples, special cases, graphs, tables, and visualisation techniques where appropriate."
+        },
+        {
+            "number": "LO3.",
+            "description": "Situate findings within the contest of the field’s development, comparing and evaluating alternative approaches."
+        },
+        {
+            "number": "LO4.",
+            "description": "Reference original results accurately, using a consistent and appropriate bibliographic style."
+        },
+        {
+            "number": "LO5.",
+            "description": "Write with clarity, coherence and strong organisational structure in a consistent style."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
