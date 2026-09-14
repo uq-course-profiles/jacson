@@ -86,26 +86,6 @@
         },
         {
             "assessment_detail_section_id": "assessment-detail-2",
-            "assessment_title": "Individual Portfolio",
-            "special_indicators": [
-                {
-                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
-                    "special_indicator_text": "Hurdle"
-                }
-            ],
-            "weighting": "<dd>30% (Individual) </dd>",
-            "due_date": "<dd><p> 23/10/2026 5:00 pm</p></dd>",
-            "learning_objectives": null,
-            "mode": "Written",
-            "category": "Portfolio",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, you will produce an individual portfolio that demonstrates your learning and engagement across the course. Your portfolio must include reflections and supporting evidence connected to guest speakers, your Team FHIR Project, and how the online course <em>“Digital Health on FHIR”</em> influenced your individual project decisions.</p>\n<p>The portfolio must present clear, thoughtful reflections supported by specific examples from your work and course activities. This assessment focuses on the quality of reflection, depth of insight, and use of specific examples to support your learning.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
-            "submission_guidelines": "<p>Submit one electronic file via Turnitin on Blackboard by the deadline that contains your assignment. Your submission must include a completed and signed coversheet at the beginning and be uploaded as a single word-processed document (such as a Word or Pages file). PDF files are accepted, but a Word document is preferred.</p>",
-            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
-            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
-            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
-        },
-        {
-            "assessment_detail_section_id": "assessment-detail-3",
             "assessment_title": "Team Final Demo",
             "special_indicators": [
                 {
@@ -118,14 +98,34 @@
                 }
             ],
             "weighting": "<dd>15% (Team) </dd>",
-            "due_date": "<dd><p> 29/10/2026 2:00 pm</p>\n<p>\n</p><p>Presentation completed in-class</p></dd>",
+            "due_date": "<dd><p> 22/10/2026 2:00 pm</p>\n<p>\n</p><p>Presentation completed in-class</p></dd>",
             "learning_objectives": null,
             "mode": "Oral",
             "category": "Presentation",
-            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Teams will present and demonstrate their completed SMART-on-FHIR application in a live, in-class presentation in Week 13. Attendance is mandatory for all team members. Presentations must be delivered live and will be recorded. This assessment focuses on the clarity of communication, quality of the demonstration, and how effectively your solution is presented to an audience.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>Teams are expected to demonstrate the current state of their SMART-on-FHIR application in a live, in-class presentation in Week 12. Attendance is mandatory for all team members. Presentations must be delivered live and will be recorded. This assessment focuses on the clarity of communication, quality of the demonstration, and how effectively your solution is presented to an audience.</p>\n<p>This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
             "submission_guidelines": "<p>A copy of your slides and presentation script to Blackboard prior to class (see task description for further details). Presentation is delivered in-class.</p>",
             "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
             "late_submission": "<p>You will receive a mark of 0 if this assessment is <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">submitted late</a>.</p>",
+            "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
+        },
+        {
+            "assessment_detail_section_id": "assessment-detail-3",
+            "assessment_title": "Individual Portfolio",
+            "special_indicators": [
+                {
+                    "special_indicators_class": "icon--standard--alert-triangle icon-text--small",
+                    "special_indicator_text": "Hurdle"
+                }
+            ],
+            "weighting": "<dd>30% (Individual) </dd>",
+            "due_date": "<dd><p> 30/10/2026 5:00 pm</p></dd>",
+            "learning_objectives": null,
+            "mode": "Written",
+            "category": "Portfolio",
+            "task_description": "<div class=\"collapsible collapsible--text\">\n<p>In this assessment, you will produce an individual portfolio that demonstrates your learning and engagement across the course. Your portfolio must include reflections and supporting evidence connected to guest speakers, your Team FHIR Project, and how the online course <em>“Digital Health on FHIR”</em> influenced your individual project decisions.</p>\n<p>The portfolio must present clear, thoughtful reflections supported by specific examples from your work and course activities. This assessment focuses on the quality of reflection, depth of insight, and use of specific examples to support your learning.</p>\n<p>This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.</p>\n<button class=\"collapsible__toggle\">\n<span class=\"collapsible__open link--icon icon--standard--arrow-down-1\">Read full task description</span>\n<span class=\"collapsible__close link--icon icon--standard--arrow-up-1\">Hide full task description</span>\n</button>\n</div>",
+            "submission_guidelines": "<p>Submit one electronic file via Turnitin on Blackboard by the deadline that contains your assignment. Your submission must include a completed and signed coversheet at the beginning and be uploaded as a single word-processed document (such as a Word or Pages file). PDF files are accepted, but a Word document is preferred.</p>",
+            "deferral_or_extension": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>",
+            "late_submission": "<p>A <a href=\"https://policies.uq.edu.au/document/view-current.php?id=184\">penalty</a> of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.</p>",
             "additional_info": "<p>You may be able to <a href=\"https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension\">apply for an extension</a>.</p>"
         }
     ],
