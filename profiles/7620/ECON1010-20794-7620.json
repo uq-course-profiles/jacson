@@ -9,7 +9,28 @@
     "class_code": "20794",
     "semester_code": "7620",
     "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Interpret fundamental economic terminology."
+        },
+        {
+            "number": "LO2.",
+            "description": "Identify appropriate economic theory related to real-life contexts."
+        },
+        {
+            "number": "LO3.",
+            "description": "Apply economic theory to analyse rather than simply describe economic behaviour."
+        },
+        {
+            "number": "LO4.",
+            "description": "Evaluate proposed outcomes using economic theory."
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate economic thinking in non-technical, plain language."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
