@@ -9,7 +9,28 @@
     "class_code": "20798",
     "semester_code": "7620",
     "semester_details": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
-    "learning_outcomes": [],
+    "learning_outcomes": [
+        {
+            "number": "LO1.",
+            "description": "Use fundamental statistics terminology."
+        },
+        {
+            "number": "LO2.",
+            "description": "Apply theoretical concepts to construct analytical statistical techniques."
+        },
+        {
+            "number": "LO3.",
+            "description": "Describe the statistical techniques needed to solve particular problem types."
+        },
+        {
+            "number": "LO4.",
+            "description": "Conduct statistical analysis of data so as to draw statistical conclusions."
+        },
+        {
+            "number": "LO5.",
+            "description": "Communicate statistical findings for practical and professional use."
+        }
+    ],
     "assessments": [
         {
             "assessment_detail_section_id": "assessment-detail-0",
